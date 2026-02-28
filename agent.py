@@ -104,6 +104,30 @@ def fetch_tech_news():
     except Exception as e:
         print(f"Failed to fetch news: {e}")
 
+def sync_index():
+    """Ensure the index only contains items that have a corresponding markdown file."""
+    index = load_index()
+    ensure_dirs()
+    
+    clean_index = []
+    removed_count = 0
+    
+    for item in index:
+        slug = item.get('slug')
+        if slug:
+            filepath = os.path.join(NEWS_DIR, f"{slug}.md")
+            if os.path.exists(filepath):
+                clean_index.append(item)
+            else:
+                removed_count += 1
+    
+    if removed_count > 0:
+        save_index(clean_index)
+        print(f"Synced index: Removed {removed_count} orphaned entries.")
+    else:
+        print("Index is already in sync with files.")
+
 if __name__ == "__main__":
     print(f"News Agent started at {datetime.now()}")
     fetch_tech_news()
+    sync_index()
