@@ -44,14 +44,16 @@ def add_news_item(title, description, content, date=None, category="Tech"):
     if any(item['slug'] == slug for item in index):
         return False
 
-    # Save markdown file
+    # Save markdown file with frontmatter
     filepath = os.path.join(NEWS_DIR, f"{slug}.md")
     with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(f"# {title}\n\n")
-        if "![image]" not in content and "http" in content: # Basic image check
-             f.write(f"{content}\n\n")
-        else:
-             f.write(f"{content}\n\n")
+        f.write("---\n")
+        f.write(f"title: \"{title}\"\n")
+        f.write(f"date: \"{date}\"\n")
+        f.write(f"description: \"{description}\"\n")
+        f.write(f"category: \"{category}\"\n")
+        f.write("---\n\n")
+        f.write(f"{content}\n")
     
     # Update index
     item = {
