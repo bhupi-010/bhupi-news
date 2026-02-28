@@ -5,7 +5,7 @@ description: "Slide around obstacles on your way to drift deity status during th
 category: "Tech"
 ---
 
-![Add Drift Tuning to Select New Vehicles Including the Brand New Shitzu Keitora - Rockstar Games](https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o39k8ka94348a9/a475ea10a0bc5978800b461ee3199923f7fba294.jpg)
+![Featured Article Image](https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o39k8ka94348a9/a475ea10a0bc5978800b461ee3199923f7fba294.jpg)
 
 None
 

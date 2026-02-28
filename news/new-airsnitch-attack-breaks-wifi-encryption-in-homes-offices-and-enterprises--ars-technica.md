@@ -5,7 +5,7 @@ description: "That guest network you set up for your neighbors may not be as sec
 category: "Tech"
 ---
 
-![New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises - Ars Technica](https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg)
+![Featured Article Image](https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg)
 
 None
 

@@ -91,7 +91,7 @@ def fetch_tech_news():
                 desc = art['description']
                 content = art.get('content', desc)
                 if art.get('urlToImage'):
-                    content = f"![{title}]({art['urlToImage']})\n\n{content}\n\n[Read full article at source]({art['url']})"
+                    content = f"![Featured Article Image]({art['urlToImage']})\n\n{content}\n\n[Read full article at source]({art['url']})"
                 else:
                     content = f"{content}\n\n[Read full article at source]({art['url']})"
                 

@@ -5,7 +5,7 @@ description: "The new amiibo launch later this year"
 category: "Tech"
 ---
 
-![Resident Evil Requiem Day One Patch And amiibo Release Date Confirmed - Nintendo Life](https://images.nintendolife.com/3a309fcb27072/large.jpg)
+![Featured Article Image](https://images.nintendolife.com/3a309fcb27072/large.jpg)
 
 Image: Capcom
 Resident Evil Requiem is out today on the Switch 2, and if you're planning on jumping in, there's a day one patch.

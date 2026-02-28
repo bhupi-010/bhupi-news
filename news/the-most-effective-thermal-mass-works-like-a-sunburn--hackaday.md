@@ -5,7 +5,7 @@ description: "Way, way back in the days when men wore beards and wide-lapelled s
 category: "Tech"
 ---
 
-![The MOST Effective Thermal Mass Works Like A Sunburn - Hackaday](https://hackaday.com/wp-content/uploads/2026/02/singhvp93-water-heater-491270_1920-e1771458060635.jpg)
+![Featured Article Image](https://hackaday.com/wp-content/uploads/2026/02/singhvp93-water-heater-491270_1920-e1771458060635.jpg)
 
 Way, way back in the days when men wore beards and wide-lapelled suits in exotic colors, only NASA had access to photovoltaics and ‘solar’ meant solar thermal. In those days of appropriate technology… [+2908 chars]
 

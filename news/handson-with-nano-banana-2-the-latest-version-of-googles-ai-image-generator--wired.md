@@ -5,7 +5,7 @@ description: "Google’s latest image model, Nano Banana 2, is a powerful AI pho
 category: "Tech"
 ---
 
-![Hands-On With Nano Banana 2, the Latest Version of Google's AI Image Generator - WIRED](https://media.wired.com/photos/69a070265fd6da9c76c63408/191:100/w_1280,c_limit/Aspect%20Ratio.jpg)
+![Featured Article Image](https://media.wired.com/photos/69a070265fd6da9c76c63408/191:100/w_1280,c_limit/Aspect%20Ratio.jpg)
 
 Google just debuted Nano Banana 2, an updated version of its AI image generator. It combines the abilities of Googles previous release, Nano Banana Prolike text rendering and web searchingwith speedi… [+2879 chars]
 
