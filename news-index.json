@@ -1,5 +1,44 @@
 [
   {
+    "id": "2e8950e699bcf0d8abc4ef3c9ec4c3ec",
+    "title": "Software engineer accidentally gains control of 7,000 robot vacuums, exposing serious security flaw",
+    "slug": "software-engineer-accidentally-gains-control-of-7000-robot-vacuums-exposing-seri",
+    "date": "2026-03-01T04:40:16Z",
+    "description": "A software engineer accidentally accessed 7,000+ robot vacuums across 24 countries due to a security flaw, allowing unauthorized access to live camera feeds, microphones, floor plans and device tracking. The vulnerability was discovered using AI coding tools, lowering the barrier for uncovering security flaws\u2014whether accidentally or maliciously\u2014raising concerns about AI amplifying cyber risks. DJI patched [\u2026]",
+    "category": "AI Tools",
+    "source": "https://www.naturalnews.com/2026-03-01-software-engineer-gains-control-robot-vacuums-exposing-flaw.html",
+    "tags": [
+      "naturalnews.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "42ff6e01bd18a67528311bc6d15c64f9",
+    "title": "Zach Werenski's Olympic gold: A hero's welcome home",
+    "slug": "zach-werenskis-olympic-gold-a-heros-welcome-home",
+    "date": "2026-02-28T18:31:09Z",
+    "description": "Blue Jackets star Zach Werenski reflects on his historic Olympic gold medal win and the emotional welcome home from fans.",
+    "category": "Dev News",
+    "source": "https://www.dispatch.com/story/sports/nhl/columbus-blue-jackets/2026/02/28/zach-werenski-us-hockey-winter-olympics-gold-medal/88903050007/",
+    "tags": [
+      "dispatch.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "0bccb14df33191bf089f071d9aa19059",
+    "title": "Rethinking Emotion: It May Not Be What You Think",
+    "slug": "rethinking-emotion-it-may-not-be-what-you-think",
+    "date": "2026-02-28T18:28:51Z",
+    "description": "Emotions may reflect the brain\u2019s predictions, not just reactions. Change happens when we stay with an experience long enough for the nervous system to update its expectations.",
+    "category": "Frontend",
+    "source": "https://www.psychologytoday.com/us/blog/when-therapy-meets-cultures/202602/rethinking-emotion-it-may-not-be-what-you-think",
+    "tags": [
+      "psychologytoday.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "b5d2098bb8baf41f8fb928934fc38ece",
     "title": "Show HN: Grantex \u2013 Delegated authorization protocol for AI agents",
     "slug": "show-hn-grantex--delegated-authorization-protocol-for-ai-agents",
