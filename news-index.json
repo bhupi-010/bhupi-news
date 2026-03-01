@@ -1,5 +1,44 @@
 [
   {
+    "id": "b5d2098bb8baf41f8fb928934fc38ece",
+    "title": "Show HN: Grantex \u2013 Delegated authorization protocol for AI agents",
+    "slug": "show-hn-grantex--delegated-authorization-protocol-for-ai-agents",
+    "date": "2026-02-28T12:38:30Z",
+    "description": "grantex is the identity, authorization, and audit infrastructure for AI agents \u2014 the &quot;OAuth moment&quot; for the agentic internet. We provide a universal SDK and cloud service that lets any AI...",
+    "category": "AI Tools",
+    "source": "https://github.com/mishrasanjeev/grantex",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "7f5d122ace3386b43cce1bfcaa26491b",
+    "title": "When Community Becomes UI: Building the Website for the First Three.js Conference",
+    "slug": "when-community-becomes-ui-building-the-website-for-the-first-threejs-conference",
+    "date": "2026-02-28T12:24:19Z",
+    "description": "How Makio64 & Herv\u00e9 Studio designed threejs.paris, the website of the very first Three.js conference, to make every visitor part of the show!",
+    "category": "Dev News",
+    "source": "https://tympanus.net/codrops/2026/02/28/when-community-becomes-ui-building-the-website-for-the-first-three-js-conference/",
+    "tags": [
+      "tympanus.net",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2e7c9f3632170b0da8e082da4c8bbf13",
+    "title": "Is Iran's President Pezeshkian safe? Reports emerge amidst US-Israeli attacks",
+    "slug": "is-irans-president-pezeshkian-safe-reports-emerge-amidst-usisraeli-attacks",
+    "date": "2026-02-28T12:09:24Z",
+    "description": "Iran's President Pezeshkian is reported safe following US-Israeli strikes across the nation. Explosions were heard near Tehran and other cities, with cyberattacks also reported. The US claims \"major combat operations\" aim to eliminate threats, while Iran vows\u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/international/us/is-irans-president-pezeshkian-safe-reports-emerge-amidst-us-israeli-attacks/articleshow/128884638.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "30d197ed6f9da457f3a92c0e1f691c5c",
     "title": "Show HN: FeatureDrop \u2013 Open-source product adoption toolkit",
     "slug": "show-hn-featuredrop--opensource-product-adoption-toolkit",
