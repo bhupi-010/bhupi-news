@@ -132,13 +132,13 @@ def add_news_item(title, description, content, source_url, date=None, category="
     filepath = os.path.join(NEWS_DIR, f"{slug}.md")
     with open(filepath, "w", encoding="utf-8") as f:
         f.write("---\n")
-        f.write(f'title: "{title}"\n')
-        f.write(f'date: "{date}"\n')
-        f.write(f'description: "{description}"\n')
-        f.write(f'category: "{category}"\n')
-        f.write(f'source: "{source_url}"\n')
+        f.write(f'title: {json.dumps(title)}\n')
+        f.write(f'date: {json.dumps(date)}\n')
+        f.write(f'description: {json.dumps(description)}\n')
+        f.write(f'category: {json.dumps(category)}\n')
+        f.write(f'source: {json.dumps(source_url)}\n')
         if tags:
-            f.write(f"tags: {tags}\n")
+            f.write(f"tags: {json.dumps(tags)}\n")
         f.write("---\n\n")
         f.write(content + "\n")
 
