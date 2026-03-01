@@ -1,100 +1,41 @@
 [
   {
-    "title": "Resident Evil Requiem Day One Patch And amiibo Release Date Confirmed - Nintendo Life",
-    "slug": "resident-evil-requiem-day-one-patch-and-amiibo-release-date-confirmed--nintendo-life",
-    "date": "2026-02-27",
-    "description": "The new amiibo launch later this year",
-    "category": "Tech"
+    "id": "30d197ed6f9da457f3a92c0e1f691c5c",
+    "title": "Show HN: FeatureDrop \u2013 Open-source product adoption toolkit",
+    "slug": "show-hn-featuredrop--opensource-product-adoption-toolkit",
+    "date": "2026-02-28T07:21:39Z",
+    "description": "Free, open-source React toolkit. Ship changelogs, tours, checklists, hotspots, and feedback widgets from your own codebase. No SaaS fees. < 3 kB core.",
+    "category": "Frontend",
+    "source": "https://featuredrop.dev",
+    "tags": [
+      "featuredrop.dev",
+      "frontend"
+    ]
   },
   {
-    "title": "Hands-On With Nano Banana 2, the Latest Version of Google's AI Image Generator - WIRED",
-    "slug": "handson-with-nano-banana-2-the-latest-version-of-googles-ai-image-generator--wired",
-    "date": "2026-02-27",
-    "description": "Google\u2019s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
-    "category": "Tech"
+    "id": "d9d5b5a610de525cfd7b0d6a787fdb96",
+    "title": "Do birds break their necks when they hit windows?",
+    "slug": "do-birds-break-their-necks-when-they-hit-windows",
+    "date": "2026-02-28T06:27:46Z",
+    "description": "Do Birds Break Their Necks When They Hit Windows? A Deep Dive While the impact can certainly be fatal, birds do not always break their necks when colliding with windows; they often suffer other, equally devastating internal injuries or trauma that lead to dea\u2026",
+    "category": "AI Tools",
+    "source": "https://www.lifesciencesworld.com/do-birds-break-their-necks-when-they-hit-windows/",
+    "tags": [
+      "lifesciencesworld.com",
+      "ai-tools"
+    ]
   },
   {
-    "title": "Android 17 Beta 2 brings a pop-out windowed mode to all apps with \u2018bubbles\u2019 - 9to5Google",
-    "slug": "android-17-beta-2-brings-a-popout-windowed-mode-to-all-apps-with-bubbles--9to5google",
-    "date": "2026-02-26",
-    "description": "Android 17 Beta 2 fell into our laps today, and unlike Google\u2019s first build, this one is chock full of...",
-    "category": "Tech"
-  },
-  {
-    "title": "NASA lost a lunar spacecraft one day after launch. A new report details what went wrong - NPR",
-    "slug": "nasa-lost-a-lunar-spacecraft-one-day-after-launch-a-new-report-details-what-went-wrong--npr",
-    "date": "2026-02-26",
-    "description": "Why did a $72 million mission to study water on the moon fail so soon after launch? A new NASA report has the answer.",
-    "category": "Tech"
-  },
-  {
-    "title": "NVIDIA \u201cunlaunches\u201d its GeForce 595.59 driver after reports of fan and clock issues - VideoCardz.com",
-    "slug": "nvidia-unlaunches-its-geforce-59559-driver-after-reports-of-fan-and-clock-issues--videocardzcom",
-    "date": "2026-02-26",
-    "description": "NVIDIA unreleases its latest Game Ready drivers We just noted on X/Twitter that, for the first time in a long time, all three major GPU vendors released a",
-    "category": "Tech"
-  },
-  {
-    "title": "Stardew Valley is celebrating being one third the age of Pok\u00e9mon with a video looking at its highly anticipated next update - Eurogamer",
-    "slug": "stardew-valley-is-celebrating-being-one-third-the-age-of-pok\u00e9mon-with-a-video-looking-at-its-highly-anticipated-next-update--eurogamer",
-    "date": "2026-02-26",
-    "description": "Stardew Valley is celebrating its 10th anniversary with a special video featuring a look at its next major update.",
-    "category": "Tech"
-  },
-  {
-    "title": "Add Drift Tuning to Select New Vehicles Including the Brand New Shitzu Keitora - Rockstar Games",
-    "slug": "add-drift-tuning-to-select-new-vehicles-including-the-brand-new-shitzu-keitora--rockstar-games",
-    "date": "2026-02-26",
-    "description": "Slide around obstacles on your way to drift deity status during this week\u2019s Drift Event in GTA Online with a collection of new vehicles now eligible for Drift Tuning upgrades, a triple boost on GTA$ and RP for competing in Drift Races, free vehicles,...",
-    "category": "Tech"
-  },
-  {
-    "title": "iRacing Development Update: February 2026 - iRacing",
-    "slug": "iracing-development-update-february-2026--iracing",
-    "date": "2026-02-26",
-    "description": "Hello iRacers, The first few months of the year are an incredible time to be a motorsport fan. With real-world series deep into preseason testing or waving their first green flags, we get that first look at the new cars, technologies, and regulations that wil\u2026",
-    "category": "Tech"
-  },
-  {
-    "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises - Ars Technica",
-    "slug": "new-airsnitch-attack-breaks-wifi-encryption-in-homes-offices-and-enterprises--ars-technica",
-    "date": "2026-02-26",
-    "description": "That guest network you set up for your neighbors may not be as secure as you think.",
-    "category": "Tech"
-  },
-  {
-    "title": "Before You Buy Pok\u00e9mon FireRed Or LeafGreen , Check The Version-Exclusive Monsters - Kotaku",
-    "slug": "before-you-buy-pok\u00e9mon-firered-or-leafgreen--check-the-versionexclusive-monsters--kotaku",
-    "date": "2026-02-26",
-    "description": "If you\u2019re jumping into the remakes for the first time, here\u2019s the monsters you can only catch in one game",
-    "category": "Tech"
-  },
-  {
-    "title": "11 \u2018Marathon\u2019 Server Slam Tips From The Game Director Himself - Forbes",
-    "slug": "11-marathon-server-slam-tips-from-the-game-director-himself--forbes",
-    "date": "2026-02-26",
-    "description": "Marathon's server slam is about to go live, and if you want to succeed, you may want to listen to the game director's tips.",
-    "category": "Tech"
-  },
-  {
-    "title": "How to get Galaxy Buds 4 Pro for FREE during Galaxy S26 pre-order week - 9to5Toys",
-    "slug": "how-to-get-galaxy-buds-4-pro-for-free-during-galaxy-s26-preorder-week--9to5toys",
-    "date": "2026-02-26",
-    "description": "The gigantic pre-order deals on new Galaxy S26, Galaxy S26+, and Galaxy S26 Ultra are officially underway. You can indeed...",
-    "category": "Tech"
-  },
-  {
-    "title": "The MOST Effective Thermal Mass Works Like A Sunburn - Hackaday",
-    "slug": "the-most-effective-thermal-mass-works-like-a-sunburn--hackaday",
-    "date": "2026-02-26",
-    "description": "Way, way back in the days when men wore beards and wide-lapelled suits in exotic colors, only NASA had access to photovoltaics and \u2018solar\u2019 meant solar thermal. In those days of appropri\u2026",
-    "category": "Tech"
-  },
-  {
-    "title": "Google details MCP-like \u2018AppFunctions\u2019 that let Gemini use Android apps - 9to5Google",
-    "slug": "google-details-mcplike-appfunctions-that-let-gemini-use-android-apps--9to5google",
-    "date": "2026-02-26",
-    "description": "Following the Gemini automation announcement today, Google is detailing how all this works under the hood on Android.",
-    "category": "Tech"
+    "id": "0666b37869edfe6e3c06026df3c02e86",
+    "title": "Show HN: Visual Lambda Calculus \u2013 a thesis project (2008) revived for the web",
+    "slug": "show-hn-visual-lambda-calculus--a-thesis-project-2008-revived-for-the-web",
+    "date": "2026-02-28T06:04:05Z",
+    "description": "Originally built as my master's thesis in 2008, Visual Lambda is a graphical environment where lambda terms are manipulated as draggable 2D structures (\"Bubble Notation\"), and beta-reduction is smoothly animated.I recently revived and cleaned up the project a\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/bntre/visual-lambda",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
   }
 ]
