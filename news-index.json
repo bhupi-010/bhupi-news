@@ -1,5 +1,44 @@
 [
   {
+    "id": "8b2daf744cb7f72d66dec54bae050f07",
+    "title": "Show HN: I built a zero-browser, pure-JS typesetting engine for bit-perfect PDFs",
+    "slug": "show-hn-i-built-a-zerobrowser-purejs-typesetting-engine-for-bitperfect-pdfs",
+    "date": "2026-03-01T12:25:11Z",
+    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime\u2014from Cloudflare Workers to the browser. Stop using Headless Chrome to print text. - cosmiciron/vm...",
+    "category": "Dev News",
+    "source": "https://github.com/cosmiciron/vmprint",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "32bd49f73eec573a575afcdb077270c8",
+    "title": "Air Pollution Is Wreaking Havoc on Ants, And The Effects Are Alarming",
+    "slug": "air-pollution-is-wreaking-havoc-on-ants-and-the-effects-are-alarming",
+    "date": "2026-03-01T12:00:22Z",
+    "description": "Scent is essential to ant society: every ant within a colony wears the badge of membership in the form of smelly hydrocarbons.",
+    "category": "AI Tools",
+    "source": "https://www.sciencealert.com/air-pollution-is-wreaking-havoc-on-ants-and-the-effects-are-alarming",
+    "tags": [
+      "sciencealert.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "c306ee2207917178b8271ee4bb43a818",
+    "title": "03/01/2026",
+    "slug": "03012026",
+    "date": "2026-03-01T12:00:00Z",
+    "description": "(Toady One) A \n\nreport\n\n for this month. Here is the \n\nFuture of the Fortress reply.",
+    "category": "Dev News",
+    "source": "http://www.bay12games.com/dwarves/index.html#2026-03-01",
+    "tags": [
+      "bay12games.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "ca2f9e53eeb563b3bee7c0ed0e2d5244",
     "title": "IIM Mumbai 2024\u201326 final placements see top domestic package of Rs 71.4 lakh, top half average Rs 34.5 lakh",
     "slug": "iim-mumbai-202426-final-placements-see-top-domestic-package-of-rs-714-lakh-top-h",
