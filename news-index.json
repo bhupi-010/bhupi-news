@@ -1,5 +1,44 @@
 [
   {
+    "id": "e08ea510e66ca82151068042b5c6fcfa",
+    "title": "Show HN: Business in a Box \u2013 ~one-shot a typical startup",
+    "slug": "show-hn-business-in-a-box--oneshot-a-typical-startup",
+    "date": "2026-03-01T18:54:23Z",
+    "description": "I wanted to see how close I could get Claude to ~one-shot a typical startup while allowing for high-signal user input. I ended up with two Claude commands that handle the heavy lifting. Optimized for token efficiency, time (parallelization), surviving context\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/dylandrop/business-in-a-box",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "16dbf72a7d625cae46bb01ce431020e4",
+    "title": "Jasprit Bumrah\u2019s 12th over was the turning point that no scorecard will ever fully show",
+    "slug": "jasprit-bumrahs-12th-over-was-the-turning-point-that-no-scorecard-will-ever-full",
+    "date": "2026-03-01T18:52:18Z",
+    "description": "The pacer's twin strikes in that over of Shimron Hetmyer and Roston Chase is what stopped India from chasing a total in excess of 200 to 196 at Eden Gardens in the T20 World Cup Super 8 cmash",
+    "category": "Dev News",
+    "source": "https://indianexpress.com/article/sports/cricket/jasprit-bumrah-12th-over-india-vs-west-indies-turning-point-10560018/",
+    "tags": [
+      "indianexpress.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "369882aa4268bc1ae411dcda12fa5578",
+    "title": "Show HN: Open-source MCP server for AI podcast clipping",
+    "slug": "show-hn-opensource-mcp-server-for-ai-podcast-clipping",
+    "date": "2026-03-01T18:48:20Z",
+    "description": "Hello,I just build this new tool to analyze transcripts and make podcast clipping effortless for socials like TikTok, Instagram Reels and Youtube Shorts.This is open and free to use, i would love to get suggestions of how to make it better since it's my first\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/nmbrthirteen/podcli",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "8b2daf744cb7f72d66dec54bae050f07",
     "title": "Show HN: I built a zero-browser, pure-JS typesetting engine for bit-perfect PDFs",
     "slug": "show-hn-i-built-a-zerobrowser-purejs-typesetting-engine-for-bitperfect-pdfs",
