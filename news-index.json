@@ -1,5 +1,44 @@
 [
   {
+    "id": "9cf5375b0bffe5a6887158ad46fa39a0",
+    "title": "Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow on Amazon SageMaker AI",
+    "slug": "build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-manag",
+    "date": "2026-03-02T18:51:43Z",
+    "description": "This post explores how to build an intelligent conversational agent using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI.",
+    "category": "AI Tools",
+    "source": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/",
+    "tags": [
+      "aws.amazon.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "5f427c05eb5a41f240a922b9664cd23a",
+    "title": "Your Horoscope for the Full Moon Eclipse in Virgo",
+    "slug": "your-horoscope-for-the-full-moon-eclipse-in-virgo",
+    "date": "2026-03-02T18:37:01Z",
+    "description": "The Full Moon Eclipse\u2014also called the Worm Blood Moon\u2014is happening on March 3 at 6:36 a.m. ET. Read how it will impact your zodiac sign here.",
+    "category": "Dev News",
+    "source": "https://www.cosmopolitan.com/lifestyle/a70574192/full-moon-eclipse-in-virgo-march-2026/",
+    "tags": [
+      "cosmopolitan.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "390ad3e3aeffc6b39c373c93c98e36f4",
+    "title": "All 11 Confirmed Horror Movie Parodies in Scary Movie 6 (So Far), Ranked by How Excited We Are for Them",
+    "slug": "all-11-confirmed-horror-movie-parodies-in-scary-movie-6-so-far-ranked-by-how-exc",
+    "date": "2026-03-02T18:36:31Z",
+    "description": "The full trailer for Scary Movie 6 has finally arrived online, and in the best way possible, it was revealed to the world alongside Scream 7. When the new film arrives this summer, it will mark the first movie in the \u201cScary Movie\u201d parody series in thirteen ye\u2026",
+    "category": "AI Tools",
+    "source": "http://comicbook.com/movies/list/all-11-confirmed-horror-movie-parodies-in-scary-movie-6-so-far-ranked-by-how-excited-we-are-for-them/",
+    "tags": [
+      "comicbook.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "bab6f6e73cb2cfcb11c706b32becc45d",
     "title": "How Hawk-Eye and Tracking Data Influence Modern Tennis Betting",
     "slug": "how-hawkeye-and-tracking-data-influence-modern-tennis-betting",
