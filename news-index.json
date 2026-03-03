@@ -1,5 +1,44 @@
 [
   {
+    "id": "9a03704b83f5b4cdef1acf5805b6cb09",
+    "title": "Sloane Stephens reveals Indian Wells kit",
+    "slug": "sloane-stephens-reveals-indian-wells-kit",
+    "date": "2026-03-02T01:42:12Z",
+    "description": "2017 US Open champion Sloane Stephens is preparing for Indian Wells, also known as the BNP Paribas Open and Tennis Paradise beginning on March 4. She was awarded a main draw wildcard to compete in the event. Stephens, who will\u2026",
+    "category": "AI Tools",
+    "source": "https://www.thebiglead.com/sloane-stephens-reveals-indian-wells-kit/",
+    "tags": [
+      "thebiglead.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "d586f2656dfed8fd970cb98551875e64",
+    "title": "Show HN: BeatCanvas \u2013 A browser-based demoscene visualizer for SoundCloud",
+    "slug": "show-hn-beatcanvas--a-browserbased-demoscene-visualizer-for-soundcloud",
+    "date": "2026-03-02T01:15:30Z",
+    "description": "Make videos for your SoundCloud tracks in minutes. Paste a link, pick audio-reactive visuals, and export for TikTok, Instagram Reels, and YouTube. Free.",
+    "category": "Frontend",
+    "source": "https://beatcanvas.net/",
+    "tags": [
+      "beatcanvas.net",
+      "frontend"
+    ]
+  },
+  {
+    "id": "aa36c6c01052cbc67baee90b64abdea0",
+    "title": "flask-headless-auth 0.1.9",
+    "slug": "flaskheadlessauth-019",
+    "date": "2026-03-02T00:51:18Z",
+    "description": " Production-ready Flask auth in one line. 20+ routes (JWT, OAuth, MFA, RBAC) instantly. Works with React/Next.js/Vue. Self-hosted, secure by default. Free Auth0/Clerk alternative ($3,600/year saved). Perfect for SPAs.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/flask-headless-auth/0.1.9/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
     "id": "e08ea510e66ca82151068042b5c6fcfa",
     "title": "Show HN: Business in a Box \u2013 ~one-shot a typical startup",
     "slug": "show-hn-business-in-a-box--oneshot-a-typical-startup",
