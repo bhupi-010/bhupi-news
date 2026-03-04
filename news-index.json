@@ -1,5 +1,44 @@
 [
   {
+    "id": "dcf501dbcd5b082c0ff7a9746b794ac1",
+    "title": "90 Day: The Single Life Got Into Kim's Love Life, But I'm Not Ready To Move On From Other Bombshells",
+    "slug": "90-day-the-single-life-got-into-kims-love-life-but-im-not-ready-to-move-on-from-",
+    "date": "2026-03-03T02:10:48Z",
+    "description": "I can't move on.",
+    "category": "Dev News",
+    "source": "https://www.cinemablend.com/television/90-day-the-single-life-got-into-kims-love-life-other-bombshells",
+    "tags": [
+      "cinemablend.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "57cd3b348604d7fc214bfc024156a70c",
+    "title": "Rare Form of Dementia Causes Man to Fall in Love With One Sound",
+    "slug": "rare-form-of-dementia-causes-man-to-fall-in-love-with-one-sound",
+    "date": "2026-03-03T02:04:07Z",
+    "description": "When people hear the word dementia, they often think of someone who has problems with memory.",
+    "category": "Dev News",
+    "source": "https://www.sciencealert.com/rare-form-of-dementia-causes-man-to-fall-in-love-with-one-sound",
+    "tags": [
+      "sciencealert.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "69f80c35adcb676318ecf6e99cbc2cc4",
+    "title": "Hochul Blinks When It Comes to Climate Act Costs",
+    "slug": "hochul-blinks-when-it-comes-to-climate-act-costs",
+    "date": "2026-03-03T02:00:00Z",
+    "description": "It is encouraging that the Hochul Administration is finally acknowledging that the Climate Act is unaffordable, but disappointing that other politicians do not.\u00a0 More importantly, this does not seem to suggest that Hochul recognizes the whole law is never goi\u2026",
+    "category": "Dev News",
+    "source": "https://wattsupwiththat.com/2026/03/02/hochul-blinks-when-it-comes-to-climate-act-costs/",
+    "tags": [
+      "wattsupwiththat.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "9cf5375b0bffe5a6887158ad46fa39a0",
     "title": "Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow on Amazon SageMaker AI",
     "slug": "build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-manag",
