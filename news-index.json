@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "c781c393100dc86656e17aae30422126",
+    "title": "Show HN: Core Rth. A governed AI kernel for engineers who don't trust their LLMs",
+    "slug": "show-hn-core-rth-a-governed-ai-kernel-for-engineers-who-dont-trust-their-llms",
+    "date": "2026-03-03T13:03:02Z",
+    "description": "Hey HN,I spent the last 20 years building enterprise software and cybersecurity tools. Last year I started using AI agents for real work \u2014 and got terrified. Every tool I tried would happily `rm -rf /` if you phrased it right. One popular agent literally trie\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/rthgit/CORE-RTH",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "18a4128a1e74cf192fac684a7b1cd72f",
+    "title": "10 Agentic AI Concepts Explained in Under 10 Minutes",
+    "slug": "10-agentic-ai-concepts-explained-in-under-10-minutes",
+    "date": "2026-03-03T13:00:30Z",
+    "description": "An AI agent combines a large language model for reasoning, access to tools or APIs for action, memory to retain context and a control loop to decide what happens next.",
+    "category": "AI Tools",
+    "source": "https://www.kdnuggets.com/10-agentic-ai-concepts-explained-in-under-10-minutes",
+    "tags": [
+      "kdnuggets.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "6d290cf23139e4a3126e01e3dce5108c",
+    "title": "Show HN: My API was leaking its full database schema. I found out by accident",
+    "slug": "show-hn-my-api-was-leaking-its-full-database-schema-i-found-out-by-accident",
+    "date": "2026-03-03T12:58:32Z",
+    "description": "Article URL: https://github.com/brakit-ai/brakit\nComments URL: https://news.ycombinator.com/item?id=47231621\nPoints: 1\n# Comments: 1",
+    "category": "AI Tools",
+    "source": "https://github.com/brakit-ai/brakit",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "8bfecba625ef82f49b7edb1de21e3343",
     "title": "Can a hermit crab eat strawberries?",
     "slug": "can-a-hermit-crab-eat-strawberries",
