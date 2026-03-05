@@ -1,5 +1,44 @@
 [
   {
+    "id": "206ef91172feb39bf41f3532c0bfac89",
+    "title": "AI 'vibe-coded' war dashboards are flooding social media",
+    "slug": "ai-vibecoded-war-dashboards-are-flooding-social-media",
+    "date": "2026-03-04T15:20:43Z",
+    "description": "Developers are vibe-coding tools to track the Iran conflict in real time, though some question whether the dashboards offer insight or just spectacle.",
+    "category": "AI Tools",
+    "source": "https://www.fastcompany.com/91502098/ai-vibe-coded-war-dashboards-iran",
+    "tags": [
+      "fastcompany.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "83aebf5e17b4dd5b47c04e6b817adc0c",
+    "title": "Show HN: Cloudwright \u2013 validate, cost, and export cloud architectures from text",
+    "slug": "show-hn-cloudwright--validate-cost-and-export-cloud-architectures-from-text",
+    "date": "2026-03-04T06:57:21Z",
+    "description": "Most AI dev tools focus on code. Cloudwright focuses on the design phase \u2014 the gap where engineers currently use spreadsheets, ad-hoc Terraform, and tribal knowledge.You describe an architecture in plain English. It produces a structured YAML spec (ArchSpec),\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/xmpuspus/cloudwright",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "08859c1df55a8a41a47e80373b620398",
+    "title": "Regime Change in the Iran War, But Which One?",
+    "slug": "regime-change-in-the-iran-war-but-which-one",
+    "date": "2026-03-04T06:52:27Z",
+    "description": "Last June 2025 Trump bombed Iran. He said to eliminate Iran\u2019s alleged nuclear weapons development. He then proclaimed he had achieved that goal. So what then is the War about now? What\u2019s the US strategic objective? The endgame? In the midst of the recent Epst\u2026",
+    "category": "AI Tools",
+    "source": "https://www.counterpunch.org/2026/03/04/regime-change-in-the-iran-war-but-which-one/",
+    "tags": [
+      "counterpunch.org",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "05b48b681b62a7d79212314fae1c39b4",
     "title": "What should you do if you hit a bird?",
     "slug": "what-should-you-do-if-you-hit-a-bird",
