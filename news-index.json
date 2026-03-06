@@ -1,5 +1,44 @@
 [
   {
+    "id": "191eb586d553753863b94aa17294e6ac",
+    "title": "How Does Agent Script Give Admins More Control?",
+    "slug": "how-does-agent-script-give-admins-more-control",
+    "date": "2026-03-05T13:00:04Z",
+    "description": "Today on the Salesforce Admins Podcast, we talk to Joshua Birk, Senior Director of Admin Evangelism at Salesforce. Join us as we chat about how to get started with Agent Script and how it helps admins build better AI agents. You should subscribe for the full \u2026",
+    "category": "AI Tools",
+    "source": "https://admin.salesforce.com/blog/2026/how-does-agent-script-give-admins-more-control-podcast",
+    "tags": [
+      "admin.salesforce.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "50b67c4f91fcf1543b8c572e566ac1fd",
+    "title": "How to build UI using GPT-5.2 + Custom Design Systems \u2013 Use UXPin Merge!",
+    "slug": "how-to-build-ui-using-gpt52--custom-design-systems--use-uxpin-merge",
+    "date": "2026-03-05T12:55:16Z",
+    "description": "Use GPT-5.2 with UXPin Merge to generate production-ready React components from your design system, speed prototyping, and export clean JSX for development.\nThe post How to build UI using GPT-5.2 + Custom Design Systems \u2013 Use UXPin Merge! appeared first on St\u2026",
+    "category": "Frontend",
+    "source": "https://www.uxpin.com/studio/blog/build-ui-gpt-5-2-custom-design-systems-uxpin-merge/",
+    "tags": [
+      "uxpin.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "ff9e4652070834bb10245721ac6ea4a5",
+    "title": "Aaron Rodgers: There have been no \"progressive conversations\" with the Steelers",
+    "slug": "aaron-rodgers-there-have-been-no-progressive-conversations-with-the-steelers",
+    "date": "2026-03-05T12:44:27Z",
+    "description": "In a Wednesday appearance with Pat McAfee, quarterback Aaron Rodgers made it clear that he hasn't decided whether he'll play in 2026.",
+    "category": "Dev News",
+    "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-there-have-been-no-progressive-conversations-with-the-steelers",
+    "tags": [
+      "nbcsports.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "2591b9146c5f5a645690671eedef4017",
     "title": "Canucks Comeback Falls Just Short In 6-4 Loss To The Hurricanes",
     "slug": "canucks-comeback-falls-just-short-in-64-loss-to-the-hurricanes",
