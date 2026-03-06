@@ -1,5 +1,44 @@
 [
   {
+    "id": "4a7ae30be39f27467dd6c3964a915a55",
+    "title": "Show HN: MCPHound MCP servers together, create attack paths solo scanners miss",
+    "slug": "show-hn-mcphound-mcp-servers-together-create-attack-paths-solo-scanners-miss",
+    "date": "2026-03-05T02:15:41Z",
+    "description": "The most comprehensive MCP security scanner \u2014 attack paths, tool poisoning, typosquats, CVEs, trust scores, rug-pull detection - tayler-id/mcphound",
+    "category": "Dev News",
+    "source": "https://github.com/tayler-id/mcphound",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7f2d4a6c2b93cc948e938a77134880ee",
+    "title": "Why Behaviour Change Is So Hard to Do",
+    "slug": "why-behaviour-change-is-so-hard-to-do",
+    "date": "2026-03-05T00:39:57Z",
+    "description": "You're not failing at behavior change because you're weak. You're navigating invisible reinforcement patterns. Here's how to shift the balance.",
+    "category": "AI Tools",
+    "source": "https://www.psychologytoday.com/us/blog/its-not-you-its-the-world/202603/why-behaviour-change-is-so-hard-to-do",
+    "tags": [
+      "psychologytoday.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "2550a1853f9ee06a36fb1a954b15c061",
+    "title": "Sophie Cunningham tests a new arena as WNBA future remains uncertain",
+    "slug": "sophie-cunningham-tests-a-new-arena-as-wnba-future-remains-uncertain",
+    "date": "2026-03-05T00:28:58Z",
+    "description": "Sophie Cunningham spent part of her offseason somewhere she rarely stands during the year: behind a microphone.\n\nThe Indiana Fever guard recently stepped into a commentary role for",
+    "category": "AI Tools",
+    "source": "https://www.marca.com/en/basketball/wnba/indiana-fever/2026/03/05/69a8ce3ee2704e15078b45b1.html",
+    "tags": [
+      "marca.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "56034755589bd2fb45ec5261096f7647",
     "title": "Patrick Mahomes, Chiefs Players React To Trent McDuffie Trade",
     "slug": "patrick-mahomes-chiefs-players-react-to-trent-mcduffie-trade",
