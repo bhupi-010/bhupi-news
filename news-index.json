@@ -1,5 +1,44 @@
 [
   {
+    "id": "2591b9146c5f5a645690671eedef4017",
+    "title": "Canucks Comeback Falls Just Short In 6-4 Loss To The Hurricanes",
+    "slug": "canucks-comeback-falls-just-short-in-64-loss-to-the-hurricanes",
+    "date": "2026-03-05T06:27:48Z",
+    "description": "The Vancouver Canucks lost 6-4 to the Carolina Hurricanes on Wednesday night.",
+    "category": "Dev News",
+    "source": "https://thehockeynews.com/nhl/vancouver-canucks/game-day/canucks-comeback-falls-just-short-in-6-4-loss-to-the-hurricanes",
+    "tags": [
+      "thehockeynews.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6f9673d206e089eb6941cf533a73a6f9",
+    "title": "Emmanuel Macron spelled out a pivot in France's nuclear strategy. Here's why it's so significant",
+    "slug": "emmanuel-macron-spelled-out-a-pivot-in-frances-nuclear-strategy-heres-why-its-so",
+    "date": "2026-03-05T06:13:24Z",
+    "description": "The French president spelled out a new doctrine of 'forward deterrence' for France. Here's",
+    "category": "Dev News",
+    "source": "https://www.cnbc.com/2026/03/05/-france-nuclear-deterrence-strategy-macron.html",
+    "tags": [
+      "cnbc.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "34333e8933c73c8a1e6ac854380cd663",
+    "title": "How do birds react to pain?",
+    "slug": "how-do-birds-react-to-pain",
+    "date": "2026-03-05T05:45:22Z",
+    "description": "How Do Birds React to Pain? Unveiling Avian Pain Perception Birds do experience pain, though their reactions may differ from mammals; they possess the necessary neural structures and physiological responses to register and respond to noxious stimuli. The expr\u2026",
+    "category": "Frontend",
+    "source": "https://www.lifesciencesworld.com/how-do-birds-react-to-pain/",
+    "tags": [
+      "lifesciencesworld.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "4a7ae30be39f27467dd6c3964a915a55",
     "title": "Show HN: MCPHound MCP servers together, create attack paths solo scanners miss",
     "slug": "show-hn-mcphound-mcp-servers-together-create-attack-paths-solo-scanners-miss",
