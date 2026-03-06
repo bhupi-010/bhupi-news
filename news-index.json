@@ -1,5 +1,44 @@
 [
   {
+    "id": "2810c1364d6125be61346eac2117bd2d",
+    "title": "Is Nuggets\u2019 Nikola Jokic too worried about refs? David Adelman: \u2018Nobody\u2019s being guarded like him\u2019",
+    "slug": "is-nuggets-nikola-jokic-too-worried-about-refs-david-adelman-nobodys-being-guard",
+    "date": "2026-03-05T18:45:26Z",
+    "description": "Four months in, Nikola Jokic's personal goal for this season is going about as well as most New Year's Resolutions.",
+    "category": "Dev News",
+    "source": "https://www.denverpost.com/2026/03/05/nikola-jokic-complaining-refs-david-adelman/",
+    "tags": [
+      "denverpost.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "b7fcedc485c74a2aa6e3f2518c70a67c",
+    "title": "OpenAI is upgrading its professional AI model to ChatGPT-5.4",
+    "slug": "openai-is-upgrading-its-professional-ai-model-to-chatgpt54",
+    "date": "2026-03-05T18:39:01Z",
+    "description": "Following an update to how ChatGPT models react to users, OpenAI is rolling out an even newer version to cater to complex problems with ChatGPT-5.4.\n\n\n\n more\u2026",
+    "category": "Frontend",
+    "source": "http://9to5google.com/2026/03/05/openai-launches-chatgpt-5-4/",
+    "tags": [
+      "9to5google.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "3b7bca26f4788f12a6d9f2ccfb8dfa33",
+    "title": "The Anthropic\u2013OpenAI feud and their Pentagon dispute expose a deeper problem with AI safety",
+    "slug": "the-anthropicopenai-feud-and-their-pentagon-dispute-expose-a-deeper-problem-with",
+    "date": "2026-03-05T18:38:11Z",
+    "description": "The clash between the two leading AI labs shows how the safety of powerful AI systems may depend less on rules than on the competition and personalities shaping the industry.",
+    "category": "AI Tools",
+    "source": "https://fortune.com/2026/03/05/anthropic-openai-feud-pentagon-dispute-ai-safety-dilemma-personalities/",
+    "tags": [
+      "fortune.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "191eb586d553753863b94aa17294e6ac",
     "title": "How Does Agent Script Give Admins More Control?",
     "slug": "how-does-agent-script-give-admins-more-control",
