@@ -1,5 +1,44 @@
 [
   {
+    "id": "b98dfe8b28abc2d26ff466bf3a1dbad5",
+    "title": "9 Podcast Marketing Advantages CMOs Should Not Ignore in 2026",
+    "slug": "9-podcast-marketing-advantages-cmos-should-not-ignore-in-2026",
+    "date": "2026-03-06T18:36:10Z",
+    "description": "Podcast audiences offer something rare in digital media: sustained attention and authentic influence.\nContinue reading...",
+    "category": "AI Tools",
+    "source": "https://www.cmswire.com/digital-marketing/podcast-marketing-advantages-cmos-should-not-ignore/",
+    "tags": [
+      "cmswire.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b26677b1f29ddace4a7fce5779bfc5a7",
+    "title": "Integrating POST API in React using Fetch \u2013 Step by Step Guide",
+    "slug": "integrating-post-api-in-react-using-fetch--step-by-step-guide",
+    "date": "2026-03-06T18:26:35Z",
+    "description": "Learn how to integrate POST APIs in React using Fetch! This step-by-step guide shows you how to send data from your React app to a backend API, including code examples.",
+    "category": "Frontend",
+    "source": "https://www.c-sharpcorner.com/article/integrating-post-api-in-react-using-fetch-step-by-step-guide/",
+    "tags": [
+      "c-sharpcorner.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "147c0f5652fbbe8bd1174e7966843caf",
+    "title": "Show HN: MyChatArchive \u2013 bring your full ChatGPT history into Claude via MCP",
+    "slug": "show-hn-mychatarchive--bring-your-full-chatgpt-history-into-claude-via-mcp",
+    "date": "2026-03-06T18:14:04Z",
+    "description": "Switched from ChatGPT to Claude and realized the official migration only transfers what ChatGPT remembers about you, not your actual conversations. Built a local pipeline that imports full exports, generates semantic embeddings on your machine, and serves the\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/1ch1n/mychatarchive",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "ba2e2cb574012de2916e0f15517f14e7",
     "title": "\u201cLoony Bin\u201d Rationales of President Trump: The Continuing War on Iran",
     "slug": "loony-bin-rationales-of-president-trump-the-continuing-war-on-iran",
