@@ -1,5 +1,44 @@
 [
   {
+    "id": "916c2e51d1d261f3ec7bd5eccfa3abcd",
+    "title": "Show HN: A free personality test based on five elements",
+    "slug": "show-hn-a-free-personality-test-based-on-five-elements",
+    "date": "2026-03-06T06:48:08Z",
+    "description": "I built a personality test based on the five elements (Wood, Fire, Earth, Metal, Water) combined with yin-yang energy, giving 10 possible types. The test is free, 20 questions, takes about 3 minutes. No sign-up, no email gate.\n\n Tech stack: Next.js (App Route\u2026",
+    "category": "Frontend",
+    "source": "https://fiveelementstest.com",
+    "tags": [
+      "fiveelementstest.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "cf2a8b16c13b9de73ceaab845f8af87e",
+    "title": "Show HN: Anchor Engine \u2013 Deterministic Semantic Memory for LLMs local (",
+    "slug": "show-hn-anchor-engine--deterministic-semantic-memory-for-llms-local",
+    "date": "2026-03-06T06:23:16Z",
+    "description": "A privacy-first context engine for any human facing llm interaction. Bring the right context when you need it, export or save results, then clear everything and start a new chat without bringing ba...",
+    "category": "Dev News",
+    "source": "https://github.com/RSBalchII/anchor-engine-node/",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "c5b95b6def35f5e17a76e79c4f410ec4",
+    "title": "Show HN: Garden Horizons Calculator \u2013 Built by a Beginner via \"Vibe Coding\"",
+    "slug": "show-hn-garden-horizons-calculator--built-by-a-beginner-via-vibe-coding",
+    "date": "2026-03-06T06:12:24Z",
+    "description": "Hi HN,I\u2019m a programming beginner, and lately, I\u2019ve been hopelessly addicted to a farming simulation on Roblox called Garden Horizons.The core loop is simple: plant, grow, and harvest. However, the game uses a complex, non-linear economic system where crop val\u2026",
+    "category": "Dev News",
+    "source": "https://gardenhorizonscalculator.pro",
+    "tags": [
+      "gardenhorizonscalculator.pro",
+      "dev-news"
+    ]
+  },
+  {
     "id": "1cf419b19831b1d26e9053793b29f02e",
     "title": "Matlock Season 2 Ep. 10 Preview: Will \"The Greater Good\" Be Served?",
     "slug": "matlock-season-2-ep-10-preview-will-the-greater-good-be-served",
