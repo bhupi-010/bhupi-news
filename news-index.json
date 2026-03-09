@@ -1,5 +1,44 @@
 [
   {
+    "id": "9c7d657c3272ac64a4fe298515d8c90d",
+    "title": "Iran and the US: a history of enmity",
+    "slug": "iran-and-the-us-a-history-of-enmity",
+    "date": "2026-03-08T06:55:00Z",
+    "description": "The US and the Islamic Republic of Iran have been at each other\u2019s throats for nearly half a century",
+    "category": "Dev News",
+    "source": "https://theweek.com/world-news/iran-us-history",
+    "tags": [
+      "theweek.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "57233d544bde5a75ee2cbf2abf5233e7",
+    "title": "cc-rig added to PyPI",
+    "slug": "ccrig-added-to-pypi",
+    "date": "2026-03-08T06:52:26Z",
+    "description": "Project setup generator for Claude Code",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/cc-rig/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "75a99dba6bb956383de3ad8ad0f6a30f",
+    "title": "Voices of Iranian women: \u2018We celebrated, but we cried. We danced, and we mourned\u2019",
+    "slug": "voices-of-iranian-women-we-celebrated-but-we-cried-we-danced-and-we-mourned",
+    "date": "2026-03-08T05:59:00Z",
+    "description": "Four Iranian women who have been involved in previous protests react to the last week\u2019s events as war in the Middle East broadens",
+    "category": "Frontend",
+    "source": "https://www.irishtimes.com/world/middle-east/2026/03/09/voices-of-iranian-women-we-celebrated-but-we-cried-we-danced-and-we-mourned/",
+    "tags": [
+      "irishtimes.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "ac9a8788acef3c6757221e9e7efca154",
     "title": "How do you heal an injured bird?",
     "slug": "how-do-you-heal-an-injured-bird",
