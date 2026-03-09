@@ -1,5 +1,44 @@
 [
   {
+    "id": "fb90168b72a268ce6946d6921f554d87",
+    "title": "sspwd added to PyPI",
+    "slug": "sspwd-added-to-pypi",
+    "date": "2026-03-08T13:13:16Z",
+    "description": "A local, encrypted password manager with a web UI.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/sspwd/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "95aa8fed0467b7aeac3fe6316a8c8110",
+    "title": "161,000 US jobs just disappeared after a revision as Bitcoin navigates increasingly messy macro data",
+    "slug": "161000-us-jobs-just-disappeared-after-a-revision-as-bitcoin-navigates-increasing",
+    "date": "2026-03-08T13:10:22Z",
+    "description": "US markets move in seconds when the jobs report hits. February payrolls fell by 92,000 jobs, the unemployment rate rose to 4.4%, and prior months were revised down by 69,000. Together, that's 161,000 fewer jobs than the numbers showed at the start of the year\u2026",
+    "category": "Dev News",
+    "source": "https://cryptoslate.com/161000-us-jobs-just-disappeared-after-a-revision-as-bitcoin-navigates-messy-macro-data/",
+    "tags": [
+      "cryptoslate.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "d6a86dccfa263d48795e5a6aeffcab59",
+    "title": "Digital media is using negativity to steal our attention \u2014 here\u2019s how to reclaim it",
+    "slug": "digital-media-is-using-negativity-to-steal-our-attention--heres-how-to-reclaim-i",
+    "date": "2026-03-08T13:08:17Z",
+    "description": "Research in psychology and cognitive science suggests there are ways to fight back against this and reclaim your attention.",
+    "category": "AI Tools",
+    "source": "https://theconversation.com/digital-media-is-using-negativity-to-steal-our-attention-heres-how-to-reclaim-it-274101",
+    "tags": [
+      "theconversation.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "9c7d657c3272ac64a4fe298515d8c90d",
     "title": "Iran and the US: a history of enmity",
     "slug": "iran-and-the-us-a-history-of-enmity",
