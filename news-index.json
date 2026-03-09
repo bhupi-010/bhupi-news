@@ -1,5 +1,44 @@
 [
   {
+    "id": "d3013adf10313c58768d9c264bdeb7e5",
+    "title": "#! code: DrupalCamp England 2026",
+    "slug": "code-drupalcamp-england-2026",
+    "date": "2026-03-08T18:57:11Z",
+    "description": "The weekend of 28th February to the 1st March saw the second DrupalCamp England event with around 100 people attending the University of Salford, not far from Manchester, for the two day event.I had submitted a talk and the camp organisers had accepted it and\u2026",
+    "category": "Dev News",
+    "source": "https://www.hashbangcode.com/article/drupalcamp-england-2026",
+    "tags": [
+      "hashbangcode.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "0f914e6addb64942f6e8c42469f6044b",
+    "title": "codecoverage-cli added to PyPI",
+    "slug": "codecoveragecli-added-to-pypi",
+    "date": "2026-03-08T18:56:16Z",
+    "description": "AI-powered test generation and documentation for Python codebases",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/codecoverage-cli/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "748ed3dee5752690d5ae87be2cf54a7f",
+    "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" March 8, 2026",
+    "slug": "full-transcript-of-face-the-nation-with-margaret-brennan-march-8-2026",
+    "date": "2026-03-08T18:56:15Z",
+    "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Energy Secretary Chris Wright and Sen. Tim Kaine join Margaret Brennan.",
+    "category": "AI Tools",
+    "source": "https://www.cbsnews.com/news/face-the-nation-full-transcript-03-08-2026/",
+    "tags": [
+      "cbsnews.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "fb90168b72a268ce6946d6921f554d87",
     "title": "sspwd added to PyPI",
     "slug": "sspwd-added-to-pypi",
