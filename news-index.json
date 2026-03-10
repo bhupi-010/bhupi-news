@@ -1,5 +1,44 @@
 [
   {
+    "id": "9cf498f4261b109813503715a0bcd68b",
+    "title": "This Scam Impersonates the Official Claude Code Website to Spread Malware",
+    "slug": "this-scam-impersonates-the-official-claude-code-website-to-spread-malware",
+    "date": "2026-03-09T18:00:00Z",
+    "description": "Scammers are using cloned versions of popular AI coding tools to spread info-stealing malware through fake installation instructions\u2014a tactic known as InstallFix.",
+    "category": "AI Tools",
+    "source": "https://lifehacker.com/tech/this-scam-cleverly-impersonates-the-official-claude-code-website-to-spread",
+    "tags": [
+      "lifehacker.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "2b86552c8570af03ec99d62e1d5ae93d",
+    "title": "Mastering Axios in React: A Complete CRUD Example",
+    "slug": "mastering-axios-in-react-a-complete-crud-example",
+    "date": "2026-03-09T06:39:34Z",
+    "description": "Learn how to master Axios in React with a complete CRUD example! This tutorial covers fetching, creating, updating, and deleting data using Axios and React Hooks.",
+    "category": "Frontend",
+    "source": "https://www.c-sharpcorner.com/article/mastering-axios-in-react-a-complete-crud-example/",
+    "tags": [
+      "c-sharpcorner.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "f41a1bec86c6e0174a2b15609051900e",
+    "title": "Show HN: Attune \u2013 A Local-First CLI with 448 Rules to Take You from Slop to Ship",
+    "slug": "show-hn-attune--a-localfirst-cli-with-448-rules-to-take-you-from-slop-to-ship",
+    "date": "2026-03-09T06:21:43Z",
+    "description": "I started building with the idea of \"Next.js for production readiness\". Then quickly realized I didn't want to create an AI wrapper. So it's a reporting tool instead! Then you are free to fix however you like on your own terms.Attune auto-detects your framewo\u2026",
+    "category": "Frontend",
+    "source": "https://github.com/PeterPCW/attune",
+    "tags": [
+      "github.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "0d11e09fdccd2411228e464e98a77ffb",
     "title": "'Ideal Glass' That Behaves Like a Crystal May Be Possible After All",
     "slug": "ideal-glass-that-behaves-like-a-crystal-may-be-possible-after-all",
