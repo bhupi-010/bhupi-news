@@ -1,5 +1,44 @@
 [
   {
+    "id": "dc4a427198e3eba5af94c043e761d6e1",
+    "title": "Show HN: Agentic CLI, Gideon Wins Nvidia GTC Golden Ticket for AI Innovation",
+    "slug": "show-hn-agentic-cli-gideon-wins-nvidia-gtc-golden-ticket-for-ai-innovation",
+    "date": "2026-03-09T18:46:38Z",
+    "description": "Hey HN,I'm Tarique, co-founder at Cogensec. Our open-source AI agent, Gideon, won a Golden Ticket to NVIDIA GTC 2026! Gideon automates defensive cybersecurity tasks like threat intelligence gathering, CVE hunting, and IOC analysis using LLMs. Excited to colla\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/cogensec/gideon",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "380c1e0a2fb644e9e936e86090fef2ae",
+    "title": "SIREN surges 22% as volume jumps \u2013 THESE 2 levels define what\u2019s next",
+    "slug": "siren-surges-22-as-volume-jumps--these-2-levels-define-whats-next",
+    "date": "2026-03-09T18:30:39Z",
+    "description": "SIREN\u2019s rally intensifies as derivatives activity rises, bringing key resistance levels into sharp focus.",
+    "category": "Dev News",
+    "source": "https://ambcrypto.com/siren-surges-22-as-volume-jumps-these-2-levels-defines-whats-next/",
+    "tags": [
+      "ambcrypto.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6f48f21fd1cfa234f2a7efc10694d95a",
+    "title": "Using skills to accelerate OSS maintenance",
+    "slug": "using-skills-to-accelerate-oss-maintenance",
+    "date": "2026-03-09T18:15:58Z",
+    "description": "Using skills to accelerate OSS maintenance Using skills and GitHub Actions to optimize Codex workflows in the OpenAI Agents SDK repos. We use Codex to change how we maintain the OpenAI Agents SDK repos. Repo-local skills, AGENTS.md, and GitHub Actions let us \u2026",
+    "category": "AI Tools",
+    "source": "https://developers.openai.com/blog/skills-agents-sdk/",
+    "tags": [
+      "developers.openai.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "9cf498f4261b109813503715a0bcd68b",
     "title": "This Scam Impersonates the Official Claude Code Website to Spread Malware",
     "slug": "this-scam-impersonates-the-official-claude-code-website-to-spread-malware",
