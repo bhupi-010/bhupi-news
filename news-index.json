@@ -1,5 +1,44 @@
 [
   {
+    "id": "0d11e09fdccd2411228e464e98a77ffb",
+    "title": "'Ideal Glass' That Behaves Like a Crystal May Be Possible After All",
+    "slug": "ideal-glass-that-behaves-like-a-crystal-may-be-possible-after-all",
+    "date": "2026-03-09T01:53:01Z",
+    "description": "Physicists in the US say they have created a simulation that, for the first time, demonstrates \"ideal glass\" is possible, resolving a decades-old\u00a0paradox.",
+    "category": "Dev News",
+    "source": "https://www.sciencealert.com/ideal-glass-that-behaves-like-a-crystal-may-be-possible-after-all",
+    "tags": [
+      "sciencealert.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "d54da355e36323266b99d9fa4310cd53",
+    "title": "This Wall Speaker Lets You Decorate Your Room with Music and Art",
+    "slug": "this-wall-speaker-lets-you-decorate-your-room-with-music-and-art",
+    "date": "2026-03-09T01:45:04Z",
+    "description": "This Wall Speaker Lets You Decorate Your Room with Music and ArtThe must-have for your home used to be a choice: a speaker or a digital frame. Good audio gear fills a room with sound but...",
+    "category": "Dev News",
+    "source": "https://www.yankodesign.com/2026/03/08/this-wall-speaker-lets-you-decorate-your-room-with-music-and-art/",
+    "tags": [
+      "yankodesign.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a951751feb611972ddb84ba4a335afd1",
+    "title": "Show HN: Generate App Store screenshots by matching any top app's style",
+    "slug": "show-hn-generate-app-store-screenshots-by-matching-any-top-apps-style",
+    "date": "2026-03-09T01:38:40Z",
+    "description": "I got tired of spending hours in Figma every time I needed to update my App Store screenshots. So I built this.You pick any app on the App Store as a reference, upload your own screenshots, and it generates professional screenshots in that app's style. It ext\u2026",
+    "category": "Dev News",
+    "source": "https://appstorescreenshot.app",
+    "tags": [
+      "appstorescreenshot.app",
+      "dev-news"
+    ]
+  },
+  {
     "id": "d3013adf10313c58768d9c264bdeb7e5",
     "title": "#! code: DrupalCamp England 2026",
     "slug": "code-drupalcamp-england-2026",
