@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "ca3f68d359e33a763448d8568ac6fec6",
+    "title": "Kim Kardashian, Kylie Jenner React to Brody Jenner's Baby No. 2 News",
+    "slug": "kim-kardashian-kylie-jenner-react-to-brody-jenners-baby-no-2-news",
+    "date": "2026-03-09T13:03:16Z",
+    "description": "Kim Kardashian and Kylie Jenner are keeping up with Brody Jenner\u2019s happy news.\u00a0\nAfter The Hills alum and his wife Tia Blanco announced she is pregnant with the couple\u2019s second baby, Brody\u2019s sister...",
+    "category": "Frontend",
+    "source": "https://www.eonline.com/news/1429451/kim-kardashian-kylie-jenner-on-brody-jenners-baby-no-2-news",
+    "tags": [
+      "eonline.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "d54fff1b2973dd70c8a7ac26bafb41a9",
+    "title": "Cybercriminals are using AI to attack the cloud faster - and third-party software is the weak link",
+    "slug": "cybercriminals-are-using-ai-to-attack-the-cloud-faster--and-thirdparty-software-",
+    "date": "2026-03-09T13:00:47Z",
+    "description": "Google's latest threat report warns that third-party tools are now prime targets for attackers - and businesses have only days to secure them.",
+    "category": "AI Tools",
+    "source": "https://www.zdnet.com/article/google-cloud-threat-report-third-party-software-ai-attacks/",
+    "tags": [
+      "zdnet.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "be84f3cdfd9ec62f33340674a9c3ad1a",
+    "title": "The Ariel Helwani Show | UFC 326 reaction, Tom Aspinall, Sean O\u2019Malley, Eddie Hearn, Bo Nickal",
+    "slug": "the-ariel-helwani-show--ufc-326-reaction-tom-aspinall-sean-omalley-eddie-hearn-b",
+    "date": "2026-03-09T13:00:18Z",
+    "description": "Join Ariel and the Boys in the Back live at 1 p.m. ET as we react to everything UFC 326.",
+    "category": "Frontend",
+    "source": "https://sports.yahoo.com/mma/article/the-ariel-helwani-show-ufc-326-reaction-tom-aspinall-sean-omalley-eddie-hearn-bo-nickal-130018105.html",
+    "tags": [
+      "sports.yahoo.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "2b86552c8570af03ec99d62e1d5ae93d",
     "title": "Mastering Axios in React: A Complete CRUD Example",
     "slug": "mastering-axios-in-react-a-complete-crud-example",
