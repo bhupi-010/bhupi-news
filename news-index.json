@@ -1,5 +1,18 @@
 [
   {
+    "id": "f373d96ffdef66243070ddf4f9983fb3",
+    "title": "Report: AI coding tools caused outages at Amazon",
+    "slug": "report-ai-coding-tools-caused-outages-at-amazon",
+    "date": "2026-03-10T12:24:00Z",
+    "description": "Following outages in March, Amazon is introducing stricter controls for AI-generated code. Internal reports cite a lack of security mechanisms as the cause.",
+    "category": "AI Tools",
+    "source": "https://www.heise.de/en/news/Report-AI-coding-tools-caused-outages-at-Amazon-11205760.html",
+    "tags": [
+      "heise.de",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "c88ce0514ffa4394d1760d44e039007e",
     "title": "Escape raises $18M to replace pen-testers with AI agents",
     "slug": "escape-raises-18m-to-replace-pentesters-with-ai-agents",
@@ -9,6 +22,32 @@
     "source": "https://thenextweb.com/news/escape-18m-series-a-ai-security-vibe-coding",
     "tags": [
       "thenextweb.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "6ecd7ac1345131868035c367a9277eb4",
+    "title": "Greece set to unveil measures to support citizens",
+    "slug": "greece-set-to-unveil-measures-to-support-citizens",
+    "date": "2026-03-10T06:53:16Z",
+    "description": "The government is planning to announce measures as early as this week aimed at supporting citizens and shielding them from profiteering practices.\nPossible measures under consideration include the imposition of\u2026\nGreece set to unveil measures to support citize\u2026",
+    "category": "AI Tools",
+    "source": "https://www.naftemporiki.gr/english/2083397/greece-set-to-unveil-measures-to-support-citizens/",
+    "tags": [
+      "naftemporiki.gr",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "618aed2c7565cfabc5399248fa22bbb5",
+    "title": "The outlook for your finances if the Iran war were to end - and if it doesn't",
+    "slug": "the-outlook-for-your-finances-if-the-iran-war-were-to-end--and-if-it-doesnt",
+    "date": "2026-03-10T06:48:00Z",
+    "description": "Sky News explains how we're already seeing a clear financial impact from the conflict in the Middle East and finds there will be a hangover, even if the war were to end today.",
+    "category": "AI Tools",
+    "source": "https://news.sky.com/story/iran-war-the-outlook-for-your-finances-whether-hostilities-end-or-not-13517570",
+    "tags": [
+      "news.sky.com",
       "ai-tools"
     ]
   },
