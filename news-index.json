@@ -1,5 +1,44 @@
 [
   {
+    "id": "c88ce0514ffa4394d1760d44e039007e",
+    "title": "Escape raises $18M to replace pen-testers with AI agents",
+    "slug": "escape-raises-18m-to-replace-pentesters-with-ai-agents",
+    "date": "2026-03-10T09:31:06Z",
+    "description": "Escape raises $18M to replace manual pen-testing with AI agents, as vibe coding tools flood production systems with unreviewed, vulnerable code.",
+    "category": "AI Tools",
+    "source": "https://thenextweb.com/news/escape-18m-series-a-ai-security-vibe-coding",
+    "tags": [
+      "thenextweb.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "528caf7c11b72c999a7ef3b9f5fbe3f0",
+    "title": "Oil Prices Tumble After Trump Signals Iran War Could End Soon",
+    "slug": "oil-prices-tumble-after-trump-signals-iran-war-could-end-soon",
+    "date": "2026-03-10T02:26:36Z",
+    "description": "Oil prices tumbled in early Asian trade on Tuesday after surging to their highest levels since 2022 a day earlier. The drop was driven by comments from Trump that suggested the war with Iran may soon end, easing concerns about prolonged disruptions to global \u2026",
+    "category": "Dev News",
+    "source": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Tumble-After-Trump-Signals-Iran-War-Could-End-Soon.html",
+    "tags": [
+      "oilprice.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7f1ccc59b29a35a94b3b176ec0c6765e",
+    "title": "Trump Open to Khamenei Being Killed if He Doesn\u2019t Cede to U.S. Demands - WSJ",
+    "slug": "trump-open-to-khamenei-being-killed-if-he-doesnt-cede-to-us-demands--wsj",
+    "date": "2026-03-10T02:13:10Z",
+    "description": "Trump Open to Khamenei Being Killed if He Doesn\u2019t Cede to U.S. DemandsWSJ Iran names slain supreme leader\u2019s son as successor, in a defiant message to TrumpCNN Philadelphia Iranians react with disappointment and concern over Iran's new supreme leader6abc Phila\u2026",
+    "category": "Frontend",
+    "source": "https://slashdot.org/firehose.pl?op=view&amp;id=180944884",
+    "tags": [
+      "slashdot.org",
+      "frontend"
+    ]
+  },
+  {
     "id": "dc4a427198e3eba5af94c043e761d6e1",
     "title": "Show HN: Agentic CLI, Gideon Wins Nvidia GTC Golden Ticket for AI Innovation",
     "slug": "show-hn-agentic-cli-gideon-wins-nvidia-gtc-golden-ticket-for-ai-innovation",
