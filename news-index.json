@@ -1,5 +1,44 @@
 [
   {
+    "id": "93b2795d34263e74b57271dfb5c3aa9f",
+    "title": "Meet 6 Startups Raising Billions in the Vibe Coding Bull Run",
+    "slug": "meet-6-startups-raising-billions-in-the-vibe-coding-bull-run",
+    "date": "2026-03-12T05:55:19Z",
+    "description": "These entrants are competing with far bigger players, including OpenAI, Anthropic, and Microsoft, that make their own AI-powered coding tools.",
+    "category": "AI Tools",
+    "source": "https://www.businessinsider.com/startups-raising-billions-vibe-coding-boom-cursor-lovable-replit-emergent-2026-3",
+    "tags": [
+      "businessinsider.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b610b9d35fd1dffb97ee4feb17009393",
+    "title": "Ja'Marr Chase, Ted Karras react to Trey Hendrickson-to-Ravens news",
+    "slug": "jamarr-chase-ted-karras-react-to-trey-hendricksontoravens-news",
+    "date": "2026-03-11T18:35:31Z",
+    "description": "Ja'Marr Chase and Ted Karras were among those reacting to news that DE Trey Hendrickson agreed to a four-year deal with AFC North rival Baltimore.",
+    "category": "Frontend",
+    "source": "https://www.cincinnati.com/story/sports/nfl/bengals/2026/03/11/jamarr-chase-ted-karras-react-trey-hendrickson-ravens-news/89103508007/",
+    "tags": [
+      "cincinnati.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "cf1fd9498a2c5950356672a6bcae9401",
+    "title": "Social media reactions to Panthers poaching Saints center Luke Fortner",
+    "slug": "social-media-reactions-to-panthers-poaching-saints-center-luke-fortner",
+    "date": "2026-03-11T18:30:35Z",
+    "description": "Welcome to Carolina, Luke Fortner. The Panthers poached the Saints' center in free agency, and fans from both sides had a lot to say about the move.",
+    "category": "Frontend",
+    "source": "https://saintswire.usatoday.com/story/sports/nfl/saints/2026/03/11/nfl-free-agency-reactions-panthers-luke-fortner-saints/89093844007/",
+    "tags": [
+      "saintswire.usatoday.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "afaf2b77c5fd241498fd3c2d61be3af8",
     "title": "What Happens to Dividend Income When the Next Recession Hits",
     "slug": "what-happens-to-dividend-income-when-the-next-recession-hits",
