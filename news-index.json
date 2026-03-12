@@ -1,5 +1,44 @@
 [
   {
+    "id": "0d3087e1233bd183a672127a55d606bd",
+    "title": "Amazon looks to add stricter checks after outages linked to AI coding tools: Report",
+    "slug": "amazon-looks-to-add-stricter-checks-after-outages-linked-to-ai-coding-tools-repo",
+    "date": "2026-03-11T11:27:31Z",
+    "description": "Amazon\u2019s troubles illustrate how software engineers are facing pressure to generate code using AI tools without sufficient review or checks in place.",
+    "category": "AI Tools",
+    "source": "https://indianexpress.com/article/technology/tech-news-technology/amazon-stricter-code-checks-outages-ai-tools-report-10576612/",
+    "tags": [
+      "indianexpress.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "2dc9a00c46ba62a968eecf8bb5adc161",
+    "title": "Amazon Convenes Emergency Engineering Meeting After AI Causes System Failures",
+    "slug": "amazon-convenes-emergency-engineering-meeting-after-ai-causes-system-failures",
+    "date": "2026-03-11T10:11:23Z",
+    "description": "Amazon's ecommerce division has called together a large contingent of engineers for an urgent meeting to examine multiple recent outages, some of which have been linked to AI coding tools.",
+    "category": "AI Tools",
+    "source": "https://www.breitbart.com/politics/2026/03/11/amazon-convenes-emergency-engineering-meeting-after-ai-causes-system-failures/",
+    "tags": [
+      "breitbart.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "d3882a06194eb1464459dfefebf700af",
+    "title": "Amazon Convenes Emergency Engineering Meeting After AI Causes System Failures",
+    "slug": "amazon-convenes-emergency-engineering-meeting-after-ai-causes-system-failures-d3882a",
+    "date": "2026-03-11T10:11:23Z",
+    "description": "Amazon's ecommerce division has called together a large contingent of engineers for an urgent meeting to examine multiple recent outages, some of which have been linked to AI coding tools.",
+    "category": "AI Tools",
+    "source": "https://www.breitbart.com/tech/2026/03/11/amazon-convenes-emergency-engineering-meeting-after-ai-causes-system-failures/",
+    "tags": [
+      "breitbart.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "0a5050c7258015c131ad0ef1bbcd4f05",
     "title": "Social media reacts to Saints signing former Jaguars RB Travis Etienne",
     "slug": "social-media-reacts-to-saints-signing-former-jaguars-rb-travis-etienne",
