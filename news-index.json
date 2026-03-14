@@ -1,5 +1,44 @@
 [
   {
+    "id": "459a5f75c45f9b12579853ce0ea7681b",
+    "title": "Show HN: FrameFit \u2013 AI-powered photo cropping for digital photo frames",
+    "slug": "show-hn-framefit--aipowered-photo-cropping-for-digital-photo-frames",
+    "date": "2026-03-13T18:38:00Z",
+    "description": "I built this because I was tired of manually cropping family photos for my digital photo frame. Every frame has a different aspect ratio and when you just resize, you end up cutting people's heads off or losing the important parts of the photo.\nFrameFit uses \u2026",
+    "category": "AI Tools",
+    "source": "https://framefit.photo",
+    "tags": [
+      "framefit.photo",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "916676878c685d7db36985f6ddaa7eeb",
+    "title": "Friedman rips broken \u2018spirit\u2019 Leafs for silence after Auston Matthews hit",
+    "slug": "friedman-rips-broken-spirit-leafs-for-silence-after-auston-matthews-hit",
+    "date": "2026-03-13T18:05:52Z",
+    "description": "NHL analyst Elliotte Friedman strongly criticized the response from the Toronto Maple Leafs after captain Auston Matthews suffered a knee-on-knee hit. The incident happened during Thursday\u2019s game against the Anaheim Ducks. Speaking on the 32 Thoughts podcast \u2026",
+    "category": "AI Tools",
+    "source": "https://www.thebiglead.com/friedman-rips-broken-spirit-leafs-for-silence-after-auston-matthews-hit/",
+    "tags": [
+      "thebiglead.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b65378beaed9b1863bf6bf5eaedef171",
+    "title": "5 Streaming Movies to Help Understand Iran Now",
+    "slug": "5-streaming-movies-to-help-understand-iran-now",
+    "date": "2026-03-13T18:00:19Z",
+    "description": "Many of these filmmakers have found themselves scrutinized by government censors, leading to arrests and imprisonment.",
+    "category": "Dev News",
+    "source": "http://foreignpolicy.com/2026/03/13/5-streaming-movies-to-help-understand-iran-now/",
+    "tags": [
+      "foreignpolicy.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "353b44b34691dda24bb36591bc13486c",
     "title": "Cerebras Systems, Amazon strike deal to offer AI chips on AWS cloud",
     "slug": "cerebras-systems-amazon-strike-deal-to-offer-ai-chips-on-aws-cloud",
