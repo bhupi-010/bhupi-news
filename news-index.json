@@ -1,5 +1,44 @@
 [
   {
+    "id": "cfac9d0ad9b3da27af87220a5d2a9884",
+    "title": "Show HN: Kromacut \u2013 Open-source tool for multi-color 3D prints from images",
+    "slug": "show-hn-kromacut--opensource-tool-for-multicolor-3d-prints-from-images",
+    "date": "2026-03-14T06:56:52Z",
+    "description": "I built Kromacut because I didn't want to pay for HueForge and then it turned into something bigger than I initially expected.Upload an image, and Kromacut turns it into a multi-color lithophane 3D print. You first preprocess the image in the 2D section then \u2026",
+    "category": "Dev News",
+    "source": "https://github.com/vycdev/Kromacut",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "fa0c8a83ef5e9d3edc6909fa11691dcc",
+    "title": "Haway The Podcast | MATCHDAY PREVIEW | SAFC v Brighton | The Lads Look To Bounce Back!",
+    "slug": "haway-the-podcast--matchday-preview--safc-v-brighton--the-lads-look-to-bounce-ba",
+    "date": "2026-03-14T06:19:05Z",
+    "description": "Join us as we preview today\u2019s game",
+    "category": "Dev News",
+    "source": "https://rokerreport.sbnation.com/haway-the-podcast/130709/haway-the-podcast-matchday-preview-safc-v-brighton-the-lads-look-to-bounce-back",
+    "tags": [
+      "rokerreport.sbnation.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "c1399a62e3396a31537c4fd91d864118",
+    "title": "Inter Milan vs Atalanta \u2013 Predicted lineup and team news",
+    "slug": "inter-milan-vs-atalanta--predicted-lineup-and-team-news",
+    "date": "2026-03-14T06:10:00Z",
+    "description": "Inter Milan and Atalanta meet in Serie A at San Siro on Saturday, with the hosts looking to respond after their recent derby disappointment.Inter remain top of Serie A going into the weekend with 67 p...",
+    "category": "AI Tools",
+    "source": "https://thefootballfaithful.com/inter-milan-vs-atalanta-predicted-lineup-and-team-news/",
+    "tags": [
+      "thefootballfaithful.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "67c542560a6b956cfcd9f4c32674dd8f",
     "title": "Show HN: DAAO \u2013 Deploy AI agents to your servers via Zero-Trust tunnels",
     "slug": "show-hn-daao--deploy-ai-agents-to-your-servers-via-zerotrust-tunnels",
