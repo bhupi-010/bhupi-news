@@ -1,5 +1,44 @@
 [
   {
+    "id": "2261ed68e75eadb7ea2b325a91d19978",
+    "title": "BBC Radio Scotland Rugby Podcast",
+    "slug": "bbc-radio-scotland-rugby-podcast",
+    "date": "2026-03-14T18:00:00Z",
+    "description": "Andy Burke and team react to Scotland's defeat in Dublin as Ireland retain Triple Crown",
+    "category": "Frontend",
+    "source": "https://www.bbc.co.uk/sounds/play/p0n6pjcl",
+    "tags": [
+      "bbc.co.uk",
+      "frontend"
+    ]
+  },
+  {
+    "id": "915a26bf771fe949ccbbb70e439f5aa0",
+    "title": "Local Whisper transcribes hour-long meetings in minutes without sending a single word to any server",
+    "slug": "local-whisper-transcribes-hourlong-meetings-in-minutes-without-sending-a-single-",
+    "date": "2026-03-14T17:00:20Z",
+    "description": "Modern hardware makes local AI surprisingly practical.",
+    "category": "AI Tools",
+    "source": "https://www.xda-developers.com/local-whisper-transcribes-long-meetings-minutes-without-sending-server/",
+    "tags": [
+      "xda-developers.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a851e4026380d9a9695f4b2a7616a965",
+    "title": "Dave Hyde: The fallout of Adebayo\u2019s night, Panthers\u2019 wins, Dolphins\u2019 signing \u2014 and the toxin of tanking",
+    "slug": "dave-hyde-the-fallout-of-adebayos-night-panthers-wins-dolphins-signing--and-the-",
+    "date": "2026-03-14T16:39:00Z",
+    "description": "So this is what we got this past week, in a place that felt like the capital of sports, between Bam Adebayo\u2019s 83-point game, Malik Willis\u2019 signing, the World Baseball Classic\u2019s drama and the Florida Panthers\u2019 final-minutes heroics in a troubled season: We got\u2026",
+    "category": "Dev News",
+    "source": "https://www.sun-sentinel.com/2026/03/14/dave-hyde-the-fallout-of-adebayos-night-panthers-wins-dolphins-signing-and-the-toxin-of-tanking/",
+    "tags": [
+      "sun-sentinel.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "a4817faabd2e28cda09456f0df7318ae",
     "title": "War in Iran and the Great Reset",
     "slug": "war-in-iran-and-the-great-reset",
