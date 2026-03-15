@@ -1,5 +1,44 @@
 [
   {
+    "id": "67c542560a6b956cfcd9f4c32674dd8f",
+    "title": "Show HN: DAAO \u2013 Deploy AI agents to your servers via Zero-Trust tunnels",
+    "slug": "show-hn-daao--deploy-ai-agents-to-your-servers-via-zerotrust-tunnels",
+    "date": "2026-03-14T01:55:18Z",
+    "description": "A month ago I wanted one thing: to start a coding session on my desktop and pick it up from anywhere \u2014 my phone, my\n couch, another machine \u2014 without setting up a VPN or leaving SSH ports open.\n\n I built that. Then I kept going.\n\n DAAO (Distributed AI Agent O\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/daao-platform/daao",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "2cab0e246df936305715ced81a71d5fb",
+    "title": "10 Biggest Questions Virgin River Season 8 Needs To Answer",
+    "slug": "10-biggest-questions-virgin-river-season-8-needs-to-answer",
+    "date": "2026-03-14T01:15:18Z",
+    "description": "Netflix has already renewed Virgin River season 8, and the upcoming season will have many big questions to answer after season 7's ending.",
+    "category": "Dev News",
+    "source": "https://screenrant.com/virgin-river-season-8-biggest-questions/",
+    "tags": [
+      "screenrant.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "3142813b8f1b3eebce35df3ee815e33b",
+    "title": "Why do ferrets react to squeaky toys?",
+    "slug": "why-do-ferrets-react-to-squeaky-toys",
+    "date": "2026-03-14T00:26:24Z",
+    "description": "Why Do Ferrets React So Strongly to Squeaky Toys? Ferrets\u2019 intense reaction to squeaky toys is rooted in their predatory instincts; the high-pitched squeaks mimic the distress calls of their natural prey, triggering a hunting response. Therefore, ferrets reac\u2026",
+    "category": "Frontend",
+    "source": "https://www.lifesciencesworld.com/why-do-ferrets-react-to-squeaky-toys/",
+    "tags": [
+      "lifesciencesworld.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "459a5f75c45f9b12579853ce0ea7681b",
     "title": "Show HN: FrameFit \u2013 AI-powered photo cropping for digital photo frames",
     "slug": "show-hn-framefit--aipowered-photo-cropping-for-digital-photo-frames",
