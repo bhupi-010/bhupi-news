@@ -1,5 +1,44 @@
 [
   {
+    "id": "81def46a13d123e66c13bc8e0d5660ea",
+    "title": "Elon Musk's xAI Adds Two AI Startup Founders To Build Advanced Coding Tools",
+    "slug": "elon-musks-xai-adds-two-ai-startup-founders-to-build-advanced-coding-tools",
+    "date": "2026-03-16T01:02:00Z",
+    "description": "Elon Musk's AI venture xAI has recruited AI coding founders Aman Gottumukkala and William Zeng to join SpaceX.",
+    "category": "AI Tools",
+    "source": "https://www.benzinga.com/markets/tech/26/03/51261078/elon-musks-xai-adds-two-ai-startup-founders-to-build-advanced-coding-tools",
+    "tags": [
+      "benzinga.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "c88291f6219634d5668e19b81f219d12",
+    "title": "Hollywood, the Dream Factory",
+    "slug": "hollywood-the-dream-factory",
+    "date": "2026-03-15T13:17:01Z",
+    "description": "In 1913, a leased barn in Los Angeles became Cecil B. DeMille's production center for the very first feature film shot in Hollywood. What started as a weather-friendly place for filmmakers grew into a phenomenon heralded around the world as a \"dream factory.\"",
+    "category": "Dev News",
+    "source": "https://www.cbsnews.com/news/hollywood-the-dream-factory/",
+    "tags": [
+      "cbsnews.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7a76c2e8ac37feb04f5869bf057af415",
+    "title": "Kuwait Cuts Oil Output As Qatar Warns Hormuz Chokepoint Chaos Risks Global Shock",
+    "slug": "kuwait-cuts-oil-output-as-qatar-warns-hormuz-chokepoint-chaos-risks-global-shock",
+    "date": "2026-03-15T13:00:00Z",
+    "description": "Update (1126ET): Kuwait began cutting crude oil output\u00a0after storage tank farms began filling up, as crude could no longer be loaded onto very large crude carriers and transported through the Strait of Hormuz, according to\u00a0The Wall Street Journal. Sources say\u2026",
+    "category": "AI Tools",
+    "source": "https://www.activistpost.com/kuwait-cuts-oil-output-as-qatar-warns-hormuz-chokepoint-chaos-risks-global-shock/",
+    "tags": [
+      "activistpost.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "f97e2fdad446c11672cd215e7447c594",
     "title": "Understanding JavaScript Internals: Interview Questions for Experienced Engineers",
     "slug": "understanding-javascript-internals-interview-questions-for-experienced-engineers",
