@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "63db7d2e5d9a840b41316814a518c33f",
+    "title": "#! code: Drupal 11: Making Interactive Elements With HTMX",
+    "slug": "code-drupal-11-making-interactive-elements-with-htmx",
+    "date": "2026-03-15T19:01:54Z",
+    "description": "Drupal 11: Making Interactive Elements With HTMX\n HTMX is a JavaScript library that allows you to make ajax calls and create CSS transitions without writing any JavaScript code. It works by adding attributes to HTML elements, which it then uses to set up and \u2026",
+    "category": "Frontend",
+    "source": "https://www.hashbangcode.com/article/drupal-11-making-interactive-elements-htmx",
+    "tags": [
+      "hashbangcode.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "298ee47e74cb0b1307b23e29d6a1188f",
+    "title": "Asylum journey of Iran's footballers reflects larger refugee crisis",
+    "slug": "asylum-journey-of-irans-footballers-reflects-larger-refugee-crisis",
+    "date": "2026-03-15T18:56:45Z",
+    "description": "Does the same principle that led Australia to support Israel and the US in Iran also extend to offering more humanitarian assistance?",
+    "category": "Dev News",
+    "source": "https://www.abc.net.au/news/2026-03-16/iran-refugee-war-will-australia-offer-humanitarian-support/106457316",
+    "tags": [
+      "abc.net.au",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "4262f76744c106395120d24feec2872c",
+    "title": "Show HN: Agentfile one contract.yaml for all your AI agent instruction files",
+    "slug": "show-hn-agentfile-one-contractyaml-for-all-your-ai-agent-instruction-files",
+    "date": "2026-03-15T18:00:20Z",
+    "description": "Article URL: https://github.com/dennishavermans/agentfile\nComments URL: https://news.ycombinator.com/item?id=47389966\nPoints: 1\n# Comments: 1",
+    "category": "AI Tools",
+    "source": "https://github.com/dennishavermans/agentfile",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "c88291f6219634d5668e19b81f219d12",
     "title": "Hollywood, the Dream Factory",
     "slug": "hollywood-the-dream-factory",
