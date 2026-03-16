@@ -1,5 +1,44 @@
 [
   {
+    "id": "f97e2fdad446c11672cd215e7447c594",
+    "title": "Understanding JavaScript Internals: Interview Questions for Experienced Engineers",
+    "slug": "understanding-javascript-internals-interview-questions-for-experienced-engineers",
+    "date": "2026-03-15T06:36:32Z",
+    "description": "Ace your JavaScript interviews! Master advanced concepts like closures, event loops, and prototypes. Learn to tackle tricky questions and showcase your expertise.",
+    "category": "Frontend",
+    "source": "https://www.c-sharpcorner.com/article/understanding-javascript-internals-interview-questions-for-experienced-engineer/",
+    "tags": [
+      "c-sharpcorner.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "83d44c478791f07fb9533f6f6da7e289",
+    "title": "Lies I was Told About Collaborative Editing, Part 2: Why we don't use Yjs / Moment devlog",
+    "slug": "lies-i-was-told-about-collaborative-editing-part-2-why-we-dont-use-yjs--moment-d",
+    "date": "2026-03-15T05:47:01Z",
+    "description": "hasPart: https://www.moment.dev/blog/lies-i-was-told-pt-1\n\nseeAlso: https://github.com/yjs/yjs",
+    "category": "Dev News",
+    "source": "https://www.moment.dev/blog/lies-i-was-told-pt-2",
+    "tags": [
+      "moment.dev",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "00f7764ec81a48c85e20a0516ff6d0a4",
+    "title": "Can chinchillas be friends with dogs?",
+    "slug": "can-chinchillas-be-friends-with-dogs",
+    "date": "2026-03-15T05:26:30Z",
+    "description": "Can Chinchillas and Dogs Truly Be Friends? Navigating a Delicate Relationship Can chinchillas be friends with dogs? The answer is complex: While friendship is possible, it requires meticulous planning, constant supervision, and a deep understanding of both sp\u2026",
+    "category": "Dev News",
+    "source": "https://www.lifesciencesworld.com/can-chinchillas-be-friends-with-dogs/",
+    "tags": [
+      "lifesciencesworld.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "2958b0a426bee0019b3298e1d149ab25",
     "title": "'Everyone Really Contributed': Rod Brind'Amour, Frederik Andersen, Jordan Martinook On Bounce Back Road Win In Tampa Bay",
     "slug": "everyone-really-contributed-rod-brindamour-frederik-andersen-jordan-martinook-on",
