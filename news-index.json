@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "3cfc54d5ee4cebe5766cd02cfada96b9",
+    "title": "How to build UI using GPT-4.1 + MUI \u2013 Use UXPin Merge!",
+    "slug": "how-to-build-ui-using-gpt41--mui--use-uxpin-merge",
+    "date": "2026-03-16T13:03:23Z",
+    "description": "Combine GPT-4.1, MUI, and UXPin Merge to generate production-ready React UI from prompts or screenshots, build interactive prototypes, and export clean JSX.\nThe post How to build UI using GPT-4.1 + MUI \u2013 Use UXPin Merge! appeared first on Studio by UXPin.",
+    "category": "Frontend",
+    "source": "https://www.uxpin.com/studio/blog/build-ui-gpt-4-1-mui-uxpin-merge/",
+    "tags": [
+      "uxpin.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "064fec3a381076ac4759fed285dab03f",
+    "title": "Peloton is launching bikes and treadmills for gyms, accelerating commercial strategy",
+    "slug": "peloton-is-launching-bikes-and-treadmills-for-gyms-accelerating-commercial-strat",
+    "date": "2026-03-16T13:00:15Z",
+    "description": "Peloton is launching commercial gym-ready Bikes and Treads, expanding into gyms globally as it seeks new growth beyond its at-home fitness business.",
+    "category": "Dev News",
+    "source": "https://www.cnbc.com/2026/03/16/peloton-launches-bike-and-tread-for-gyms.html",
+    "tags": [
+      "cnbc.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "4c2795b634bdf8320d22751b7543d86d",
+    "title": "Show HN: Scryer \u2013 Visual architecture modeling for AI agents",
+    "slug": "show-hn-scryer--visual-architecture-modeling-for-ai-agents",
+    "date": "2026-03-16T13:00:07Z",
+    "description": "I've been working on this desktop tool (FSL license, free for commercial use) for the past month because I now spend more time in a terminal prompting Claude Code instead of using a code editor. It generally works quite well if I ask the right questions, but \u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/aklos/scryer",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "c50511e91b42bf06c4c978ff4a00e3c6",
     "title": "MG mulls positioning shift as European production to lift prices",
     "slug": "mg-mulls-positioning-shift-as-european-production-to-lift-prices",
