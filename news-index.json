@@ -1,5 +1,44 @@
 [
   {
+    "id": "67444e8391a51591278d8c75e81325d1",
+    "title": "Meet Aman Gottumukkala: Firebender Co-founder Joins Elon Musk\u2019s xAI to Build AI Coding Tools",
+    "slug": "meet-aman-gottumukkala-firebender-cofounder-joins-elon-musks-xai-to-build-ai-cod",
+    "date": "2026-03-16T13:06:02Z",
+    "description": "Indian-origin engineer Aman Gottumukkala has joined Elon Musk\u2019s xAI. The Firebender co-founder will work on advanced AI systems designed to automate software development.",
+    "category": "AI Tools",
+    "source": "https://www.outlookbusiness.com/ampstories/news/meet-aman-gottumukkala-firebender-co-founder-joins-elon-musks-xai-to-build-ai-coding-tools-3",
+    "tags": [
+      "outlookbusiness.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "ae35798cdbcef5673fd773b36cca43e5",
+    "title": "Java News Roundup: JHipster 9.0, Project Valhalla, Spring, Helidon, OpenXava, Java Operator SDK",
+    "slug": "java-news-roundup-jhipster-90-project-valhalla-spring-helidon-openxava-java-oper",
+    "date": "2026-03-16T02:30:00Z",
+    "description": "This week's Java roundup for March 9th, 2026, features news highlighting: the GA release of JHipster 9.0; Build 27-jep401ea of Project Valhalla; point releases of Spring Tools, Helidon, OpenXava and Java Operator SDK; a maintenance release of Spring Framework\u2026",
+    "category": "AI Tools",
+    "source": "https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/",
+    "tags": [
+      "infoq.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "00af08dbc69367f77a583b98cdae0933",
+    "title": "Show HN: Catan Clock \u2013 a free PWA timer for keeping Catan turns moving",
+    "slug": "show-hn-catan-clock--a-free-pwa-timer-for-keeping-catan-turns-moving",
+    "date": "2026-03-16T02:11:12Z",
+    "description": "I built Catan Clock after playing Catan with friends last Friday night.Turns were dragging and we wanted something simple to keep the game moving. I looked for an app but most options were either generic interval timers (for things like gym sets) or required \u2026",
+    "category": "Dev News",
+    "source": "https://github.com/apasserby00/Catan-Clock/",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "81def46a13d123e66c13bc8e0d5660ea",
     "title": "Elon Musk's xAI Adds Two AI Startup Founders To Build Advanced Coding Tools",
     "slug": "elon-musks-xai-adds-two-ai-startup-founders-to-build-advanced-coding-tools",
