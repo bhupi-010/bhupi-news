@@ -1,5 +1,31 @@
 [
   {
+    "id": "8ca1ca3522e7ea8b176633312c03464c",
+    "title": "AI Coding Boom: More Software Shipped, With Little Hit to Quality",
+    "slug": "ai-coding-boom-more-software-shipped-with-little-hit-to-quality",
+    "date": "2026-03-17T13:00:01Z",
+    "description": "New data from 700 companies shows AI coding tools nearly double developer output with little quality drop.",
+    "category": "AI Tools",
+    "source": "https://www.businessinsider.com/ai-coding-boom-more-software-shipped-no-hit-quality-2026-3",
+    "tags": [
+      "businessinsider.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "51779fe173c64ded98b844c9b83b56d4",
+    "title": "OpenAI on Code Red because Claude is winning, coding tools top priority now",
+    "slug": "openai-on-code-red-because-claude-is-winning-coding-tools-top-priority-now",
+    "date": "2026-03-17T08:05:04Z",
+    "description": "OpenAI is reportedly in \u201ccode-red\u201d mode after facing tough competition from rival Anthropic\u2019s Claude. OpenAI executives have reportedly asked teams to drop side projects and prioritise productivity features to regain its lead among developers and business users.",
+    "category": "AI Tools",
+    "source": "https://www.indiatoday.in/technology/news/story/openai-on-code-red-because-claude-is-winning-coding-tools-top-priority-now-2883110-2026-03-17",
+    "tags": [
+      "indiatoday.in",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "49ad1b439e112d9623978d066fe61d99",
     "title": "OpenAI Issues \u2018Code Red\u2019 Warning As Anthropic Gains Serious Ground In AI Race",
     "slug": "openai-issues-code-red-warning-as-anthropic-gains-serious-ground-in-ai-race",
@@ -9,6 +35,19 @@
     "source": "https://www.timesnownews.com/technology-science/openai-issues-code-red-warning-as-anthropic-gains-serious-ground-in-ai-race-article-153852237",
     "tags": [
       "timesnownews.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a327ba46fab2d60da1f507fd17c7a330",
+    "title": "Rare Tattoo-Related Eye Condition Can Cause Vision Loss, Experts Warn",
+    "slug": "rare-tattoorelated-eye-condition-can-cause-vision-loss-experts-warn",
+    "date": "2026-03-17T02:23:03Z",
+    "description": "Getting a tattoo can be a thrilling, albeit painful, experience.",
+    "category": "AI Tools",
+    "source": "https://www.sciencealert.com/rare-tattoo-related-eye-condition-can-cause-vision-loss-experts-warn",
+    "tags": [
+      "sciencealert.com",
       "ai-tools"
     ]
   },
