@@ -1,5 +1,44 @@
 [
   {
+    "id": "a1e7d7734ddbd5cd5bb9ae238d86ee7f",
+    "title": "The Shifting Relationship Between Business and the U.S. Government",
+    "slug": "the-shifting-relationship-between-business-and-the-us-government",
+    "date": "2026-03-17T13:10:26Z",
+    "description": "As the Trump administration continues to reshape the U.S. and global business landscape, many have been left wondering why CEOs and other business leaders aren't vocalizing their views. Jeffrey Sonnenfeld is a professor at the Yale School of Management and ha\u2026",
+    "category": "Dev News",
+    "source": "https://hbr.org/podcast/2026/03/the-shifting-relationship-between-business-and-the-u-s-government",
+    "tags": [
+      "hbr.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "9b538a73b38fbd370f2a332c694064bb",
+    "title": "Show HN: Oh-my-agent \u2013 A structural harness for AI agents in real projects",
+    "slug": "show-hn-ohmyagent--a-structural-harness-for-ai-agents-in-real-projects",
+    "date": "2026-03-17T13:09:51Z",
+    "description": "If you ask an AI agent to build a todo app, it will usually produce something. \nBut in a real development environment, limitations become obvious: hallucinations, drifting off task, or repeating the same mistakes.Looking at current prompts and skills, a few r\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/first-fluke/oh-my-agent",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "605edad72f0bb7b3bf8aeb7e1ac2dfc6",
+    "title": "\u516c\u5f0f\u306e`create-mcp-app` \u30b9\u30ad\u30eb\u3092\u4f7f\u3063\u3066MCP App\u3092Claude Code\u3067\u4f5c\u3063\u3066\u307f\u305f",
+    "slug": "\u516c\u5f0f\u306ecreatemcpapp-\u30b9\u30ad\u30eb\u3092\u4f7f\u3063\u3066mcp-app\u3092claude-code\u3067\u4f5c\u3063\u3066\u307f\u305f",
+    "date": "2026-03-17T13:02:19Z",
+    "description": "\u516c\u5f0f\u306e`create-mcp-app` \u30b9\u30ad\u30eb\u3092\u4f7f\u3063\u3066MCP App\u3092Claude Code\u3067\u4f5c\u3063\u3066\u307f\u305f",
+    "category": "Dev News",
+    "source": "https://dev.classmethod.jp/articles/create-mcp-app-skill-pomodoro-timer/",
+    "tags": [
+      "dev.classmethod.jp",
+      "dev-news"
+    ]
+  },
+  {
     "id": "8ca1ca3522e7ea8b176633312c03464c",
     "title": "AI Coding Boom: More Software Shipped, With Little Hit to Quality",
     "slug": "ai-coding-boom-more-software-shipped-with-little-hit-to-quality",
