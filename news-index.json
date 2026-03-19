@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "e65bb672bade122d13547442619fa943",
+    "title": "Building Seamless 3D Transitions with Webflow, GSAP, and Three.js",
+    "slug": "building-seamless-3d-transitions-with-webflow-gsap-and-threejs",
+    "date": "2026-03-18T13:14:16Z",
+    "description": "Build a single, persistent Three.js scene in Webflow and drive smooth, GSAP-powered page transitions with Barba.js.",
+    "category": "Dev News",
+    "source": "https://tympanus.net/codrops/2026/03/18/building-seamless-3d-transitions-with-webflow-gsap-and-three-js/",
+    "tags": [
+      "tympanus.net",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a84f9a5ff6f9dae9eeb8263ba1f1e489",
+    "title": "Lucky Tower Ultimate's Full Version Will Finally Climb Out This April",
+    "slug": "lucky-tower-ultimates-full-version-will-finally-climb-out-this-april",
+    "date": "2026-03-18T13:13:08Z",
+    "description": "Indie game developer Studio Seufz and publisher AMC Games have confirmed the official rellease date for Lucky\u00a0Tower Ultimate. After having a somewhat lengthy Early Access period with a few fun updates, the slapstick fantasy dungeon crawler is finally going to\u2026",
+    "category": "Dev News",
+    "source": "https://bleedingcool.com/games/lucky-tower-ultimates-full-version-will-finally-climb-out-this-april/",
+    "tags": [
+      "bleedingcool.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "25cb7b4892e810420c2c18216fb628e6",
+    "title": "Daniel Jeremiah mock draft: Giants get LB Sonny Styles with No. 5 pick",
+    "slug": "daniel-jeremiah-mock-draft-giants-get-lb-sonny-styles-with-no-5-pick",
+    "date": "2026-03-18T13:04:26Z",
+    "description": "Jeremiah says Styles would be \u201ca monster\u201d in the middle for New York.",
+    "category": "Dev News",
+    "source": "https://www.bigblueview.com/new-york-giants-draft/157281/daniel-jeremiah-mock-draft-sonny-styles-with-no-5-pick-analysis",
+    "tags": [
+      "bigblueview.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "8aa4c6f2fe68fe07f04a2920bd034905",
     "title": "Uber CTO Says It's Seeing 'Phenomenal' Results From AI Coding",
     "slug": "uber-cto-says-its-seeing-phenomenal-results-from-ai-coding",
