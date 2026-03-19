@@ -1,5 +1,44 @@
 [
   {
+    "id": "5a711c486553412778e8ad0a6bba9d10",
+    "title": "Apple Quietly Blocks Updates for Popular 'Vibe Coding' Apps",
+    "slug": "apple-quietly-blocks-updates-for-popular-vibe-coding-apps",
+    "date": "2026-03-18T13:46:18Z",
+    "description": "Apple has quietly blocked AI \"vibe coding\" apps, such as Replit and Vibecode, from releasing App Store updates unless they make changes, The Information reports. \"Vibe coding\" tools allow users with little to no programming experience to build apps or websites using natural language prompts. Their accessibility has driven rapid adoption among both developers and non-technical users.",
+    "category": "AI Tools",
+    "source": "https://www.macrumors.com/2026/03/18/apple-blocks-updates-for-vibe-coding-apps/",
+    "tags": [
+      "macrumors.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "8aa4c6f2fe68fe07f04a2920bd034905",
+    "title": "Uber CTO Says It's Seeing 'Phenomenal' Results From AI Coding",
+    "slug": "uber-cto-says-its-seeing-phenomenal-results-from-ai-coding",
+    "date": "2026-03-18T12:18:42Z",
+    "description": "Uber has been ramping up its use of AI coding tools, and the company's CTO says in some cases code is \"written entirely by AI agents.\"",
+    "category": "AI Tools",
+    "source": "https://www.businessinsider.com/uber-cto-ai-coding-agentic-software-engineers-2026-3",
+    "tags": [
+      "businessinsider.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e9ebcd40be380defcbfe91a483d9b293",
+    "title": "Show HN: Local-first documentation MCP for AI agents",
+    "slug": "show-hn-localfirst-documentation-mcp-for-ai-agents",
+    "date": "2026-03-18T02:32:06Z",
+    "description": "Open source prebuilt packages for React, Django, Spring Boot, and hundreds more. Local-first, version-specific, and completely free. PRs welcome.\n\nComments URL: https://news.ycombinator.com/item?id=47420966\nPoints: 1\n# Comments: 0",
+    "category": "Frontend",
+    "source": "https://neuledge.com/",
+    "tags": [
+      "neuledge.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "b149f0c7e8cbd144e860cb28c84f957c",
     "title": "A Dad Gave A Boy Who Wet Himself A Pair Of His Daughter\u2019s Pants To Borrow, And His Wife Got Upset With Him About It",
     "slug": "a-dad-gave-a-boy-who-wet-himself-a-pair-of-his-daughters-pants-to-borrow-and-his",
