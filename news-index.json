@@ -1,5 +1,44 @@
 [
   {
+    "id": "51f4faa9e6773d3537e5c3962023fcd7",
+    "title": "OpenAI to buy Python toolmaker Astral to take on Anthropic",
+    "slug": "openai-to-buy-python-toolmaker-astral-to-take-on-anthropic-51f4fa",
+    "date": "2026-03-20T03:57:27Z",
+    "description": "OpenAI acquires Python toolmaker Astral to strengthen its portfolio against rival Anthropic and gain more share in the AI coding tools market. The deal will bring Astral\u2019s tools into OpenAI\u2019s Codex platform, which has over 2 million weekly active users. Astral\u2019s tools are known for improving speed and reliability in Python development.",
+    "category": "AI Tools",
+    "source": "https://indianexpress.com/shorts/technology/openai-to-buy-python-toolmaker-astral-to-take-on-anthropic-10591560/",
+    "tags": [
+      "indianexpress.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "babfd055be814e1fdb3d0d02aeac5afd",
+    "title": "OpenAI to buy Python toolmaker and revamp ChatGPT",
+    "slug": "openai-to-buy-python-toolmaker-and-revamp-chatgpt",
+    "date": "2026-03-20T03:35:48Z",
+    "description": "OpenAI said on Thursday it will buy Python toolmaker Astral, as the ChatGPT maker seeks to strengthen its portfolio against rival Anthropic to gain more share in the artificial intelligence coding tools market.",
+    "category": "AI Tools",
+    "source": "https://www.thehindu.com/sci-tech/technology/openai-chatgpt-revamp-python-buy/article70764152.ece",
+    "tags": [
+      "thehindu.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "84dd76d339818a597b454221a0629a81",
+    "title": "Google brings vibe coding to production apps with new AI Studio upgrade",
+    "slug": "google-brings-vibe-coding-to-production-apps-with-new-ai-studio-upgrade",
+    "date": "2026-03-19T17:40:24Z",
+    "description": "Google upgrades AI Studio with Antigravity agent, enabling developers to build full apps with backend, auth, and deployment from prompts.\nThe post Google brings vibe coding to production apps with new AI Studio upgrade appeared first on Crypto Briefing.",
+    "category": "AI Tools",
+    "source": "https://cryptobriefing.com/google-ai-studio-upgrade-antigravity/",
+    "tags": [
+      "cryptobriefing.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "14fb24cc75651c1eff3dd1b8a7b4c907",
     "title": "OpenAI to buy Python toolmaker Astral to take on Anthropic",
     "slug": "openai-to-buy-python-toolmaker-astral-to-take-on-anthropic",
