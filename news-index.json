@@ -1,5 +1,44 @@
 [
   {
+    "id": "14fb24cc75651c1eff3dd1b8a7b4c907",
+    "title": "OpenAI to buy Python toolmaker Astral to take on Anthropic",
+    "slug": "openai-to-buy-python-toolmaker-astral-to-take-on-anthropic",
+    "date": "2026-03-19T16:52:00Z",
+    "description": "March 19 (Reuters) - OpenAI \u2060said on Thursday it will acquire Python \u2060toolmaker Astral, as the ChatGPT owner looks \u200cto strengthen its portfolio against rival Anthropic and gain more share in the artificial intelligence coding tools market.",
+    "category": "AI Tools",
+    "source": "https://www.thestar.com.my/tech/tech-news/2026/03/20/openai-to-buy-python-toolmaker-astral-to-take-on-anthropic",
+    "tags": [
+      "thestar.com.my",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "248b42770ffc30b5316d3b6b2f0154b5",
+    "title": "OpenAI to buy Python toolmaker Astral to take on Anthropic",
+    "slug": "openai-to-buy-python-toolmaker-astral-to-take-on-anthropic-248b42",
+    "date": "2026-03-19T14:34:00Z",
+    "description": "OpenAI said on Thursday it will acquire Python toolmaker Astral, as the ChatGPT owner looks to strengthen its portfolio against rival Anthropic and gain more share in the artificial intelligence coding tools market.",
+    "category": "AI Tools",
+    "source": "https://www.manilatimes.net/2026/03/19/business/sunday-business-it/openai-to-buy-python-toolmaker-astral-to-take-on-anthropic/2303911",
+    "tags": [
+      "manilatimes.net",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "43206b5f1ce0cafaf990e62ae22f78fa",
+    "title": "OMOWAY: The Tesla of 2-Wheelers Is Charting Its Course With OMO X and Mobility One Wheeled Robot",
+    "slug": "omoway-the-tesla-of-2wheelers-is-charting-its-course-with-omo-x-and-mobility-one",
+    "date": "2026-03-19T06:41:27Z",
+    "description": "This post is brought to you by OMOWAY. The production of OMO X, the world\u2019s first mass-produced self-balancing intelligent electric motorcycle, has officially begun. This is one of the major revelations that took place at the recent OMOWAY Global Tech Launch \u2026",
+    "category": "Dev News",
+    "source": "https://soyacincau.com/2026/03/19/omoway-tesla-of-2-wheelers-omo-x-mobility-one/",
+    "tags": [
+      "soyacincau.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "e37b96c8fe1e545d992540b75ac8b2ff",
     "title": "Changeset [62050]: Build/Test Tools: Update npm `devDependencies`. This updates the ...",
     "slug": "changeset-62050-buildtest-tools-update-npm-devdependencies-this-updates-the",
