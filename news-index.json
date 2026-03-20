@@ -1,5 +1,44 @@
 [
   {
+    "id": "e37b96c8fe1e545d992540b75ac8b2ff",
+    "title": "Changeset [62050]: Build/Test Tools: Update npm `devDependencies`. This updates the ...",
+    "slug": "changeset-62050-buildtest-tools-update-npm-devdependencies-this-updates-the",
+    "date": "2026-03-19T01:09:10Z",
+    "description": "Build/Test Tools: Update npm devDependencies.\n\n\nThis updates the following devDependencies:\n\n<ul><li>@playwright/test from 1.56.1 to 1.58.2\n</li><li>@pmmmwh/react-refresh-webpack-plugin from 0.6.1 to 0.6.2\n</li><li>@types/jquery from 3.5.33 to 3.5.34\n</li><li\u2026",
+    "category": "Frontend",
+    "source": "https://core.trac.wordpress.org/changeset/62050",
+    "tags": [
+      "core.trac.wordpress.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "770e38bb1762d88c650f9f56e8838f0f",
+    "title": "Michigan coach Whittingham talks team talent, QB1 Bryce Underwood",
+    "slug": "michigan-coach-whittingham-talks-team-talent-qb1-bryce-underwood",
+    "date": "2026-03-19T00:45:25Z",
+    "description": "Michigan football coach Kyle Whittingham discusses team talent, QB Bryce Underwood, run game, and injury updates after spring practice.",
+    "category": "Dev News",
+    "source": "https://wolverineswire.usatoday.com/story/sports/college/wolverines/football/2026/03/18/reacting-to-michigan-football-coach-whittingham-on-spring-practice/89220374007/",
+    "tags": [
+      "wolverineswire.usatoday.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "4eb044b5dd761945e4f0bb1275c894be",
+    "title": "Volumetric 3D printing of a fluoropolymer and closed-loop chemical recycling of its fluorinated content",
+    "slug": "volumetric-3d-printing-of-a-fluoropolymer-and-closedloop-chemical-recycling-of-i",
+    "date": "2026-03-19T00:00:00Z",
+    "description": "The chemical stability of fluorinated polymers leads to long-term environmental persistence, rendering end-of-life management essential. Here the authors report a fluorinated photoresist that enables tomographic volumetric 3D printing with closed loop chemica\u2026",
+    "category": "Dev News",
+    "source": "https://www.nature.com/articles/s41467-026-70897-z",
+    "tags": [
+      "nature.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "8b9219788562e73ad46abd93de02053f",
     "title": "A24 Sets a Bloodsport Remake From Michaela Coel",
     "slug": "a24-sets-a-bloodsport-remake-from-michaela-coel",
