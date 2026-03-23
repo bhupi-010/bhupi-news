@@ -1,5 +1,44 @@
 [
   {
+    "id": "e4cf532a8b47213d94eb83ac11c5b7bd",
+    "title": "django-icv-search added to PyPI",
+    "slug": "djangoicvsearch-added-to-pypi",
+    "date": "2026-03-22T12:17:59Z",
+    "description": "Pluggable search engine integration for Django \u2014 index management, document indexing, and search queries with swappable backends.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/django-icv-search/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "18ca2c61553b32fc778805d0f2413df0",
+    "title": "sunnah added to PyPI",
+    "slug": "sunnah-added-to-pypi",
+    "date": "2026-03-22T11:53:29Z",
+    "description": "Interactive CLI installer and manager for all Sunnah hadith packages (npm + PyPI)",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/sunnah/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f27a6b99c9d024415d68ac143a25aabf",
+    "title": "Screamer review",
+    "slug": "screamer-review",
+    "date": "2026-03-22T11:00:00Z",
+    "description": "A battle cry against samey racers, but Screamer drifts wide of excellence",
+    "category": "AI Tools",
+    "source": "https://www.pcgamer.com/games/racing/screamer-review/",
+    "tags": [
+      "pcgamer.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "f5c651573b173c330a0a8d2d3c2491b7",
     "title": "Bigg Boss 19\u2019s Nagma Mirajkar celebrates Eid without Awez Darbar amid breakup rumours; fans react",
     "slug": "bigg-boss-19s-nagma-mirajkar-celebrates-eid-without-awez-darbar-amid-breakup-rum",
