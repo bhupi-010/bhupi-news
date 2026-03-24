@@ -1,5 +1,44 @@
 [
   {
+    "id": "aeaabcfb59d495304cc86688e6c0bc6e",
+    "title": "Built with Django \u2014 Weekly Roundup (Mar 16\u2013Mar 23, 2026)",
+    "slug": "built-with-django--weekly-roundup-mar-16mar-23-2026",
+    "date": "2026-03-23T13:20:43Z",
+    "description": "Hey, Happy Monday!\n\nWhy are you getting this: *You signed up to receive this newsletter on Built with Django. I promised to send you the latest projects and jobs on the site as well as any other interesting Django content I encountered during the month. If yo\u2026",
+    "category": "Dev News",
+    "source": "https://newsletter.builtwithdjango.com/archive/built-with-django-weekly-roundup-mar-16-mar-23/",
+    "tags": [
+      "newsletter.builtwithdjango.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a7f6256febf905daa8a14d109e271e6a",
+    "title": "Confronting the CEO of the AI company that impersonated me",
+    "slug": "confronting-the-ceo-of-the-ai-company-that-impersonated-me",
+    "date": "2026-03-23T13:13:49Z",
+    "description": "Today, I\u2019m talking with Shishir Mehrotra, who is CEO of Superhuman \u2014 that\u2019s the company formerly known as Grammarly, which is still its flagship product.\u00a0 Shishir also used to be the chief product officer at YouTube, and he\u2019s on the board of directors at Spot\u2026",
+    "category": "AI Tools",
+    "source": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+    "tags": [
+      "theverge.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "d95312c05eec24a9bcc52310d78425db",
+    "title": "PDI Technologies Helps EMEA Retailers Operate Smarter at UNITI expo 2026",
+    "slug": "pdi-technologies-helps-emea-retailers-operate-smarter-at-uniti-expo-2026",
+    "date": "2026-03-23T13:01:56Z",
+    "description": "Returning as a Cooperation Partner, PDI showcases data-driven solutions and emerging AI capabilities that simplify operations, strengthen performance, and improve decision making FRANKFURT, Germany, March 23, 2026 (GLOBE NEWSWIRE) \u2014 PDI Technologies, a global\u2026",
+    "category": "AI Tools",
+    "source": "https://financialpost.com/globe-newswire/pdi-technologies-helps-emea-retailers-operate-smarter-at-uniti-expo-2026",
+    "tags": [
+      "financialpost.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "dd3da65e03c3cb15030748f91cc9de25",
     "title": "Pro-Kremlin blogger turns on Putin, sent to psychiatric care",
     "slug": "prokremlin-blogger-turns-on-putin-sent-to-psychiatric-care",
