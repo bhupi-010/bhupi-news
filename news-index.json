@@ -1,5 +1,44 @@
 [
   {
+    "id": "e59eb4a2559dd84716b14be8b2eba04a",
+    "title": "TWiT 1076: I'm Monitoring the Situation - Meta's Horizon Worlds Stays Alive Against The Odds",
+    "slug": "twit-1076-im-monitoring-the-situation--metas-horizon-worlds-stays-alive-against-",
+    "date": "2026-03-23T02:29:45Z",
+    "description": "Elon Musk faces a multi-billion dollar verdict after a California jury finds his tweets misled Twitter shareholders, raising the stakes for tech CEOs with unchecked social media influence. Plus, CBS kills its legendary radio news service while podcasting expl\u2026",
+    "category": "AI Tools",
+    "source": "https://twit.tv/shows/this-week-in-tech/episodes/1076",
+    "tags": [
+      "twit.tv",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "4e204dd702fa292acabd268959723aea",
+    "title": "prumo added to PyPI",
+    "slug": "prumo-added-to-pypi",
+    "date": "2026-03-23T01:53:50Z",
+    "description": "Convert any docs site into llms.txt for AI agents",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/prumo/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "2ea7f3d093d89f334eb801079fb46b87",
+    "title": "\"Collaboration\" Is Bullshit",
+    "slug": "collaboration-is-bullshit",
+    "date": "2026-03-23T01:43:45Z",
+    "description": "This newsletter is free to read, and it\u2019ll stay that way. But if you want more - extra posts each month, access to the community, and a direct line to ask me things - paid subscriptions are $2.50/month. A lot of people have told me it\u2019s worth it.\n\n\n\n\n\n\nUpgrad\u2026",
+    "category": "AI Tools",
+    "source": "https://www.joanwestenberg.com/collaboration-is-bullshit/",
+    "tags": [
+      "joanwestenberg.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "81d3e7e2611a1a0933280aef585833ff",
     "title": "LSU basketball star Flau\u2019jae Johnson, Lane Kiffin link before final PMAC game",
     "slug": "lsu-basketball-star-flaujae-johnson-lane-kiffin-link-before-final-pmac-game",
