@@ -1,5 +1,44 @@
 [
   {
+    "id": "5b2829c51ae334463376620fe0f97888",
+    "title": "OpenAI pulls AI video app Sora as concerns grow on deepfake videos",
+    "slug": "openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos",
+    "date": "2026-03-25T04:59:56Z",
+    "description": "This is first big step by ChatGPT maker to focus its business on potentially more lucrative areas, such as coding tools.",
+    "category": "AI Tools",
+    "source": "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos",
+    "tags": [
+      "aljazeera.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "af10af4ccc2d020b3a9cb0fcf9d5f9b1",
+    "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+    "slug": "show-hn-i-took-back-videojs-after-16-years-and-we-rewrote-it-to-be-88-smaller",
+    "date": "2026-03-24T18:03:48Z",
+    "description": "What do you do when private equity buys your old company and fires the maintainers of the popular open source project you started over a decade ago? You reboot it, and bring along some new friends to do it.Video.js is used by billions of people every month, o\u2026",
+    "category": "AI Tools",
+    "source": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+    "tags": [
+      "videojs.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "10cee17bba6e70219693e8fef433d4cd",
+    "title": "Yankees send former Rookie of the Year to Triple-A immediately before Opening Day",
+    "slug": "yankees-send-former-rookie-of-the-year-to-triplea-immediately-before-opening-day",
+    "date": "2026-03-24T17:46:41Z",
+    "description": "The New York Yankees felt good enough about their starting rotation without Luis Gil, they're sending the 2024 American League Rookie of the Year to Triple-A. The decision comes one day before the Yankees play the San Francisco Giants on Opening Day of the 20\u2026",
+    "category": "Dev News",
+    "source": "https://www.thebiglead.com/yankees-send-rookie-of-the-year-to-triple-a-one-day-before-opening-day/",
+    "tags": [
+      "thebiglead.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "e7a5e058360d709c758501667517075c",
     "title": "Mushrooms Inc. (OTC: MSRM) Achieves Proof of Concept for MycoLabX Infection-Detection Technology and Provides Strategic Update",
     "slug": "mushrooms-inc-otc-msrm-achieves-proof-of-concept-for-mycolabx-infectiondetection",
