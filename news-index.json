@@ -1,5 +1,18 @@
 [
   {
+    "id": "ba78e16fb42159ee98ee5272b01474aa",
+    "title": "AI notetaker Granola hits $1.5 billion value in $125 million funding",
+    "slug": "ai-notetaker-granola-hits-15-billion-value-in-125-million-funding",
+    "date": "2026-03-25T14:07:06Z",
+    "description": "Granola, an AI notetaking startup, is raising $125 million at a $1.5 billion valuation, led by Index Ventures, with support from Kleiner Perkins, Lightspeed Venture Partners and Spark Capital. Alongside the funding, the startup is launching new features for its app, including integrations with AI coding tools like Anthropic PBC\u2019s Claude Code, as well as team workspaces where employees can pool their notes.",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/tech/funding/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding/articleshow/129803368.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "5b2829c51ae334463376620fe0f97888",
     "title": "OpenAI pulls AI video app Sora as concerns grow on deepfake videos",
     "slug": "openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos",
@@ -9,6 +22,32 @@
     "source": "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos",
     "tags": [
       "aljazeera.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "fc0d1707b4bddc4d8f24effc0f94c053",
+    "title": "Two Of Scrubs\u2019 New Characters Are Extremely Protective Of Sarah Chalke\u2019s Elliot, And I Learned Why",
+    "slug": "two-of-scrubs-new-characters-are-extremely-protective-of-sarah-chalkes-elliot-an",
+    "date": "2026-03-25T01:32:59Z",
+    "description": "They're looking out for their girl!",
+    "category": "Dev News",
+    "source": "https://www.cinemablend.com/interviews/two-scrubs-new-characters-protective-sarah-chalke-elliot-michael-james-scott",
+    "tags": [
+      "cinemablend.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "92bec6b7f6f5a2f5807f59a9b7b7c753",
+    "title": "New NFL Rule Could Prevent Another Detroit Lions Controversy",
+    "slug": "new-nfl-rule-could-prevent-another-detroit-lions-controversy",
+    "date": "2026-03-25T00:52:38Z",
+    "description": "A new NFL rule proposal aims to fix a missed call that impacted the Detroit Lions, allowing officials to eject players for unseen flagrant acts.",
+    "category": "AI Tools",
+    "source": "https://detroitsportsnation.com/nfl-rule-change-detroit-lions-2026-proposal/jeff/detroit-lions/03/24/2026/484991/",
+    "tags": [
+      "detroitsportsnation.com",
       "ai-tools"
     ]
   },
