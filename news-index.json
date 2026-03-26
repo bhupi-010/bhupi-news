@@ -1,5 +1,44 @@
 [
   {
+    "id": "d17dc8261012018fe5c59f27a50bbd69",
+    "title": "Unlocking video insights at scale with Amazon Bedrock multimodal models",
+    "slug": "unlocking-video-insights-at-scale-with-amazon-bedrock-multimodal-models",
+    "date": "2026-03-25T18:57:15Z",
+    "description": "In this post, we explore how the multimodal foundation models (FMs) of Amazon Bedrock enable scalable video understanding through three distinct architectural approaches. Each approach is designed for different use cases and cost-performance trade-offs.",
+    "category": "Dev News",
+    "source": "https://aws.amazon.com/blogs/machine-learning/unlocking-video-insights-at-scale-with-amazon-bedrock-multimodal-models/",
+    "tags": [
+      "aws.amazon.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "dcdcbe8d5706cbe8abfc9bf1dd72288d",
+    "title": "Meta and OpenAI's compute crunch gives Arm a big opportunity",
+    "slug": "meta-and-openais-compute-crunch-gives-arm-a-big-opportunity",
+    "date": "2026-03-25T18:55:51Z",
+    "description": "Arm CEO Rene Haas announced the Arm AGI CPU, partnering with AI giants Meta and OpenAI to tackle energy-efficient AI computing needs.",
+    "category": "AI Tools",
+    "source": "https://www.businessinsider.com/arm-unveils-ai-chip-partners-with-meta-openai-2026-3",
+    "tags": [
+      "businessinsider.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "1498888dd269398b88964874a903d500",
+    "title": "On\u2019s Second CEO Change in a Year Could Indicate Bigger Issues at the\u00a0Company",
+    "slug": "ons-second-ceo-change-in-a-year-could-indicate-bigger-issues-at-thecompany",
+    "date": "2026-03-25T18:40:16Z",
+    "description": "Analysts and Wall Street react after On Holding announced an update to its top CEO leadership structure on Wednesday, its second in one year.",
+    "category": "Frontend",
+    "source": "http://wwd.com/footwear-news/shoe-industry-news/on-running-ceo-analyst-reaction-stock-market-1238689220/",
+    "tags": [
+      "wwd.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "703b0c5bfd0c9ae2e59167c9c909c1f6",
     "title": "OpenAI Enters Its Focus Era by Killing Sora",
     "slug": "openai-enters-its-focus-era-by-killing-sora",
