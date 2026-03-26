@@ -26,6 +26,45 @@
     ]
   },
   {
+    "id": "e7e0ab9f47b5e149b3df4c502cfc36fe",
+    "title": "article-management-system added to PyPI",
+    "slug": "articlemanagementsystem-added-to-pypi",
+    "date": "2026-03-25T13:12:05Z",
+    "description": "A Flask-based Articles Management System with SEO optimization, admin panel, and maintenance features",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/article-management-system/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "7e258c533510dcb05157a500e7f3018b",
+    "title": "I built a personal web page with AI in 5 minutes. You can too!",
+    "slug": "i-built-a-personal-web-page-with-ai-in-5-minutes-you-can-too",
+    "date": "2026-03-25T13:00:00Z",
+    "description": "I\u2019ve been chatting with ChatGPT, Claude, and Gemini for years, but nothing prepared me for the first time I started vibe coding with them.\r\n\n\n\n\nMy first taste of vibe coding with AI came courtesy of Google\u2019s Antigravity software, which lets Gemini and other A\u2026",
+    "category": "AI Tools",
+    "source": "https://www.pcworld.com/article/3096435/i-built-a-personal-web-page-with-ai-in-5-minutes-you-can-too.html",
+    "tags": [
+      "pcworld.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b0a99f4a3a7e29397b564a75a05485d5",
+    "title": "Ravyn Lenae Has Been Living in the Future. The World is Catching Up",
+    "slug": "ravyn-lenae-has-been-living-in-the-future-the-world-is-catching-up",
+    "date": "2026-03-25T13:00:00Z",
+    "description": "Chicago R&B singer Ravyn Lenae tells us about her hit \"Love Me Not,\" her rise through the music industry, and the new music she's working on now",
+    "category": "Dev News",
+    "source": "http://www.rollingstone.com/music/music-features/ravyn-lenae-love-me-not-new-music-interview-1235528694/",
+    "tags": [
+      "rollingstone.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "870a7aa1b99a5cc0a4fb3fd5e8f0a6e4",
     "title": "The Agentic Era: Why AI Fitness Is the Real Foundation of the Agentic Workforce",
     "slug": "the-agentic-era-why-ai-fitness-is-the-real-foundation-of-the-agentic-workforce",
