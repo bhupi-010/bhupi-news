@@ -1,5 +1,44 @@
 [
   {
+    "id": "f243b6cef681b268f709800036d09ed7",
+    "title": "nodeqmindmap added to PyPI",
+    "slug": "nodeqmindmap-added-to-pypi",
+    "date": "2026-03-28T02:48:44Z",
+    "description": "Python port of nodeq-mindmap: MindMapNode data model and ETL pipeline engine",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/nodeqmindmap/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a68d2837fd0eb3bdaad6c0a0014c95d0",
+    "title": "unchainedsky-cli added to PyPI",
+    "slug": "unchainedskycli-added-to-pypi",
+    "date": "2026-03-28T02:22:29Z",
+    "description": "Browser automation CLI over local Chrome CDP \u2014 DDM-first methodology for LLM agents",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/unchainedsky-cli/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "fbb387b199f1d42f2cccccb944e8a7d6",
+    "title": "Multiplayer Railway Management Sim Rail Estate Announced",
+    "slug": "multiplayer-railway-management-sim-rail-estate-announced",
+    "date": "2026-03-28T00:45:08Z",
+    "description": "Developer and publisher Holonautic revealed their latest game in the works, as we got our first look at the railway management simulator title, Rail Estate. This is a competitive title in which you and other players are competing to place bids on railways, wh\u2026",
+    "category": "AI Tools",
+    "source": "https://bleedingcool.com/games/multiplayer-railway-management-sim-rail-estate-announced/",
+    "tags": [
+      "bleedingcool.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "7b791b672aafddc88bbb5e5e78aa4661",
     "title": "WATCH: Fans react to 'Love Story' finale",
     "slug": "watch-fans-react-to-love-story-finale",
