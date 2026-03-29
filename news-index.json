@@ -1,5 +1,44 @@
 [
   {
+    "id": "cdb7440c0acfaddd67d81a7f6b7bbee5",
+    "title": "Conspiracy Theories Abound After a Suspicious Spike in Oil Markets.",
+    "slug": "conspiracy-theories-abound-after-a-suspicious-spike-in-oil-markets",
+    "date": "2026-03-28T07:00:00Z",
+    "description": "A flurry of activity renewed concerns about insider trading in the Trump administration.",
+    "category": "Dev News",
+    "source": "https://slate.com/podcasts/slate-money/2026/03/business-oil-market-spike-is-suspiciously-timed",
+    "tags": [
+      "slate.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "997c6cb6c4c6521d0eecfc5a3d30c0b1",
+    "title": "Slate Money - Trade or Treason?",
+    "slug": "slate-money--trade-or-treason",
+    "date": "2026-03-28T07:00:00Z",
+    "description": "This week: Just minutes before Trump posted about talks with Iran, oil markets saw a flurry of activity. Conspiracy theories followed. Felix Salmon, Elizabeth Spiers, and Emily Peck dissect the suspicious timing of those trades and the possibility of insider \u2026",
+    "category": "Dev News",
+    "source": "https://shows.acast.com/slate-money/episodes/69c6d2b7119926ec10665683",
+    "tags": [
+      "shows.acast.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7754fe463cf03574fb62576b7e61d34b",
+    "title": "Woman Lent His Parents Money When They Were Struggling, So She Got Angry When They Couldn\u2019t Pay Her Back Now That They Are Doing Better",
+    "slug": "woman-lent-his-parents-money-when-they-were-struggling-so-she-got-angry-when-the",
+    "date": "2026-03-28T06:21:58Z",
+    "description": "Funny how \u201cfamily helps family\u201d sometimes disappears when it\u2019s time to pay back your debt.",
+    "category": "Dev News",
+    "source": "http://twistedsifter.com/2026/03/woman-lent-his-parents-money-when-they-were-struggling-so-she-got-angry-when-they-couldnt-pay-her-back-now-that-they-are-doing-better/",
+    "tags": [
+      "twistedsifter.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f243b6cef681b268f709800036d09ed7",
     "title": "nodeqmindmap added to PyPI",
     "slug": "nodeqmindmap-added-to-pypi",
