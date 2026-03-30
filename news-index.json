@@ -1,5 +1,44 @@
 [
   {
+    "id": "46f9b02b34d89fac59e0fdf70e6f8e90",
+    "title": "A Beginner\u2019s Guide to Bird Photography: Strategies to Capture Better Bird Photos",
+    "slug": "a-beginners-guide-to-bird-photography-strategies-to-capture-better-bird-photos",
+    "date": "2026-03-29T19:00:25Z",
+    "description": "Bird photography is one of the most rewarding and yet challenging genres of photography. Here are some tips for better avian photos, along with why photographing birds is good for you.\n[Read More]",
+    "category": "Dev News",
+    "source": "https://petapixel.com/2026/03/29/a-beginners-guide-to-bird-photography-strategies-to-capture-better-bird-photos/",
+    "tags": [
+      "petapixel.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "88c1d48ca70d4e4d17e030c92138919e",
+    "title": "Show HN: AgentLens \u2013 Chrome DevTools for AI Agents (open-source, self-hosted)",
+    "slug": "show-hn-agentlens--chrome-devtools-for-ai-agents-opensource-selfhosted",
+    "date": "2026-03-29T18:17:27Z",
+    "description": "Article URL: https://github.com/tranhoangtu-it/agentlens\nComments URL: https://news.ycombinator.com/item?id=47565649\nPoints: 1\n# Comments: 0",
+    "category": "AI Tools",
+    "source": "https://github.com/tranhoangtu-it/agentlens",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "47f4b845eb8915ed70e0f754be2dedc9",
+    "title": "pandapower-viz added to PyPI",
+    "slug": "pandapowerviz-added-to-pypi",
+    "date": "2026-03-29T18:14:13Z",
+    "description": "Interactive web visualizer for pandapower networks",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/pandapower-viz/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "eafac29f76af9c1eb4a0d2bc8d009612",
     "title": "A stranded whale in Germany\u2019s Baltic Sea weakens as hopes of its return to the Atlantic fade",
     "slug": "a-stranded-whale-in-germanys-baltic-sea-weakens-as-hopes-of-its-return-to-the-at",
