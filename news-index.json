@@ -1,5 +1,44 @@
 [
   {
+    "id": "c8a007f9fe54ef12f1f5517f7399dac0",
+    "title": "Pretext",
+    "slug": "pretext",
+    "date": "2026-03-30T02:42:29Z",
+    "description": "Exciting new browser library from Cheng Lou, previously a React core developer and the original creator of the react-motion animation library. Pretext solves the problem of calculating the height of \u2026",
+    "category": "Frontend",
+    "source": "https://simonwillison.net/2026/Mar/29/pretext/",
+    "tags": [
+      "simonwillison.net",
+      "frontend"
+    ]
+  },
+  {
+    "id": "0cb5bd4c6e6069cfa74f712a8bd66291",
+    "title": "Photos explore psychological drama of Australian rural life",
+    "slug": "photos-explore-psychological-drama-of-australian-rural-life",
+    "date": "2026-03-30T01:00:00Z",
+    "description": "Western Australian documentary photographer Brad Rimmer's beautiful, melancholy images of Wheatbelt life sprawl through Fremantle gallery.",
+    "category": "Dev News",
+    "source": "https://www.abc.net.au/news/2026-03-30/brad-rimmer-loom-of-the-land-photography/106484020",
+    "tags": [
+      "abc.net.au",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "b2ca1ebcdad0c81c66516418afc94647",
+    "title": "Quantum simulations verified by experiments for the first time",
+    "slug": "quantum-simulations-verified-by-experiments-for-the-first-time",
+    "date": "2026-03-30T00:00:00Z",
+    "description": "Physicists cross-checked quantum computer predictions against experimental data about materials' properties.",
+    "category": "AI Tools",
+    "source": "https://www.nature.com/articles/d41586-026-00959-1",
+    "tags": [
+      "nature.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "46f9b02b34d89fac59e0fdf70e6f8e90",
     "title": "A Beginner\u2019s Guide to Bird Photography: Strategies to Capture Better Bird Photos",
     "slug": "a-beginners-guide-to-bird-photography-strategies-to-capture-better-bird-photos",
