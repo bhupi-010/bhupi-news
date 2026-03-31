@@ -1,5 +1,44 @@
 [
   {
+    "id": "6090f5ec114d983675f20726ccb5390e",
+    "title": "Ryan Gosling Accepts Deidre Hall\u2019s Offer to Visit \u2018Days Of Our Lives\u2019 After Sweet Exchange",
+    "slug": "ryan-gosling-accepts-deidre-halls-offer-to-visit-days-of-our-lives-after-sweet-e",
+    "date": "2026-03-30T13:35:30Z",
+    "description": "Ryan Gosling and Days of Our Lives star Deirdre Hall had a back and forth about soap operas. She invited him to the set and he gladly accepted.",
+    "category": "Dev News",
+    "source": "https://www.today.com/popculture/tv/ryan-gosling-deidre-hall-days-of-our-lives-invitation-rcna265780",
+    "tags": [
+      "today.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "1fbc6f3f6ac9fa533f43e44c58fe1a13",
+    "title": "Show HN: Phantom \u2013 Open-source AI agent on its own VM that rewrites its config",
+    "slug": "show-hn-phantom--opensource-ai-agent-on-its-own-vm-that-rewrites-its-config",
+    "date": "2026-03-30T13:30:00Z",
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK. - ghostwright/phantom",
+    "category": "AI Tools",
+    "source": "https://github.com/ghostwright/phantom",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "4e0504e450b73097712ed549e0bf8d43",
+    "title": "Show HN: Visual drag&drop workflow builder to our open-source AI agent platform",
+    "slug": "show-hn-visual-dragdrop-workflow-builder-to-our-opensource-ai-agent-platform",
+    "date": "2026-03-30T13:26:47Z",
+    "description": "Build your AI team with Crewform. Orchestrate specialized, autonomous agents to collaborate on complex tasks and connect outputs to your stack. \u2014 AI Orchestration for Everyone - CrewForm/crewform",
+    "category": "AI Tools",
+    "source": "https://github.com/CrewForm/crewform",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "6d109020a9210677d3536465af3048f3",
     "title": "Gothic Masquerade Ball in Milwaukee",
     "slug": "gothic-masquerade-ball-in-milwaukee",
