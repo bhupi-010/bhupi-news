@@ -1,5 +1,44 @@
 [
   {
+    "id": "54c94ca71f50c6aac4558debffbc7e9c",
+    "title": "Show HN: Zeroback \u2013 open-source realtime back end on Cloudflare Durable Objects",
+    "slug": "show-hn-zeroback--opensource-realtime-back-end-on-cloudflare-durable-objects",
+    "date": "2026-03-30T19:07:12Z",
+    "description": "Hey HN!I've been reading HN for ~10 years always wanted to post something. Figured I should finally ship and share.I've been building on Cloudflare. I liked the platform a lot, but every new project started to feel the same: set up a DB, write migrations, exp\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/zerodeploy-dev/zeroback",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "bf478e88e1707646da18e8fe0500bcc7",
+    "title": "The White House App\u2019s Propaganda Is The Least Alarming Thing About It",
+    "slug": "the-white-house-apps-propaganda-is-the-least-alarming-thing-about-it",
+    "date": "2026-03-30T18:00:00Z",
+    "description": "Call me crazy, but I don\u2019t think an official government app should be loading executable code from a random person\u2019s GitHub account. Or tracking your GPS location in the background. Or silently stripping privacy consent dialogs from every website you visit th\u2026",
+    "category": "Dev News",
+    "source": "https://www.techdirt.com/2026/03/30/the-white-house-apps-propaganda-is-the-least-alarming-thing-about-it/",
+    "tags": [
+      "techdirt.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "37031857d980c841f5337f851361ebcb",
+    "title": "US Bonds Rally as Traders Bet on Fed Rate Cut Bets in About-Face",
+    "slug": "us-bonds-rally-as-traders-bet-on-fed-rate-cut-bets-in-aboutface",
+    "date": "2026-03-30T17:58:44Z",
+    "description": "The US bond market rallied back from its deepest selloff in 17 months as traders ditched wagers that the Federal Reserve will hike interest rates, with the focus shifting to speculation the Iran war will deepen an economic slowdown.",
+    "category": "Dev News",
+    "source": "https://financialpost.com/pmn/business-pmn/us-bonds-rally-as-traders-bet-on-fed-rate-cut-bets-in-about-face",
+    "tags": [
+      "financialpost.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "6090f5ec114d983675f20726ccb5390e",
     "title": "Ryan Gosling Accepts Deidre Hall\u2019s Offer to Visit \u2018Days Of Our Lives\u2019 After Sweet Exchange",
     "slug": "ryan-gosling-accepts-deidre-halls-offer-to-visit-days-of-our-lives-after-sweet-e",
