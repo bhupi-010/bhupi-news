@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "26641c0e13cf1a586f21937ae65f1f50",
+    "title": "Making Sense of GenAI Amidst AI Hype and AI Personalization",
+    "slug": "making-sense-of-genai-amidst-ai-hype-and-ai-personalization",
+    "date": "2026-04-01T13:19:48Z",
+    "description": "By Sarah Morris In Brief: Artificial intelligence (AI) literacy frameworks emphasize the importance of understanding Generative AI (GenAI) technologies. But our collective and individual understanding of GenAI is heavily shaped and mediated by the hype narrat\u2026",
+    "category": "AI Tools",
+    "source": "https://www.inthelibrarywiththeleadpipe.org/2026/ai-hype-and-ai-personalization/",
+    "tags": [
+      "inthelibrarywiththeleadpipe.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "154b992272ab93de0ccd36ecbad518e2",
+    "title": "Show HN: OpenHarness Open-source terminal coding agent for any LLM",
+    "slug": "show-hn-openharness-opensource-terminal-coding-agent-for-any-llm",
+    "date": "2026-04-01T13:09:37Z",
+    "description": "Hi HN,I built OpenHarness , an open-source terminal coding agent that works with any LLM: Ollama (free, local), OpenAI, Anthropic, Deepseek, Qwen or any OpenAI-compatible API. Install and run:\n\n npm install -g @zhijiewang/openharness\n oh # auto-detect local m\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/zhijiewong/openharness",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "401eb072b81e5b0e23067b2aad30d6da",
+    "title": "Maple Leafs Should Consider Penguins AHL GM Jason Spezza for NHL Job",
+    "slug": "maple-leafs-should-consider-penguins-ahl-gm-jason-spezza-for-nhl-job",
+    "date": "2026-04-01T13:05:38Z",
+    "description": "The Toronto Maple Leafs are looking for a new General Manager, and one name they must consider is Jason Spezza, who has impressed at the AHL level for the Penguins organization.",
+    "category": "Dev News",
+    "source": "https://thehockeynews.com/ahl/latest-news/maple-leafs-should-consider-penguins-ahl-gm-jason-spezza-for-nhl-job",
+    "tags": [
+      "thehockeynews.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "a766a7d93fe8de457f6eda57461dc146",
     "title": "The Arsenal as the Battlefield: The War on Iran and the Return of Counter-Industrial Targeting",
     "slug": "the-arsenal-as-the-battlefield-the-war-on-iran-and-the-return-of-counterindustri",
