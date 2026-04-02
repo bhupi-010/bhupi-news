@@ -1,5 +1,44 @@
 [
   {
+    "id": "b1fce821e5fa18790a6f939a20b6bcce",
+    "title": "Anthropic's Boris Cherny, creator of $2.5 billion coding tool, makes a \u2018clarification\u2019 the Claude Code leak: \u2018It's never an individual's fault, it\u2019s the\u2026\u2019",
+    "slug": "anthropics-boris-cherny-creator-of-25-billion-coding-tool-makes-a-clarification-",
+    "date": "2026-04-02T05:15:00Z",
+    "description": "Tech News News: A missed step in a manual deployment process exposed the internal workings of one of AI's hottest coding tools\u2014and briefly handed the rest of the indu.",
+    "category": "AI Tools",
+    "source": "https://timesofindia.indiatimes.com/technology/tech-news/anthropics-boris-cherny-creator-of-2-5-billion-coding-tool-makes-a-clarification-the-claude-code-leak-its-never-an-individuals-fault-its-the/articleshow/129968048.cms",
+    "tags": [
+      "timesofindia.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "eaaaf6bcad31d784948704b8fb2f0aa7",
+    "title": "cloudhire-ai-utils added to PyPI",
+    "slug": "cloudhireaiutils-added-to-pypi",
+    "date": "2026-04-01T18:46:34Z",
+    "description": "Smart Recruitment Utility Library \u2014 job matching, resume parsing, validation & response formatting",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/cloudhire-ai-utils/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "27f44846fda306df3637c51ec07f95a1",
+    "title": "What happened when they installed ChatGPT on a nuclear supercomputer",
+    "slug": "what-happened-when-they-installed-chatgpt-on-a-nuclear-supercomputer",
+    "date": "2026-04-01T18:43:01Z",
+    "description": "If there\u2019s anything that makes people more uncomfortable than highly advanced AI or nuclear weapons technology, it\u2019s the combination of the two. But there\u2019s been a symbiotic relationship between cutting-edge computing and America\u2019s nuclear weapons program sin\u2026",
+    "category": "AI Tools",
+    "source": "https://www.vox.com/technology/484250/los-alamos-nuclear-ai-openai-chatgpt",
+    "tags": [
+      "vox.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "447d918d7b67a61c5ecd8673c6cbb545",
     "title": "Why is Anthropic racing to contain the Claude Code leak\u2014is it exposing trade secrets, empowering hackers, and letting rivals clone its AI agent faster than ever?",
     "slug": "why-is-anthropic-racing-to-contain-the-claude-code-leakis-it-exposing-trade-secr",
