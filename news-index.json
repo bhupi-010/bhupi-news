@@ -1,5 +1,44 @@
 [
   {
+    "id": "447d918d7b67a61c5ecd8673c6cbb545",
+    "title": "Why is Anthropic racing to contain the Claude Code leak\u2014is it exposing trade secrets, empowering hackers, and letting rivals clone its AI agent faster than ever?",
+    "slug": "why-is-anthropic-racing-to-contain-the-claude-code-leakis-it-exposing-trade-secr",
+    "date": "2026-04-01T15:52:00Z",
+    "description": "The Anthropic Claude Code leak has exposed more than 8,000 copies of source code to developers worldwide. This accidental release reveals proprietary AI instructions that power Claude Code, giving competitors a roadmap to replicate its features. While no user data or model weights were compromised, the leak exposes critical AI security risks and intellectual property vulnerabilities. Experts warn this could accelerate cloning of AI coding tools and intensify competition in the artificial intelligence market. For developers, startups, and enterprise users, this incident highlights the fragility of AI systems and the urgent need for stricter AI code protection and cybersecurity protocols. Anthropics reputation and innovation lead are now at stake.",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/international/us/why-is-anthropic-racing-to-contain-the-claude-code-leakis-it-exposing-trade-secrets-empowering-hackers-and-letting-rivals-clone-its-ai-agent-faster-than-ever/articleshow/129956045.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a766a7d93fe8de457f6eda57461dc146",
+    "title": "The Arsenal as the Battlefield: The War on Iran and the Return of Counter-Industrial Targeting",
+    "slug": "the-arsenal-as-the-battlefield-the-war-on-iran-and-the-return-of-counterindustri",
+    "date": "2026-04-01T07:15:06Z",
+    "description": "America\u2019s war against Iran has sparked heated debates over U.S. strategic priorities, military objectives, and defense industrial capacity. It has also fueled speculation about how a hypothetical clash between the United States and the People\u2019s Republic of Ch\u2026",
+    "category": "AI Tools",
+    "source": "https://warontherocks.com/2026/04/the-arsenal-as-the-battlefield-the-war-on-iran-and-the-return-of-counter-industrial-targeting/",
+    "tags": [
+      "warontherocks.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "586996f4e211b1e6d70be96c893ed123",
+    "title": "Multimodal Fusion Used In Self-Driving Cars Is Uplifting AI That Provides Mental Health Guidance",
+    "slug": "multimodal-fusion-used-in-selfdriving-cars-is-uplifting-ai-that-provides-mental-",
+    "date": "2026-04-01T07:15:00Z",
+    "description": "AI uses text to converse on mental health aspects. We are moving to multimodal interactions. Fusion is crucial. Especially for mental health chats. An AI Insider scoop.",
+    "category": "AI Tools",
+    "source": "https://www.forbes.com/sites/lanceeliot/2026/04/01/multimodal-fusion-used-in-self-driving-cars-is-uplifting-ai-that-provides-mental-health-guidance/",
+    "tags": [
+      "forbes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "7ec4e4c11569223982f92a90584cb3b0",
     "title": "Anthropic Accidentally Exposes Source Code for Claude Code",
     "slug": "anthropic-accidentally-exposes-source-code-for-claude-code",
