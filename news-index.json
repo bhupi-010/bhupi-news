@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "bcbc1ea2001403783fcfc0f030ad2482",
+    "title": "Persist session state with filesystem configuration and execute shell commands",
+    "slug": "persist-session-state-with-filesystem-configuration-and-execute-shell-commands",
+    "date": "2026-04-02T12:52:07Z",
+    "description": "In this post, we go through how to use managed session storage to persist your agent's filesystem state and how to execute shell commands directly in your agent's environment.",
+    "category": "Dev News",
+    "source": "https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/",
+    "tags": [
+      "aws.amazon.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "fcfde0808a31390318c8facb5ea72ddf",
+    "title": "Bill to ban sale of key AI chipmaking equipment to China introduced in House",
+    "slug": "bill-to-ban-sale-of-key-ai-chipmaking-equipment-to-china-introduced-in-house",
+    "date": "2026-04-02T12:30:00Z",
+    "description": "A bipartisan group of senators introduced a bill that would severely limit the sale of advanced semiconductor machinery to China used for AI systems.",
+    "category": "AI Tools",
+    "source": "https://www.nbcnews.com/tech/tech-news/senate-bill-ban-sale-key-ai-chipmaking-machines-china-rcna265186",
+    "tags": [
+      "nbcnews.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "19f8414da9223f5642633fbc5d2d8e10",
+    "title": "Show HN: Skales \u2013 I built a desktop AI agent a 6-year-old can use",
+    "slug": "show-hn-skales--i-built-a-desktop-ai-agent-a-6yearold-can-use",
+    "date": "2026-04-02T12:26:40Z",
+    "description": "Solo dev from Vienna. Skales is a local-first AI desktop agent for Windows, macOS, and Linux.v9.0.0 just shipped with Agent Skills (SKILL.md import from Claude Code, Codex, Copilot), autonomous coding (Codework), multi-agent teams (Organization), Computer Use\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/skalesapp/skales",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "2892a75c0a2c56fc51e589e9daabb9b0",
     "title": "The Iran War and the Energy Lesson We Failed to Learn",
     "slug": "the-iran-war-and-the-energy-lesson-we-failed-to-learn",
