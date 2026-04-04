@@ -1,5 +1,44 @@
 [
   {
+    "id": "cfb00a9972d69d218dc2e257abafac52",
+    "title": "How to Watch \u2018The Drama\u2019 Movie: When You Can Stream Zendaya & Robert Pattinson\u2019s Film",
+    "slug": "how-to-watch-the-drama-movie-when-you-can-stream-zendaya--robert-pattinsons-film",
+    "date": "2026-04-03T18:49:24Z",
+    "description": "Here\u2019s how to watch 'The Drama' now and what to know about its potential streaming release.",
+    "category": "Dev News",
+    "source": "https://hollywoodlife.com/feature/how-to-watch-the-drama-movie-stream-5509460/",
+    "tags": [
+      "hollywoodlife.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "46ea48d7ae0682e8832454b9d1f35f5b",
+    "title": "What in the World?",
+    "slug": "what-in-the-world",
+    "date": "2026-04-03T18:42:39Z",
+    "description": "Test yourself on the week of March 28: Energy markets react to the Iran war, Russia expels a diplomat, and the Afghanistan-Pakistan conflict intensifies.",
+    "category": "Frontend",
+    "source": "http://foreignpolicy.com/2026/04/03/news-quiz-iran-war-energy-philippines-afghanistan-pakistan-trump-gas-oil/",
+    "tags": [
+      "foreignpolicy.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "ac629ccc058297d17602ec0e3d7d4750",
+    "title": "If I Had Known Just How Funny Jury Duty Was, I Would've Watched The Show Sooner",
+    "slug": "if-i-had-known-just-how-funny-jury-duty-was-i-wouldve-watched-the-show-sooner",
+    "date": "2026-04-03T18:05:00Z",
+    "description": "I wasn't prepared.",
+    "category": "Dev News",
+    "source": "https://www.cinemablend.com/streaming-news/if-id-known-how-funny-jury-duty-was-watched-it-sooner",
+    "tags": [
+      "cinemablend.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "a0f7df0b6996be4450ed3c73f43402ee",
     "title": "Show HN: Replace 6 months of GTM trial-and-error with simulated buyers",
     "slug": "show-hn-replace-6-months-of-gtm-trialanderror-with-simulated-buyers",
