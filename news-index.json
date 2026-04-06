@@ -1,5 +1,44 @@
 [
   {
+    "id": "a0db9a5e218eb8eb9bf88bdf61bd9233",
+    "title": "stronk-gateway added to PyPI",
+    "slug": "stronkgateway-added-to-pypi",
+    "date": "2026-04-05T18:23:59Z",
+    "description": "Security-first self-hosted privacy masking and routing proxy for LLM traffic.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/stronk-gateway/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6c677e52fa656ca73659238bb7eb35fc",
+    "title": "LibreOffice \u2013 Let's put an end to the speculation",
+    "slug": "libreoffice--lets-put-an-end-to-the-speculation",
+    "date": "2026-04-05T18:23:14Z",
+    "description": "Ideally, we would have preferred to avoid this post. However, the articles and comments published in response to Collabora\u2019s and Michael Meeks\u2019 biased posts compel us to provide this background information on the events that led to the current situation. Unfo\u2026",
+    "category": "Dev News",
+    "source": "https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/",
+    "tags": [
+      "blog.documentfoundation.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2845d173fee2c027e308854f16400ddb",
+    "title": "Why we were right to deploy missiles in Europe",
+    "slug": "why-we-were-right-to-deploy-missiles-in-europe",
+    "date": "2026-04-05T18:20:53Z",
+    "description": "'At the time, it required a leap of strategic foresight. Today, it looks like necessity'",
+    "category": "Dev News",
+    "source": "https://www.wnd.com/2026/04/why-we-were-right-deploy-missiles-europe/",
+    "tags": [
+      "wnd.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "2d2ae4a43873d259a8a7c430c71811e1",
     "title": "Vibe coding drove an 84% jump in App Store submissions. Apple is cracking down.",
     "slug": "vibe-coding-drove-an-84-jump-in-app-store-submissions-apple-is-cracking-down",
