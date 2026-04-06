@@ -1,5 +1,44 @@
 [
   {
+    "id": "2d2ae4a43873d259a8a7c430c71811e1",
+    "title": "Vibe coding drove an 84% jump in App Store submissions. Apple is cracking down.",
+    "slug": "vibe-coding-drove-an-84-jump-in-app-store-submissions-apple-is-cracking-down",
+    "date": "2026-04-05T16:48:55Z",
+    "description": "AI vibe coding tools drove an 84% quarterly surge in App Store submissions, straining review times to 30 days. Apple has started pulling apps that violate its self-containment rules.",
+    "category": "AI Tools",
+    "source": "https://thenextweb.com/news/vibe-coding-apple-app-store-surge-crackdown",
+    "tags": [
+      "thenextweb.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "3c866960c53b7f6a8c03c99b832d1319",
+    "title": "Gemma 4:e4b as a Local Coding Assistant \u2014 First Look",
+    "slug": "gemma-4e4b-as-a-local-coding-assistant--first-look",
+    "date": "2026-04-05T05:47:01Z",
+    "description": "Google DeepMind released Gemma 4 this week and I put the e4b model to work as a local iOS coding assistant on my M5 MacBook Pro. It runs well \u2014 once you tame the verbosity.",
+    "category": "Dev News",
+    "source": "https://antoniosantos.io/posts/gemma-4-e4b-local-coding-assistant/",
+    "tags": [
+      "antoniosantos.io",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5c1c1484488b52bf50a46e6c58e4b905",
+    "title": "Halle Bailey on life after The Little Mermaid: \u2018I learnt how to block out the noise\u2019",
+    "slug": "halle-bailey-on-life-after-the-little-mermaid-i-learnt-how-to-block-out-the-nois",
+    "date": "2026-04-05T05:00:00Z",
+    "description": "Plucked from obscurity as a young teen by Beyonc\u00e9 herself, the singer rapidly ascended to the Grammys before making it in Hollywood. As she stars in the romantic comedy \u2018You, Me & Tuscany\u2019, she speaks to Annabel Nugent about motherhood, playing Ariel, and the\u2026",
+    "category": "AI Tools",
+    "source": "https://www.the-independent.com/arts-entertainment/films/features/halle-bailey-little-mermaid-you-me-and-tuscany-b2950953.html",
+    "tags": [
+      "the-independent.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "a944c1482f240adf07e37f9076f099ce",
     "title": "Past, present Celtics teammates react to Ron Harper Jr. new deal",
     "slug": "past-present-celtics-teammates-react-to-ron-harper-jr-new-deal",
