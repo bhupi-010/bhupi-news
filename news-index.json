@@ -1,5 +1,44 @@
 [
   {
+    "id": "0b2c6ff5c64eba8d3f5230fda66d6465",
+    "title": "UNIFIL will leave Lebanon next year. What happens next?",
+    "slug": "unifil-will-leave-lebanon-next-year-what-happens-next",
+    "date": "2026-04-06T06:00:01Z",
+    "description": "UN officials often describe the United Nations Interim Force in Lebanon as the \"eyes and ears\" of the international community, writes Yvonne Murray.",
+    "category": "Dev News",
+    "source": "https://www.rte.ie/news/analysis-and-comment/2026/0406/1566671-unifil-lebanon/",
+    "tags": [
+      "rte.ie",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "bd0cd4d8bf5e1f3a9c77ffacf8095fbe",
+    "title": "The Feature That Has Never Worked \u00b7 A broken auto-live poller, and what perceived urgency does to Claude Code | Christopher Meiklejohn",
+    "slug": "the-feature-that-has-never-worked--a-broken-autolive-poller-and-what-perceived-u",
+    "date": "2026-04-06T05:47:01Z",
+    "description": "A broken auto-live poller, and what perceived urgency does to Claude Code",
+    "category": "Dev News",
+    "source": "https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html",
+    "tags": [
+      "christophermeiklejohn.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "29b697e0cd78ebf608f513a26d5b34e6",
+    "title": "Emotion Concepts and their Function in a Large Language Model",
+    "slug": "emotion-concepts-and-their-function-in-a-large-language-model",
+    "date": "2026-04-06T05:47:01Z",
+    "description": "Large language models (LLMs) sometimes appear to exhibit emotional reactions. We investigate why this is the case in Claude Sonnet 4.5 and explore implications for alignment-relevant behavior. We find internal representations of emotion concepts, which encode\u2026",
+    "category": "Frontend",
+    "source": "https://transformer-circuits.pub/2026/emotions/index.html",
+    "tags": [
+      "transformer-circuits.pub",
+      "frontend"
+    ]
+  },
+  {
     "id": "765bf905854b9bb6fa528f17e2206294",
     "title": "Warning From the Heartland: Historic Drought And Unexpected Fertilizer Shortages Could Mean Massive Crop Losses",
     "slug": "warning-from-the-heartland-historic-drought-and-unexpected-fertilizer-shortages-",
