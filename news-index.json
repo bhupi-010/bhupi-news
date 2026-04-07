@@ -1,5 +1,44 @@
 [
   {
+    "id": "de3a548e33d8f30da0ad8ddd4aaf0245",
+    "title": "App Store sees 84% surge in new apps as AI coding tools take off",
+    "slug": "app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off",
+    "date": "2026-04-06T19:59:23Z",
+    "description": "Thanks to the new possibilities afforded by AI coding tools, the App Store is seeing a resurgence in new app submissions.",
+    "category": "AI Tools",
+    "source": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/",
+    "tags": [
+      "9to5mac.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "eef83606ee0db2ee9fc5bbbef001f749",
+    "title": "dtaas-services added to PyPI",
+    "slug": "dtaasservices-added-to-pypi",
+    "date": "2026-04-06T12:56:50Z",
+    "description": "DTaaS Platform Services Management CLI",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/dtaas-services/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "ecbe676c298938da1c3ce7740c9e9c2c",
+    "title": "Show HN: I built a 2-min quiz that shows you how bad you are at estimating",
+    "slug": "show-hn-i-built-a-2min-quiz-that-shows-you-how-bad-you-are-at-estimating",
+    "date": "2026-04-06T12:50:20Z",
+    "description": "I've gotten to the point in my career where I now make strategic decisions often (hiring, firing, choosing what equipment to go with, etc.), as well as in my personal life where I need to strongly weigh my options for a big purchase or investment. I found a n\u2026",
+    "category": "Dev News",
+    "source": "https://www.convexly.app/",
+    "tags": [
+      "convexly.app",
+      "dev-news"
+    ]
+  },
+  {
     "id": "0b2c6ff5c64eba8d3f5230fda66d6465",
     "title": "UNIFIL will leave Lebanon next year. What happens next?",
     "slug": "unifil-will-leave-lebanon-next-year-what-happens-next",
