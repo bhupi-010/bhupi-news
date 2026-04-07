@@ -1,5 +1,18 @@
 [
   {
+    "id": "974b52eea6f2ff5439ae164d137e4823",
+    "title": "The Big Bang: AI Has Created a Code Overload",
+    "slug": "the-big-bang-ai-has-created-a-code-overload",
+    "date": "2026-04-07T03:51:16Z",
+    "description": "AI-powered coding tools are supercharging software development, but the surge in output is creating a growing challenge of code overload, security risks, and a shortage of skilled reviewers.",
+    "category": "AI Tools",
+    "source": "https://indianexpress.com/article/technology/tech-news-technology/the-big-bang-ai-has-created-a-code-overload-10622955/",
+    "tags": [
+      "indianexpress.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "de3a548e33d8f30da0ad8ddd4aaf0245",
     "title": "App Store sees 84% surge in new apps as AI coding tools take off",
     "slug": "app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off",
@@ -10,6 +23,32 @@
     "tags": [
       "9to5mac.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "49f6a6802071a8391aa3127e3c40880a",
+    "title": "'He's going to drop a nuke': Fear as Trump threat leaves details vague",
+    "slug": "hes-going-to-drop-a-nuke-fear-as-trump-threat-leaves-details-vague",
+    "date": "2026-04-06T19:07:55Z",
+    "description": "President Donald Trump issued a serious threat for Iran on Monday, prompting shocked reactions online. Trump was speaking during a White House press conference when he made the unsettling comment referring to the ongoing conflict. \"The entire country could be\u2026",
+    "category": "Frontend",
+    "source": "https://www.rawstory.com/donald-trump-iran-war-2676670614/",
+    "tags": [
+      "rawstory.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "7e6061a0da3e452de4800d6ae4661fd1",
+    "title": "Tiger Woods is hot topic at Masters: Live reactions as golfers arrive at Augusta",
+    "slug": "tiger-woods-is-hot-topic-at-masters-live-reactions-as-golfers-arrive-at-augusta",
+    "date": "2026-04-06T18:59:58Z",
+    "description": "Tiger Woods will miss a second consecutive Masters. His absence is a topic of discussion at Augusta to start the week.",
+    "category": "Frontend",
+    "source": "https://www.usatoday.com/story/sports/golf/masters/2026/04/06/tiger-woods-masters-reactions-updates-augusta-golfers/89486610007/",
+    "tags": [
+      "usatoday.com",
+      "frontend"
     ]
   },
   {
