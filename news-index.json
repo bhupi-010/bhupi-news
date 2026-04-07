@@ -1,5 +1,44 @@
 [
   {
+    "id": "765bf905854b9bb6fa528f17e2206294",
+    "title": "Warning From the Heartland: Historic Drought And Unexpected Fertilizer Shortages Could Mean Massive Crop Losses",
+    "slug": "warning-from-the-heartland-historic-drought-and-unexpected-fertilizer-shortages-",
+    "date": "2026-04-06T01:24:00Z",
+    "description": "Farmers all over America are on edge right now, and I certainly can\u2019t blame them. The war in the Middle East has created a fertilizer crisis at the worst time possible. As you will see below, if nitrogen fertilizer is not applied to wheat, corn and rice at th\u2026",
+    "category": "AI Tools",
+    "source": "https://www.activistpost.com/warning-from-the-heartland-historic-drought-and-unexpected-fertilizer-shortages-could-mean-massive-crop-losses/",
+    "tags": [
+      "activistpost.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "2fa3148889e3d39ff819642b6e1e6dae",
+    "title": "Show HN: Skilleton \u2013 Minimal tool for managing versioned SKILL.md definitions",
+    "slug": "show-hn-skilleton--minimal-tool-for-managing-versioned-skillmd-definitions",
+    "date": "2026-04-06T00:49:16Z",
+    "description": "I have been working on Skilleton, a minimal CLI to install versioned skill definition files, just like the other popular tools.I've built this tool as a lighter and privacy-first tool (with no telemetry or analytics) to install and lock SKILL.md files on cert\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/Fcmam5/skilleton",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "146391b90d3b7d117f9dc4b6b1e3bea6",
+    "title": "Army Sniper Course Tests Signature Management Tech to Enhance Health, Safety",
+    "slug": "army-sniper-course-tests-signature-management-tech-to-enhance-health-safety",
+    "date": "2026-04-06T00:00:00Z",
+    "description": "FORT BENNING, Ga. \u2014 The U.S. Army Sniper Course at Fort Benning is working to improve sniper survivability and lethality in large-scale combat operations by evaluating and integrating advanced signature management technology into training. \u201cWhat we\u2019ve seen in\u2026",
+    "category": "AI Tools",
+    "source": "https://soldiersystems.net/2026/04/06/army-sniper-course-tests-signature-management-tech-to-enhance-health-safety/",
+    "tags": [
+      "soldiersystems.net",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "a0db9a5e218eb8eb9bf88bdf61bd9233",
     "title": "stronk-gateway added to PyPI",
     "slug": "stronkgateway-added-to-pypi",
