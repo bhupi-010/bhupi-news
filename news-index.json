@@ -13,6 +13,32 @@
     ]
   },
   {
+    "id": "47b2f0e13513eedad675e1c8c12c87f7",
+    "title": "Show HN: A VS Code extension that points tickets based on tech debt",
+    "slug": "show-hn-a-vs-code-extension-that-points-tickets-based-on-tech-debt",
+    "date": "2026-04-07T19:17:22Z",
+    "description": "Article URL: https://marketplace.visualstudio.com/items?itemName=BrooksForsyth.storypointinator\nComments URL: https://news.ycombinator.com/item?id=47680039\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://marketplace.visualstudio.com/items?itemName=BrooksForsyth.storypointinator",
+    "tags": [
+      "marketplace.visualstudio.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2abbdec708d8e3de5d35bd36569ba559",
+    "title": "India\u2019s PFBR achieves criticality, marks entry into stage-II nuclear programme",
+    "slug": "indias-pfbr-achieves-criticality-marks-entry-into-stageii-nuclear-programme",
+    "date": "2026-04-07T19:11:46Z",
+    "description": "India's first Prototype Fast Breeder Reactor at Kalpakkam has achieved criticality. This marks a major milestone in the nation's three-stage nuclear program. The reactor is designed to produce more fuel than it consumes. This advancement is crucial for harnes\u2026",
+    "category": "Frontend",
+    "source": "https://economictimes.indiatimes.com/news/india/indias-pfbr-achieves-criticality-marks-entry-into-stage-ii-nuclear-programme/articleshow/130095906.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "41b207b7114c759ca971501120c7fcf5",
     "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
     "slug": "bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding",
@@ -36,6 +62,19 @@
     "tags": [
       "techbullion.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "8ca47b573bd289b64bf47132c5736ed2",
+    "title": "Did Trump Just Threaten to Use Nuclear Weapons in Iran?",
+    "slug": "did-trump-just-threaten-to-use-nuclear-weapons-in-iran",
+    "date": "2026-04-07T18:41:52Z",
+    "description": "If such an order comes to pass, the military can and must refuse.",
+    "category": "Dev News",
+    "source": "https://www.theatlantic.com/ideas/2026/04/trump-truthsocial-destruction-iran/686716/",
+    "tags": [
+      "theatlantic.com",
+      "dev-news"
     ]
   },
   {
