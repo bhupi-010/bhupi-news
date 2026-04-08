@@ -1,5 +1,18 @@
 [
   {
+    "id": "838ffb08a3108bb60ca64604c9d336ac",
+    "title": "powered tool that helps developers build UI prototypes",
+    "slug": "powered-tool-that-helps-developers-build-ui-prototypes",
+    "date": "2026-04-07T21:17:33Z",
+    "description": "This experimental AI-powered tool helped developers explore and refine interface ideas with more control than with typical AI coding tools.",
+    "category": "AI Tools",
+    "source": "https://9to5mac.com/2026/04/07/apple-study-details-an-ai-powered-tool-that-helps-developers-build-interface-prototypes/",
+    "tags": [
+      "9to5mac.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "41b207b7114c759ca971501120c7fcf5",
     "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
     "slug": "bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding",
@@ -36,6 +49,32 @@
     "tags": [
       "entrepreneur.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "98867d6d7688dd780c5c73d71616b0fc",
+    "title": "Show HN: Real-time surveys via QR code, built with Cloudflare Durable Objects",
+    "slug": "show-hn-realtime-surveys-via-qr-code-built-with-cloudflare-durable-objects",
+    "date": "2026-04-07T13:04:20Z",
+    "description": "A deep dive into how rifts.to uses Cloudflare Durable Objects and SSE to deliver real-time poll results to presenter dashboards \u2014 no Redis, no WebSockets, no external pub/sub.",
+    "category": "Dev News",
+    "source": "https://rifts.to/blog/building-real-time-surveys-cloudflare-durable-objects",
+    "tags": [
+      "rifts.to",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a2432790a052cc84baa7ee49dc957ddb",
+    "title": "Ukrainian Citizens React Against Mobilization Policies",
+    "slug": "ukrainian-citizens-react-against-mobilization-policies",
+    "date": "2026-04-07T13:01:21Z",
+    "description": "The Ukrainian population is beginning to react to the draconian policies of forced recruitment. Tired of seeing their family members forcibly taken from the streets and sent unprepared to the battlefield, local citizens are now attacking recruiters, making cl\u2026",
+    "category": "Frontend",
+    "source": "https://www.globalresearch.ca/ukrainian-citizens-react-against-mobilization-policies/5921534",
+    "tags": [
+      "globalresearch.ca",
+      "frontend"
     ]
   },
   {
