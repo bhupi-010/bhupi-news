@@ -1,5 +1,31 @@
 [
   {
+    "id": "41b207b7114c759ca971501120c7fcf5",
+    "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+    "slug": "bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding",
+    "date": "2026-04-07T19:09:44Z",
+    "description": "Use of AI coding tools has become a convenient boogeyman for any tech issues.",
+    "category": "AI Tools",
+    "source": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+    "tags": [
+      "arstechnica.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "3ef883e15b83b4a1e0e10fd5461d0059",
+    "title": "AI Coding Tools Handle More Code Than Engineers, But Trust Is Still a Handshake",
+    "slug": "ai-coding-tools-handle-more-code-than-engineers-but-trust-is-still-a-handshake",
+    "date": "2026-04-07T18:48:21Z",
+    "description": "Researchers have documented how AI-generated output can carry vulnerabilities, insecure defaults, and supply chain risks that conventional review processes weren't built to flag.",
+    "category": "AI Tools",
+    "source": "https://techbullion.com/ai-coding-tools-handle-more-code-than-engineers-but-trust-is-still-a-handshake/",
+    "tags": [
+      "techbullion.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "c19b804068170a515e0eb37a5242c65c",
     "title": "This Is Why Apple App Store Submissions Are Hitting 10-Year High",
     "slug": "this-is-why-apple-app-store-submissions-are-hitting-10year-high",
@@ -10,6 +36,19 @@
     "tags": [
       "entrepreneur.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "38985980ecd4b0736938683e6ba737fb",
+    "title": "I've Been the Sole Developer of a Healthcare Membership Platform for 6+ Years. Here's What It Looks Like.",
+    "slug": "ive-been-the-sole-developer-of-a-healthcare-membership-platform-for-6-years-here",
+    "date": "2026-04-07T07:21:37Z",
+    "description": "A few years back, a healthcare professional association reached out to me. They regulate and support thousands of practitioners across their region: licensing, insurance, events, the whole deal. Their website couldn't keep up.\nWhat they needed was a platform \u2026",
+    "category": "Dev News",
+    "source": "https://timonweb.com/case-study/ive-been-the-sole-developer-of-a-healthcare-membership-platform-for-6-years-heres-what-it-looks-like/",
+    "tags": [
+      "timonweb.com",
+      "dev-news"
     ]
   },
   {
