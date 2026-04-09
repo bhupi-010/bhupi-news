@@ -1,5 +1,44 @@
 [
   {
+    "id": "0bc35715e677ea8d2d70375816172fff",
+    "title": "Show HN: Safari MCP \u2013 Native macOS browser automation (80 tools)",
+    "slug": "show-hn-safari-mcp--native-macos-browser-automation-80-tools",
+    "date": "2026-04-08T19:12:02Z",
+    "description": "Native Safari browser automation for AI agents. 80 tools via AppleScript \u2014 zero overhead, keeps logins, runs silently in background. Drop-in alternative to Chrome DevTools MCP with 40-60% less CPU/...",
+    "category": "AI Tools",
+    "source": "https://github.com/achiya-automation/safari-mcp",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "961cf9bd55071d5c20cfa103acde35c6",
+    "title": "Danya Moyses bakes up new business venture, The Sweet Studio Supplies",
+    "slug": "danya-moyses-bakes-up-new-business-venture-the-sweet-studio-supplies",
+    "date": "2026-04-08T19:07:56Z",
+    "description": "Danya Moyses bakes up new business venture, The Sweet Studio Suppliesnortherndailyleader.com.au",
+    "category": "AI Tools",
+    "source": "https://www.northerndailyleader.com.au/story/9217804/danya-moyses-bakes-up-new-business-venture-the-sweet-studio-supplies/",
+    "tags": [
+      "northerndailyleader.com.au",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "d4a04a025fc06087123d5735c5110fff",
+    "title": "Yale graduate students take science policy to Capitol Hill",
+    "slug": "yale-graduate-students-take-science-policy-to-capitol-hill",
+    "date": "2026-04-08T19:06:48Z",
+    "description": "Over spring break, 26 Yale graduate students traveled to Washington, D.C., to advocate for science policy as part of the Yale STEM Hill Day program. The group held 82 meetings in just three days with Congressional staff, federal agencies, think tanks, and oth\u2026",
+    "category": "Dev News",
+    "source": "https://gsas.yale.edu/about/news-announcements/graduate-students-take-science-policy-capitol-hill",
+    "tags": [
+      "gsas.yale.edu",
+      "dev-news"
+    ]
+  },
+  {
     "id": "78867c665dd1cde4df7f8ec7209f64f7",
     "title": "azure-functions-db added to PyPI",
     "slug": "azurefunctionsdb-added-to-pypi",
