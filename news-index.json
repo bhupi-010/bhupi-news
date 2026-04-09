@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "c257a5ae90ab6fd9143270180b426dbe",
+    "title": "New NTU AI model tracks food freshness in efforts to reduce waste, boost food security",
+    "slug": "new-ntu-ai-model-tracks-food-freshness-in-efforts-to-reduce-waste-boost-food-sec",
+    "date": "2026-04-08T06:04:27Z",
+    "description": "The research team is currently in talks with supermarket chains to bring the technology to market for trials, which are likely to start in the second half of 2026.",
+    "category": "AI Tools",
+    "source": "https://www.channelnewsasia.com/singapore/ntu-ai-model-food-freshness-reduce-waste-food-security-6040531",
+    "tags": [
+      "channelnewsasia.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "335941ebcb4bd84ba9e2a2f4098d242d",
+    "title": "personal_wiki_skill.md",
+    "slug": "personalwikiskillmd",
+    "date": "2026-04-08T05:47:01Z",
+    "description": "personal_wiki_skill.md. GitHub Gist: instantly share code, notes, and snippets.",
+    "category": "Dev News",
+    "source": "https://gist.github.com/farzaa/c35ac0cfbeb957788650e36aabea836d",
+    "tags": [
+      "gist.github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f6972f791d83195b8dcb1189e7077c23",
+    "title": "Iran consolidates control over Strait of Hormuz, sanctions lifted",
+    "slug": "iran-consolidates-control-over-strait-of-hormuz-sanctions-lifted",
+    "date": "2026-04-08T03:35:50Z",
+    "description": "Iran's strengthened position may delay ceasefire urgency, impacting regional stability and altering geopolitical dynamics significantly.\nThe post Iran consolidates control over Strait of Hormuz, sanctions lifted appeared first on Crypto Briefing.",
+    "category": "AI Tools",
+    "source": "https://cryptobriefing.com/iran-consolidates-control-over-strait-of-hormuz-sanctions-lifted/",
+    "tags": [
+      "cryptobriefing.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "2b3b8cb67b22c8ce1de084e0cc0741a0",
     "title": "Show HN: Replaced Neo4j with pure vector search for Graph RAG",
     "slug": "show-hn-replaced-neo4j-with-pure-vector-search-for-graph-rag",
