@@ -1,5 +1,44 @@
 [
   {
+    "id": "78867c665dd1cde4df7f8ec7209f64f7",
+    "title": "azure-functions-db added to PyPI",
+    "slug": "azurefunctionsdb-added-to-pypi",
+    "date": "2026-04-08T13:43:29Z",
+    "description": "Database trigger and input/output bindings for Azure Functions Python v2, powered by SQLAlchemy",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/azure-functions-db/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "e3f35c6c8520179b4d0581087ce0ad50",
+    "title": "Hear Michigan's Lendeborg, McKenney share national title reactions",
+    "slug": "hear-michigans-lendeborg-mckenney-share-national-title-reactions",
+    "date": "2026-04-08T13:40:22Z",
+    "description": "Michigan basketball players Yaxel Lendeborg and Trey McKenney react to winning the national championship and their special bond.",
+    "category": "Frontend",
+    "source": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/04/08/michigan-wolverines-yaxel-lendeborg-trey-mckenney-ncaa-championship-reaction/89514216007/",
+    "tags": [
+      "freep.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "ffde544a1b115aa0b8a87e8ce38f0a42",
+    "title": "ALERT! Buzz Lightyear\u2019s Space Ranger Spin Is Officially OPEN at Magic Kingdom",
+    "slug": "alert-buzz-lightyears-space-ranger-spin-is-officially-open-at-magic-kingdom",
+    "date": "2026-04-08T13:37:16Z",
+    "description": "Buzz Lightyear is finally open at Magic Kingdom!",
+    "category": "Dev News",
+    "source": "https://allears.net/2026/04/08/alert-buzz-lightyears-space-ranger-spin-is-officially-open-at-magic-kingdom/",
+    "tags": [
+      "allears.net",
+      "dev-news"
+    ]
+  },
+  {
     "id": "2abd0d26a5425be800df14ceb418eda8",
     "title": "The demise of software engineering jobs has been greatly exaggerated",
     "slug": "the-demise-of-software-engineering-jobs-has-been-greatly-exaggerated",
