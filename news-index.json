@@ -1,5 +1,44 @@
 [
   {
+    "id": "2abd0d26a5425be800df14ceb418eda8",
+    "title": "The demise of software engineering jobs has been greatly exaggerated",
+    "slug": "the-demise-of-software-engineering-jobs-has-been-greatly-exaggerated",
+    "date": "2026-04-08T09:30:55Z",
+    "description": "Although AI coding tools have stoked fears that the technology will replace software engineers, jobs in the field are growing. As companies pump out more software, there\u2019s increasing demand for seasoned engineers that can shape these products.",
+    "category": "AI Tools",
+    "source": "https://edition.cnn.com/2026/04/08/tech/ai-software-developer-jobs",
+    "tags": [
+      "edition.cnn.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "2b3b8cb67b22c8ce1de084e0cc0741a0",
+    "title": "Show HN: Replaced Neo4j with pure vector search for Graph RAG",
+    "slug": "show-hn-replaced-neo4j-with-pure-vector-search-for-graph-rag",
+    "date": "2026-04-08T02:38:31Z",
+    "description": "Article URL: https://github.com/zilliztech/vector-graph-rag\nComments URL: https://news.ycombinator.com/item?id=47684290\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/zilliztech/vector-graph-rag",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "3d6b36d62fd0518c0141dd8f2f30492d",
+    "title": "Iranian Officials Say Indirect Talks With U.S. Ended After Trump\u2019s Latest Threat - The New York Times",
+    "slug": "iranian-officials-say-indirect-talks-with-us-ended-after-trumps-latest-threat--t",
+    "date": "2026-04-08T01:12:56Z",
+    "description": "Iranian Officials Say Indirect Talks With U.S. Ended After Trump\u2019s Latest ThreatThe New York Times Iranians Voice Shock and Defiance in Face of Trump\u2019s Looming DeadlineThe New York Times Austin Iranians react to potential further U.S. action in Iran TuesdayKE\u2026",
+    "category": "Frontend",
+    "source": "https://slashdot.org/firehose.pl?op=view&amp;id=181406632",
+    "tags": [
+      "slashdot.org",
+      "frontend"
+    ]
+  },
+  {
     "id": "838ffb08a3108bb60ca64604c9d336ac",
     "title": "powered tool that helps developers build UI prototypes",
     "slug": "powered-tool-that-helps-developers-build-ui-prototypes",
