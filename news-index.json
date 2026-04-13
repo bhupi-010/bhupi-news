@@ -1,5 +1,44 @@
 [
   {
+    "id": "5950424bea670874f08f586cff2acbe1",
+    "title": "Show HN: Terminal Style Web Component",
+    "slug": "show-hn-terminal-style-web-component",
+    "date": "2026-04-12T13:45:46Z",
+    "description": "A Web Component for rendering terminal-style previews - works with any framework (React, Vue, Angular, Svelte, etc.) - spider-hand/terminal-element",
+    "category": "Frontend",
+    "source": "https://github.com/spider-hand/terminal-element",
+    "tags": [
+      "github.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "a5092254b4774dc867108ae6c0a8dab4",
+    "title": "How 10-year-old Tilly Smith helped save dozens of lives on Thailand beach during 2004 tsunami",
+    "slug": "how-10yearold-tilly-smith-helped-save-dozens-of-lives-on-thailand-beach-during-2",
+    "date": "2026-04-12T13:00:00Z",
+    "description": "Officials credit 10-year-old English girl Tilly Smith with helping to save about 100 lives just before the Indian Ocean tsunami of 2004 struck the island of Phuket in Thailand.",
+    "category": "AI Tools",
+    "source": "https://www.snopes.com//fact-check/10-year-old-tsunami/",
+    "tags": [
+      "snopes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "29ae514ec91149976afac6aabbb31fb3",
+    "title": "Bring Back Idiomatic Design",
+    "slug": "bring-back-idiomatic-design",
+    "date": "2026-04-12T12:21:26Z",
+    "description": "I\u2019m part of the desktop software generation. From Windows 95 to Windows 7, I grew using mostly-offline software on computers operated via mouse and keyboard, well before tablets and smartphones. Recently, I\u2019ve been missing one particular part of that era: its\u2026",
+    "category": "Dev News",
+    "source": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+    "tags": [
+      "essays.johnloeber.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "5ee04a7e57c58a53c0caef40768ef8f4",
     "title": "UFC 327 post-fight show: Reaction to Carlos Ulberg\u2019s insane knockout to win title, Josh Hokit\u2019s wild night",
     "slug": "ufc-327-postfight-show-reaction-to-carlos-ulbergs-insane-knockout-to-win-title-j",
