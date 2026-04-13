@@ -1,5 +1,44 @@
 [
   {
+    "id": "5ee04a7e57c58a53c0caef40768ef8f4",
+    "title": "UFC 327 post-fight show: Reaction to Carlos Ulberg\u2019s insane knockout to win title, Josh Hokit\u2019s wild night",
+    "slug": "ufc-327-postfight-show-reaction-to-carlos-ulbergs-insane-knockout-to-win-title-j",
+    "date": "2026-04-12T05:43:10Z",
+    "description": "Carlos Ulberg and Josh Hokit stole the show at UFC 327",
+    "category": "Frontend",
+    "source": "https://www.mmafighting.com/ufc/482309/ufc-327-post-fight-show-reaction-to-carlos-ulbergs-insane-knockout-to-win-title-josh-hokits-wild-night",
+    "tags": [
+      "mmafighting.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "2f3581a565533876222e4a323c28e1e5",
+    "title": "The Consequences of the War Against Iran, by Thierry Meyssan",
+    "slug": "the-consequences-of-the-war-against-iran-by-thierry-meyssan",
+    "date": "2026-04-12T05:06:02Z",
+    "description": "For the first time, a people attacked by the most powerful military force in history is retaliating against its adversary's military bases and foreign investments. This is a way of waging war, adapted to the era of globalization, that none of our strategists \u2026",
+    "category": "AI Tools",
+    "source": "https://www.voltairenet.org/article224215.html",
+    "tags": [
+      "voltairenet.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "65a261b9ce9795b8de7731e21a86b3ae",
+    "title": "Could we be looking at the future of protests in Ireland?",
+    "slug": "could-we-be-looking-at-the-future-of-protests-in-ireland",
+    "date": "2026-04-12T05:00:00Z",
+    "description": "Every political problem faced by recent governments has been solved \u2013 to a greater or lesser extent \u2013 by finding money to throw at it. What happens if that dries up?",
+    "category": "Dev News",
+    "source": "https://www.irishtimes.com/opinion/2026/04/11/could-we-be-looking-at-the-future-of-protests-in-ireland/",
+    "tags": [
+      "irishtimes.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "1360cf1ce4d9f1a81cc6bb2d5955e770",
     "title": "Show HN: Posse \u2013 Open-Source Web UI for Anthropic Managed Agents",
     "slug": "show-hn-posse--opensource-web-ui-for-anthropic-managed-agents",
