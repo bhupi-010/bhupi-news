@@ -1,5 +1,44 @@
 [
   {
+    "id": "1360cf1ce4d9f1a81cc6bb2d5955e770",
+    "title": "Show HN: Posse \u2013 Open-Source Web UI for Anthropic Managed Agents",
+    "slug": "show-hn-posse--opensource-web-ui-for-anthropic-managed-agents",
+    "date": "2026-04-12T03:00:29Z",
+    "description": "Article URL: https://github.com/oguzbilgic/posse\nComments URL: https://news.ycombinator.com/item?id=47735797\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/oguzbilgic/posse",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "57d893c2bbd94d1b50ef9c1d9563fa1d",
+    "title": "Record scoring leaves 12 players within 6 shots of the lead entering 4th round Masters",
+    "slug": "record-scoring-leaves-12-players-within-6-shots-of-the-lead-entering-4th-round-m",
+    "date": "2026-04-12T01:59:02Z",
+    "description": "The Masters looked as if it might be a runaway entering the weekend. Moving day changed all of that. When the sun set on one of the wildest Saturdays in Masters history that featured dramatic movement on the leaderboard, Rory McIlroy\u2019s six-shot lead had evapo\u2026",
+    "category": "Dev News",
+    "source": "https://japantoday.com/category/sports/moving-day-record-scoring-leaves-12-players-within-6-shots-of-the-lead-entering-4th-round-masters",
+    "tags": [
+      "japantoday.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "cafda0d907e24e0bdacba418db048d11",
+    "title": "The End of Eleventy",
+    "slug": "the-end-of-eleventy",
+    "date": "2026-04-12T01:55:48Z",
+    "description": "Build Awesome is a rebrand of 11ty/Eleventy, backed by a successful $40k Kickstarter. But this attempt to monetize static site generators repeats the same mistakes that killed Gatsby and Stackbit\u2014and misunderstands who actually builds static sites.",
+    "category": "Dev News",
+    "source": "https://brennan.day/the-end-of-eleventy/",
+    "tags": [
+      "brennan.day",
+      "dev-news"
+    ]
+  },
+  {
     "id": "45b8fbf27e84efec7d051cf2375a9dc3",
     "title": "anycomplextree added to PyPI",
     "slug": "anycomplextree-added-to-pypi",
