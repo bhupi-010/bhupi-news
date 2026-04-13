@@ -1,5 +1,44 @@
 [
   {
+    "id": "93ab763e66752936a3596ab4a138f520",
+    "title": "mcp-repo-graph added to PyPI",
+    "slug": "mcprepograph-added-to-pypi",
+    "date": "2026-04-12T19:18:10Z",
+    "description": "MCP server that gives LLMs a structural map of any codebase \u2014 entities, relationships, and flows \u2014 so they navigate to the right files without reading everything first.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/mcp-repo-graph/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "0112bd8244ffec8b9d4f0049c5005ff4",
+    "title": "Hamdi Announces Anywhere & Everywhere Tour for North America",
+    "slug": "hamdi-announces-anywhere--everywhere-tour-for-north-america",
+    "date": "2026-04-12T19:01:12Z",
+    "description": "Hamdi is bringing a calculated disruption to North American clubs. The Anywhere & Everywhere tour isn\u2019t a festival play, it\u2019s a focused strike directly into the heart of underground spaces\u2014Sound,\u2026\nThe post Hamdi Announces Anywhere & Everywhere Tour for North \u2026",
+    "category": "Dev News",
+    "source": "https://dancingastronaut.com/2026/04/hamdi-announces-anywhere-everywhere-tour-for-north-america/",
+    "tags": [
+      "dancingastronaut.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "c4620c5463c683656bbddf49e82dbb06",
+    "title": "Every Movie That Has Tried to Copy John Wick, Ranked",
+    "slug": "every-movie-that-has-tried-to-copy-john-wick-ranked",
+    "date": "2026-04-12T19:00:00Z",
+    "description": "images courtesy of Focus Features and Netflix\n\nWhen John Wick was released in 2014 it did fairly well at the box office, but it didn\u2019t exactly set the world on fire. Its legacy, however, didn\u2019t take long to establish. If there is any single movie of the 2010s\u2026",
+    "category": "AI Tools",
+    "source": "http://comicbook.com/movies/list/every-movie-that-has-tried-to-copy-john-wick-ranked/",
+    "tags": [
+      "comicbook.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "5950424bea670874f08f586cff2acbe1",
     "title": "Show HN: Terminal Style Web Component",
     "slug": "show-hn-terminal-style-web-component",
