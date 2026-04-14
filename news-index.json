@@ -1,5 +1,44 @@
 [
   {
+    "id": "eeeb0ac4dbd8d3130f402d81a0d79364",
+    "title": "Rooster Recap: The Odd Couple",
+    "slug": "rooster-recap-the-odd-couple",
+    "date": "2026-04-13T02:37:56Z",
+    "description": "Bill Lawrence\u2019s shows run on their own fantasy social logic, which requires a setting aside of our skepticism of human behavior. But honestly? Let\u2019s embrace it.",
+    "category": "Dev News",
+    "source": "http://www.vulture.com/article/rooster-recap-season-1-episode-6-cop-hawk.html",
+    "tags": [
+      "vulture.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5b60288989c10b8bf4b9a44051363414",
+    "title": "Show HN: A better alternative to CLI and MCP for local tools",
+    "slug": "show-hn-a-better-alternative-to-cli-and-mcp-for-local-tools",
+    "date": "2026-04-13T02:21:23Z",
+    "description": "I've created an alternative to CLI and MCP for locally running agentic tools. It uses Unix-based OS's named pipes, which means the client has quick IPC with the tool and it can have in-memory state. I created it to build components for voice agents (TTS, STT,\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/stefanwebb/named-pipes",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "ca4996f8d5d3b222a403491ea9166a85",
+    "title": "twelve-angry-agents added to PyPI",
+    "slug": "twelveangryagents-added-to-pypi",
+    "date": "2026-04-13T01:18:21Z",
+    "description": "Run your decisions through a jury of 12 AI minds before you commit.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/twelve-angry-agents/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "93ab763e66752936a3596ab4a138f520",
     "title": "mcp-repo-graph added to PyPI",
     "slug": "mcprepograph-added-to-pypi",
