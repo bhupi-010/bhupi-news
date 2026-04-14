@@ -1,5 +1,44 @@
 [
   {
+    "id": "12347aa2fbe3738d98d6410157854bbf",
+    "title": "vault404 added to PyPI",
+    "slug": "vault404-added-to-pypi",
+    "date": "2026-04-13T13:54:09Z",
+    "description": "404vault: Collective AI coding agent brain - every verified fix makes ALL agents smarter",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/vault404/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "c07a7b3852ee16844e9de72edb35e316",
+    "title": "Mindset First: You Can\u2019t Heal a Body with a Broken Mind - Why Mental Alignment Is the Foundation for Healing, Performance, and Long-Term Health",
+    "slug": "mindset-first-you-cant-heal-a-body-with-a-broken-mind--why-mental-alignment-is-t",
+    "date": "2026-04-13T13:45:09Z",
+    "description": "Mindset First: You Can\u2019t Heal a Body with a Broken Mind - Why Mental Alignment Is the Foundation for Healing, Performance, and Long-Term Healthcamaratachiropractic.com",
+    "category": "Dev News",
+    "source": "https://www.camaratachiropractic.com/blog/mindset-first-you-cant-heal-a-body-with-a-broken-mind-why-mental-alignment-is-the-foundation-for-healing-performance-and-long-term-health",
+    "tags": [
+      "camaratachiropractic.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "558437167c316b7ae98c968a8cd52201",
+    "title": "Show HN: Zero WYSIWYG \u2013 A lightweight, zero-dependency HTML editor",
+    "slug": "show-hn-zero-wysiwyg--a-lightweight-zerodependency-html-editor",
+    "date": "2026-04-13T13:21:20Z",
+    "description": "A lightweight, zero-dependency WYSIWYG HTML editor. Built-in tables, color picker, YouTube embeds, image resize, emoji picker, code blocks, task lists, slash commands, find &amp; replace, balloon t...",
+    "category": "Dev News",
+    "source": "https://github.com/KaTXi/zero-wysiwyg",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "a65260c7ed6aadec9b6ced1cd18dc365",
     "title": "How to Use Docker Compose for Multi-Container Applications",
     "slug": "how-to-use-docker-compose-for-multicontainer-applications",
