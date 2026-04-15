@@ -1,5 +1,44 @@
 [
   {
+    "id": "59ffa8d1080112d518b3b17e3319ab94",
+    "title": "Show HN: Early Reader \u2013 Free open source reading app I built for my 4-year-old",
+    "slug": "show-hn-early-reader--free-open-source-reading-app-i-built-for-my-4yearold",
+    "date": "2026-04-14T07:46:52Z",
+    "description": "Over the holidays I went looking for a reading app for my 4-year-old daughter. The top app in this space charges $500/month. Since that's a bit much to pay for an app, I figured I could vibe code something better in a few days, so I tried.The app uses DISTAR \u2026",
+    "category": "Dev News",
+    "source": "https://github.com/melvinmt/early-reader-app",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "58551f613ff7cf826e60533db94d4aee",
+    "title": "Squash and stretch",
+    "slug": "squash-and-stretch",
+    "date": "2026-04-14T07:17:43Z",
+    "description": "Have you ever heard of Disney\u2019s 12 Basic Principles of Animation? In this tutorial, we\u2019ll explore how we can use the very first principle to create SVG micro-interactions that feel way more natural and believable. It\u2019s one of those small things that has a big\u2026",
+    "category": "Dev News",
+    "source": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
+    "tags": [
+      "joshwcomeau.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "4e4857ffe2f05485a3e8122b16eb8747",
+    "title": "The US on the naval blockade of Iran: How it could backfire on Trump",
+    "slug": "the-us-on-the-naval-blockade-of-iran-how-it-could-backfire-on-trump",
+    "date": "2026-04-14T06:10:34Z",
+    "description": "Washington targets Chinese dependence on Iranian oil, but backfire could cause new US-Peking tensions, further pressure on the global economy and a price rise of up to $150 a barrel\nThe post The US on the naval blockade of Iran: How it could backfire on Trump\u2026",
+    "category": "Dev News",
+    "source": "https://en.protothema.gr/2026/04/14/the-us-on-the-naval-blockade-of-iran-how-it-could-backfire-on-trump/",
+    "tags": [
+      "en.protothema.gr",
+      "dev-news"
+    ]
+  },
+  {
     "id": "c5ceadd871f00db937bb26be683264c3",
     "title": "Social Media Marketing for Startups: Strategy, Channels, and Budget Allocation",
     "slug": "social-media-marketing-for-startups-strategy-channels-and-budget-allocation",
