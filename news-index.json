@@ -1,5 +1,44 @@
 [
   {
+    "id": "317ae4876d582b9b7636110efcaa0fc0",
+    "title": "After Uncertainty, Maine\u2019s Free College Program Is Here to Stay",
+    "slug": "after-uncertainty-maines-free-college-program-is-here-to-stay",
+    "date": "2026-04-15T07:00:00Z",
+    "description": "After Uncertainty, Maine\u2019s Free College Program Is Here to Stay\n\n \n\n\n \nSara Weissman\n\nWed, 04/15/2026 - 03:00 AM\n\nThe fate of the state\u2019s free community college program hung in the balance. But after fierce advocacy efforts from college leaders and students, \u2026",
+    "category": "AI Tools",
+    "source": "https://www.insidehighered.com/news/government/state-policy/2026/04/15/maines-free-college-program-here-stay",
+    "tags": [
+      "insidehighered.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "fdad09a9120bbaad050304e28d4dc064",
+    "title": "polars-gw added to PyPI",
+    "slug": "polarsgw-added-to-pypi",
+    "date": "2026-04-15T06:43:21Z",
+    "description": "Native Polars computation engine for Graphic Walker \u2014 translates GW workflow payloads directly to Polars operations",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/polars-gw/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f05625da144d8db64219840f58e3f45f",
+    "title": "Building distributed system using RabbitMQ and .NET",
+    "slug": "building-distributed-system-using-rabbitmq-and-net",
+    "date": "2026-04-15T06:31:15Z",
+    "description": "Build a distributed system with RabbitMQ and .NET! This tutorial covers microservices, event-driven communication, and a practical shopping app example. Learn to scale!",
+    "category": "Dev News",
+    "source": "https://www.c-sharpcorner.com/article/building-distributed-system-using-rabbitmq-and-net/",
+    "tags": [
+      "c-sharpcorner.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "84eb2359704fe3d46d29aeda96a95533",
     "title": "NVIDIA Just Made Quantum Computing Practical With Ising, The World\u2019s First Open AI Models For Quantum Computers",
     "slug": "nvidia-just-made-quantum-computing-practical-with-ising-the-worlds-first-open-ai",
