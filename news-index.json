@@ -1,5 +1,44 @@
 [
   {
+    "id": "05e27d5638e4a0fde21ccf0144667ad0",
+    "title": "Bartender Says Customers Can\u2019t Stop Ordering This Drink After The Masters. Most People Have Never Even Heard Of It",
+    "slug": "bartender-says-customers-cant-stop-ordering-this-drink-after-the-masters-most-pe",
+    "date": "2026-04-16T02:00:07Z",
+    "description": "A bartender says customers are asking for one special cocktail following the 2026 Masters at Augusta National. While some might be resistant to the themed beverage, he says he welcomes it. Here\u2019s how to order one. In a video with over 678,000 views, TikToker \u2026",
+    "category": "AI Tools",
+    "source": "https://brobible.com/culture/article/masters-azalea/",
+    "tags": [
+      "brobible.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "7749feeda4f652505811b7667067149a",
+    "title": "Streaming Server-Side Rendering in Confluence",
+    "slug": "streaming-serverside-rendering-in-confluence",
+    "date": "2026-04-16T01:52:39Z",
+    "description": "Over the past two years, the Confluence team has significantly improved page load performance by adopting React 18\u2019s streaming server-side rendering (SSR), advanced hydration techniques, and smarter client asset loading. This article explains the key performa\u2026",
+    "category": "Frontend",
+    "source": "https://www.atlassian.com/blog/atlassian-engineering/streaming-server-side-rendering-in-confluence",
+    "tags": [
+      "atlassian.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "a1ab4fb85512fd7c8a4f534dac4a7f59",
+    "title": "Iran has a powerful new tool in the Strait of Hormuz that it can leverage long after the war",
+    "slug": "iran-has-a-powerful-new-tool-in-the-strait-of-hormuz-that-it-can-leverage-long-a",
+    "date": "2026-04-16T01:19:21Z",
+    "description": "Iran\u2019s leaders are demanding sovereignty over the strait for a reason: it protects them from future attacks and can be a very effective bargaining chip.",
+    "category": "AI Tools",
+    "source": "https://theconversation.com/iran-has-a-powerful-new-tool-in-the-strait-of-hormuz-that-it-can-leverage-long-after-the-war-280442",
+    "tags": [
+      "theconversation.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "baf67a714e373375b927e85b9f8255dc",
     "title": "MLB and Twins are investigating Jarren Duran's allegation that a fan told him to kill himself",
     "slug": "mlb-and-twins-are-investigating-jarren-durans-allegation-that-a-fan-told-him-to-",
