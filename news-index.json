@@ -1,5 +1,44 @@
 [
   {
+    "id": "508d19a5162d9eb573cf52d77a5eb2f7",
+    "title": "Agents that remember: introducing Agent Memory",
+    "slug": "agents-that-remember-introducing-agent-memory",
+    "date": "2026-04-17T13:00:00Z",
+    "description": "Cloudflare Agent Memory is a managed service that gives AI agents persistent memory, allowing them to recall what matters, forget what doesn't, and get smarter over time.",
+    "category": "AI Tools",
+    "source": "https://blog.cloudflare.com/introducing-agent-memory/",
+    "tags": [
+      "blog.cloudflare.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "16f98e47577503afd016e0370654fb83",
+    "title": "Show HN: Local.vibe \u2013 Give localhost ports real names",
+    "slug": "show-hn-localvibe--give-localhost-ports-real-names",
+    "date": "2026-04-17T12:58:55Z",
+    "description": "I got tired of juggling a stack of dev servers on random ports and never remembering which was which. local.vibe gives me a local TLD that reverse proxies to a specific port. Hit api.vibe or admin.vibe instead of localhost:4317. It's a tiny tool for other loc\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/graiz/local.vibe",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "3bf21e57d7357398b7bf5e98958a9d73",
+    "title": "How to Go Viral With Zero Followers: A Practical Guide to Organic Reach and Explosive Growth",
+    "slug": "how-to-go-viral-with-zero-followers-a-practical-guide-to-organic-reach-and-explo",
+    "date": "2026-04-17T12:36:34Z",
+    "description": "Learning How to Go Viral With Zero Followers is no longer a mystery reserved for influencers or big brands. In today\u2019s algorithm-driven platforms like TikTok, Instagram, YouTube Shorts, and X (Twitter), even complete beginners can reach millions of views over\u2026",
+    "category": "Dev News",
+    "source": "https://www.successful-blog.com/1/viral-with-zero-followers/",
+    "tags": [
+      "successful-blog.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f928c2eaaa705a1f66194ca4a4724cf0",
     "title": "After calling software engineering 'dead,' Anthropic\u2019s Claude Code creator Boris Cherny says coding tools like Microsoft VS Code, Apple Xcode, and others will be \u2018dead soon\u2019",
     "slug": "after-calling-software-engineering-dead-anthropics-claude-code-creator-boris-che",
