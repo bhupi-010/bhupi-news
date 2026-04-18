@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "d44bc771723077135ad7effc628a2759",
+    "title": "US raises the stakes in the Strait of Hormuz",
+    "slug": "us-raises-the-stakes-in-the-strait-of-hormuz",
+    "date": "2026-04-17T07:06:37Z",
+    "description": "The potential for dangerous escalation has increased with the US decision to pursue any ships anywhere in the world they think may be helping Iran evade sanctions.",
+    "category": "AI Tools",
+    "source": "https://theconversation.com/us-raises-the-stakes-in-the-strait-of-hormuz-280850",
+    "tags": [
+      "theconversation.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "0e3813808e573a7f4c471a1fddc8245c",
+    "title": "Claude Opus wrote a Chrome exploit for $2,283",
+    "slug": "claude-opus-wrote-a-chrome-exploit-for-2283",
+    "date": "2026-04-17T07:02:09Z",
+    "description": "Pause your Mythos panic because mainstream models anyone can use already pick holes in popular software\nAnthropic withheld its Mythos bug-finding model from public release due to concerns that it would enable attackers to find and exploit vulnerabilities befo\u2026",
+    "category": "AI Tools",
+    "source": "https://www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/",
+    "tags": [
+      "theregister.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "ad738f95a9e9cd66cfea2c6a668df495",
+    "title": "opencollab-mcp added to PyPI",
+    "slug": "opencollabmcp-added-to-pypi",
+    "date": "2026-04-17T06:41:22Z",
+    "description": "AI-powered open source contribution matchmaker \u2014 finds perfect 'good first issues' matched to YOUR skills",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/opencollab-mcp/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "902a722082a579bb4cc701d216301ebc",
     "title": "OpenAI Supercharges Codex Into \u2018AI Super App\u2019, Sam Altman Takes Swipe at Anthropic Amid Tech Rivalry",
     "slug": "openai-supercharges-codex-into-ai-super-app-sam-altman-takes-swipe-at-anthropic-",
