@@ -1,5 +1,44 @@
 [
   {
+    "id": "74244c4cfda4b9712adf6afd4f92e20b",
+    "title": "Show HN: devnexus \u2013 shared AI brain across repos, sessions, and engineers",
+    "slug": "show-hn-devnexus--shared-ai-brain-across-repos-sessions-and-engineers",
+    "date": "2026-04-18T03:09:05Z",
+    "description": "This started as my personal workspace, but after a few people asked me to set it up for them I turned it into a script. However updating it was a pain and required completely remaking the workspace everytime so I turned it into a npm package with CLI.Setting \u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/JoshBong/devnexus",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9fee2b14666cdbb0a49fa045612cc1c6",
+    "title": "OpenAI\u2019s former product chief and Sora head leave company",
+    "slug": "openais-former-product-chief-and-sora-head-leave-company",
+    "date": "2026-04-18T02:59:57Z",
+    "description": "Kevin Weil, the former chief product officer who later took charge of the OpenAI for Science project, announced Friday that he\u2019s stepping down. Weil joined OpenAI nearly two years ago and previously steered product development at Instagram and Twitter as an e\u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/tech/technology/openais-former-product-chief-and-sora-head-leave-company/articleshow/130346266.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a54dab481c5e2731aca3b612801b3287",
+    "title": "OpenAI\u2019s Kevin Weil and Sora head Bill Peebles leave company",
+    "slug": "openais-kevin-weil-and-sora-head-bill-peebles-leave-company",
+    "date": "2026-04-18T02:59:57Z",
+    "description": "Kevin Weil, the former chief product officer who later took charge of the OpenAI for Science project, announced Friday that he\u2019s stepping down. Weil joined OpenAI nearly two years ago and previously steered product development at Instagram and Twitter as an e\u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/tech/technology/openais-former-product-chief-kevin-weil-and-sora-head-bill-peebles-leave-company/articleshow/130346266.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "80f5b5b1347165ead6ad8b82d0266bec",
     "title": "Fantasy Football Today: NFC East and don't wants for the 2026 NFL Draft",
     "slug": "fantasy-football-today-nfc-east-and-dont-wants-for-the-2026-nfl-draft",
