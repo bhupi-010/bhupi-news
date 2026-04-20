@@ -1,5 +1,44 @@
 [
   {
+    "id": "a85f5ccd7dd2ab9e9cba15d1fd00d271",
+    "title": "aiconfigsync added to PyPI",
+    "slug": "aiconfigsync-added-to-pypi",
+    "date": "2026-04-19T13:01:25Z",
+    "description": "Generate AI coding assistant config files from a single source. 12 tools, 1 command.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/aiconfigsync/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a7c7ed35cdbc27dc885a03fabb3f8ab5",
+    "title": "Show HN: Open-source digital business card generator",
+    "slug": "show-hn-opensource-digital-business-card-generator",
+    "date": "2026-04-19T12:43:53Z",
+    "description": "Article URL: https://github.com/kevinwielander/digital-business-cards\nComments URL: https://news.ycombinator.com/item?id=47823892\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/kevinwielander/digital-business-cards",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "1dbceeda663d1638407b8bfb89b19f51",
+    "title": "reskill-cli added to PyPI",
+    "slug": "reskillcli-added-to-pypi",
+    "date": "2026-04-19T12:43:14Z",
+    "description": "A terminal companion for Claude Code. While Claude thinks for 23 seconds, reSkill hands you a quiz about the exact code it's working on.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/reskill-cli/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f8229c5fef3f22783ba2c71eeef919d1",
     "title": "Public grocery stores are having a moment. Can they really make food more affordable?",
     "slug": "public-grocery-stores-are-having-a-moment-can-they-really-make-food-more-afforda",
