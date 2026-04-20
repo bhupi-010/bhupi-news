@@ -1,5 +1,44 @@
 [
   {
+    "id": "dbb331e43328a618ff3acbc0b0e6b913",
+    "title": "The Summer Survival Guide: Smarter ways to live through rising temperatures",
+    "slug": "the-summer-survival-guide-smarter-ways-to-live-through-rising-temperatures",
+    "date": "2026-04-19T02:37:21Z",
+    "description": "We are living in an era of extreme heat, and the planet is not pushing back on the pedal anytime soon. Which is why Lijee Philip brings to you \u2018the heat reset\u2019 - tips to enjoy (or survive) summer when the temperature soars",
+    "category": "Dev News",
+    "source": "https://economictimes.indiatimes.com/magazines/panache/the-summer-survival-guide-smarter-ways-to-live-through-rising-temperatures/articleshow/130364259.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "41168bef6c7d329227dee8601d3ef41e",
+    "title": "swarmbus-py added to PyPI",
+    "slug": "swarmbuspy-added-to-pypi",
+    "date": "2026-04-19T02:33:43Z",
+    "description": "Reactive pub/sub messaging for AI agents via MQTT",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/swarmbus-py/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "625b24171fb927ee48b7f82c739d1e69",
+    "title": "13 Takeaways from Cavs 132-126 win over Raptors: James Harden changes everything",
+    "slug": "13-takeaways-from-cavs-132126-win-over-raptors-james-harden-changes-everything",
+    "date": "2026-04-19T01:18:08Z",
+    "description": "The Cavaliers showed how dangerous they can be in the playoffs.",
+    "category": "Dev News",
+    "source": "https://www.fearthesword.com/cavs-analysis/48058/cavs-takeaways-toronto-raptors-game1-cleveland-cavaliers-james-harden-donovan-mitchell-jarrett-allen-evan-mobley",
+    "tags": [
+      "fearthesword.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f00297396d4544add91b24a2f09eec28",
     "title": "Green Lantern #34 Preview: Kyle's L.A. Alien Wrestling Debut",
     "slug": "green-lantern-34-preview-kyles-la-alien-wrestling-debut",
