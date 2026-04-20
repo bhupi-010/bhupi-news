@@ -1,5 +1,44 @@
 [
   {
+    "id": "f8229c5fef3f22783ba2c71eeef919d1",
+    "title": "Public grocery stores are having a moment. Can they really make food more affordable?",
+    "slug": "public-grocery-stores-are-having-a-moment-can-they-really-make-food-more-afforda",
+    "date": "2026-04-19T08:00:00Z",
+    "description": "From Toronto to New York City, politicians want to tackle rising food costs with government-run grocery stores. Politicians championing the plan say these stores would sell staple items at lower prices than private grocery stores. But critics say the idea is \u2026",
+    "category": "Dev News",
+    "source": "https://www.cbc.ca/radio/thecurrent/public-grocery-stores-9.7168321",
+    "tags": [
+      "cbc.ca",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "defda85275d978837b6fb99b16564640",
+    "title": "Sooo ... About Last Night",
+    "slug": "sooo--about-last-night",
+    "date": "2026-04-19T07:00:00Z",
+    "description": "Last night (Sat., April 18, 2026), Ultimate Fighting Championship (UFC) ventured forth to Canada Life Centre in Winnipeg, Manitoba, Canada for UFC Winnipeg. In the main event, fast-rising Canadian contender Mike Malott hoped to climb into the Top 10 by dispat\u2026",
+    "category": "AI Tools",
+    "source": "https://www.mmamania.com/ufc-327-live-stream-miami-prochazka-ulberg-mma/437630/ufc-winnipeg-results-sooo-about-last-night-burns-vs-malott",
+    "tags": [
+      "mmamania.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "73a61ad1370192c7fe536967e3066ab6",
+    "title": "Expo raises $45M Series B led by Georgian #tech",
+    "slug": "expo-raises-45m-series-b-led-by-georgian-tech",
+    "date": "2026-04-19T06:01:27Z",
+    "description": "Expo raises $45M Series B, doubling down on cross platform app infrastructure Expo\u2014developer of an eponymous React Native framework and a suite of cloud services for building cross platform apps\u2014has raised a $45M Series B round led by Georgian. The funding si\u2026",
+    "category": "Frontend",
+    "source": "https://alltoc.com/tech/expo-raises-45m-series-b-led-by-georgian",
+    "tags": [
+      "alltoc.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "dbb331e43328a618ff3acbc0b0e6b913",
     "title": "The Summer Survival Guide: Smarter ways to live through rising temperatures",
     "slug": "the-summer-survival-guide-smarter-ways-to-live-through-rising-temperatures",
