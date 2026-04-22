@@ -1,5 +1,44 @@
 [
   {
+    "id": "2adc57aa8cfe624a6d955ad55e2b602b",
+    "title": "Show HN: AnyHabit \u2013 A minimalist habit tracker for Raspberry Pi and Docker",
+    "slug": "show-hn-anyhabit--a-minimalist-habit-tracker-for-raspberry-pi-and-docker",
+    "date": "2026-04-21T07:46:20Z",
+    "description": "Hey everyone, I recently built AnyHabit, a minimalist, self-hosted habit tracker designed for home servers, and I just released v0.1.0 and made it fully open-source under GPLv3. I wanted something simple without subscriptions or bloat, so I built this to trac\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/Sparths/AnyHabit",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "e67c63d8bfa519f9fc972feea9f1c798",
+    "title": "\u2018Stepped into world\u2019s biggest shoes\u2019: Tech industry reacts to Tim Cook\u2019s exit as Apple CEO",
+    "slug": "stepped-into-worlds-biggest-shoes-tech-industry-reacts-to-tim-cooks-exit-as-appl",
+    "date": "2026-04-21T07:33:01Z",
+    "description": "Cook\u2019s announcement drew swift reactions from tech executives, investors, market observers, and journalists, with many calling it the close of a defining chapter for Apple.",
+    "category": "Frontend",
+    "source": "https://indianexpress.com/article/technology/tech-news-technology/tim-cook-apple-ceo-resignation-industry-reactions-10647831/",
+    "tags": [
+      "indianexpress.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "5046487bb5cda8b79d88783339358ba5",
+    "title": "observal-cli added to PyPI",
+    "slug": "observalcli-added-to-pypi",
+    "date": "2026-04-21T07:09:29Z",
+    "description": "Observal MCP Server Registry & Agent Registry CLI",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/observal-cli/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "c45c0147ef80d77c9102f60edf2e4756",
     "title": "Knicks collapse in stunning Game 2 loss to let Hawks even series",
     "slug": "knicks-collapse-in-stunning-game-2-loss-to-let-hawks-even-series",
