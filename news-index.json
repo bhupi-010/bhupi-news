@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "2726aa85469e00c59a7ca3cd26601c97",
+    "title": "BBC Women's Football Weekly",
+    "slug": "bbc-womens-football-weekly",
+    "date": "2026-04-21T18:41:00Z",
+    "description": "Can Arsenal secure a first-leg advantage at the Emirates this year?",
+    "category": "Dev News",
+    "source": "https://www.bbc.co.uk/sounds/play/p0nfrzft?at_campaign=rss",
+    "tags": [
+      "bbc.co.uk",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "963d5763626b2e9f20b43e81f1bc57d6",
+    "title": "Nightwing Goes Super Saiyan as DC Merges with Dragon Ball Lore",
+    "slug": "nightwing-goes-super-saiyan-as-dc-merges-with-dragon-ball-lore",
+    "date": "2026-04-21T18:37:10Z",
+    "description": "An iconic Batman hero just turned into a Super Saiyan, as the latest DC hero to unleash the transformation made iconic by Dragon Ball Z.",
+    "category": "AI Tools",
+    "source": "https://screenrant.com/batman-dragon-ball-super-saiyan-robin-redesign-new-costume/",
+    "tags": [
+      "screenrant.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "2ccb949225db2a481bcd0e021b0ea2fb",
+    "title": "Florida opens criminal inquiry over ChatGPT role in fatal university shooting",
+    "slug": "florida-opens-criminal-inquiry-over-chatgpt-role-in-fatal-university-shooting",
+    "date": "2026-04-21T18:22:57Z",
+    "description": "Investigation focuses on messages between chatbot and man accused of killing two people at Florida State University last year",
+    "category": "Dev News",
+    "source": "https://www.irishtimes.comhttps://www.nytimes.com/2026/04/21/us/florida-criminal-investigation-openai-chatgpt-fsu-shooting.html",
+    "tags": [
+      "irishtimes.comhttps:",
+      "dev-news"
+    ]
+  },
+  {
     "id": "764a216bab253b8693fd51baa89bf99c",
     "title": "Oil Traders Warn Worst of Demand Hit Is Yet to Come",
     "slug": "oil-traders-warn-worst-of-demand-hit-is-yet-to-come",
