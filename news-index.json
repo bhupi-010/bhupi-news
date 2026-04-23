@@ -1,5 +1,44 @@
 [
   {
+    "id": "20bc23db9d7d32d8797d79f9af2d313a",
+    "title": "Google's internal struggle is handing the AI coding race to Anthropic and OpenAI",
+    "slug": "googles-internal-struggle-is-handing-the-ai-coding-race-to-anthropic-and-openai",
+    "date": "2026-04-22T14:45:21Z",
+    "description": "At Google, leaders are anxious about falling behind in the race to offer AI coding tools, especially as rivals like Anthropic PBC offer more effective and popular tools to businesses, according to people familiar with the matter.",
+    "category": "AI Tools",
+    "source": "https://www.latimes.com/business/story/2026-04-22/googles-internal-struggle-is-handing-ai-coding-race-to-anthropic-openai",
+    "tags": [
+      "latimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "1b0aa25303ffa9c744541f03adb6e2b7",
+    "title": "SpaceX and Cursor team up to boost AI coding development",
+    "slug": "spacex-and-cursor-team-up-to-boost-ai-coding-development",
+    "date": "2026-04-22T08:13:00Z",
+    "description": "Cursor is partnering with SpaceX to expand computing power for its AI coding tools, aiming to build more advanced models faster and at lower cost. (AP Photo)",
+    "category": "AI Tools",
+    "source": "https://www.wltx.com/article/news/nation-world/spacex-cursor-artificial-intelligence-ai-coding-tools-partnership/507-d0b1f65a-fc76-4b30-ae14-fde4cd27b5dc",
+    "tags": [
+      "wltx.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "389933e58eec79b0474ceaa791ca2d6d",
+    "title": "RTX Remix Advanced Particle VFX system now available for modders",
+    "slug": "rtx-remix-advanced-particle-vfx-system-now-available-for-modders",
+    "date": "2026-04-22T02:57:06Z",
+    "description": "RTX Remix Advanced Particle VFX is now available, adding the ability for modders to 'craft tens of thousands of path-traced particles.'.Continue reading at TweakTown",
+    "category": "AI Tools",
+    "source": "https://www.tweaktown.com/news/111183/rtx-remix-advanced-particle-vfx-system-now-available-for-modders/index.html",
+    "tags": [
+      "tweaktown.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "dbaaf3d5a7279697c71d4a861a1b696e",
     "title": "Driven Plan to Build $14 Trillion Service Sector by 2030",
     "slug": "driven-plan-to-build-14-trillion-service-sector-by-2030",
