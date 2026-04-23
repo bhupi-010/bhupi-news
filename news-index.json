@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "02e2bbf4b105d921749ee806de3d94b7",
+    "title": "Give AI Something Worth Amplifying: Three Priorities for Technical Leaders",
+    "slug": "give-ai-something-worth-amplifying-three-priorities-for-technical-leaders",
+    "date": "2026-04-22T13:52:40Z",
+    "description": "Most organizations are asking what AI can do for their developers. A harder question is what are your developers bringing to AI? DORA\u2019s 2025 AI Capabilities Model report argues that AI does not level teams out \u2013 it amplifies what is already there. Stronger, h\u2026",
+    "category": "AI Tools",
+    "source": "https://blog.jetbrains.com/ai/2026/04/give-ai-something-worth-amplifying-three-priorities-for-technical-leaders/",
+    "tags": [
+      "blog.jetbrains.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "7d6b1c84337c1923b3d1087c68e25b5e",
+    "title": "Show HN: BigBlueBam, MIT-licensed Work OS where agents are first-class coworkers",
+    "slug": "show-hn-bigbluebam-mitlicensed-work-os-where-agents-are-firstclass-coworkers",
+    "date": "2026-04-22T13:35:54Z",
+    "description": "Hi HN, Eddie here. My project BigBlueBam is a self-hosted, MIT-licensed Work OS with a unified backend with native MCP, \"AI as Users\" rather than bolted-on chat widgets. The deploy script will stand up the full stack (local Docker container or push it to Rail\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/eoffermann/BigBlueBam",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "6a36903a2fa9841dce399a870ba75fee",
+    "title": "What\u2019s new in Gutenberg 23.0? (22 April)",
+    "slug": "whats-new-in-gutenberg-230-22-april",
+    "date": "2026-04-22T13:11:35Z",
+    "description": "\u201cWhat\u2019s new in Gutenberg\u201d posts (labeled with the #gutenberg-new tag) are posted following every Gutenberg release on a biweekly basis, showcasing new features included in each release. As a reminder,\u00a0here\u2019s an overview\u00a0of different ways to keep up with Guten\u2026",
+    "category": "Dev News",
+    "source": "https://make.wordpress.org/core/2026/04/22/whats-new-in-gutenberg-23-0-22-april/",
+    "tags": [
+      "make.wordpress.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "1b0aa25303ffa9c744541f03adb6e2b7",
     "title": "SpaceX and Cursor team up to boost AI coding development",
     "slug": "spacex-and-cursor-team-up-to-boost-ai-coding-development",
