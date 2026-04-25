@@ -1,5 +1,44 @@
 [
   {
+    "id": "fb03c438e649471c8038a8764ad73fd7",
+    "title": "Your paid AI coding tools are overkill - here's what I switched to instead",
+    "slug": "your-paid-ai-coding-tools-are-overkill--heres-what-i-switched-to-instead",
+    "date": "2026-04-24T19:00:20Z",
+    "description": "I've searched the internet from A to Zed and I've found what I was looking for",
+    "category": "AI Tools",
+    "source": "https://www.xda-developers.com/replaced-claude-code-and-cursor-with-this-free-open-source-ide-not-going-back/",
+    "tags": [
+      "xda-developers.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "f941e113f0c6d5310614c25716922bb6",
+    "title": "oracle-lag-sniper added to PyPI",
+    "slug": "oraclelagsniper-added-to-pypi",
+    "date": "2026-04-24T07:09:27Z",
+    "description": "Polymarket oracle-lag trading bot with backtest harness",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/oracle-lag-sniper/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "3dd91df45a9227f9628b56d6ba5221f4",
+    "title": "Saros: The Kotaku Review",
+    "slug": "saros-the-kotaku-review",
+    "date": "2026-04-24T07:00:04Z",
+    "description": "Housemarque\u2019s spiritual successor to Returnal offers the same thorny, rewarding challenges",
+    "category": "Dev News",
+    "source": "https://kotaku.com/saros-review-ps5-housemarque-returnal-sony-playstation-2000690119",
+    "tags": [
+      "kotaku.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f3c5d1ac627cfb0ccea7d1b9deec419a",
     "title": "Rams fans react to Ty Simpson pick: \u2018Crazy to me\u2019",
     "slug": "rams-fans-react-to-ty-simpson-pick-crazy-to-me",
