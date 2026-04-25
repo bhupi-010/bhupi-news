@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "d62ec3b44fe8f866a870dd0a49c70352",
+    "title": "\u2605 Introducing Mailbox for Laravel: A Local Email Inbox You Drop Into Your App",
+    "slug": "introducing-mailbox-for-laravel-a-local-email-inbox-you-drop-into-your-app",
+    "date": "2026-04-24T13:13:37Z",
+    "description": "Mailbox for Laravel is a local email testing package that captures outgoing messages and lets you preview them in a clean inbox, no Mailtrap, no extra setup.",
+    "category": "AI Tools",
+    "source": "https://redberry.international/mailbox-for-laravel-email-testing/",
+    "tags": [
+      "redberry.international",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a465e735642adda1f9e7f1b11cfc744f",
+    "title": "Edwards on relegation and 'mistakes', recruitment and facing Spurs",
+    "slug": "edwards-on-relegation-and-mistakes-recruitment-and-facing-spurs",
+    "date": "2026-04-24T13:06:07Z",
+    "description": "Wolves boss Rob Edwards has been speaking to the media before Saturday's Premier League game against Tottenham at Molineux (kick-off 15:00 BST). It's been difficult for the supporters and I know it is challenging.",
+    "category": "AI Tools",
+    "source": "https://www.bbc.com/sport/football/articles/ceqw45p59w9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "tags": [
+      "bbc.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "1cff908f3b6e3a7687e54463ff7cf65a",
+    "title": "How Arizona Has Gone About Replacing 'Big Three'",
+    "slug": "how-arizona-has-gone-about-replacing-big-three",
+    "date": "2026-04-24T13:00:06Z",
+    "description": "The Wildcats had a hugely successful year in the secondary. How do they continue from there?",
+    "category": "Dev News",
+    "source": "https://www.si.com/college/arizona/wildcats-how-has-gone-about-replacing-big-three",
+    "tags": [
+      "si.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f941e113f0c6d5310614c25716922bb6",
     "title": "oracle-lag-sniper added to PyPI",
     "slug": "oraclelagsniper-added-to-pypi",
