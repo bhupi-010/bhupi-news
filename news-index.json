@@ -1,5 +1,44 @@
 [
   {
+    "id": "8651b0e80fd902076c42923277cfd4c2",
+    "title": "Imaginando VS 2.2.0",
+    "slug": "imaginando-vs-220",
+    "date": "2026-04-25T18:38:47Z",
+    "description": "Description:\u00a0Easily create visuals that react to MIDI and audio. Creating audio-reactive visuals has traditionally been a complex and intimidating process, often requiring deep technical knowledge and navigating software designed with steep learning curves. F\u2026",
+    "category": "Frontend",
+    "source": "https://post.rlsbb.to/imaginando-vs-2-2-0/",
+    "tags": [
+      "post.rlsbb.to",
+      "frontend"
+    ]
+  },
+  {
+    "id": "b9418b4e06c00bbd97758a73f7366c39",
+    "title": "oneharness added to PyPI",
+    "slug": "oneharness-added-to-pypi",
+    "date": "2026-04-25T18:27:50Z",
+    "description": "Maintain a single .1harness/ config directory and transpile to multiple AI coding agent formats",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/oneharness/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b808bb0523bc99780b0168cfea43e8f8",
+    "title": "mnemo-claude added to PyPI",
+    "slug": "mnemoclaude-added-to-pypi",
+    "date": "2026-04-25T18:12:08Z",
+    "description": "The Obsidian that populates itself so your Claude never forgets.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/mnemo-claude/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "b122290c37643581aa9401f82a11a824",
     "title": "The Screen That Changes the Shoot",
     "slug": "the-screen-that-changes-the-shoot",
