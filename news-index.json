@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "20395e9660b7b03957f4e097d10a5b6c",
+    "title": "Vote now among 31 choices for StarNews Athlete of the Week",
+    "slug": "vote-now-among-31-choices-for-starnews-athlete-of-the-week",
+    "date": "2026-04-26T08:01:16Z",
+    "description": "With 31 standout performances to choose from, it's time to decide the StarNews Athlete of the Week. Vote now.",
+    "category": "Dev News",
+    "source": "https://www.starnewsonline.com/story/sports/high-school/2026/04/26/wilmington-nc-starnews-athlete-of-the-week-poll-april-25/89775802007/",
+    "tags": [
+      "starnewsonline.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "cee94bca2cb48050bbcd323a36304255",
+    "title": "rosbag-resurrector added to PyPI",
+    "slug": "rosbagresurrector-added-to-pypi",
+    "date": "2026-04-26T07:22:59Z",
+    "description": "Stop letting your rosbag data rot. A pandas-like analysis tool for robotics bag files \u2014 no ROS install required.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/rosbag-resurrector/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7fdca3c68bfef76fb0ae9dd0b7062a46",
+    "title": "Dear Abby: How do I fix my narcissist wife?",
+    "slug": "dear-abby-how-do-i-fix-my-narcissist-wife",
+    "date": "2026-04-26T07:00:00Z",
+    "description": "Dear Abby advises a reader on how to deal with man who is struggling with his wife\u2019s unintentional but hurtful narcissistic behavior.",
+    "category": "Dev News",
+    "source": "https://nypost.com/2026/04/26/lifestyle/dear-abby-how-do-i-fix-my-narcissist-wife/",
+    "tags": [
+      "nypost.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "5b11a4ed22a4796326679522872e6198",
     "title": "Ben Lerner: \u2018I want us to think of the book as another hand-held device\u2019",
     "slug": "ben-lerner-i-want-us-to-think-of-the-book-as-another-handheld-device",
