@@ -1,5 +1,44 @@
 [
   {
+    "id": "c5910c669c367ab5d14ef311af00869b",
+    "title": "World leaders express shock, support after White House Correspondents' Dinner shooting",
+    "slug": "world-leaders-express-shock-support-after-white-house-correspondents-dinner-shoo",
+    "date": "2026-04-26T13:57:27Z",
+    "description": "Leaders from the U.K., France, the EU and Pakistan react to a shooting at a high-profile dinner in Washington, D.C., with Trump and his cabinet members.",
+    "category": "Frontend",
+    "source": "https://www.cnbc.com/2026/04/26/world-leaders-express-support-after-washington-dc-shooting.html",
+    "tags": [
+      "cnbc.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "8337427a8708c7a9b868b0175d0892b5",
+    "title": "Only 3% of traders drive prediction markets' accuracy, not the crowd, study finds",
+    "slug": "only-3-of-traders-drive-prediction-markets-accuracy-not-the-crowd-study-finds",
+    "date": "2026-04-26T13:47:50Z",
+    "description": "Researchers show market accuracy comes from a tiny group of informed traders, not broad participation.",
+    "category": "Dev News",
+    "source": "https://www.coindesk.com/markets/2026/04/26/only-3-of-traders-drive-prediction-markets-accuracy-not-the-crowd-study-finds",
+    "tags": [
+      "coindesk.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "3c9125cc50dfe97def697ab7a9503d13",
+    "title": "Atl\u00e9tico beat Athletic but continue to push mental, physical limits",
+    "slug": "atl\u00e9tico-beat-athletic-but-continue-to-push-mental-physical-limits",
+    "date": "2026-04-26T13:38:56Z",
+    "description": "Atl\u00e9tico end a four-match losing run in LALIGA.",
+    "category": "Dev News",
+    "source": "https://www.intothecalderon.com/atletico-madrid-columns/24427/atletico-madrid-athletic-club-bilbao-takeaways-la-liga-griezmann-sorloth-baena-pablo-barrios",
+    "tags": [
+      "intothecalderon.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "1fa3185be7b9b22c51b7a244b7b2e8c5",
     "title": "75% Google code now AI-generated, says Sundar Pichai: How company is putting AI to work",
     "slug": "75-google-code-now-aigenerated-says-sundar-pichai-how-company-is-putting-ai-to-w",
