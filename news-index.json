@@ -1,5 +1,44 @@
 [
   {
+    "id": "06d25f362b3192d8a8897de0f4d0a88f",
+    "title": "Show HN: I got tired of hand-syncing AI coding rules across four tools",
+    "slug": "show-hn-i-got-tired-of-handsyncing-ai-coding-rules-across-four-tools",
+    "date": "2026-04-28T08:18:21Z",
+    "description": "One reliable canonical source for AI coding agent rules, commands, skills, MCP, hooks, and permissions \u2014 synced across AI coding assistants. - sampleXbro/agentsmesh",
+    "category": "AI Tools",
+    "source": "https://github.com/sampleXbro/agentsmesh",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "5e0d95cd6d41b461715f129892369c47",
+    "title": "Building a Secure Streaming Chatbot with AWS Bedrock, Lambda, and Cognito",
+    "slug": "building-a-secure-streaming-chatbot-with-aws-bedrock-lambda-and-cognito",
+    "date": "2026-04-28T08:11:39Z",
+    "description": "Building a Secure Streaming Chatbot with AWS Bedrock, Lambda, and Cognito",
+    "category": "Dev News",
+    "source": "https://dev.classmethod.jp/articles/Secure-Streaming-Chatbot-with-AWS-Bedrock/",
+    "tags": [
+      "dev.classmethod.jp",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "c6223dfdc3d3b0564b965eb0fb92e951",
+    "title": "\u2018Should be fired\u2019: Why the Trumps want Jimmy Kimmel sacked",
+    "slug": "should-be-fired-why-the-trumps-want-jimmy-kimmel-sacked",
+    "date": "2026-04-28T08:06:29Z",
+    "description": "Trump calls for Kimmel's firing over remarks tied to Melania and a recent shooting incident at a media event.",
+    "category": "Dev News",
+    "source": "https://www.aljazeera.com/news/2026/4/28/should-be-fired-why-the-trumps-want-jimmy-kimmel-sacked",
+    "tags": [
+      "aljazeera.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "9721947857244c56bb55bdde652c167e",
     "title": "Alphabet (GOOG) Stock Climbs 1.81% to $348.52 on AI Momentum and Cloud Strength",
     "slug": "alphabet-goog-stock-climbs-181-to-34852-on-ai-momentum-and-cloud-strength",
