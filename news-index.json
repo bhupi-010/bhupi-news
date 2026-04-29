@@ -1,5 +1,44 @@
 [
   {
+    "id": "9721947857244c56bb55bdde652c167e",
+    "title": "Alphabet (GOOG) Stock Climbs 1.81% to $348.52 on AI Momentum and Cloud Strength",
+    "slug": "alphabet-goog-stock-climbs-181-to-34852-on-ai-momentum-and-cloud-strength",
+    "date": "2026-04-28T03:26:56Z",
+    "description": "NEW YORK \u2014 Alphabet Inc. shares rose 1.81% to close at $348.52 on Monday, extending recent gains as investors continued to reward the company's heavy investments in artificial intelligence, robust Google Cloud performance and steady advertising revenue growth\u2026",
+    "category": "AI Tools",
+    "source": "https://www.ibtimes.com.au/alphabet-goog-stock-climbs-181-34852-ai-momentum-cloud-strength-1867629",
+    "tags": [
+      "ibtimes.com.au",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "245de009f18a22aa259a4771dba56f53",
+    "title": "Show HN: Waiting for LLMs Suck \u2013 Give your user a game",
+    "slug": "show-hn-waiting-for-llms-suck--give-your-user-a-game",
+    "date": "2026-04-28T02:45:33Z",
+    "description": "Give your user a game while they wait for the LLM to return a result.\n\nComments URL: https://news.ycombinator.com/item?id=47929961\nPoints: 1\n# Comments: 0",
+    "category": "AI Tools",
+    "source": "https://github.com/ftaip/waiting-game",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "72f866aec795a82b4db1d55013351e2c",
+    "title": "water-law-dataset added to PyPI",
+    "slug": "waterlawdataset-added-to-pypi",
+    "date": "2026-04-28T00:31:01Z",
+    "description": "Scrapers for comparative water law judicial decisions across Brazil, Canada, and the Netherlands (2016-2026)",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/water-law-dataset/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "3213b79a77062dd82dadd1bad6522584",
     "title": "\u201cVery Odd Franchise\u201d: Fans Split Over New \u2018The Big Bang Theory\u2019 Spin-Off\u2019s Bizarre Premise",
     "slug": "very-odd-franchise-fans-split-over-new-the-big-bang-theory-spinoffs-bizarre-prem",
