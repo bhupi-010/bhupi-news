@@ -1,5 +1,44 @@
 [
   {
+    "id": "f54f202d86c8d3abb2b4fea6187107e4",
+    "title": "I replaced five paid subscriptions with Claude, and none were coding tools",
+    "slug": "i-replaced-five-paid-subscriptions-with-claude-and-none-were-coding-tools",
+    "date": "2026-04-29T14:30:19Z",
+    "description": "Who knew one subscription could kill five others?",
+    "category": "AI Tools",
+    "source": "https://www.xda-developers.com/replaced-five-paid-subscriptions-with-claude-none-were-coding-tools/",
+    "tags": [
+      "xda-developers.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "219ce4e754163053b86c3d4093f90632",
+    "title": "Under US law, Trump faces an impending deadline to end the Iran war. What happens if he ignores it?",
+    "slug": "under-us-law-trump-faces-an-impending-deadline-to-end-the-iran-war-what-happens-",
+    "date": "2026-04-29T02:43:32Z",
+    "description": "Under the War Powers Resolution, Trump has only 60 days to engage in conflict without congressional approval. Congress must now decide how to act.",
+    "category": "Dev News",
+    "source": "https://theconversation.com/under-us-law-trump-faces-an-impending-deadline-to-end-the-iran-war-what-happens-if-he-ignores-it-281728",
+    "tags": [
+      "theconversation.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "3f1f64c7577224bb79834eee46dd91a3",
+    "title": "Claude Design vs Figma vs UXPin: Three Architectures, Three Outcomes",
+    "slug": "claude-design-vs-figma-vs-uxpin-three-architectures-three-outcomes",
+    "date": "2026-04-29T01:38:06Z",
+    "description": "Three design tools. Three completely different architectures. Three different answers to the question: what does a designer\u2019s output actually become? Claude Design launched on April 17, 2026. Figma\u2019s stock dropped 7% the same day. The conversation immediately\u2026",
+    "category": "Dev News",
+    "source": "https://www.uxpin.com/studio/ai/claude-design-vs-figma-vs-uxpin/",
+    "tags": [
+      "uxpin.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "02a9ceeae76672c849f8103d0a4eae9f",
     "title": "The Morgan McSweeney Evidence",
     "slug": "the-morgan-mcsweeney-evidence",
