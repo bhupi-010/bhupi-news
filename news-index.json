@@ -1,5 +1,18 @@
 [
   {
+    "id": "1f4ddcbb4740eef60ed4836f7f4d4ee2",
+    "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
+    "slug": "saprelated-npm-packages-compromised-in-credentialstealing-supply-chain-attack",
+    "date": "2026-04-29T16:26:00Z",
+    "description": "SAP npm packages poisoned on April 29, 2026 + AES-256-GCM encrypted credential theft + AI coding tools abused for spread.",
+    "category": "AI Tools",
+    "source": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+    "tags": [
+      "thehackernews.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "f54f202d86c8d3abb2b4fea6187107e4",
     "title": "I replaced five paid subscriptions with Claude, and none were coding tools",
     "slug": "i-replaced-five-paid-subscriptions-with-claude-and-none-were-coding-tools",
@@ -9,6 +22,32 @@
     "source": "https://www.xda-developers.com/replaced-five-paid-subscriptions-with-claude-none-were-coding-tools/",
     "tags": [
       "xda-developers.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "eaaf37302ebe16571509c3eeaffcbec8",
+    "title": "\u2018Offer accepted, then Rs 36 LPA demand\u2019: Gurugram CEO Jasveer Singh calls hiring experience 'nonsense', post goes viral",
+    "slug": "offer-accepted-then-rs-36-lpa-demand-gurugram-ceo-jasveer-singh-calls-hiring-exp",
+    "date": "2026-04-29T08:17:35Z",
+    "description": "A startup CEO shared a hiring experience where a backend developer accepted a 33% salary hike to 28 LPA, only to demand 36 LPA two days before joining after receiving another offer. The CEO expressed frustration over the candidate's unprofessionalism after ac\u2026",
+    "category": "Dev News",
+    "source": "https://economictimes.indiatimes.com/news/new-updates/offer-accepted-then-rs-36-lpa-demand-gurugram-ceo-jasveer-singh-calls-hiring-experience-nonsense-post-goes-viral/articleshow/130600589.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5dfad0bf5b63d7c248f8dbc00a54d7b7",
+    "title": "The Blood of Dawnwalker Director Backs Full Evil Playthroughs, Urges Players Not to Reload After Bad Choices",
+    "slug": "the-blood-of-dawnwalker-director-backs-full-evil-playthroughs-urges-players-not-",
+    "date": "2026-04-29T08:00:00Z",
+    "description": "Yesterday was a big day for Rebel Wolves and their debut game, the open world action RPG The Blood of Dawnwalker. The Polish studio unveiled the game's release date (September 3) and the detailed PC system requirements. Moreover, in an aftershow Q&A, Creative\u2026",
+    "category": "AI Tools",
+    "source": "https://wccftech.com/blood-of-dawnwalker-director-evil-playthroughs-bad-choices/",
+    "tags": [
+      "wccftech.com",
       "ai-tools"
     ]
   },
