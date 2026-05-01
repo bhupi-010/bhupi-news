@@ -1,5 +1,44 @@
 [
   {
+    "id": "c50a8282bfad2091369a675a76d027d9",
+    "title": "Will the visit by King Charles help mend fences between the U.K. and the U.S.?",
+    "slug": "will-the-visit-by-king-charles-help-mend-fences-between-the-uk-and-the-us",
+    "date": "2026-04-30T08:00:00Z",
+    "description": "King Charles's stateside visit this week was an effort to calm the roiling waters between the U.S. and the U.K. of late, and to remind U.S. President Donald Trump \u2014 and members of the American public \u2014 of the longstanding relationship between the two countrie\u2026",
+    "category": "Dev News",
+    "source": "https://www.cbc.ca/news/world/royal-fascinator-king-charles-state-visit-analysis-9.7182169",
+    "tags": [
+      "cbc.ca",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "9a2325c3214f95226673f3359ae246c9",
+    "title": "Microsoft expects strong cloud business growth",
+    "slug": "microsoft-expects-strong-cloud-business-growth",
+    "date": "2026-04-30T07:56:47Z",
+    "description": "Microsoft has forecast that sales at its Azure cloud business would beat Wall Street estimates, and the software giant unveiled plans for 2026 capital spending of $190 billion, which also surpassed expectations.",
+    "category": "Dev News",
+    "source": "https://www.rte.ie/news/business/2026/0430/1571014-microsoft-quarterly-results/",
+    "tags": [
+      "rte.ie",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "94c16b38597f5edac3a9bf23a1e9f2ca",
+    "title": "AI-generated UI is inaccessible by default",
+    "slug": "aigenerated-ui-is-inaccessible-by-default",
+    "date": "2026-04-30T06:47:23Z",
+    "description": "It doesn\u2019t mean you can\u2019t get AI to help with accessible code, you\u2019ve just got to know what you\u2019re doing.",
+    "category": "AI Tools",
+    "source": "https://frontendmasters.com/blog/ai-generated-ui-is-inaccessible-by-default/",
+    "tags": [
+      "frontendmasters.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "070e731cd3355db53f5632b4f99836e4",
     "title": "Aussies spooked after 'human-shaped effigies' are discovered hanging from a tree on a farm in Western Australia",
     "slug": "aussies-spooked-after-humanshaped-effigies-are-discovered-hanging-from-a-tree-on",
