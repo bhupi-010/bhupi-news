@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "091e82ef249b99100180bc63fef5875c",
+    "title": "Show HN: WeSearch \u2013 Anonymous news aggregator with no algorithm, 700 sources",
+    "slug": "show-hn-wesearch--anonymous-news-aggregator-with-no-algorithm-700-sources",
+    "date": "2026-05-01T07:41:05Z",
+    "description": "Anonymous community news aggregator across 700+ sources. No algorithm, no paywall, no tracking \u2014 read, react, comment, share. Free.",
+    "category": "Frontend",
+    "source": "https://wesearch.press/",
+    "tags": [
+      "wesearch.press",
+      "frontend"
+    ]
+  },
+  {
+    "id": "ad639b3489e611bf37d692e49d3418dc",
+    "title": "Mastering CORS in Laravel",
+    "slug": "mastering-cors-in-laravel",
+    "date": "2026-05-01T07:00:00Z",
+    "description": "It was a Friday evening. The kind of Friday where you\u2019re already thinking about weekend plans. I had just deployed the latest feature\u2026",
+    "category": "Dev News",
+    "source": "https://blog.stackademic.com/from-it-works-on-my-machine-to-production-ready-mastering-cors-in-laravel-1fd99043ed77",
+    "tags": [
+      "blog.stackademic.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "1cb8fee6f2bf70f695a7456f1c3a38ca",
+    "title": "3 ways custom scan checks turn practitioner knowledge into scalable automation",
+    "slug": "3-ways-custom-scan-checks-turn-practitioner-knowledge-into-scalable-automation",
+    "date": "2026-05-01T06:52:00Z",
+    "description": "Senior pentesters have a deeply refined intuition about what is vulnerable in an environment. The problem? That expertise is often siloed with an individual and trapped in their notes or Python scripts.",
+    "category": "Dev News",
+    "source": "https://portswigger.net/blog/3-ways-custom-scan-checks-turn-practitioner-knowledge-into-scalable-automation",
+    "tags": [
+      "portswigger.net",
+      "dev-news"
+    ]
+  },
+  {
     "id": "3ba7dbd1a1133db4505abd96f8774e4c",
     "title": "Yep, Salt Lake City is a hockey town. And it didn\u2019t take long",
     "slug": "yep-salt-lake-city-is-a-hockey-town-and-it-didnt-take-long",
