@@ -1,5 +1,44 @@
 [
   {
+    "id": "06259204b27d332944565fcea5586b23",
+    "title": "OpenAI's Greg Brockman Says AI Went From Writing 20% To 80% Of Code In A Single Month",
+    "slug": "openais-greg-brockman-says-ai-went-from-writing-20-to-80-of-code-in-a-single-mon",
+    "date": "2026-05-01T10:19:51Z",
+    "description": "OpenAI President Greg Brockman said AI coding tools have rapidly expanded from generating 20% to 80% of developer code within a month, reflecting a broader industry shift toward AI-driven software development, echoed by leaders at Google and Anthropic.",
+    "category": "AI Tools",
+    "source": "https://www.benzinga.com/markets/tech/26/05/52206777/openais-greg-brockman-says-ai-went-from-writing-20-to-80-of-code-in-a-single-month",
+    "tags": [
+      "benzinga.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "3ba7dbd1a1133db4505abd96f8774e4c",
+    "title": "Yep, Salt Lake City is a hockey town. And it didn\u2019t take long",
+    "slug": "yep-salt-lake-city-is-a-hockey-town-and-it-didnt-take-long",
+    "date": "2026-05-01T03:00:01Z",
+    "description": "The Utah Mammoth hope for a boost from the home fans as they face elimination in Game 6.",
+    "category": "Dev News",
+    "source": "https://www.deseret.com/sports/2026/04/30/utah-mammoth-fanbase-playoffs/",
+    "tags": [
+      "deseret.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "78c0f3054a686c0a2398707930b4769c",
+    "title": "The U.S. Produces More Oil Than Anyone. So Why Are Gas Prices Still Surging?",
+    "slug": "the-us-produces-more-oil-than-anyone-so-why-are-gas-prices-still-surging",
+    "date": "2026-05-01T02:45:46Z",
+    "description": "Americans are staring at $4+ gas and asking a simple question that should have a simple answer. If the United States is the largest oil producer on Earth, why does it still feel like an oil-importing country every time prices spike? That question matters far \u2026",
+    "category": "Dev News",
+    "source": "https://freerepublic.com/focus/f-news/4377145/posts",
+    "tags": [
+      "freerepublic.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "7b750a2c375d04a85a6e6b1c40eb4397",
     "title": "Apple TV is using Miami race weekend to showcase its 1st year carrying Formula 1",
     "slug": "apple-tv-is-using-miami-race-weekend-to-showcase-its-1st-year-carrying-formula-1",
