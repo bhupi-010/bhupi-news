@@ -1,5 +1,44 @@
 [
   {
+    "id": "b273a933aaa717d3c60569e452364e9d",
+    "title": "Carding service Jerry\u2019s Store leak exposes 345,000 stolen payment cards",
+    "slug": "carding-service-jerrys-store-leak-exposes-345000-stolen-payment-cards",
+    "date": "2026-05-01T13:09:03Z",
+    "description": "Jerry\u2019s Store, a card-checking service used by cybercriminals, exposed 345,000 stolen payment cards after leaving its server open, revealing sensitive data. A cybercriminal operation known as Jerry\u2019s Store has reportedly exposed a large cache of stolen paymen\u2026",
+    "category": "Dev News",
+    "source": "https://securityaffairs.com/191536/cyber-crime/carding-service-jerrys-store-leak-exposes-345000-stolen-payment-cards.html",
+    "tags": [
+      "securityaffairs.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "c0af9ebbaa915969d3e6ae5b3a501e03",
+    "title": "Ozempic plaguing users with breath so 'horrendous' it makes people sick... as doctors reveal how to avoid embarrassing side effect",
+    "slug": "ozempic-plaguing-users-with-breath-so-horrendous-it-makes-people-sick-as-doctors",
+    "date": "2026-05-01T13:07:40Z",
+    "description": "'Ozempic breath' is the foul, fishy-smelling burps reported by some users of GLP-1 drugs like Ozempic and Wegovy. It is not a clinical diagnosis but an increasingly common complaint.",
+    "category": "AI Tools",
+    "source": "https://www.dailymail.com/health/article-15780363/Ozempic-breath-effect-stomach-GLP1-semaglutide.html",
+    "tags": [
+      "dailymail.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "168770308fa1db3133927442e9049ada",
+    "title": "Zach Cregger Explains Why His \u2018Resident Evil\u2019 Movie Is Unlike Any of the Past Films",
+    "slug": "zach-cregger-explains-why-his-resident-evil-movie-is-unlike-any-of-the-past-film",
+    "date": "2026-05-01T13:00:33Z",
+    "description": "Plus, a wild new rumor claims to know the future of 'Doctor Who'.",
+    "category": "AI Tools",
+    "source": "https://gizmodo.com/zach-cregger-resident-evil-movie-changes-2000753018",
+    "tags": [
+      "gizmodo.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "06259204b27d332944565fcea5586b23",
     "title": "OpenAI's Greg Brockman Says AI Went From Writing 20% To 80% Of Code In A Single Month",
     "slug": "openais-greg-brockman-says-ai-went-from-writing-20-to-80-of-code-in-a-single-mon",
