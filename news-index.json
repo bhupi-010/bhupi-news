@@ -1,5 +1,44 @@
 [
   {
+    "id": "410f85cbd113f84dde89131c19daa61d",
+    "title": "Recent Books on the Constitution",
+    "slug": "recent-books-on-the-constitution",
+    "date": "2026-05-03T14:03:13Z",
+    "description": "My seminar picks for 2026 (and every year since 2005)",
+    "category": "Dev News",
+    "source": "https://reason.com/volokh/2026/05/03/recent-books-on-the-constitution-6/",
+    "tags": [
+      "reason.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "593ccf7766deb24a120b9ef2bb081232",
+    "title": "Multiple Sixers react to VJ Edgecombe's Game 7 performance vs. Celtics",
+    "slug": "multiple-sixers-react-to-vj-edgecombes-game-7-performance-vs-celtics",
+    "date": "2026-05-03T13:44:25Z",
+    "description": "Multiple members of the Philadelphia 76ers react to VJ Edgecombe's big Game 7 performance against the Boston Celtics.",
+    "category": "Frontend",
+    "source": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2026/05/03/multiple-sixers-react-to-vj-edgecombes-game-7-performance-vs-celtics/89918520007/",
+    "tags": [
+      "sixerswire.usatoday.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "46f9e76a08ab79307e978ae6c8fee741",
+    "title": "Mariners' Luis Castillo's Statcast numbers make his problems look long-term",
+    "slug": "mariners-luis-castillos-statcast-numbers-make-his-problems-look-longterm",
+    "date": "2026-05-03T13:23:36Z",
+    "description": "These aren't encouraging metrics.",
+    "category": "Dev News",
+    "source": "https://www.sportingnews.com/us/mlb/seattle-mariners/news/mariners-luis-castillo-statcast-numbers-problems-look-long-term/15d1ba48f315ef6d5464fa07",
+    "tags": [
+      "sportingnews.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "445b23cd098ed10c41bf14445642251d",
     "title": "McLaren Boss Reveals Why Team Fell Short in Miami Grand Prix Qualifying",
     "slug": "mclaren-boss-reveals-why-team-fell-short-in-miami-grand-prix-qualifying",
