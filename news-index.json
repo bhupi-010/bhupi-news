@@ -1,5 +1,44 @@
 [
   {
+    "id": "4870f1211ac8d32d7a2a079e9326c525",
+    "title": "Juventus 1 \u2013 Hellas Verona 1: Initial reaction and random observations",
+    "slug": "juventus-1--hellas-verona-1-initial-reaction-and-random-observations",
+    "date": "2026-05-03T19:38:10Z",
+    "description": "That could have gone a lot better. If only Juventus had remembered how to beat a team that has already been relegated.",
+    "category": "Frontend",
+    "source": "https://www.blackwhitereadallover.com/previews-reviews/38154/juventus-hellas-verona-2026-serie-a-matchday-35-final-score-result-initial-reaction-random-observations",
+    "tags": [
+      "blackwhitereadallover.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "9886266a37b0263346897ab2d377118f",
+    "title": "Show HN: Decentralized compute network. CLI-first",
+    "slug": "show-hn-decentralized-compute-network-clifirst",
+    "date": "2026-05-03T19:21:11Z",
+    "description": "Decentralized compute network. CLI-first. Three modules out of the box: transcode (FFmpeg), coinpay (DID + escrow), infernet (AI inference).\n\nComments URL: https://news.ycombinator.com/item?id=48000399\nPoints: 1\n# Comments: 0",
+    "category": "AI Tools",
+    "source": "https://github.com/profullstack/c0mpute",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "550e9ac2dc119fe3eb4104d315d733a5",
+    "title": "Carrick secures Champions League - what are Man Utd waiting for?",
+    "slug": "carrick-secures-champions-league--what-are-man-utd-waiting-for",
+    "date": "2026-05-03T19:20:48Z",
+    "description": "Unless Manchester United appoint Luis Enrique, it is hard to think of an acceptable alternative to giving Michael Carrick the job on a permanent basis, writes Simon Stone.",
+    "category": "AI Tools",
+    "source": "https://www.bbc.com/sport/football/articles/c2e2xjyeyk7o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "tags": [
+      "bbc.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "410f85cbd113f84dde89131c19daa61d",
     "title": "Recent Books on the Constitution",
     "slug": "recent-books-on-the-constitution",
