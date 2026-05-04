@@ -1,5 +1,44 @@
 [
   {
+    "id": "6dd7c0774e6c6c6e70247027c08fb5ee",
+    "title": "Sam Hinkie takes to Twitter to react to Sixers eliminating Celtics",
+    "slug": "sam-hinkie-takes-to-twitter-to-react-to-sixers-eliminating-celtics",
+    "date": "2026-05-03T03:24:25Z",
+    "description": "Former Philadelphia 76ers GM Sam Hinkie reacts to the Philadelphia 76ers knocking off the Boston Celtics in Round 1.",
+    "category": "Frontend",
+    "source": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2026/05/02/sam-hinkie-takes-to-twitter-to-react-to-sixers-eliminating-celtics/89914983007/",
+    "tags": [
+      "sixerswire.usatoday.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "f7748f874ca107b9b918e5d3d0c025c4",
+    "title": "How did SCOTUS affect Louisiana congressional map? #politics",
+    "slug": "how-did-scotus-affect-louisiana-congressional-map-politics",
+    "date": "2026-05-03T00:02:51Z",
+    "description": "Louisiana congressional map struck down after Voting Rights Act ruling The Supreme Court invalidated Louisiana\u2019s congressional map after finding it unconstitutional in the context of the Voting Rights Act. Coverage around the ruling describes how the Court li\u2026",
+    "category": "Dev News",
+    "source": "https://alltoc.com/politics/how-did-scotus-affect-louisiana-congressional-map",
+    "tags": [
+      "alltoc.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2ec20e2c907f55e0f7babe4c161b7009",
+    "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+    "slug": "a-couple-million-lines-of-haskell-production-engineering-at-mercury",
+    "date": "2026-05-03T00:01:14Z",
+    "description": "What it takes to run 2 million lines of Haskell in production at a fintech company serving 300,000 businesses.",
+    "category": "Dev News",
+    "source": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+    "tags": [
+      "blog.haskell.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "b03e3bbb92684d9c8ba82446a2187b90",
     "title": "Jujutsu Kaisen Creator Confirms the Story is Over: \u201cIt Won\u2019t Continue!\u201d",
     "slug": "jujutsu-kaisen-creator-confirms-the-story-is-over-it-wont-continue",
