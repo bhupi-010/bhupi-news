@@ -1,5 +1,44 @@
 [
   {
+    "id": "3e76cdad1610a9db9c4cc649b90e182e",
+    "title": "After Pushback, Amazon Rolls Out Claude Code, Codex to All Employees",
+    "slug": "after-pushback-amazon-rolls-out-claude-code-codex-to-all-employees",
+    "date": "2026-05-04T20:59:17Z",
+    "description": "Some Amazon staff had complained about a lack of access to top AI coding tools, arguing the company risked falling behind in developer productivity.",
+    "category": "AI Tools",
+    "source": "https://www.businessinsider.com/amazon-claude-code-codex-all-employees-after-pushback-2026-5",
+    "tags": [
+      "businessinsider.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "065064abaa523f61beb254764c1dc2b7",
+    "title": "Red Sox Fan's Proposal Quickly Unravels into Awkward Ballpark Moment",
+    "slug": "red-sox-fans-proposal-quickly-unravels-into-awkward-ballpark-moment",
+    "date": "2026-05-04T19:16:14Z",
+    "description": "The woman appeared to respond, \"I don't know,\" to the proposal",
+    "category": "Dev News",
+    "source": "https://people.com/red-sox-fan-proposal-quickly-unravels-into-awkward-ballpark-moment-11965398",
+    "tags": [
+      "people.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "249d197e4ab19f781442db4c0df70946",
+    "title": "The Irish Times view on Trump\u2019s tariffs: EU/US trade deal under pressure",
+    "slug": "the-irish-times-view-on-trumps-tariffs-euus-trade-deal-under-pressure",
+    "date": "2026-05-04T19:11:00Z",
+    "description": "The US president\u2019s threat to hit the European car industry puts the transatlantic agreement in peril",
+    "category": "Dev News",
+    "source": "https://www.irishtimes.com/opinion/editorials/2026/05/04/the-irish-times-view-on-trumps-tariffs-euus-trade-deal-under-pressure/",
+    "tags": [
+      "irishtimes.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "9eb1887beb694e95903613c083cdd92e",
     "title": "Cheap Missiles, Not Drones, Will Win the Next Air War",
     "slug": "cheap-missiles-not-drones-will-win-the-next-air-war",
