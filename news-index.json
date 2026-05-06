@@ -1,5 +1,44 @@
 [
   {
+    "id": "2f6422ef2973d91744eab49ffe1b9335",
+    "title": "ARRI Omnibar\u2013 compact, scalable LED bar system",
+    "slug": "arri-omnibar-compact-scalable-led-bar-system",
+    "date": "2026-05-05T08:06:20Z",
+    "description": "ARRI has unveiled its first lighting product since it was taken over by the Riedel Group. The new fixture is called Omnibar, and it is a compact, scalable LED bar system. ARRI is touting that it is a new take on tube-style lighting, with better mounting and u\u2026",
+    "category": "Dev News",
+    "source": "https://www.newsshooter.com/2026/05/05/arri-omibar-compact-scalable-led-bar-system/",
+    "tags": [
+      "newsshooter.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "581c3f24b3a651e048f7838277a5e52b",
+    "title": "mcp-bookmark-server-preedew added to PyPI",
+    "slug": "mcpbookmarkserverpreedew-added-to-pypi",
+    "date": "2026-05-05T07:22:58Z",
+    "description": "MCP server to save and search bookmarks using OpenAI RAG",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/mcp-bookmark-server-preedew/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a9d6606eb5802f62b86c705e01754d3c",
+    "title": "Open-source multi-tenant SaaS starter kit for Laravel 12 + React 19 + Inertia.js",
+    "slug": "opensource-multitenant-saas-starter-kit-for-laravel-12--react-19--inertiajs",
+    "date": "2026-05-05T07:00:00Z",
+    "description": "Multi-tenant SaaS starter kit using Laravel 12, React, and Inertia.js. Built to demonstrate scalable architecture, tenant isolation, and clean full-stack development practices. - alihamzahq/laravel...",
+    "category": "Frontend",
+    "source": "https://github.com/alihamzahq/laravel-multi-tenant-saas-starter?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews",
+    "tags": [
+      "github.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "370610a78a5790062b9861cf39d1c467",
     "title": "pymyio added to PyPI",
     "slug": "pymyio-added-to-pypi",
