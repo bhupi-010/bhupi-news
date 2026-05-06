@@ -1,5 +1,44 @@
 [
   {
+    "id": "370610a78a5790062b9861cf39d1c467",
+    "title": "pymyio added to PyPI",
+    "slug": "pymyio-added-to-pypi",
+    "date": "2026-05-05T03:12:12Z",
+    "description": "Python bindings for the myIO d3.js chart library",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/pymyio/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "b57adee18191a6fc4035a50ee3e00369",
+    "title": "\u201cHaving A Second Family\u201d: Wife\u2019s Financial Nightmare Turns Into Something Much Worse",
+    "slug": "having-a-second-family-wifes-financial-nightmare-turns-into-something-much-worse",
+    "date": "2026-05-05T03:00:55Z",
+    "description": "When there\u2019s no communication, your entire marriage rests on treacherous ground. You have to be willing to talk to your spouse about the most important things\u2014including money problems!\u2014no matter how awkward and embarrassing it might be. If you stay silent, yo\u2026",
+    "category": "Dev News",
+    "source": "https://www.boredpanda.com/husband-lying-about-finances-secret-family/",
+    "tags": [
+      "boredpanda.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "10cca95ba32ce0b71a41541ac067502c",
+    "title": "Show HN: A minimalist personal homepage I designed from scratch",
+    "slug": "show-hn-a-minimalist-personal-homepage-i-designed-from-scratch",
+    "date": "2026-05-05T02:56:15Z",
+    "description": "Senior full-stack engineer (10+ yrs): Next.js, Node, AWS, AI & scalable platforms. Open to opportunities\u2014resume, booking, and connect on olzhasshaikenov.com.",
+    "category": "Frontend",
+    "source": "https://olzhasshaikenov.com/",
+    "tags": [
+      "olzhasshaikenov.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "3e76cdad1610a9db9c4cc649b90e182e",
     "title": "After Pushback, Amazon Rolls Out Claude Code, Codex to All Employees",
     "slug": "after-pushback-amazon-rolls-out-claude-code-codex-to-all-employees",
