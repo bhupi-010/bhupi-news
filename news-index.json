@@ -1,5 +1,44 @@
 [
   {
+    "id": "fafc8c7c830f0f8c175a59b20d39752b",
+    "title": "3 Players Who Could Commit to LSU Next After 5-Star Ahmad Hudson",
+    "slug": "3-players-who-could-commit-to-lsu-next-after-5star-ahmad-hudson",
+    "date": "2026-05-05T14:00:05Z",
+    "description": "After landing a major commitment from Ahmad Hudson, what other recruits could be next for the 2026 cycle?",
+    "category": "Dev News",
+    "source": "https://www.si.com/college/lsu/football/3-players-who-could-commit-to-lsu-next-after-5-star-ahmad-hudson",
+    "tags": [
+      "si.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "117e1a861b5540ec48f6161dc61b8c2c",
+    "title": "Presentation: How Netflix Shapes our Fleet for Efficiency and Reliability",
+    "slug": "presentation-how-netflix-shapes-our-fleet-for-efficiency-and-reliability",
+    "date": "2026-05-05T14:00:00Z",
+    "description": "The speakers explain the inherent tension between service efficiency and reliability at Netflix's global scale. They share a mental model for \"risk-adjusted net value,\" moving beyond simple CPU utilization to focus on capacity buffers. They discuss hardware s\u2026",
+    "category": "AI Tools",
+    "source": "https://www.infoq.com/presentations/strategy-workload-hardware/",
+    "tags": [
+      "infoq.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e7468ca6d0900836c5c3c6bf92f2c49e",
+    "title": "Industrial-grade nitrogen sources modulate CaCO3 polymorphs and strength in MICP-cemented sand: A structure\u2013property study",
+    "slug": "industrialgrade-nitrogen-sources-modulate-caco3-polymorphs-and-strength-in-micpc",
+    "date": "2026-05-05T14:00:00Z",
+    "description": "Microbially induced carbonate precipitation (MICP) is promising for soil stabilization. However, its large-scale application is hindered by the cost of laboratory-grade yeast extract (YE), which often accounts for more than 70% of cultivation medium expenses.\u2026",
+    "category": "Dev News",
+    "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348780",
+    "tags": [
+      "journals.plos.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "2f6422ef2973d91744eab49ffe1b9335",
     "title": "ARRI Omnibar\u2013 compact, scalable LED bar system",
     "slug": "arri-omnibar-compact-scalable-led-bar-system",
