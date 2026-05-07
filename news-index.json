@@ -1,5 +1,44 @@
 [
   {
+    "id": "2d05edb1bdb08657066b0d0f663e2e92",
+    "title": "How to build UX using GPT-5 Mini + Custom Design Systems \u2013 Use UXPin Merge!",
+    "slug": "how-to-build-ux-using-gpt5-mini--custom-design-systems--use-uxpin-merge",
+    "date": "2026-05-06T08:32:50Z",
+    "description": "Create production-ready UI components from prompts using GPT-5 Mini and UXPin Merge; sync design tokens and export React/Vue code.\nThe post How to build UX using GPT-5 Mini + Custom Design Systems \u2013 Use UXPin Merge! appeared first on Studio by UXPin.",
+    "category": "Frontend",
+    "source": "https://www.uxpin.com/studio/?p=58982",
+    "tags": [
+      "uxpin.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "0e3f3cf97b44d37f016596c02f4ecc12",
+    "title": "One UI 8.5 is here: Galaxy S25 owners finally get to enjoy some of Galaxy S26\u2019s best features",
+    "slug": "one-ui-85-is-here-galaxy-s25-owners-finally-get-to-enjoy-some-of-galaxy-s26s-bes",
+    "date": "2026-05-06T08:27:37Z",
+    "description": "Samsung is finally rolling out the stable One UI 8.5 update to the Galaxy S25, bringing new Galaxy AI features and the April security patch.",
+    "category": "AI Tools",
+    "source": "https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-stable-rollout-3661337/",
+    "tags": [
+      "androidauthority.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "be3b9e1be95a3a0afa919ce2c5a076ce",
+    "title": "Montrealers celebrate Canada's incoming GG Louise Arbour, who got her start in the city",
+    "slug": "montrealers-celebrate-canadas-incoming-gg-louise-arbour-who-got-her-start-in-the",
+    "date": "2026-05-06T08:00:00Z",
+    "description": "Long before Rideau Hall was on the horizon, Louise Arbour's home was in Montreal, where her impact and influence is still felt today.",
+    "category": "Dev News",
+    "source": "https://www.cbc.ca/news/canada/montreal/montreal-governor-general-canada-louise-arbour-9.7188279",
+    "tags": [
+      "cbc.ca",
+      "dev-news"
+    ]
+  },
+  {
     "id": "67b6bec87bfd7d6ce6e70e10395aca6f",
     "title": "Crashes involving animals spike in winter. Here\u2019s how to avoid them",
     "slug": "crashes-involving-animals-spike-in-winter-heres-how-to-avoid-them",
