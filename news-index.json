@@ -1,5 +1,44 @@
 [
   {
+    "id": "0bac0016e695495a967771a1b22f068e",
+    "title": "devcd added to PyPI",
+    "slug": "devcd-added-to-pypi",
+    "date": "2026-05-06T14:21:49Z",
+    "description": "Local developer context daemon with explicit state, memory, and policy layers.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/devcd/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f9e4b7878862f4ed11fc77dc19c6660b",
+    "title": "Deranged WHCD shooting suspect Cole Allen may have been motivated by Iran war, intelligence report finds",
+    "slug": "deranged-whcd-shooting-suspect-cole-allen-may-have-been-motivated-by-iran-war-in",
+    "date": "2026-05-06T14:13:37Z",
+    "description": "Allen, a 31-year-old CalTech grad, is charged with multiple felonies, including attempt to assassinate the President of the United States, assaulting an officer of the United States with a deadly weapon.",
+    "category": "Dev News",
+    "source": "https://nypost.com/2026/05/06/us-news/deranged-whcd-shooting-suspect-cole-allen-may-have-motivated-by-iran-war-intelligence-report-finds/",
+    "tags": [
+      "nypost.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "60b4d77d043871e1a633ad175517ede4",
+    "title": "lintpdf added to PyPI",
+    "slug": "lintpdf-added-to-pypi",
+    "date": "2026-05-06T14:10:03Z",
+    "description": "Detection-only PDF preflight engine",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/lintpdf/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "2d05edb1bdb08657066b0d0f663e2e92",
     "title": "How to build UX using GPT-5 Mini + Custom Design Systems \u2013 Use UXPin Merge!",
     "slug": "how-to-build-ux-using-gpt5-mini--custom-design-systems--use-uxpin-merge",
