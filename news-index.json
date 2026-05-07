@@ -1,5 +1,44 @@
 [
   {
+    "id": "4c2154c4d876817ed0ace7020797bf3e",
+    "title": "Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding",
+    "slug": "claris-ceo-ryan-mccann-on-filemaker-in-the-age-of-agentic-coding",
+    "date": "2026-05-06T19:41:36Z",
+    "description": "Our goal at Claris is to let you focus on building transformative apps, and facilitating better outcomes for your businesses.",
+    "category": "Dev News",
+    "source": "https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next",
+    "tags": [
+      "claris.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "4246b7625f5e49e647048d2e0a16c195",
+    "title": "Why gut & hormone health should be in employee benefits strategy",
+    "slug": "why-gut--hormone-health-should-be-in-employee-benefits-strategy",
+    "date": "2026-05-06T19:31:30Z",
+    "description": "Gut health drives hormones, energy, mood, and focus. Here is why forward-thinking companies are adding it to employee benefits and why it matters at w",
+    "category": "Dev News",
+    "source": "https://www.pazcare.com/blog/why-gut-hormone-health-should-be-in-employee-benefits-strategy",
+    "tags": [
+      "pazcare.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2bb56b8135f0d2f93dd6b5784d1d3646",
+    "title": "Show HN: Recursant, \"Istio for agents\", is now open source",
+    "slug": "show-hn-recursant-istio-for-agents-is-now-open-source",
+    "date": "2026-05-06T19:19:57Z",
+    "description": "Article URL: https://github.com/ajensenwaud/recursant\nComments URL: https://news.ycombinator.com/item?id=48040450\nPoints: 3\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/ajensenwaud/recursant",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "0bac0016e695495a967771a1b22f068e",
     "title": "devcd added to PyPI",
     "slug": "devcd-added-to-pypi",
