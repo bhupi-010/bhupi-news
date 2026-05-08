@@ -1,5 +1,44 @@
 [
   {
+    "id": "730a41d87a390908c045c6829dff6119",
+    "title": "Show HN: Pomota \u2013 Pomodoro timer that forces breaks (Tauri, Rust+React)",
+    "slug": "show-hn-pomota--pomodoro-timer-that-forces-breaks-tauri-rustreact",
+    "date": "2026-05-07T13:50:52Z",
+    "description": "Article URL: https://github.com/p32929/pomota\nComments URL: https://news.ycombinator.com/item?id=48049452\nPoints: 2\n# Comments: 0",
+    "category": "Frontend",
+    "source": "https://github.com/p32929/pomota",
+    "tags": [
+      "github.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "8c17d8d1bc88f974172d5640a9963d09",
+    "title": "Iga Swiatek on the hot seat: Rennae Stubbs demands answers ahead of Roland-Garros",
+    "slug": "iga-swiatek-on-the-hot-seat-rennae-stubbs-demands-answers-ahead-of-rolandgarros",
+    "date": "2026-05-07T13:40:41Z",
+    "description": "Iga Swiatek is still chasing her first trophy of 2026 and will be looking to make progress at the Italian Open, where she\u2019s seeded fourth. Swiatek brings a 14-8 record into the WTA 1000 event in Rome, after exiting early in the third round of the Madrid Open.",
+    "category": "Dev News",
+    "source": "https://www.hitc.com/iga-swiatek-on-the-hot-seat-rennae-stubbs-demands-answers-ahead-of-roland-garros/",
+    "tags": [
+      "hitc.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "9d9acee43a623b0280636a8f09d4bd78",
+    "title": "StarCompliance Introduces StarAssist, Bringing Explainable AI Directly into Compliance Decisions",
+    "slug": "starcompliance-introduces-starassist-bringing-explainable-ai-directly-into-compl",
+    "date": "2026-05-07T13:37:00Z",
+    "description": "New AI capability delivers real-time, insights embedded within daily compliance workflows ROCKVILLE, Md., May 7, 2026 /PRNewswire/ -- StarCompliance (Star), a leading provider of employee and firm compliance technology, today announced the launch of StarAssis\u2026",
+    "category": "AI Tools",
+    "source": "https://www.prnewswire.com/news-releases/starcompliance-introduces-starassist-bringing-explainable-ai-directly-into-compliance-decisions-302764864.html",
+    "tags": [
+      "prnewswire.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "91cf6848889397315905787b3eacf545",
     "title": "Brad Keselowski\u2019s RFK Star Welcomes NASCAR\u2019s Aggressive Watkins Glen Safety Overhaul to Tame Chaos",
     "slug": "brad-keselowskis-rfk-star-welcomes-nascars-aggressive-watkins-glen-safety-overha",
