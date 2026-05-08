@@ -1,5 +1,44 @@
 [
   {
+    "id": "32d801ceb402749ac873eb4dca226a96",
+    "title": "Return of the Luddites",
+    "slug": "return-of-the-luddites",
+    "date": "2026-05-07T03:15:41Z",
+    "description": "Are we 21st century Luddites? As we progress to a world where artificial intelligence (AI) and technological advances lead to major changes in working practices, we can and should draw analogies ...",
+    "category": "AI Tools",
+    "source": "https://www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/Return-of-the-Luddites",
+    "tags": [
+      "computerweekly.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9a5c8a94f9d9618e3a642f82f889a49c",
+    "title": "UFC 328\u2019s best betting props, parlays and picks | Khamzat vs. Strickland",
+    "slug": "ufc-328s-best-betting-props-parlays-and-picks--khamzat-vs-strickland",
+    "date": "2026-05-07T03:11:00Z",
+    "description": "Check out our comprehensive UFC 328: Khamzat vs. Strickland betting guide right here.",
+    "category": "Dev News",
+    "source": "https://www.mmamania.com/ufc-328-live-stream-fight-card-start-time-how-to-watch/441169/ufc-328s-best-betting-props-parlays-and-picks-khamzat-vs-strickland",
+    "tags": [
+      "mmamania.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "30597c2623fe60f32e662cd9bd4d337d",
+    "title": "Show HN: I Replaced React in GraphiQL with Svelte",
+    "slug": "show-hn-i-replaced-react-in-graphiql-with-svelte",
+    "date": "2026-05-07T02:52:34Z",
+    "description": "I love Svelte and GraphQL. I do not like React. So, when I'm building APIs, I cringe when using the official GraphiQL interface.I have free will and a Claude subscription so I made it happen. You can find it on npm as \"@eeeooolll/graphiql\" (@eol was taken).ht\u2026",
+    "category": "Frontend",
+    "source": "https://code.webb.page/eol/graphiql.git/about/",
+    "tags": [
+      "code.webb.page",
+      "frontend"
+    ]
+  },
+  {
     "id": "4c2154c4d876817ed0ace7020797bf3e",
     "title": "Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding",
     "slug": "claris-ceo-ryan-mccann-on-filemaker-in-the-age-of-agentic-coding",
