@@ -1,5 +1,44 @@
 [
   {
+    "id": "b1dfb9ac8f31cda2b9f3e2bded2222df",
+    "title": "Dark web scammers leak 345,000 credit card records through vibe coding",
+    "slug": "dark-web-scammers-leak-345000-credit-card-records-through-vibe-coding",
+    "date": "2026-05-08T07:12:43Z",
+    "description": "A dark web marketplace selling stolen credit card data accidentally exposed more than 345,000 card records after relying heavily on AI coding tools to build its infrastructure. Researchers say the leak highlights the growing risks of \u201cvibe coding\u201d, where AI-generated software is deployed without proper security checks or human oversight.",
+    "category": "AI Tools",
+    "source": "https://www.firstpost.com/tech/dark-web-scammers-leak-345000-credit-card-records-through-vibe-coding-14008874.html",
+    "tags": [
+      "firstpost.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "d116bcc3f69a97347840d6b3ac7f4daf",
+    "title": "New Philips Hue Sports Live software syncs smart lights to the action",
+    "slug": "new-philips-hue-sports-live-software-syncs-smart-lights-to-the-action",
+    "date": "2026-05-07T19:23:04Z",
+    "description": "In time for the World Cup, new Philips Hue Sports Live software can sync smart lights to action onscreen, no hardware setup required. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "category": "Dev News",
+    "source": "https://www.cultofmac.com/news/philips-hue-sports-live",
+    "tags": [
+      "cultofmac.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "1bee3a7f13ae8d851f0d4eee932d3008",
+    "title": "Show HN: Executing Conversations as Reactive Graphs",
+    "slug": "show-hn-executing-conversations-as-reactive-graphs",
+    "date": "2026-05-07T19:21:01Z",
+    "description": "Article URL: https://wanderer-flow.de/blog/reactive-graph-sequencing-the-technology-behind-wanderer/\nComments URL: https://news.ycombinator.com/item?id=48053619\nPoints: 1\n# Comments: 0",
+    "category": "Frontend",
+    "source": "https://wanderer-flow.de/blog/reactive-graph-sequencing-the-technology-behind-wanderer/",
+    "tags": [
+      "wanderer-flow.de",
+      "frontend"
+    ]
+  },
+  {
     "id": "730a41d87a390908c045c6829dff6119",
     "title": "Show HN: Pomota \u2013 Pomodoro timer that forces breaks (Tauri, Rust+React)",
     "slug": "show-hn-pomota--pomodoro-timer-that-forces-breaks-tauri-rustreact",
