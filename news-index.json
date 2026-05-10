@@ -1,5 +1,44 @@
 [
   {
+    "id": "ad35437664d479aab42231f9b3a08a67",
+    "title": "Surfel-based global illumination on the web",
+    "slug": "surfelbased-global-illumination-on-the-web",
+    "date": "2026-05-09T19:09:34Z",
+    "description": "Can we use WebGPU to compute real-time global illumination with surface patches called surfels? Does it look good enough? Is it fast enough? And can we finally construct viable compute-heavy rendering pipelines right here on the open web? Join me on this jour\u2026",
+    "category": "Dev News",
+    "source": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+    "tags": [
+      "juretriglav.si",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "56a30868bea7601f8b5f82b809e2929a",
+    "title": "Kenyan conservationists reintroduce rare, critically endangered species into the wild",
+    "slug": "kenyan-conservationists-reintroduce-rare-critically-endangered-species-into-the-",
+    "date": "2026-05-09T19:04:31Z",
+    "description": "The mountain bongo has become the ghost of the forest, hard to spot amid the dense shrubs due to its ability to camouflage.",
+    "category": "AI Tools",
+    "source": "https://nypost.com/2026/05/09/world-news/kenyan-conservationists-reintroduce-rare-critically-endangered-species-into-the-wild/",
+    "tags": [
+      "nypost.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "43948bfabb3588b45a6173fd89ad61fe",
+    "title": "Can these two UDFAs make an impact for the Rams in 2026?",
+    "slug": "can-these-two-udfas-make-an-impact-for-the-rams-in-2026",
+    "date": "2026-05-09T19:02:00Z",
+    "description": "Special teams work may be the key",
+    "category": "Dev News",
+    "source": "https://www.turfshowtimes.com/los-angeles-rams-roster/139653/can-these-two-udfas-make-an-impact-for-the-rams-in-2026",
+    "tags": [
+      "turfshowtimes.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "e02cb61f664ed2c98d311ef022a73e86",
     "title": "Fans react to the NFL announcing its schedule release next week",
     "slug": "fans-react-to-the-nfl-announcing-its-schedule-release-next-week",
