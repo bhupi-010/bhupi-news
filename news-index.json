@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "d6cafafe934b9006b9a76049d1c059b8",
+    "title": "I built GitHub Store to 12,500 stars in 6 months \u2013 I started at 16",
+    "slug": "i-built-github-store-to-12500-stars-in-6-months--i-started-at-16",
+    "date": "2026-05-09T01:06:46Z",
+    "description": "I built GitHub Store \u2014 a cross-platform app store for GitHub releases \u2014 in a one-week MVP sprint. Six months later: 12,500+ stars, 250,000+ updates served, and the part where I almost quit at 3,000 stars.",
+    "category": "Dev News",
+    "source": "https://github-store.org/blog/how-i-built-github-store/",
+    "tags": [
+      "github-store.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6616252824ce2978ce5d86300036e4af",
+    "title": "For potential LIV returnees, PGA Tour CEO doesn't yet have answers",
+    "slug": "for-potential-liv-returnees-pga-tour-ceo-doesnt-yet-have-answers",
+    "date": "2026-05-09T00:39:56Z",
+    "description": "With LIV Golf's future in doubt, PGA Tour CEO Brian Rolapp might soon have to answer a big question.",
+    "category": "Dev News",
+    "source": "https://golf.com/news/bryson-dechambeau-pga-tour-liv-golf-reintegration/",
+    "tags": [
+      "golf.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "72ceb43a0646dfae9ff0aa28aac392ad",
+    "title": "Charles Murray Has Found God",
+    "slug": "charles-murray-has-found-god",
+    "date": "2026-05-09T00:14:35Z",
+    "description": "The lifelong agnostic Charles Murray devoted his career to evidence-based reason; then, he found God. Jake Lighter dissects the motivated reasoning, cherry-picked science, and credulity-stretching leaps behind that unlikely conversion.",
+    "category": "Dev News",
+    "source": "https://www.skeptic.com/article/charles-murray-has-found-god/",
+    "tags": [
+      "skeptic.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "544f8beecf639a189006f8187290e6a7",
     "title": "One Of Baldur\u2019s Gate 3\u2019s Best Choices Is Something I Wish Narrative-Driven RPGs Would Do",
     "slug": "one-of-baldurs-gate-3s-best-choices-is-something-i-wish-narrativedriven-rpgs-wou",
