@@ -1,5 +1,44 @@
 [
   {
+    "id": "5c159be75c3e91fa4c0de9a3a71d8412",
+    "title": "How to build UX using GPT-4.1 + Ant Design \u2013 Use UXPin Merge!",
+    "slug": "how-to-build-ux-using-gpt41--ant-design--use-uxpin-merge",
+    "date": "2026-05-09T08:07:31Z",
+    "description": "Generate production-ready React UI with GPT-4.1, Ant Design, and UXPin Merge; prototype interactions and export JSX code.\nThe post How to build UX using GPT-4.1 + Ant Design \u2013 Use UXPin Merge! appeared first on Studio by UXPin.",
+    "category": "Frontend",
+    "source": "https://www.uxpin.com/studio/blog/build-ux-gpt-4-1-ant-design-uxpin-merge/",
+    "tags": [
+      "uxpin.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "6561124a9669241ee1e749d6cae8811c",
+    "title": "Today\u2019s Papers \u2013 Pressure mounts on Juventus. Inter and Lazio think about the Cup",
+    "slug": "todays-papers--pressure-mounts-on-juventus-inter-and-lazio-think-about-the-cup",
+    "date": "2026-05-09T07:34:52Z",
+    "description": "La Gazzetta dello Sport 75m at stake The transfer market is at risk without Champions....",
+    "category": "Dev News",
+    "source": "https://football-italia.net/todays-papers-pressure-juventus-inter-lazio/",
+    "tags": [
+      "football-italia.net",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "8542fa8bb4670e95fdc2c0109bbb576a",
+    "title": "qcanvas-sdk added to PyPI",
+    "slug": "qcanvassdk-added-to-pypi",
+    "date": "2026-05-09T07:25:28Z",
+    "description": "A package for compiling quantum circuit code from Cirq, Qiskit, and PennyLane to OpenQASM 3.0.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/qcanvas-sdk/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "9d4774d7102448c9e566797e58a13144",
     "title": "Airbnb says AI now writes 60% of its code as tech firms flatten teams",
     "slug": "airbnb-says-ai-now-writes-60-of-its-code-as-tech-firms-flatten-teams",
