@@ -1,5 +1,44 @@
 [
   {
+    "id": "6d5648f591ece60f0ba20a5593ebdcca",
+    "title": "I Tried a Weekslong Experiment to Become a Better Mom. I Was Shocked That It Kind of Worked.",
+    "slug": "i-tried-a-weekslong-experiment-to-become-a-better-mom-i-was-shocked-that-it-kind",
+    "date": "2026-05-10T09:40:00Z",
+    "description": "With a second kid on the way, I finally gave Dr. Becky a shot.",
+    "category": "Dev News",
+    "source": "https://slate.com/technology/2026/05/dr-becky-parenting-mom-advice-deeply-feeling-kid.html",
+    "tags": [
+      "slate.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "8594a733fc8b3f39ca1ffffef9394e3a",
+    "title": "skiritai added to PyPI",
+    "slug": "skiritai-added-to-pypi",
+    "date": "2026-05-10T08:41:33Z",
+    "description": "AI-driven browser test automation framework",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/skiritai/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "35b0cabc0b3cc4bbfd4231c866a93708",
+    "title": "How to build UX using GPT-4.1 + Bootstrap \u2013 Use UXPin Merge!",
+    "slug": "how-to-build-ux-using-gpt41--bootstrap--use-uxpin-merge",
+    "date": "2026-05-10T07:50:30Z",
+    "description": "Build production-ready UX prototypes with GPT-4.1, Bootstrap components, and UXPin Merge\u2014no code required and faster handoffs.\nThe post How to build UX using GPT-4.1 + Bootstrap \u2013 Use UXPin Merge! appeared first on Studio by UXPin.",
+    "category": "Dev News",
+    "source": "https://www.uxpin.com/studio/?p=59900",
+    "tags": [
+      "uxpin.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "cf070bf851760e6128f77d495c30e9ce",
     "title": "MITI says EVs won\u2019t become more expensive, but can Malaysia\u2019s CKD industry fill the gap?",
     "slug": "miti-says-evs-wont-become-more-expensive-but-can-malaysias-ckd-industry-fill-the",
