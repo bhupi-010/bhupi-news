@@ -1,5 +1,44 @@
 [
   {
+    "id": "fb9326e192ee6a1d5fa7e4ee9a6ade18",
+    "title": "I tried Claude Design, Replit, and Figma Make for UI design, and one pulled miles ahead",
+    "slug": "i-tried-claude-design-replit-and-figma-make-for-ui-design-and-one-pulled-miles-a",
+    "date": "2026-05-12T17:00:22Z",
+    "description": "Same prompt, three very different vibe-coding tools",
+    "category": "Dev News",
+    "source": "https://www.xda-developers.com/claude-design-figma-make-replit-for-ui-design-one-pulled-ahead/",
+    "tags": [
+      "xda-developers.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "54ab36f1206ebdb3b8af612e5066e240",
+    "title": "The Future of Software Engineering in the Age of AI Agents",
+    "slug": "the-future-of-software-engineering-in-the-age-of-ai-agents",
+    "date": "2026-05-12T08:24:06Z",
+    "description": "Explore how AI agents are revolutionizing software engineering! Discover the future of development, AI's impact on roles, and how to prepare for autonomous engineering.",
+    "category": "AI Tools",
+    "source": "https://www.c-sharpcorner.com/article/the-future-of-software-engineering-in-the-age-of-ai-agents/",
+    "tags": [
+      "c-sharpcorner.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a91770a873fa77f0104743e31960258d",
+    "title": "Why are oil prices up today, and will Brent crude futures and US WTI rates rise sharply in near future? Oil rises as supply fears return",
+    "slug": "why-are-oil-prices-up-today-and-will-brent-crude-futures-and-us-wti-rates-rise-s",
+    "date": "2026-05-12T08:18:14Z",
+    "description": "Why are oil prices up today, and will Brent crude futures and US WTI rates rise sharply in near future? Oil prices increased as hopes for a peace deal faded and supply fears returned. The Strait of Hormuz risk, lower OPEC output, falling US crude stocks, and \u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-crude-futures-and-us-wti-rates-rise-sharply-in-near-future-oil-rises-as-supply-fears-return/articleshow/131033133.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "89de1699808de341c596e5041ef0e1fd",
     "title": "Mini Shai-Hulud Is Back: npm Worm Hits over 160 Packages, including Mistral and Tanstack",
     "slug": "mini-shaihulud-is-back-npm-worm-hits-over-160-packages-including-mistral-and-tan",
