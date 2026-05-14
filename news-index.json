@@ -1,5 +1,44 @@
 [
   {
+    "id": "62efdb78d4b075da13c74926d8da2c02",
+    "title": "No matter the medium, we all want experiences to cherish",
+    "slug": "no-matter-the-medium-we-all-want-experiences-to-cherish",
+    "date": "2026-05-13T03:43:00Z",
+    "description": "By Robert Niles: I want to talk about television for a moment, to make a point about theme parks.This past weekend, the HBO series \"Hacks\" dropped two of the best episodes of TV that I have watched in years. \"QuikScribbl\" offers a hilarious and thoughtful tak\u2026",
+    "category": "Dev News",
+    "source": "https://www.themeparkinsider.com/flume/202605/12443/",
+    "tags": [
+      "themeparkinsider.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "282c694d26724f90f28b1f1a190bcc45",
+    "title": "infra-x added to PyPI",
+    "slug": "infrax-added-to-pypi",
+    "date": "2026-05-13T03:07:32Z",
+    "description": "Open-source AI Terraform generator with versioned blueprints. Bring your own LLM (Ollama / Anthropic / OpenAI). Local-first.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/infra-x/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a0c6976e6583abfec543d82319e9c0cf",
+    "title": "agentmesh-proto added to PyPI",
+    "slug": "agentmeshproto-added-to-pypi",
+    "date": "2026-05-13T02:47:08Z",
+    "description": "Peer-to-peer agent discovery and communication network",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/agentmesh-proto/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "6c4c91e99f4f85b71e82813ec7785ae5",
     "title": "'I DON'T THINK ABOUT AMERICAN FINANCIAL SITUATION'",
     "slug": "i-dont-think-about-american-financial-situation",
