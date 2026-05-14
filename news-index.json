@@ -1,5 +1,44 @@
 [
   {
+    "id": "f1ac161b81638987dd46b36933347f42",
+    "title": "Blumira launches Kindling pilot, an agentic SIEM investigation engine that cuts alert volume up to 50x",
+    "slug": "blumira-launches-kindling-pilot-an-agentic-siem-investigation-engine-that-cuts-a",
+    "date": "2026-05-13T14:00:08Z",
+    "description": "Security operations platform startup\u00a0Blumira Inc.\u00a0today launched the pilot of Kindling, an agentic security information and event management investigation engine that the company says can reduce alert volume for security teams by 30 to 50 times. Pitched at sm\u2026",
+    "category": "Dev News",
+    "source": "https://siliconangle.com/2026/05/13/blumira-launches-kindling-pilot-agentic-siem-investigation-engine-cuts-alert-volume-50x/",
+    "tags": [
+      "siliconangle.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "831d0e30e33274b6694dc8866c23ca3b",
+    "title": "Collectin-11, a complement pattern recognition molecule, mediates pulmonary SARS-CoV-2 neutralization and protection",
+    "slug": "collectin11-a-complement-pattern-recognition-molecule-mediates-pulmonary-sarscov",
+    "date": "2026-05-13T14:00:00Z",
+    "description": "Author summary Collectin-11 (CL-11) is a key component of the lectin complement pathway with previously unrecognized antiviral properties. Its local production in lung epithelium suggests a crucial role in respiratory defense against viruses. Our study descri\u2026",
+    "category": "AI Tools",
+    "source": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014216",
+    "tags": [
+      "journals.plos.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "f08f7642e049e82d3e14e2ad2ac4fc26",
+    "title": "The Punisher: One Last Kill Is Marvel\u2019s Gift to Anyone Annoyed by Daredevil\u2019s Grace",
+    "slug": "the-punisher-one-last-kill-is-marvels-gift-to-anyone-annoyed-by-daredevils-grace",
+    "date": "2026-05-13T14:00:00Z",
+    "description": "This article contains spoilers for The Punisher: One Last Kill and Daredevil: Born Again. Coming hot on the heels of Daredevil: Born Again\u2019s season 2 finale, The Punisher: One Last Kill arrived on Disney+ this week to dish out 45 minutes of pure Frank Castle \u2026",
+    "category": "AI Tools",
+    "source": "http://www.denofgeek.com/tv/the-punisher-one-last-kill-marvel-annoyed-by-daredevil-grace/",
+    "tags": [
+      "denofgeek.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "5eb1ce58724922b1b6adb2f7f76d1861",
     "title": "Implementation gap threatens progress in AI and 5G",
     "slug": "implementation-gap-threatens-progress-in-ai-and-5g",
