@@ -1,5 +1,44 @@
 [
   {
+    "id": "7e5e5d10f9c4e50fdd6922fe1df46ffa",
+    "title": "Software engineering\u2019s bottleneck is no longer code",
+    "slug": "software-engineerings-bottleneck-is-no-longer-code",
+    "date": "2026-05-14T06:00:34Z",
+    "description": "AI coding tools can now build faster than teams can decide, making judgement the new bottleneck in software engineering.",
+    "category": "AI Tools",
+    "source": "https://thenextweb.com/news/software-engineerings-bottleneck-is-no-longer-code",
+    "tags": [
+      "thenextweb.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b9e03c35d34840c22d959d4d7b74a835",
+    "title": "Marathon Season 2 Arrives June 2 as the Seasonal Reset Sets Up the Biggest Test Yet for Bungie\u2019s Extraction Shooter",
+    "slug": "marathon-season-2-arrives-june-2-as-the-seasonal-reset-sets-up-the-biggest-test-",
+    "date": "2026-05-13T19:40:03Z",
+    "description": "When Marathon launched back in March, and after the launch of Cryo Archive, outside of dwindling player numbers, the dark cloud hanging over the game has been the question of how players will deal with Bungie's promise of seasonal resets. Of course, we don't \u2026",
+    "category": "Dev News",
+    "source": "https://wccftech.com/marathon-season-2-release-date-bungie-prepares-for-reset/",
+    "tags": [
+      "wccftech.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "b5a2360916db74f1b1460b3860fa1efc",
+    "title": "Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+    "slug": "anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-y",
+    "date": "2026-05-13T19:28:55Z",
+    "description": "Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they aretechcrunch.com",
+    "category": "AI Tools",
+    "source": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+    "tags": [
+      "techcrunch.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "f1ac161b81638987dd46b36933347f42",
     "title": "Blumira launches Kindling pilot, an agentic SIEM investigation engine that cuts alert volume up to 50x",
     "slug": "blumira-launches-kindling-pilot-an-agentic-siem-investigation-engine-that-cuts-a",
