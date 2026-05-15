@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "67ebda305ea9459fd5726ac70aa92914",
+    "title": "WordPress 7.0 Field Guide",
+    "slug": "wordpress-70-field-guide",
+    "date": "2026-05-14T03:44:11Z",
+    "description": "This guide outlines major developer features and breaking changes in 7.0 and is published in the Release Candidate phase to help inform WordPress extending developers, Core developers, and others. There are more than 419 Core Trac tickets included in WordPres\u2026",
+    "category": "Dev News",
+    "source": "https://make.wordpress.org/core/2026/05/14/wordpress-7-0-field-guide/",
+    "tags": [
+      "make.wordpress.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a810b340261801d19d2af7adeac2d269",
+    "title": "What Is OpenUI and How to Build Streaming Generative UI Apps with React",
+    "slug": "what-is-openui-and-how-to-build-streaming-generative-ui-apps-with-react",
+    "date": "2026-05-14T03:41:13Z",
+    "description": "Learn what OpenUI is and how to use it to build streaming Generative UI apps with React, Next.js, and AI models. Step-by-step setup, architecture, examples, and best practices.",
+    "category": "Frontend",
+    "source": "https://www.c-sharpcorner.com/article/what-is-openui-and-how-to-build-streaming-generative-ui-apps-with-react/",
+    "tags": [
+      "c-sharpcorner.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "a5fa78afbdafbdc0b72f7fe6b8ba7745",
+    "title": "Quote of the Day by American historian Laurel Thatcher Ulrich: \u2018To be happy with a man you must understand him a lot and love him a little. To be happy with a woman\u2026\u2019 - Why relationships can never be fully solved explained by Well-Behaved Women Seldom Make History\u2019s author",
+    "slug": "quote-of-the-day-by-american-historian-laurel-thatcher-ulrich-to-be-happy-with-a",
+    "date": "2026-05-14T03:37:38Z",
+    "description": "Quote of the Day by Laurel Thatcher Ulrich suggests that relationships are often built more on acceptance, patience, and emotional connection than on endlessly trying to analyze each other. Her humorous yet thought-provoking words continue to resonate with mo\u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/international/canada/quote-of-the-day-by-american-historian-laurel-thatcher-ulrich-to-be-happy-with-a-man-you-must-understand-him-a-lot-and-love-him-a-little-to-be-happy-with-a-woman-why-relationships-can-never-be-fully-solved-explained-by-well-behaved-women-seldom-make-historys-author/articleshow/131081496.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "b9e03c35d34840c22d959d4d7b74a835",
     "title": "Marathon Season 2 Arrives June 2 as the Seasonal Reset Sets Up the Biggest Test Yet for Bungie\u2019s Extraction Shooter",
     "slug": "marathon-season-2-arrives-june-2-as-the-seasonal-reset-sets-up-the-biggest-test-",
