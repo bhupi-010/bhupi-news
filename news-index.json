@@ -1,5 +1,44 @@
 [
   {
+    "id": "c394866f36e61ecf107e75cf0f099f5a",
+    "title": "The wonder product all dermatologists and beauty editors agree transforms skin, plus how to spot the fad formulas - this is your ultimate guide to vitamin C",
+    "slug": "the-wonder-product-all-dermatologists-and-beauty-editors-agree-transforms-skin-p",
+    "date": "2026-05-15T08:01:52Z",
+    "description": "One product that the overwhelming majority of beauty editors and dermatologists are evangelical about is Vitamin C. But what does it actually do to skin? And is it really worth the hype...",
+    "category": "Dev News",
+    "source": "https://www.dailymail.com/lifestyle/beauty/article-15791799/The-wonder-product-dermatologists-beauty-editors-agree-transforms-skin-plus-spot-fad-formulas-ultimate-guide-vitamin-C.html",
+    "tags": [
+      "dailymail.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "1e4507f0cd84bfc3eafcfe6fa8058b6e",
+    "title": "SolidJS 2.0 Beta: First-Class Async, Reworked Suspense and Deterministic Batching",
+    "slug": "solidjs-20-beta-firstclass-async-reworked-suspense-and-deterministic-batching",
+    "date": "2026-05-15T07:30:00Z",
+    "description": "SolidJS 2.0 Beta introduces significant changes in async handling and reactivity. Async is now a first-class feature, enabling direct use of Promises within the framework. The update includes new primitives for mutations, altered state handling, and significa\u2026",
+    "category": "Frontend",
+    "source": "https://www.infoq.com/news/2026/05/solidjs-2-async/",
+    "tags": [
+      "infoq.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "6045857092fe85aaf9681c01d477fb18",
+    "title": "\u201cReallocate, Diversify, Reposition\u201d: Ajay Srivastava flags rising macro risks for investors",
+    "slug": "reallocate-diversify-reposition-ajay-srivastava-flags-rising-macro-risks-for-inv",
+    "date": "2026-05-15T07:27:43Z",
+    "description": "Indian markets face rising macro risks from global shocks, currency pressure, and energy prices, impacting domestic consumption and corporate earnings. Ajay Srivastava advises aggressive diversification, favoring legacy and promoter-driven companies, while su\u2026",
+    "category": "Dev News",
+    "source": "https://economictimes.indiatimes.com/markets/expert-view/reallocate-diversify-reposition-ajay-srivastava-flags-rising-macro-risks-for-investors/articleshow/131111235.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f233c199af0e754b23a9fcf121b170d4",
     "title": "Focus on the horizon: Bajaj Finserv's Nimesh Chandan sees Nifty at 27,000 despite volatility",
     "slug": "focus-on-the-horizon-bajaj-finservs-nimesh-chandan-sees-nifty-at-27000-despite-v",
