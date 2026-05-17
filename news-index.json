@@ -1,5 +1,44 @@
 [
   {
+    "id": "6955ced8c00215d1c07207cdf1c9fd6e",
+    "title": "Salesforce expects to spend $300 million on Anthropic tokens this year, and Benioff wants coding inside Slack next",
+    "slug": "salesforce-expects-to-spend-300-million-on-anthropic-tokens-this-year-and-beniof",
+    "date": "2026-05-16T09:12:42Z",
+    "description": "Marc Benioff told the All-In podcast that AI coding agents are driving unprecedented efficiency and teased new Slack coding tools.",
+    "category": "AI Tools",
+    "source": "https://thenextweb.com/news/salesforce-benioff-300-million-anthropic-tokens-slack-coding",
+    "tags": [
+      "thenextweb.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e85870bf8d5c31aebbb1b02f66259ba4",
+    "title": "\u2018Obsession\u2019 Writer/Director Curry Barker On \u201cReally Tragic Story\u201d Within The Horror Film",
+    "slug": "obsession-writerdirector-curry-barker-on-really-tragic-story-within-the-horror-f",
+    "date": "2026-05-16T03:42:44Z",
+    "description": "As Curry Barker makes his directorial breakout with Obsession, he\u2019s discussing the movie\u2019s layered themes of consent and communication. The writer and director of the horror film recently discussed how the character of Nikki (Inde Naverrette) is depicted as b\u2026",
+    "category": "Dev News",
+    "source": "http://deadline.com/2026/05/obsession-curry-barker-tragic-story-horror-film-1236907022/",
+    "tags": [
+      "deadline.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "88c8c01701d9cc30911b80f93031d3b0",
+    "title": "A Man Called His Girlfriend A \u201cDrama Queen,\u201d But His Behavior Changed After They Got A Dog",
+    "slug": "a-man-called-his-girlfriend-a-drama-queen-but-his-behavior-changed-after-they-go",
+    "date": "2026-05-16T02:35:43Z",
+    "description": "Well, who's the drama queen now, buddy?\nThe post A Man Called His Girlfriend A \u201cDrama Queen,\u201d But His Behavior Changed After They Got A Dog appeared first on TwistedSifter.",
+    "category": "Dev News",
+    "source": "http://twistedsifter.com/2026/05/a-man-called-his-girlfriend-a-drama-queen-but-his-behavior-changed-after-they-got-a-dog/",
+    "tags": [
+      "twistedsifter.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "bb306aed76ac7c3d5b025024a14b43b0",
     "title": "puredatalib added to PyPI",
     "slug": "puredatalib-added-to-pypi",
