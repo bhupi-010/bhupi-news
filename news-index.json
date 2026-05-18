@@ -1,5 +1,44 @@
 [
   {
+    "id": "21d1b3cbb0c12bad77117abb17bc9dcf",
+    "title": "TSA allows rotisserie chickens in carry-on!",
+    "slug": "tsa-allows-rotisserie-chickens-in-carryon",
+    "date": "2026-05-17T15:10:38Z",
+    "description": "The TSA has a strict ban on a number of items when going through airport security, but one thing they're surprisngly lenient on is rotisserie chickens. Who'd have thought!",
+    "category": "AI Tools",
+    "source": "https://www.themirror.com/news/tsa-explains-rotisserie-chicken-rule-1840929",
+    "tags": [
+      "themirror.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "637de4cdf32822744103ec897ec5017f",
+    "title": "California Woman Books $200 Groupon \u2018Mystery\u2019 Vacation. Then She Realizes Where She\u2019s Flying To",
+    "slug": "california-woman-books-200-groupon-mystery-vacation-then-she-realizes-where-shes",
+    "date": "2026-05-17T15:00:29Z",
+    "description": "A Los Angeles woman decided to book a mystery vacation with Groupon and hoped the company would send her to Hawaii. She shared her disappointment when they booked her on a trip to Portland, Oregon. In a video with over 663,000 views, TikToker Ava Tenisha (@av\u2026",
+    "category": "AI Tools",
+    "source": "https://brobible.com/culture/article/groupon-mystery-vacation-oregon/",
+    "tags": [
+      "brobible.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "5cf70e5819101f68574de56e2da79782",
+    "title": "Some Things I Think I Think: Trevor Story\u2019s bad luck with injuries has made his time in Boston hugely disappointing",
+    "slug": "some-things-i-think-i-think-trevor-storys-bad-luck-with-injuries-has-made-his-ti",
+    "date": "2026-05-17T14:44:39Z",
+    "description": "Random thoughts about (mostly) sports topics.",
+    "category": "Dev News",
+    "source": "https://www.masslive.com/redsox/2026/05/some-things-i-think-i-think-trevor-storys-bad-luck-with-injuries-has-made-his-time-in-boston-hugely-disappointing.html",
+    "tags": [
+      "masslive.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "58108656dda0f0bb6e03f570052e0f42",
     "title": "askme-ai-cli added to PyPI",
     "slug": "askmeaicli-added-to-pypi",
