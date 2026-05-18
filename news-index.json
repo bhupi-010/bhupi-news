@@ -1,5 +1,44 @@
 [
   {
+    "id": "58108656dda0f0bb6e03f570052e0f42",
+    "title": "askme-ai-cli added to PyPI",
+    "slug": "askmeaicli-added-to-pypi",
+    "date": "2026-05-17T09:58:33Z",
+    "description": "A professional iterative CLI AI Agent powered by Ollama",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/askme-ai-cli/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9dca4154a697f211bbdfb136655d8f6e",
+    "title": "We\u2019re about to witness a critical moment for Google\u2019s smart glasses",
+    "slug": "were-about-to-witness-a-critical-moment-for-googles-smart-glasses",
+    "date": "2026-05-17T09:30:18Z",
+    "description": "It's almost time for Google to show us what's going on with its Android XR smart glasses \u2014 and I couldn't be more excited.",
+    "category": "Dev News",
+    "source": "https://www.androidauthority.com/critical-moment-google-android-xr-glasses-io-2026-3667684/",
+    "tags": [
+      "androidauthority.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5dd39aca4f78aa7baefc6263cf3f5ca3",
+    "title": "local-video-gen-studio added to PyPI",
+    "slug": "localvideogenstudio-added-to-pypi",
+    "date": "2026-05-17T09:04:05Z",
+    "description": "Desktop app for local video generation using SANA-WM",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/local-video-gen-studio/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "3df5612346868959918cc43e0dc553be",
     "title": "Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it",
     "slug": "steven-soderbergh-used-ai-in-a-documentary-about-john-lennon-and-he-wants-to-tal",
