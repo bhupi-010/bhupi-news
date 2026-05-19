@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "e6a34a840de2366746e29542702e078e",
+    "title": "Horror MotoGP crash leaves rider with broken neck",
+    "slug": "horror-motogp-crash-leaves-rider-with-broken-neck",
+    "date": "2026-05-18T03:53:56Z",
+    "description": "Alex M\u00e1rquez is lucky to be alive after he spectacularly wrecked his MotoGP bike during the Catalan Grand Prix in Barcelona, while Johann Zarco was also taken to hospital after an equally terrifying crash later in the race.",
+    "category": "Dev News",
+    "source": "https://www.abc.net.au/news/2026-05-18/motogp-catalan-grand-prix-alex-marquez-broken-neck/106692508",
+    "tags": [
+      "abc.net.au",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7c94772dd8975571fc97274c179b26bd",
+    "title": "Wall Collision",
+    "slug": "wall-collision",
+    "date": "2026-05-18T02:36:10Z",
+    "description": "I get the rb.linearVelocity command to get 0,0 I am unsure how to use this command. I am trying to get a ball to reflect on the east wall in my breakout game. here is my code. using UnityEngine;\n\npublic class BallCollision : MonoBehaviour\n{\n public GameObject\u2026",
+    "category": "Dev News",
+    "source": "https://gamedev.net/forums/topic/719946-wall-collision/",
+    "tags": [
+      "gamedev.net",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a6e29f4092de8c24033966fefbfe1f91",
+    "title": "7 MCU Deleted Scenes We Wish Were Canon",
+    "slug": "7-mcu-deleted-scenes-we-wish-were-canon",
+    "date": "2026-05-18T02:00:00Z",
+    "description": "Image Courtesy of Marvel\n\nThe Marvel Cinematic Universe doesn\u2019t have director\u2019s cuts of its movies, but there are several deleted scenes that made it to the home video releases, so fans can see what was left on the cutting room floor. This has happened since \u2026",
+    "category": "Dev News",
+    "source": "http://comicbook.com/movies/list/7-mcu-deleted-scenes-we-wish-were-canon/",
+    "tags": [
+      "comicbook.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "20b991393501dfebe724d8212df667d4",
     "title": "Disney\u2019s Brand-New Ride Faces Significant Problems Following Political Controversy",
     "slug": "disneys-brandnew-ride-faces-significant-problems-following-political-controversy",
