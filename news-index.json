@@ -1,5 +1,44 @@
 [
   {
+    "id": "8e0123fb7952fa6970b4e9c40f99395f",
+    "title": "Google's new AI Search box is here - along with agents and 5 more upgrades",
+    "slug": "googles-new-ai-search-box-is-here--along-with-agents-and-5-more-upgrades",
+    "date": "2026-05-19T10:45:00Z",
+    "description": "Google now has information agents that work in the background and agentic coding tools that let you build apps directly in Search.",
+    "category": "AI Tools",
+    "source": "https://www.zdnet.com/article/google-ai-search-box-with-agents-more-upgrades/",
+    "tags": [
+      "zdnet.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "53b11ef9bf30d7a0158c859baea76c21",
+    "title": "Newspaper Deletes Column Comparing the Oklahoma City Thunder to Israel",
+    "slug": "newspaper-deletes-column-comparing-the-oklahoma-city-thunder-to-israel",
+    "date": "2026-05-19T03:57:23Z",
+    "description": "The Oklahoman published and then deleted an op-ed comparing the Oklahoma City Thunder to Israel.\nThe post Newspaper Deletes Column Comparing the Oklahoma City Thunder to Israel first appeared on Mediaite.",
+    "category": "AI Tools",
+    "source": "https://www.mediaite.com/media/sports/newspaper-deletes-column-comparing-the-oklahoma-city-thunder-to-israel/",
+    "tags": [
+      "mediaite.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e852132913a56bea90108802ad7c1aeb",
+    "title": "A filmmaking tool or an existential threat: Cannes Film Festival weighs the rise of AI",
+    "slug": "a-filmmaking-tool-or-an-existential-threat-cannes-film-festival-weighs-the-rise-",
+    "date": "2026-05-19T03:37:27Z",
+    "description": "The Cannes Film Festival can function like a global water cooler for movies, with prevailing issues and anxieties of the industry tending to surface at the event",
+    "category": "AI Tools",
+    "source": "https://abcnews.com/Technology/wireStory/filmmaking-tool-existential-threat-cannes-film-festival-weighs-133091646",
+    "tags": [
+      "abcnews.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "bf7ceb6a64cd14a0b3ae6713cb929f9f",
     "title": "Google has a rule for its database engineers using AI; VP says: Whether code is completely written by AI or not, the accountability remains on...",
     "slug": "google-has-a-rule-for-its-database-engineers-using-ai-vp-says-whether-code-is-co",
