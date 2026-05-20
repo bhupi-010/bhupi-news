@@ -39,6 +39,45 @@
     ]
   },
   {
+    "id": "2596b5c873a3601f546e26ec3e722971",
+    "title": "Show HN: Mudu, a private E2EE space for the people closest to you",
+    "slug": "show-hn-mudu-a-private-e2ee-space-for-the-people-closest-to-you",
+    "date": "2026-05-19T15:21:32Z",
+    "description": "Mudu is an end-to-end encrypted private space for couples, families and close friends, built around shared plans, lists, places, moments, emotional signals and small relationship tools.",
+    "category": "Dev News",
+    "source": "https://byla.lt/posts/mudu",
+    "tags": [
+      "byla.lt",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "13535fa4a2a0df72dd2ca7010a332d56",
+    "title": "What is Mini Shai-Hulud npm supply chain attack, and was Microsoft and Socket hit by malware? Full explainer on npm malware spread",
+    "slug": "what-is-mini-shaihulud-npm-supply-chain-attack-and-was-microsoft-and-socket-hit-",
+    "date": "2026-05-19T15:06:11Z",
+    "description": "What is Mini Shai-Hulud npm supply chain attack, and was Microsoft and Socket hit by malware? A new npm supply chain attack hit hundreds of packages linked to the @antv ecosystem. Attackers used a compromised maintainer account to publish malicious versions t\u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/international/us/what-is-mini-shai-hulud-npm-supply-chain-attack-and-was-microsoft-and-socket-hit-by-malware-full-explainer-on-npm-malware-spread/articleshow/131202854.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "f7bbb7b377cd4db44f72114566df6623",
+    "title": "New Shai-Hulud malware wave compromises 600 npm packages",
+    "slug": "new-shaihulud-malware-wave-compromises-600-npm-packages",
+    "date": "2026-05-19T14:30:22Z",
+    "description": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
+    "category": "AI Tools",
+    "source": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+    "tags": [
+      "bleepingcomputer.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "8e0123fb7952fa6970b4e9c40f99395f",
     "title": "Google's new AI Search box is here - along with agents and 5 more upgrades",
     "slug": "googles-new-ai-search-box-is-here--along-with-agents-and-5-more-upgrades",
