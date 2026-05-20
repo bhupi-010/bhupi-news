@@ -1,5 +1,31 @@
 [
   {
+    "id": "2d1d1b861c786e9f83a85193dc12d3c7",
+    "title": "C++ creator says AI writes rubbish code, senior coders preferring retirement instead of dealing with it",
+    "slug": "c-creator-says-ai-writes-rubbish-code-senior-coders-preferring-retirement-instea",
+    "date": "2026-05-20T08:17:36Z",
+    "description": "AI coding tools like Claude Code and Codex have changed the way coders work, with many companies pushing for more AI written code. However, according to the creator of C++, Bjarne Stroustrup, the AI written code is so bad that senior developers are retiring instead of dealing with it.",
+    "category": "AI Tools",
+    "source": "https://www.indiatoday.in/technology/news/story/c-creator-says-ai-writes-rubbish-code-senior-coders-preferring-retirement-instead-of-dealing-with-it-2914417-2026-05-20",
+    "tags": [
+      "indiatoday.in",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "3a49d8b63d4a6123ebab71a0c520c1b0",
+    "title": "Google unveils Search for AI era, revamps Gemini app, debuts coding tools",
+    "slug": "google-unveils-search-for-ai-era-revamps-gemini-app-debuts-coding-tools",
+    "date": "2026-05-20T04:00:43Z",
+    "description": "Google also introduced a new subscription plan through which developers can get more access to the company's AI tools for $100 per month",
+    "category": "AI Tools",
+    "source": "https://www.business-standard.com/technology/tech-news/google-unveils-search-for-ai-era-revamps-gemini-app-debuts-coding-tools-126052000236_1.html",
+    "tags": [
+      "business-standard.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "3ab4eb4ad720e203f1de2ca1cee223f1",
     "title": "Google revamps search for AI era, debuts coding tools",
     "slug": "google-revamps-search-for-ai-era-debuts-coding-tools",
@@ -10,6 +36,19 @@
     "tags": [
       "financialpost.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "f503bb9749a4e38ff955542ee0933a1d",
+    "title": "Bitcoin and Recession Signals in 2026: Is BTC Entering a Macro Slowdown Phase?",
+    "slug": "bitcoin-and-recession-signals-in-2026-is-btc-entering-a-macro-slowdown-phase",
+    "date": "2026-05-19T20:10:55Z",
+    "description": "Out of nowhere, 2026 brings heavier winds for Bitcoin. Inside big funds it shifts weight, caught between investor math and worldwide cash flow talks. Reading...\nThe post Bitcoin and Recession Signals in 2026: Is BTC Entering a Macro Slowdown Phase? appeared f\u2026",
+    "category": "Dev News",
+    "source": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-and-recession-signals-in-2026-is-btc-entering-a-macro-slowdown-phase/",
+    "tags": [
+      "bitcoinfoundation.org",
+      "dev-news"
     ]
   },
   {
