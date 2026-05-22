@@ -1,5 +1,44 @@
 [
   {
+    "id": "2d3fcd6d3c934c3411fbce1be79d4335",
+    "title": "Show HN: Real-time virtual try-on using hand gestures and live video diffusion",
+    "slug": "show-hn-realtime-virtual-tryon-using-hand-gestures-and-live-video-diffusion",
+    "date": "2026-05-21T09:15:58Z",
+    "description": "Article URL: https://github.com/manas15/try-on\nComments URL: https://news.ycombinator.com/item?id=48219870\nPoints: 9\n# Comments: 1",
+    "category": "Dev News",
+    "source": "https://github.com/manas15/try-on",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "e1d680a6b042f631cc264ab1a6411ef8",
+    "title": "How to create a Power Apps Code App: Setup Guide with Hello World Example",
+    "slug": "how-to-create-a-power-apps-code-app-setup-guide-with-hello-world-example",
+    "date": "2026-05-21T09:14:08Z",
+    "description": "Discover Power Apps Code Apps! This guide shows you how to set up your first project using a code-first approach with React, TypeScript, and the Power Platform CLI. Build modern, scalable apps with ease!",
+    "category": "Frontend",
+    "source": "https://www.c-sharpcorner.com/article/how-to-create-a-power-apps-code-app-setup-guide-with-hello-world-example/",
+    "tags": [
+      "c-sharpcorner.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "7056eb6b65c0dc0d42dfe09c3ba56b75",
+    "title": "Will Bitcoin Reach $200,000 in 2026? Analysts Split on the Price Outlook",
+    "slug": "will-bitcoin-reach-200000-in-2026-analysts-split-on-the-price-outlook",
+    "date": "2026-05-21T09:07:50Z",
+    "description": "Heading deeper into 2026, Bitcoin carries a heavy question on its back \u2013 will it touch $200,000 by December? That number sounds bold, sure, though...\nThe post Will Bitcoin Reach $200,000 in 2026? Analysts Split on the Price Outlook appeared first on Bitcoin F\u2026",
+    "category": "Dev News",
+    "source": "https://bitcoinfoundation.org/news/bitcoin/will-bitcoin-reach-200000-in-2026/",
+    "tags": [
+      "bitcoinfoundation.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "1613488682695458b871ed8a3cb72d86",
     "title": "11 Open-Source WYSIWYG Editors Worth Using in 2026",
     "slug": "11-opensource-wysiwyg-editors-worth-using-in-2026",
