@@ -1,5 +1,44 @@
 [
   {
+    "id": "e6359e84dd5107580e6eb0b4d6abd484",
+    "title": "Java book author says AI-written code offers only marginal productivity gains",
+    "slug": "java-book-author-says-aiwritten-code-offers-only-marginal-productivity-gains",
+    "date": "2026-05-22T06:31:29Z",
+    "description": "As companies push AI-generated coding tools, veteran programmers including Bjarne Stroustrup, Linus Torvalds and Java author Vlad Mihalcea are raising concerns about code quality and productivity claims.",
+    "category": "AI Tools",
+    "source": "https://www.indiatoday.in/technology/news/story/java-book-author-says-ai-written-code-offers-only-marginal-productivity-gains-2915379-2026-05-22",
+    "tags": [
+      "indiatoday.in",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "94d95fdde274cf74f49ddc261799a1e8",
+    "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+    "slug": "multistream-llms-new-paper-on-parallelizingseparating-prompts-thinking-io",
+    "date": "2026-05-21T19:37:26Z",
+    "description": "The continued improvements in language model capability have unlocked their widespread use as drivers of autonomous agents, for example in coding or computer use applications. However, the core of these systems has not changed much since early instruction-tun\u2026",
+    "category": "Dev News",
+    "source": "https://arxiv.org/abs/2605.12460",
+    "tags": [
+      "arxiv.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "084473933c00916be79799171f8cdcbf",
+    "title": "Five key takeaways from Democrats\u2019 autopsy report on Kamala Harris\u2019s loss",
+    "slug": "five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss",
+    "date": "2026-05-21T19:14:34Z",
+    "description": "Riddled with mistakes and missing sections, 192-page document on 2024 election loss to Trump fails to mention Gaza.",
+    "category": "AI Tools",
+    "source": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss",
+    "tags": [
+      "aljazeera.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "5c5fccb908aa100a56c23158d3a31f49",
     "title": "Britney Spears DUI police report reveals 'slurring' singer had taken 'Adderall and Prozac' before highway arrest",
     "slug": "britney-spears-dui-police-report-reveals-slurring-singer-had-taken-adderall-and-",
