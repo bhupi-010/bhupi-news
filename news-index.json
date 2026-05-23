@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "a32937e03d3eea7b046811a89af1bec4",
+    "title": "We should get rid of average CPU utilization",
+    "slug": "we-should-get-rid-of-average-cpu-utilization",
+    "date": "2026-05-22T08:15:42Z",
+    "description": "How CFS throttling works and the case against the average CPU graph.",
+    "category": "AI Tools",
+    "source": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/",
+    "tags": [
+      "theocharis.dev",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "54dec6ad7c88b1f520a695f266601d9a",
+    "title": "wafpass-core 1.0.1",
+    "slug": "wafpasscore-101",
+    "date": "2026-05-22T08:10:01Z",
+    "description": "WAF++ PASS \u2013 IaC compliance engine, CLI, and result schema for the WAF++ framework",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/wafpass-core/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "3fa8eb0315f2ad24e8c9b2f4a0c2ab3a",
+    "title": "Inside Ukraine\u2019s Battlefield Innovation Loop",
+    "slug": "inside-ukraines-battlefield-innovation-loop",
+    "date": "2026-05-22T08:00:24Z",
+    "description": "This exclusive Cogs of War interview is with Catarina Buchatskiy, the co-founder and director of analytics at the Snake Island Institute, a Kyiv-based defense analytics center, and Viktoriia Honcharuk, the institute\u2019s director of defense technologies. We aske\u2026",
+    "category": "AI Tools",
+    "source": "https://warontherocks.com/cogs-of-war/inside-ukraines-battlefield-innovation-loop/",
+    "tags": [
+      "warontherocks.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "e6359e84dd5107580e6eb0b4d6abd484",
     "title": "Java book author says AI-written code offers only marginal productivity gains",
     "slug": "java-book-author-says-aiwritten-code-offers-only-marginal-productivity-gains",
