@@ -1,5 +1,44 @@
 [
   {
+    "id": "5668d12317b950a1a72509c54656cec6",
+    "title": "Show HN: Brew-browser \u2013 A native macOS GUI for Homebrew",
+    "slug": "show-hn-brewbrowser--a-native-macos-gui-for-homebrew",
+    "date": "2026-05-24T19:25:10Z",
+    "description": "Article URL: https://github.com/msitarzewski/brew-browser\nComments URL: https://news.ycombinator.com/item?id=48260242\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/msitarzewski/brew-browser",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "46ea5147b5456250e007987e25952b75",
+    "title": "2009 Aftonbladet Israel Controversy",
+    "slug": "2009-aftonbladet-israel-controversy",
+    "date": "2026-05-24T18:38:08Z",
+    "description": "Article URL: https://en.wikipedia.org/wiki/2009_Aftonbladet_Israel_controversy\nComments URL: https://news.ycombinator.com/item?id=48259848\nPoints: 11\n# Comments: 1",
+    "category": "Dev News",
+    "source": "https://en.wikipedia.org/wiki/2009_Aftonbladet_Israel_controversy",
+    "tags": [
+      "en.wikipedia.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "1fd9ec9f6ba836423ad220b6d58655cf",
+    "title": "Meta layoffs: \u2018I asked to be laid off\u2019 during company-wide 8,000 job cuts, says ex-employee",
+    "slug": "meta-layoffs-i-asked-to-be-laid-off-during-companywide-8000-job-cuts-says-exempl",
+    "date": "2026-05-24T18:03:11Z",
+    "description": "A former Meta employee voluntarily sought to be part of recent layoffs. Her personal career goals no longer matched the company's direction. She had worked at Meta for six years. The company is undergoing restructuring and focusing on artificial intelligence.\u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/new-updates/meta-layoffs-i-asked-to-be-laid-off-during-company-wide-8000-job-cuts-says-ex-employee/articleshow/131295491.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "9b605e51041bc736b325b74d57dc5a1b",
     "title": "Real World Economics: What Fed balance sheet does Warsh want to shrink?",
     "slug": "real-world-economics-what-fed-balance-sheet-does-warsh-want-to-shrink",
