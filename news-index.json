@@ -1,5 +1,44 @@
 [
   {
+    "id": "3d7b30d4369079cff989461611878013",
+    "title": "Glaze turns AI prompts into custom Mac apps in minutes",
+    "slug": "glaze-turns-ai-prompts-into-custom-mac-apps-in-minutes",
+    "date": "2026-05-25T12:00:00Z",
+    "description": "Unlike other vibe coding tools, Glaze creates software that runs locally on your computer, not on the web.",
+    "category": "AI Tools",
+    "source": "https://www.fastcompany.com/91546499/glaze-turns-ai-prompts-into-custom-mac-apps-in-minutes",
+    "tags": [
+      "fastcompany.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "79548f34588046c6a0f7f3d402c64e8f",
+    "title": "Vic Fangio sees upside in Michael Carter II at safety role for Eagles",
+    "slug": "vic-fangio-sees-upside-in-michael-carter-ii-at-safety-role-for-eagles",
+    "date": "2026-05-25T02:29:16Z",
+    "description": "Vic Fangio believes Michael Carter II has the instincts and football intelligence to potentially handle a transition to safety as Philadelphia evaluates its secondary.",
+    "category": "Dev News",
+    "source": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2026/05/24/eagles-michael-carter-ii-safety-vic-fangio/90247526007/",
+    "tags": [
+      "theeagleswire.usatoday.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "367986c4c483c9af15ee20bea0b36879",
+    "title": "US official: Iran deal could take days to finalize",
+    "slug": "us-official-iran-deal-could-take-days-to-finalize",
+    "date": "2026-05-25T02:15:21Z",
+    "description": "The finalization of a US-Iran pact is delayed due to an arduous approval process in Tehran, a US official tells CNN.",
+    "category": "Dev News",
+    "source": "https://www.israelnationalnews.com/news/427547",
+    "tags": [
+      "israelnationalnews.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "5668d12317b950a1a72509c54656cec6",
     "title": "Show HN: Brew-browser \u2013 A native macOS GUI for Homebrew",
     "slug": "show-hn-brewbrowser--a-native-macos-gui-for-homebrew",
