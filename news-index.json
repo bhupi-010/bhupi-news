@@ -1,5 +1,44 @@
 [
   {
+    "id": "cfcf1dc5820161a13da3a6bdf5638b77",
+    "title": "immunity-agent added to PyPI",
+    "slug": "immunityagent-added-to-pypi",
+    "date": "2026-05-26T15:49:39Z",
+    "description": "Runtime security for AI coding agents: policy enforcement, secret prevention, and supply-chain blocking.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/immunity-agent/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "c21d8872cc553207ad91f8011dcbc294",
+    "title": "Show HN: I Cloned Gmail",
+    "slug": "show-hn-i-cloned-gmail",
+    "date": "2026-05-26T15:46:53Z",
+    "description": "Article URL: https://github.com/hieunc229/mailflare\nComments URL: https://news.ycombinator.com/item?id=48281359\nPoints: 1\n# Comments: 0",
+    "category": "AI Tools",
+    "source": "https://github.com/hieunc229/mailflare",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "3d2ce46a0afe83938cfc263b6f7d1862",
+    "title": "Show HN: We made a cinematic heist trailer with 4 AI models for $60",
+    "slug": "show-hn-we-made-a-cinematic-heist-trailer-with-4-ai-models-for-60",
+    "date": "2026-05-26T15:32:36Z",
+    "description": "Article URL: https://medium.com/@jpelton722/we-made-a-cinematic-heist-trailer-with-ai-for-60-heres-exactly-how-4d4266c59a59\nComments URL: https://news.ycombinator.com/item?id=48281180\nPoints: 1\n# Comments: 0",
+    "category": "AI Tools",
+    "source": "https://medium.com/@jpelton722/we-made-a-cinematic-heist-trailer-with-ai-for-60-heres-exactly-how-4d4266c59a59",
+    "tags": [
+      "medium.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "06199ef60a982b5b2077ef53b07c5e8c",
     "title": "3 Easy Ways To Make Ice Fishing Demo Faster",
     "slug": "3-easy-ways-to-make-ice-fishing-demo-faster",
