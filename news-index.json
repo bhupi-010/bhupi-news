@@ -1,5 +1,44 @@
 [
   {
+    "id": "99d2d73217aaf3e77329a1e471ad6a70",
+    "title": "Record high: This ASX stock is surging on new project wins",
+    "slug": "record-high-this-asx-stock-is-surging-on-new-project-wins",
+    "date": "2026-05-26T04:00:08Z",
+    "description": "GR Engineering shares hit a new record high on Tuesday.\nThe post Record high: This ASX stock is surging on new project wins appeared first on The Motley Fool Australia.",
+    "category": "Dev News",
+    "source": "https://www.fool.com.au/2026/05/26/record-high-this-asx-stock-is-surging-on-new-project-wins/",
+    "tags": [
+      "fool.com.au",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "9a5c45e65ea33b2f98bd66f7d334d4a6",
+    "title": "Outcomes of Hospitalized and Critically Ill Adults with Murine Typhus, Galveston, Texas, USA, 2019\u20132023",
+    "slug": "outcomes-of-hospitalized-and-critically-ill-adults-with-murine-typhus-galveston-",
+    "date": "2026-05-26T04:00:00Z",
+    "description": "Critically Ill Adults with Murine Typhus, Texas",
+    "category": "Dev News",
+    "source": "https://wwwnc.cdc.gov/eid/article/32/6/25-1015_article",
+    "tags": [
+      "wwwnc.cdc.gov",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "81ddfee35d8bbda40d652ba7ba8ae015",
+    "title": "Show HN: Self-hosted collaborative SQL editor for teams",
+    "slug": "show-hn-selfhosted-collaborative-sql-editor-for-teams",
+    "date": "2026-05-26T03:54:19Z",
+    "description": "I built a self-hostable web-based sql client interfaces for me and my team.We were using the community version of - https://dbeaver.io, but we needed a few more features and an improved editor. PopSQL was a modern take on web based sql editor, but it didn't f\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/p-raj/collab-sqlc/",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "69862fecd3dd3a559b7e48e71fb765b5",
     "title": "Lendi Group factors AI use into annual performance reviews",
     "slug": "lendi-group-factors-ai-use-into-annual-performance-reviews",
