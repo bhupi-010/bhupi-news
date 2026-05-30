@@ -1,5 +1,44 @@
 [
   {
+    "id": "f7ab2b0c991f91f0b8d68b4a8e5296cc",
+    "title": "Everything we know about Planet Zoo 2 so far",
+    "slug": "everything-we-know-about-planet-zoo-2-so-far",
+    "date": "2026-05-29T13:28:04Z",
+    "description": "Planet Zoo 2 launches in October 2026. Here's everything we know so far about the zoo sim sequel, including platforms, animals, aquariums, and new features.",
+    "category": "Dev News",
+    "source": "https://www.escapistmagazine.com/news-planet-zoo-2-release-date-platforms-features/",
+    "tags": [
+      "escapistmagazine.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "8bee20b3cfb978024c34366089e5e693",
+    "title": "django-admin-rest-api 1.0.3",
+    "slug": "djangoadminrestapi-103",
+    "date": "2026-05-29T13:18:57Z",
+    "description": "A JSON REST API for the Django admin \u2014 same permissions, same ModelAdmin, no new features. Powers django-admin-react and django-admin-mcp.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/django-admin-rest-api/1.0.3/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "390a69e7106dec21f557cfcb835f88cb",
+    "title": "AI Implementation Strategy: How To Deploy AI Without Breaking Teams Or Trust",
+    "slug": "ai-implementation-strategy-how-to-deploy-ai-without-breaking-teams-or-trust",
+    "date": "2026-05-29T13:00:49Z",
+    "description": "Having a few AI tools that you use daily doesn't equate to an AI implementation strategy. Like any strategy, it requires clear communication and alignment, among others. Let's see how you can create a strategy that unites your entire company and helps you gro\u2026",
+    "category": "AI Tools",
+    "source": "https://elearningindustry.com/advertise/elearning-marketing-resources/blog/ai-implementation-strategy-how-to-deploy-ai-without-breaking-teams-or-trust",
+    "tags": [
+      "elearningindustry.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "3b41fec689a15ae6f1680cf9a715b4b0",
     "title": "Anthropic overtakes OpenAI in race to build trillion-dollar AI giant",
     "slug": "anthropic-overtakes-openai-in-race-to-build-trilliondollar-ai-giant",
