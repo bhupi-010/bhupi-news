@@ -1,5 +1,44 @@
 [
   {
+    "id": "7547cd875538b52b8bfcc0f202f39842",
+    "title": "How to build UX using Claude Sonnet 4.5 + Bootstrap \u2013 Use UXPin Merge!",
+    "slug": "how-to-build-ux-using-claude-sonnet-45--bootstrap--use-uxpin-merge",
+    "date": "2026-05-30T08:07:32Z",
+    "description": "Combine AI-generated layouts with Bootstrap and UXPin Merge to build production-ready, accessible prototypes and speed design-to-dev handoffs.\nThe post How to build UX using Claude Sonnet 4.5 + Bootstrap \u2013 Use UXPin Merge! appeared first on Studio by UXPin.",
+    "category": "AI Tools",
+    "source": "https://www.uxpin.com/studio/blog/build-ux-claude-sonnet-4-5-bootstrap-uxpin-merge/",
+    "tags": [
+      "uxpin.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a5638ad5ee87e61d293c1671a9e8e8ed",
+    "title": "Wildfires are destroying trees faster than we are replacing them",
+    "slug": "wildfires-are-destroying-trees-faster-than-we-are-replacing-them",
+    "date": "2026-05-30T08:00:00Z",
+    "description": "Canada is losing trees faster than nature can grow them or people can plant them. A northern Manitoba tree-planting program is trying to replace trees destroyed by wildfires, but the cancellation of the federal Two Billion Trees Program is making that more ch\u2026",
+    "category": "Dev News",
+    "source": "https://www.cbc.ca/news/canada/manitoba/wildfires-tree-planting-canada-9.7215528",
+    "tags": [
+      "cbc.ca",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7a1980e1bfca9934a261a50dfaeeb3ee",
+    "title": "Lawmakers Aiming To Prohibit AI From Detecting Human Emotions Or Mental States Are Barking Up The Wrong Tree",
+    "slug": "lawmakers-aiming-to-prohibit-ai-from-detecting-human-emotions-or-mental-states-a",
+    "date": "2026-05-30T07:15:00Z",
+    "description": "Lawmakers are aiming to prohibit AI from detecting human emotions, but this is not going to be workable. An AI Insider analysis and scoop.",
+    "category": "AI Tools",
+    "source": "https://www.forbes.com/sites/lanceeliot/2026/05/30/lawmakers-aiming-to-prohibit-ai-from-detecting-human-emotions-or-mental-states-are-barking-up-the-wrong-tree/",
+    "tags": [
+      "forbes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "0f56d44c699c66f6e37be80b659f9bbb",
     "title": "langchain-daftari added to PyPI",
     "slug": "langchaindaftari-added-to-pypi",
