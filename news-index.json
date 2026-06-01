@@ -1,5 +1,44 @@
 [
   {
+    "id": "c449c61397c03c42fda6f22df606f6f9",
+    "title": "I created a complex website using Claude Code, Codex, and Google Antigravity, and only one of them behaved like a senior developer",
+    "slug": "i-created-a-complex-website-using-claude-code-codex-and-google-antigravity-and-o",
+    "date": "2026-05-31T18:00:22Z",
+    "description": "Testing AI coding tools on a complex build",
+    "category": "AI Tools",
+    "source": "https://www.xda-developers.com/created-complex-website-using-claude-code-codex-antigravity-only-one-of-them-behaved-like-senior-developer/",
+    "tags": [
+      "xda-developers.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "bc6ebc5b5e0cb2e51cb73245bd509557",
+    "title": "django-admin-rest-api 1.1.1",
+    "slug": "djangoadminrestapi-111",
+    "date": "2026-05-31T11:35:02Z",
+    "description": "A JSON REST API for the Django admin \u2014 same permissions, same ModelAdmin, no new features. Powers django-admin-react and django-admin-mcp.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/django-admin-rest-api/1.1.1/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "2bf467e4fc2e367c3cf92871303f0ade",
+    "title": "Anand Mahindra wants to travel on this Vande Bharat route across the world\u2019s highest railway arch bridge, calls it a bucket-list experience",
+    "slug": "anand-mahindra-wants-to-travel-on-this-vande-bharat-route-across-the-worlds-high",
+    "date": "2026-05-31T11:24:21Z",
+    "description": "Anand Mahindra has found a new addition to his bucket list. Sharing a video of a Vande Bharat train crossing the Chenab Rail Bridge, the industrialist described the journey as an experience rather than just transportation. His post comes as the Jammu-Srinagar\u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/new-updates/anand-mahindra-wants-to-travel-on-this-vande-bharat-route-across-the-worlds-highest-railway-arch-bridge-calls-it-a-bucket-list-experience/articleshow/131422058.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "75bd20b7a475710a2a17ba071e89e542",
     "title": "sulaimanqasimi-larjango added to PyPI",
     "slug": "sulaimanqasimilarjango-added-to-pypi",
