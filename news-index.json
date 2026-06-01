@@ -1,5 +1,44 @@
 [
   {
+    "id": "7e5f64c88417eef00ab7dfca4630d813",
+    "title": "THAT way! Or no way at all?",
+    "slug": "that-way-or-no-way-at-all",
+    "date": "2026-05-31T21:17:29Z",
+    "description": "How two title contenders were built, and what it might mean for the Rockets.",
+    "category": "Dev News",
+    "source": "https://www.thedreamshake.com/rockets-game-threads/40225/that-way-or-no-way-at-all",
+    "tags": [
+      "thedreamshake.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6972ace2ab9fc4a5de52f0f86a51a44c",
+    "title": "2026 ShopRite LPGA prize money payouts at Seaview Golf Club",
+    "slug": "2026-shoprite-lpga-prize-money-payouts-at-seaview-golf-club",
+    "date": "2026-05-31T20:53:13Z",
+    "description": "This was the final tune-up ahead of the 2026 U.S. Women's Open. See how all the prize money was distributed.",
+    "category": "Dev News",
+    "source": "https://golfweek.usatoday.com/story/sports/golf/lpga/2026/05/31/2026-shoprite-lpga-prize-money-payouts/90274848007/",
+    "tags": [
+      "golfweek.usatoday.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "04bc4ced7874fa248c1147cd4bf10fe9",
+    "title": "New bodycam footage shows cops make another mistake after Chicago police officer was accidentally shot dead by her own partner",
+    "slug": "new-bodycam-footage-shows-cops-make-another-mistake-after-chicago-police-officer",
+    "date": "2026-05-31T20:48:10Z",
+    "description": "Officer Krystal Rivera, 36, was shot by her partner Officer Carlos Baker while they were chasing a suspect through an apartment building in the Chatham neighborhood on June 5, 2025.",
+    "category": "Dev News",
+    "source": "https://www.dailymail.com/news/article-15862327/bodycam-footage-krystal-rivera-killed-mistake-chicago.html",
+    "tags": [
+      "dailymail.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "c449c61397c03c42fda6f22df606f6f9",
     "title": "I created a complex website using Claude Code, Codex, and Google Antigravity, and only one of them behaved like a senior developer",
     "slug": "i-created-a-complex-website-using-claude-code-codex-and-google-antigravity-and-o",
