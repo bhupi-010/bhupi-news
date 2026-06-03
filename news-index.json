@@ -1,5 +1,44 @@
 [
   {
+    "id": "eed244a86fbfaeaf2000899e5a67b883",
+    "title": "Uber caps staff use of AI coding tools after blowing its budget",
+    "slug": "uber-caps-staff-use-of-ai-coding-tools-after-blowing-its-budget",
+    "date": "2026-06-02T18:53:55Z",
+    "description": "Uber Technologies Inc. has set usage caps on some artificial intelligence-powered tools used by its staff, a move meant to manage costs after the company blew through its AI budget earlier this year.",
+    "category": "AI Tools",
+    "source": "https://www.latimes.com/business/story/2026-06-02/uber-caps-staff-use-of-ai-coding-tools-after-blowing-its-budget",
+    "tags": [
+      "latimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b6697a7ce21154f8ea68d1da947fb75a",
+    "title": "Uber caps usage of AI tools like Claude code to cut costs",
+    "slug": "uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs",
+    "date": "2026-06-02T17:41:25Z",
+    "description": "Uber Technologies has introduced monthly usage caps on AI-powered coding tools for employees after exhausting its annual AI budget earlier this year. The company has capped spending at $1,500 per month per AI coding tool, including platforms such as Cursor and Claude Code, while allowing employees to seek approvals for higher usage. Uber said the move is aimed at managing costs while continuing AI adoption across teams.",
+    "category": "AI Tools",
+    "source": "https://www.cnbctv18.com/market/uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs-ws-l-19918190.htm",
+    "tags": [
+      "cnbctv18.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "6d2b597d7480255fa0c89e640f658e85",
+    "title": "Pope Leo\u2019s \u2018Magnifica Humanitas\u2019: \u201cBe Human! Stay Human!\u201d",
+    "slug": "pope-leos-magnifica-humanitas-be-human-stay-human",
+    "date": "2026-06-02T11:02:49Z",
+    "description": "*Fr Cedric Prakash SJ \u2013\u00a0 On 25 May 2026,\u00a0Pope Leo XIV released his first Encyclical \u2018Magnifica Humanitas\u2019 (Magnificient Humanity):\u00a0 On Safeguarding the Human Person in\nThe post Pope Leo\u2019s \u2018Magnifica Humanitas\u2019: \u201cBe Human! Stay Human!\u201d appeared first on Indian\u2026",
+    "category": "Dev News",
+    "source": "https://www.indiancatholicmatters.org/pope-leos-magnifica-humanitas-be-human-stay-human/",
+    "tags": [
+      "indiancatholicmatters.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "8dda118a5d96953f63aaa04b402a5968",
     "title": "Claude AI down for users: Check alternate AI apps you can use for best coding experience",
     "slug": "claude-ai-down-for-users-check-alternate-ai-apps-you-can-use-for-best-coding-exp",
