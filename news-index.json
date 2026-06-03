@@ -1,5 +1,31 @@
 [
   {
+    "id": "434c49367fa621398bc4849e3733f181",
+    "title": "Uber's AI bill got so high that it is now limiting Claude Code usage to $1,500: Report",
+    "slug": "ubers-ai-bill-got-so-high-that-it-is-now-limiting-claude-code-usage-to-1500-repo",
+    "date": "2026-06-03T03:19:26Z",
+    "description": "Uber has set a $1,500 monthly spending limit for employees using AI coding tools like Claude Code and Cursor to control its AI costs",
+    "category": "AI Tools",
+    "source": "https://www.livemint.com/technology/tech-news/ubers-ai-bill-got-so-high-that-it-is-now-limiting-claude-code-usage-to-1-500-report-11780452994827.html",
+    "tags": [
+      "livemint.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "68add071f3e1d7b28591858cc8155057",
+    "title": "AI too expensive: Uber restricts employees from using tools like Claude, puts hard limit of $1500",
+    "slug": "ai-too-expensive-uber-restricts-employees-from-using-tools-like-claude-puts-hard",
+    "date": "2026-06-03T01:41:12Z",
+    "description": "Uber has started capping employee use of AI coding tools with a limit of $1500 after reportedly burning through its annual AI budget in just four months.",
+    "category": "AI Tools",
+    "source": "https://www.indiatoday.in/technology/news/story/uber-ai-budget-claude-code-cursor-1500-monthly-cap-for-employees-2921144-2026-06-03",
+    "tags": [
+      "indiatoday.in",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "eed244a86fbfaeaf2000899e5a67b883",
     "title": "Uber caps staff use of AI coding tools after blowing its budget",
     "slug": "uber-caps-staff-use-of-ai-coding-tools-after-blowing-its-budget",
@@ -23,6 +49,19 @@
     "tags": [
       "cnbctv18.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "e6c5588d6b141026a5c2fe6fd8b7a3aa",
+    "title": "I\u2019d Rather Spend Money On Marketing!",
+    "slug": "id-rather-spend-money-on-marketing",
+    "date": "2026-06-02T16:45:28Z",
+    "description": "Read the article: \"I\u2019d Rather Spend Money On Marketing!\"",
+    "category": "Dev News",
+    "source": "https://boldip.com/blog/id-rather-spend-money-on-marketing/",
+    "tags": [
+      "boldip.com",
+      "dev-news"
     ]
   },
   {
