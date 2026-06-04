@@ -1,5 +1,44 @@
 [
   {
+    "id": "fd8aa9772480784a2785060ed0d84881",
+    "title": "Google might pay to peek at your code.",
+    "slug": "google-might-pay-to-peek-at-your-code",
+    "date": "2026-06-04T07:31:21Z",
+    "description": "The company is lagging behind Anthropic, OpenAI, and even Microsoft when it comes to AI coding tools, but 404 Media reports it\u2019s found a novel way to expand its training base of code: offering to pay Android developers for access to the innards of their apps.\n[Link: Google Is Quietly Buying Code From Play Store Developers to Train AI | https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/ | 404 Media]",
+    "category": "AI Tools",
+    "source": "https://www.theverge.com/tech/942848/google-might-pay-to-peek-at-your-code",
+    "tags": [
+      "theverge.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "5cd167155793879e872b854ab28c1330",
+    "title": "Plex is trying to justify its enormous price hike \u2014 but I don't think this is the way",
+    "slug": "plex-is-trying-to-justify-its-enormous-price-hike--but-i-dont-think-this-is-the-",
+    "date": "2026-06-03T19:27:17Z",
+    "description": "Emoji reactions and list sharing are not enough",
+    "category": "Frontend",
+    "source": "https://www.makeuseof.com/plex-is-trying-to-justify-its-enormous-price-hike-but-i-dont-think-this-is-the-way/",
+    "tags": [
+      "makeuseof.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "1c1270a62981e47f6504e2db67dbafc1",
+    "title": "How Myles Garrett\u2019s Arrival in LA Could Help Lakers Keep LeBron James",
+    "slug": "how-myles-garretts-arrival-in-la-could-help-lakers-keep-lebron-james",
+    "date": "2026-06-03T19:12:13Z",
+    "description": "New Rams star Myles Garrett weighs in on LeBron James\u2019 future. Can a fresh LA connection help the Lakers convince the King to stay in town? The post How Myles Garrett\u2019s Arrival in LA Could Help Lakers Keep LeBron James appeared first on LA Sports Report.",
+    "category": "Dev News",
+    "source": "https://lasportsreport.com/lakers/255032/myles-garrett-lebron-james-lakers/",
+    "tags": [
+      "lasportsreport.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "411e159def1f6712aecf6cac13b01a0d",
     "title": "GOP Congressmen React To Dems Publicly Plotting A Supreme Court Power Grab",
     "slug": "gop-congressmen-react-to-dems-publicly-plotting-a-supreme-court-power-grab",
