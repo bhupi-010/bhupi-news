@@ -1,5 +1,44 @@
 [
   {
+    "id": "6dbef63e6211c8e0c9c59c54c1e51217",
+    "title": "Is Google Quietly Buying Code From Play Store Developers to Train AI? Here's What It's Offering",
+    "slug": "is-google-quietly-buying-code-from-play-store-developers-to-train-ai-heres-what-",
+    "date": "2026-06-03T14:01:58Z",
+    "description": "Reports suggest Google may be offering developers incentives to share Android app code as it seeks to strengthen its AI coding tools",
+    "category": "AI Tools",
+    "source": "https://www.firstpost.com/tech/is-google-quietly-buying-code-from-play-store-developers-to-train-ai-heres-what-its-offering-14018535.html",
+    "tags": [
+      "firstpost.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "517e88f17172b3a861f02eaa6fea7f0b",
+    "title": "Uber Caps AI Tool Usage After Exhausting Yearly Budget In Just 4 Months",
+    "slug": "uber-caps-ai-tool-usage-after-exhausting-yearly-budget-in-just-4-months",
+    "date": "2026-06-03T11:32:19Z",
+    "description": "Uber has imposed a $1,500 monthly cap on AI coding tools like Claude Code and Cursor after burning through its entire 2026 AI budget in just four months. Learn how Uber\u2019s AI cost controls, Microsoft\u2019s shift from Claude Code to GitHub Copilot, and new usage-based pricing are reshaping enterprise AI development and spending.",
+    "category": "AI Tools",
+    "source": "https://www.outlookbusiness.com/corporate/uber-caps-ai-tool-usage-after-exhausting-yearly-budget-in-just-4-months",
+    "tags": [
+      "outlookbusiness.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "110febd1d1b127e1d89b383b820f27b6",
+    "title": "basis-framework added to PyPI",
+    "slug": "basisframework-added-to-pypi",
+    "date": "2026-06-03T04:12:06Z",
+    "description": "A full-stack python reactive web components framework",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/basis-framework/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
     "id": "434c49367fa621398bc4849e3733f181",
     "title": "Uber's AI bill got so high that it is now limiting Claude Code usage to $1,500: Report",
     "slug": "ubers-ai-bill-got-so-high-that-it-is-now-limiting-claude-code-usage-to-1500-repo",
