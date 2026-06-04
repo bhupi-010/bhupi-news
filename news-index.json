@@ -1,5 +1,44 @@
 [
   {
+    "id": "411e159def1f6712aecf6cac13b01a0d",
+    "title": "GOP Congressmen React To Dems Publicly Plotting A Supreme Court Power Grab",
+    "slug": "gop-congressmen-react-to-dems-publicly-plotting-a-supreme-court-power-grab",
+    "date": "2026-06-03T15:21:41Z",
+    "description": "Democrats are promising major changes to the Supreme Court, and Republican lawmakers say those proposals could fundamentally alter the nation's highest court.",
+    "category": "Frontend",
+    "source": "https://dailycaller.com/2026/06/03/supreme-court-eric-schmidt-jim-jordan-mike-lee-john-cornyn-jamie-raskin-hakeem-jeffries/",
+    "tags": [
+      "dailycaller.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "fe03974e9512f173c6cf15c17c92d642",
+    "title": "Iowa Shock",
+    "slug": "iowa-shock",
+    "date": "2026-06-03T15:01:58Z",
+    "description": "Rep. Randy Feenstra lost Iowa's Republican gubernatorial primary despite Trump's endorsement, raising questions about the president's political influence.",
+    "category": "AI Tools",
+    "source": "https://reason.com/2026/06/03/iowa-shock/",
+    "tags": [
+      "reason.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9be263cbb067d05d30844914f9f72982",
+    "title": "Create a Pok\u00e9Baller\u2019s Paradise in Pok\u00e9Ballpark, Out Now on Swintendo Nitch",
+    "slug": "create-a-pok\u00e9ballers-paradise-in-pok\u00e9ballpark-out-now-on-swintendo-nitch",
+    "date": "2026-06-03T15:00:49Z",
+    "description": "Pokopia, but make it baseball.",
+    "category": "Dev News",
+    "source": "https://blogs.fangraphs.com/create-a-pokeballers-paradise-in-pokeballpark-out-now-on-swintendo-nitch/",
+    "tags": [
+      "blogs.fangraphs.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "6dbef63e6211c8e0c9c59c54c1e51217",
     "title": "Is Google Quietly Buying Code From Play Store Developers to Train AI? Here's What It's Offering",
     "slug": "is-google-quietly-buying-code-from-play-store-developers-to-train-ai-heres-what-",
