@@ -1,5 +1,31 @@
 [
   {
+    "id": "491aaaa37756eb93c7147919632ff683",
+    "title": "Uber's AI Doubts Are Just Normal Growing Pains",
+    "slug": "ubers-ai-doubts-are-just-normal-growing-pains",
+    "date": "2026-06-04T09:30:06Z",
+    "description": "Uber Technologies Inc. President Andrew Macdonald said on the Rapid Response podcast a few days ago that the company could not connect increased use of artificial intelligence coding tools to a return on investment. AI critics have trumpeted this and similar statements about runaway costs as evidence the AI bubble is popping and that its projected impact is vastly overrated. Yet on Thursday, Anthropic PBC raised $65 billion at a $965 billion valuation, which would be hard to justify for a techno",
+    "category": "AI Tools",
+    "source": "https://www.bloomberg.com/opinion/articles/2026-06-04/uber-s-ai-doubts-are-just-normal-growing-pains",
+    "tags": [
+      "bloomberg.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9916fe6dd0892979e550fdb1d2f84430",
+    "title": "Uber Slashes 23% of People Team, President Says Less Than 1% of Staff Affected",
+    "slug": "uber-slashes-23-of-people-team-president-says-less-than-1-of-staff-affected",
+    "date": "2026-06-04T08:36:09Z",
+    "description": "Uber is cutting 23% of roles in its people and places division as part of a major restructuring led by new president Jill Hazelbaker, affecting well under 1% of its 34,000 staff. Learn how the ride-hailing giant is streamlining operations, why the layoffs are not driven by AI, and how its growing dependence on AI coding tools is reshaping its workforce strategy.",
+    "category": "AI Tools",
+    "source": "https://www.outlookbusiness.com/corporate/uber-slashes-23-of-people-team-president-says-less-than-1-of-staff-affected",
+    "tags": [
+      "outlookbusiness.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "fd8aa9772480784a2785060ed0d84881",
     "title": "Google might pay to peek at your code.",
     "slug": "google-might-pay-to-peek-at-your-code",
@@ -10,6 +36,19 @@
     "tags": [
       "theverge.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "0b60f7078167667f81289f3f215bddb0",
+    "title": "U.S. Hiring Beats Expectations as Employers Add 122,000 Jobs. Is the Economy Stronger Than Wall Street Thinks?",
+    "slug": "us-hiring-beats-expectations-as-employers-add-122000-jobs-is-the-economy-stronge",
+    "date": "2026-06-04T04:05:33Z",
+    "description": "According to payroll processor ADP, private employers added 122,000 jobs during May, exceeding economist expectations of 110,000 and accelerating from April\u2019s revised total of 105,000. The report arrives at a critical moment for investors. Wall Street is tryi\u2026",
+    "category": "Dev News",
+    "source": "https://freerepublic.com/focus/f-news/4382261/posts",
+    "tags": [
+      "freerepublic.com",
+      "dev-news"
     ]
   },
   {
