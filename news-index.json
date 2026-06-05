@@ -1,5 +1,18 @@
 [
   {
+    "id": "a7d313c1593d0092133076e4ba9ee65b",
+    "title": "SpaceX plans record stock market debut that could make Elon Musk a trillionaire",
+    "slug": "spacex-plans-record-stock-market-debut-that-could-make-elon-musk-a-trillionaire",
+    "date": "2026-06-04T09:53:22Z",
+    "description": "SpaceX says it plans to raise up to $75 billion when it goes public this month in what could be the largest stock market debut ever, and it would put Elon Musk on course to becoming the first trillionaire.",
+    "category": "AI Tools",
+    "source": "https://www.cbsnews.com/news/spacex-ipo-biggest-ever-elon-musk-trillionaire/",
+    "tags": [
+      "cbsnews.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "491aaaa37756eb93c7147919632ff683",
     "title": "Uber's AI Doubts Are Just Normal Growing Pains",
     "slug": "ubers-ai-doubts-are-just-normal-growing-pains",
@@ -10,6 +23,32 @@
     "tags": [
       "bloomberg.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "c70662a1630e5f511706100e01f79e55",
+    "title": "How to build UX using Claude Haiku 4.5 + Bootstrap \u2013 Use UXPin Merge!",
+    "slug": "how-to-build-ux-using-claude-haiku-45--bootstrap--use-uxpin-merge",
+    "date": "2026-06-04T09:09:33Z",
+    "description": "Use AI to generate UX flows and UXPin Merge with Bootstrap to build responsive, code-backed prototypes and cleaner handoffs.\nThe post How to build UX using Claude Haiku 4.5 + Bootstrap \u2013 Use UXPin Merge! appeared first on Studio by UXPin.",
+    "category": "AI Tools",
+    "source": "https://www.uxpin.com/studio/?p=60126",
+    "tags": [
+      "uxpin.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "f8c0cb69a1efb5d504e221ca6f2d4a01",
+    "title": "Why Does Roast Chicken Taste So Good? Inside the Science Behind the Flavors We Love",
+    "slug": "why-does-roast-chicken-taste-so-good-inside-the-science-behind-the-flavors-we-lo",
+    "date": "2026-06-04T08:58:45Z",
+    "description": "When we cook our favorite meals, what happens to the carbo-hydrates, proteins and fats? I confess I am a less-than-average cook, but God loves a trier. I remember being about 23 years old and trying to cook a chicken from",
+    "category": "Dev News",
+    "source": "https://lithub.com/why-does-roast-chicken-taste-so-good-inside-the-science-behind-the-flavors-we-love/",
+    "tags": [
+      "lithub.com",
+      "dev-news"
     ]
   },
   {
