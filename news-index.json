@@ -1,5 +1,44 @@
 [
   {
+    "id": "5deb0cc9fdf5ccc233ec6d7977716f62",
+    "title": "How Issues With Government Healthcare Cost Projections May Impact GLP-1s",
+    "slug": "how-issues-with-government-healthcare-cost-projections-may-impact-glp1s",
+    "date": "2026-06-05T19:12:48Z",
+    "description": "Forecasts remain central to healthcare policy evaluation. And so, their accuracy is particularly important in relation to possible expansion of GLP-1 coverage.",
+    "category": "AI Tools",
+    "source": "https://www.forbes.com/sites/joshuacohen/2026/06/05/how-issues-with-government-healthcare-cost-projections-impact-glp-1s/",
+    "tags": [
+      "forbes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "259fe8b3aba9328684e047a5964feb1f",
+    "title": "From open source hits to OpenAI",
+    "slug": "from-open-source-hits-to-openai",
+    "date": "2026-06-05T19:00:00Z",
+    "description": "This week I'm talking with Max Stoiber, currently working on ChatGPT's plugin directory and app platform at OpenAI. We discuss the hundreds of open source projects nobody remembers alongside the big ones like react-boilerplate and styled-components, how Spect\u2026",
+    "category": "Frontend",
+    "source": "https://changelog.com/podcast/682",
+    "tags": [
+      "changelog.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "6d90fd91f838f7eb5cd8d99b0d1f32bc",
+    "title": "Acid attack victim's lawyer describes trial of perpetrators as a 'sham'",
+    "slug": "acid-attack-victims-lawyer-describes-trial-of-perpetrators-as-a-sham",
+    "date": "2026-06-05T18:55:30Z",
+    "description": "Four military officers are facing trial over an acid attack on an Indonesian human rights campaigner that left him seriously disfigured. But some lawyers say the legal process is a \"sham\".",
+    "category": "AI Tools",
+    "source": "https://www.abc.net.au/news/2026-06-06/indonesian-acid-attack-on-activist-by-military-jakarta-trial/106759354",
+    "tags": [
+      "abc.net.au",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "7065f133d29570b2e42858797ed27aee",
     "title": "colorplate added to PyPI",
     "slug": "colorplate-added-to-pypi",
