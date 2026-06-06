@@ -1,5 +1,44 @@
 [
   {
+    "id": "7065f133d29570b2e42858797ed27aee",
+    "title": "colorplate added to PyPI",
+    "slug": "colorplate-added-to-pypi",
+    "date": "2026-06-05T13:51:58Z",
+    "description": "Turn SVG/PNG artwork into layered, gap-free multicolor STL plates for face-down multi-material 3D printing.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/colorplate/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "add3099d898b96639e12c8a2cb2984d3",
+    "title": "Whose Safety? The Hidden Hand Behind AI Content Filters",
+    "slug": "whose-safety-the-hidden-hand-behind-ai-content-filters",
+    "date": "2026-06-05T13:35:45Z",
+    "description": "The entire country of France spent all of the last week of May enduring a record-breaking heat wave. It finally broke on Sunday morning, May 31, offering much needed relief. On the final day of scorching temperatures, I happened to spend a good part of the af\u2026",
+    "category": "AI Tools",
+    "source": "https://www.fairobserver.com/world-news/whose-safety-the-hidden-hand-behind-ai-content-filters/",
+    "tags": [
+      "fairobserver.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "730583b63bfe683b0e11c1d8b28c5119",
+    "title": "They Tried to Bring Aid to Gaza. Israel Tortured Them For It.",
+    "slug": "they-tried-to-bring-aid-to-gaza-israel-tortured-them-for-it",
+    "date": "2026-06-05T13:25:53Z",
+    "description": "Saliha Bayrak\n\n\n\nMultiple Gaza flotilla activists describe severe violence and psychological torment while in Israeli detention.\r\n\n\r\n\n\nThe post They Tried to Bring Aid to Gaza. Israel Tortured Them For It. appeared first on The Nation.",
+    "category": "AI Tools",
+    "source": "https://www.thenation.com/article/activism/gaza-flotilla-israel-torture/",
+    "tags": [
+      "thenation.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "51c4892af7bde41c90fdac5ff66fef22",
     "title": "How to build UX using Claude Haiku 4.5 + Custom Design Systems \u2013 Use UXPin Merge!",
     "slug": "how-to-build-ux-using-claude-haiku-45--custom-design-systems--use-uxpin-merge",
