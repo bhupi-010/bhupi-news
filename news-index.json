@@ -1,5 +1,44 @@
 [
   {
+    "id": "cc16aa01b288c97264461bb299f1a817",
+    "title": "Bayern Munich News: Michael Olise is untouchable at FC Bayern; Arsenal getting closer to Morgan Rogers move?; and MORE!",
+    "slug": "bayern-munich-news-michael-olise-is-untouchable-at-fc-bayern-arsenal-getting-clo",
+    "date": "2026-06-06T04:00:00Z",
+    "description": "FC Bayern isn\u2019t motivated to sell Michael Olise.",
+    "category": "Dev News",
+    "source": "https://www.bavarianfootballworks.com/transfer-rumors/211299/bayern-munich-olise-real-madrid-arsenal-fc-barcelona-liverpool-psg-chelsea-bvb",
+    "tags": [
+      "bavarianfootballworks.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "60c6d17d339bf1bf44b8ed270d644c2e",
+    "title": "aither-adk 2.7.0",
+    "slug": "aitheradk-270",
+    "date": "2026-06-06T01:00:01Z",
+    "description": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: free local runtime with typed memory, knowledge graph, code graph and ReAct; paid tiers (portal.aitherium.com) unlock fleets, channels, reasoning and marketplace packs.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/aither-adk/2.7.0/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "43f878d9e56a8dc4021dbd30e01337e1",
+    "title": "2027 Summer Scouting Report: Dylan Stewart, edge, South Carolina",
+    "slug": "2027-summer-scouting-report-dylan-stewart-edge-south-carolina",
+    "date": "2026-06-06T00:55:25Z",
+    "description": "Dylan Stewart has already become one of the SEC's most productive defenders, but his best football may still be ahead of him.",
+    "category": "Dev News",
+    "source": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2026/06/05/2027-summer-scouting-report-on-south-carolinas-dylan-stewart/90406326007/",
+    "tags": [
+      "bucswire.usatoday.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "5deb0cc9fdf5ccc233ec6d7977716f62",
     "title": "How Issues With Government Healthcare Cost Projections May Impact GLP-1s",
     "slug": "how-issues-with-government-healthcare-cost-projections-may-impact-glp1s",
