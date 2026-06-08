@@ -1,5 +1,44 @@
 [
   {
+    "id": "6e7b022019d993e6ce8f1bdbb5568530",
+    "title": "Log File Analysis: Track AI Bots & Fix Crawl Gaps | Similarweb",
+    "slug": "log-file-analysis-track-ai-bots--fix-crawl-gaps--similarweb",
+    "date": "2026-06-07T20:15:46Z",
+    "description": "Server logs are the only data source that records every AI bot visit to your site in real time: no sampling, no inference, no delay. This guide explains how to extract AI bot logs from six major platforms, which fields to track across each platform, and how t\u2026",
+    "category": "AI Tools",
+    "source": "https://www.similarweb.com/blog/marketing/geo/log-file-analysis/",
+    "tags": [
+      "similarweb.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "58feebd8e7d6ce0936b9122c0af672f6",
+    "title": "Thief: The Dark Project Remastered announced for PS5, Xbox Series, Switch 2, PS4, Switch, and PC",
+    "slug": "thief-the-dark-project-remastered-announced-for-ps5-xbox-series-switch-2-ps4-swi",
+    "date": "2026-06-07T20:05:42Z",
+    "description": "Publisher atari and developers Nightdive Studios and Eidos Montreal have announced Thief: The Dark Project Remastered, a modern revival of the 1998 classic from Looking Glass Studios. It will launc\u2026",
+    "category": "Dev News",
+    "source": "https://www.gematsu.com/2026/06/thief-the-dark-project-remastered-announced-for-ps5-xbox-series-switch-2-ps4-switch-and-pc",
+    "tags": [
+      "gematsu.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "cdb635dff330061266df0639c39f3555",
+    "title": "When a Good Friendship Turns Bad",
+    "slug": "when-a-good-friendship-turns-bad",
+    "date": "2026-06-07T19:56:09Z",
+    "description": "If your friend exhibits four behaviors, they may be emotionally mistreating you.",
+    "category": "Dev News",
+    "source": "https://www.psychologytoday.com/us/blog/peaceful-parenting/202606/when-a-good-friendship-turns-bad",
+    "tags": [
+      "psychologytoday.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "8af26f8efc91059c80d9765d573bc200",
     "title": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports",
     "slug": "openai-plans-chatgpt-superapp-overhaul-ahead-of-listing-ft-reports",
