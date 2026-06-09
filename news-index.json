@@ -1,5 +1,18 @@
 [
   {
+    "id": "fea92c5a967264939c98c4b299a5ef1f",
+    "title": "New Relic Introduces AI Coding Observability to Bring Critical Visibility and Governance to AI Coding Assistants",
+    "slug": "new-relic-introduces-ai-coding-observability-to-bring-critical-visibility-and-go",
+    "date": "2026-06-09T03:29:22Z",
+    "description": "Solution will empower engineering and platform leaders with unified cost, security, and performance insight across AI coding tools like Claude Code, Cursor and GitHub Copilot",
+    "category": "AI Tools",
+    "source": "https://itwire.com/business-it-news/data/new-relic-introduces-ai-coding-observability-to-bring-critical-visibility-and-governance-to-ai-coding-assistants",
+    "tags": [
+      "itwire.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "db4ca5b90721f63e0a05746586fac240",
     "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
     "slug": "microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers",
@@ -9,6 +22,32 @@
     "source": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
     "tags": [
       "techcrunch.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "c54690a3b4be3dfcedf1800ffff5933a",
+    "title": "We Can\u2019t Deny It, Tupac In \u2018Stranger Than Heaven\u2019 Is\u2026 Strange",
+    "slug": "we-cant-deny-it-tupac-in-stranger-than-heaven-is-strange",
+    "date": "2026-06-08T19:48:47Z",
+    "description": "Gamers react strongly to Tupac's inclusion in RGG Studios' new game 'Stranger Than Heaven', raising concerns over the estate's handling of the late rapper's legacy.",
+    "category": "Frontend",
+    "source": "https://hiphopwired.com/3056292/rgg-studios-tupac-stranger-than-heaven-reactions-summer-game-fest/",
+    "tags": [
+      "hiphopwired.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "7310e31a5573720305ac94feca73f53b",
+    "title": "All the little details Apple did show in its WWDC 2026 keynote\u2026just very quickly",
+    "slug": "all-the-little-details-apple-did-show-in-its-wwdc-2026-keynotejust-very-quickly",
+    "date": "2026-06-08T19:41:50Z",
+    "description": "One of my favorite bits of most Apple events is picking out the little things that Apple doesn\u2019t talk about in its keynotes. At WWDC 2026, however, a lot of those little details did get mentioned\u2014but if you blinked, you might have missed them.\u2026",
+    "category": "AI Tools",
+    "source": "https://sixcolors.com/post/2026/06/all-the-little-details-apple-did-show-in-its-wwdc-2026-keynote-just-very-quickly/",
+    "tags": [
+      "sixcolors.com",
       "ai-tools"
     ]
   },
