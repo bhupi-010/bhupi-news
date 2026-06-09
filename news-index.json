@@ -1,5 +1,18 @@
 [
   {
+    "id": "db4ca5b90721f63e0a05746586fac240",
+    "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+    "slug": "microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers",
+    "date": "2026-06-08T20:03:44Z",
+    "description": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
+    "category": "AI Tools",
+    "source": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "tags": [
+      "techcrunch.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "b694ec352c24265c477e1b1eea0422ee",
     "title": "ChatGPT to become \u201csuperapp\u201d as OpenAI shifts focus to coding tools and IPO readiness",
     "slug": "chatgpt-to-become-superapp-as-openai-shifts-focus-to-coding-tools-and-ipo-readin",
@@ -22,6 +35,32 @@
     "source": "https://www.marketscreener.com/news/microsoft-backed-openai-plans-major-chatgpt-overhaul-as-it-expands-focus-beyond-chatbots-ce7f5dd2d188f125",
     "tags": [
       "marketscreener.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "ba7267bc56468504215676b69c23ac74",
+    "title": "Maternal Rage Is Real \u2014 But It's Not Something To Feel Bad About",
+    "slug": "maternal-rage-is-real--but-its-not-something-to-feel-bad-about",
+    "date": "2026-06-08T09:21:00Z",
+    "description": "Maternal rage is real\u2014even if many mothers feel shame around it. In this article, a therapist and mother explores how to make anger productive.",
+    "category": "Dev News",
+    "source": "https://www.mindbodygreen.com/articles/parenthetical-parental-rage",
+    "tags": [
+      "mindbodygreen.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "bee11de4b272c8394e0c07ce5dbbae10",
+    "title": "I went to Walmart's HQ and saw how AI is changing what people see, buy, and how fast they get it",
+    "slug": "i-went-to-walmarts-hq-and-saw-how-ai-is-changing-what-people-see-buy-and-how-fas",
+    "date": "2026-06-08T09:12:01Z",
+    "description": "Walmart is folding AI capabilities into nearly every aspect of its business, helping the retailer offer new levels of speed and personalization.",
+    "category": "AI Tools",
+    "source": "https://www.businessinsider.com/walmart-ai-changing-how-people-work-shop-2026-6",
+    "tags": [
+      "businessinsider.com",
       "ai-tools"
     ]
   },
