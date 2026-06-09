@@ -1,5 +1,44 @@
 [
   {
+    "id": "b694ec352c24265c477e1b1eea0422ee",
+    "title": "ChatGPT to become \u201csuperapp\u201d as OpenAI shifts focus to coding tools and IPO readiness",
+    "slug": "chatgpt-to-become-superapp-as-openai-shifts-focus-to-coding-tools-and-ipo-readin",
+    "date": "2026-06-08T13:40:16Z",
+    "description": "OpenAI is transforming ChatGPT into a productivity-focused \u201csuperapp\u201d integrating coding tools and third-party services. The company aims to boost enterprise revenue to 50% of income by year-end, prioritizing paid tools like Codex. A strategic shift from chatbot to AI agent-driven platform reflects competition with Anthropic and IPO ambitions. OpenAI is streamlining operations, sidelining consumer features [\u2026]",
+    "category": "AI Tools",
+    "source": "https://www.naturalnews.com/2026-06-08-chatgpt-superapp-openai-coding-ipo.html",
+    "tags": [
+      "naturalnews.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "04b4780eb59d7e8e85ced1e2b710e13b",
+    "title": "Microsoft-Backed OpenAI Plans Major ChatGPT Overhaul as It Expands Focus Beyond Chatbots",
+    "slug": "microsoftbacked-openai-plans-major-chatgpt-overhaul-as-it-expands-focus-beyond-c",
+    "date": "2026-06-08T09:46:22Z",
+    "description": "Microsoft-backed OpenAI is preparing to shift its focus toward AI agents, coding tools and business-oriented products as it seeks new revenue streams ahead of a potential public listing, the...",
+    "category": "AI Tools",
+    "source": "https://www.marketscreener.com/news/microsoft-backed-openai-plans-major-chatgpt-overhaul-as-it-expands-focus-beyond-chatbots-ce7f5dd2d188f125",
+    "tags": [
+      "marketscreener.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "55eb013759f98c41c8ff2e2d1b9017b6",
+    "title": "90210 \u2013 running the show without property tax",
+    "slug": "90210--running-the-show-without-property-tax",
+    "date": "2026-06-08T02:47:22Z",
+    "description": "90210 - like the show \u00b7 but you're the showrunner. Contribute to Achint08/90210 development by creating an account on GitHub.",
+    "category": "Dev News",
+    "source": "https://github.com/Achint08/90210",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "6e7b022019d993e6ce8f1bdbb5568530",
     "title": "Log File Analysis: Track AI Bots & Fix Crawl Gaps | Similarweb",
     "slug": "log-file-analysis-track-ai-bots--fix-crawl-gaps--similarweb",
