@@ -1,5 +1,44 @@
 [
   {
+    "id": "0b76a3b499bacb5bf45693917d33bc76",
+    "title": "OpenAI planning major ChatGPT revamp with AI Agents and coding tools",
+    "slug": "openai-planning-major-chatgpt-revamp-with-ai-agents-and-coding-tools",
+    "date": "2026-06-10T07:22:27Z",
+    "description": "OpenAI is preparing to redesign ChatGPT that could transform the popular chatbot into a comprehensive AI Superapp. The revamped platform is expected to integrate AI agents, coding tools, image generation capabilities, and third-party services.",
+    "category": "AI Tools",
+    "source": "https://www.indiatvnews.com/technology/news/chatgpt-may-soon-evolve-into-an-ai-superapp-with-agents-coding-tools-and-more-2026-06-10-1044309",
+    "tags": [
+      "indiatvnews.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "baeae1b12818666a6cd00f46f5876855",
+    "title": "Oh, Thank God: iOS 27 Fixes the Liquid Glass Optical Illusion That Broke My Brain",
+    "slug": "oh-thank-god-ios-27-fixes-the-liquid-glass-optical-illusion-that-broke-my-brain",
+    "date": "2026-06-09T20:32:03Z",
+    "description": "Sanity prevails.",
+    "category": "AI Tools",
+    "source": "https://gizmodo.com/oh-thank-god-ios-27-fixes-the-liquid-glass-optical-illusion-that-broke-my-brain-2000769666",
+    "tags": [
+      "gizmodo.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "ca439a384c7bc9064a08b62ba7c1f198",
+    "title": "Show HN: OpenYabby, voice-controlled multi-agent orchestrator for Claude Code",
+    "slug": "show-hn-openyabby-voicecontrolled-multiagent-orchestrator-for-claude-code",
+    "date": "2026-06-09T20:08:06Z",
+    "description": "Article URL: https://github.com/OpenYabby/OpenYabby\nComments URL: https://news.ycombinator.com/item?id=48466939\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/OpenYabby/OpenYabby",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "cde1091c8eb54cff2400422cd226cec7",
     "title": "Show HN: Local-first history, search, and analytics for Claude Code and Codex",
     "slug": "show-hn-localfirst-history-search-and-analytics-for-claude-code-and-codex",
