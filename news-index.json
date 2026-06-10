@@ -1,5 +1,44 @@
 [
   {
+    "id": "cde1091c8eb54cff2400422cd226cec7",
+    "title": "Show HN: Local-first history, search, and analytics for Claude Code and Codex",
+    "slug": "show-hn-localfirst-history-search-and-analytics-for-claude-code-and-codex",
+    "date": "2026-06-09T15:35:07Z",
+    "description": "I'm an indiehacking type, which means I work on like 5 different things at any given time.Claude and codex are incredible. But, there were a few problems I had with them. AgentGraphed pretty much solves for those.It works locally - indexes every conversation \u2026",
+    "category": "Dev News",
+    "source": "https://github.com/sudomichael/agentgraphed",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "534b766263b64dc6b322ca6434d8f288",
+    "title": "The Restless Mind on Stage: Turning Reaction Into Volition",
+    "slug": "the-restless-mind-on-stage-turning-reaction-into-volition",
+    "date": "2026-06-09T15:32:43Z",
+    "description": "Conquer stage fright by taming the \"monkey mind.\" Learn how mindfulness can shift your focus from critical internal chatter to complete, joyful absorption in the here and now.",
+    "category": "Frontend",
+    "source": "https://www.psychologytoday.com/us/blog/mindfulness-and-music/202606/the-restless-mind-on-stage-turning-reaction-into-volition",
+    "tags": [
+      "psychologytoday.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "e6bc6ae20adfa54e407f74682a56fd02",
+    "title": "Trump Torpedoed By Merciless Pool Reports on Knicks Game \u2014 From Conservative Reporter",
+    "slug": "trump-torpedoed-by-merciless-pool-reports-on-knicks-game--from-conservative-repo",
+    "date": "2026-06-09T15:20:31Z",
+    "description": "President\u00a0Donald Trump was the subject of some absolutely merciless pool reports on the Knicks game that refuted his claim of an \"amazing\" reception from fans.\nThe post Trump Torpedoed By Merciless Pool Reports on Knicks Game \u2014 From Conservative Reporter firs\u2026",
+    "category": "AI Tools",
+    "source": "https://www.mediaite.com/media/news/trump-torpedoed-by-merciless-pool-reports-on-knicks-game-from-conservative-reporter/",
+    "tags": [
+      "mediaite.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "b6d41dad44749ad8afcb5266cc90ecbb",
     "title": "264. \u201cWe\u2019re worth $4M. Why is she so terrified to spend?\u201d",
     "slug": "264-were-worth-4m-why-is-she-so-terrified-to-spend",
