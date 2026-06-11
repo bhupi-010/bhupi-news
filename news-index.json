@@ -1,5 +1,18 @@
 [
   {
+    "id": "32fdc63dda84651fee344c3a8e720288",
+    "title": "Amazon's AWS openly criticises AI coding hype, says it can slow teams down",
+    "slug": "amazons-aws-openly-criticises-ai-coding-hype-says-it-can-slow-teams-down",
+    "date": "2026-06-10T11:19:51Z",
+    "description": "Amazon's AWS has openly criticised the hype around AI coding tools. It says the technology can slow teams down rather than speed them up.",
+    "category": "AI Tools",
+    "source": "https://www.indiatoday.in/technology/news/story/ai-coding-hype-amazon-aws-says-it-can-slow-software-teams-down-2924623-2026-06-10",
+    "tags": [
+      "indiatoday.in",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "0b76a3b499bacb5bf45693917d33bc76",
     "title": "OpenAI planning major ChatGPT revamp with AI Agents and coding tools",
     "slug": "openai-planning-major-chatgpt-revamp-with-ai-agents-and-coding-tools",
@@ -10,6 +23,32 @@
     "tags": [
       "indiatvnews.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "5a3d333b5538ff778fa0821ddfdd2091",
+    "title": "Gaming-world veteran who ripped \u2018woke\u2019 culture scores Trump-backed battleground primary win",
+    "slug": "gamingworld-veteran-who-ripped-woke-culture-scores-trumpbacked-battleground-prim",
+    "date": "2026-06-10T03:58:05Z",
+    "description": "Trump-endorsed Halo composer Marty O'Donnell advances in GOP primary to challenge Democratic incumbent Susie Lee in Nevada's 3rd congressional district.",
+    "category": "Dev News",
+    "source": "https://www.foxnews.com/politics/gaming-world-veteran-ripped-woke-culture-scores-trump-backed-battleground-primary-win",
+    "tags": [
+      "foxnews.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "42a588a2e503e5d84263c3c8edd03f35",
+    "title": "hermes-hive-v4 added to PyPI",
+    "slug": "hermeshivev4-added-to-pypi",
+    "date": "2026-06-10T03:31:26Z",
+    "description": "HIVE \u2014 Multi-Agent Orchestration for Hermes Agent",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/hermes-hive-v4/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
     ]
   },
   {
