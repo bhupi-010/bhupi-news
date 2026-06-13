@@ -1,5 +1,44 @@
 [
   {
+    "id": "e7a1efedfec90a1ef22a30dced582c2c",
+    "title": "chuzom-router added to PyPI",
+    "slug": "chuzomrouter-added-to-pypi",
+    "date": "2026-06-12T14:05:56Z",
+    "description": "Lightweight signal-driven LLM router for Claude Code, Cursor, Codex, Gemini CLI, and Codex CLI.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/chuzom-router/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2fc436e03267b47556cf967514fdb0de",
+    "title": "Dutton Ranch Recap: Stories We Could Tell",
+    "slug": "dutton-ranch-recap-stories-we-could-tell",
+    "date": "2026-06-12T14:00:27Z",
+    "description": "We\u2019ve hit a midseason slump, with the show biding time before the Dutton-Jackson feud resumes and players have to choose a side.",
+    "category": "Dev News",
+    "source": "http://www.vulture.com/article/dutton-ranch-recap-episode-6-paramount-plus.html",
+    "tags": [
+      "vulture.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "c22dca624a12cdd91c12a438ee66cc58",
+    "title": "\u2018The Cable Guy\u2019 Turns 30: How Jim Carrey\u2019s Darkest Comedy Saw the Future Coming",
+    "slug": "the-cable-guy-turns-30-how-jim-carreys-darkest-comedy-saw-the-future-coming",
+    "date": "2026-06-12T14:00:00Z",
+    "description": "Director Ben Stiller, writer Lou Holtz Jr., and producers Andrew Licht and Judd Apatow reflect with IndieWire on how the 1996 cult classic \"predicted a world where loneliness, media obsession, and technology blur human connection.\"",
+    "category": "Dev News",
+    "source": "https://www.indiewire.com/features/interviews/the-cable-guy-oral-history-ben-stiller-jim-carrey-1235199463/",
+    "tags": [
+      "indiewire.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "76842ecee8a6d931cd9ffbc364ba1aff",
     "title": "How Xi Reshaped China's Central Asia Ties -- By The Numbers",
     "slug": "how-xi-reshaped-chinas-central-asia-ties--by-the-numbers",
