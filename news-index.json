@@ -1,5 +1,44 @@
 [
   {
+    "id": "f79ab27319eacb5072bf9abd55fde952",
+    "title": "Is Your Dog Right-Pawed or Left-Pawed? Here's How to Figure It Out, According to a New Study",
+    "slug": "is-your-dog-rightpawed-or-leftpawed-heres-how-to-figure-it-out-according-to-a-ne",
+    "date": "2026-06-12T19:23:20Z",
+    "description": "Researchers devised a series of tests to measure your furry friend's laterality, which can be associated with behavior, emotion and cognition",
+    "category": "Dev News",
+    "source": "https://www.smithsonianmag.com/smart-news/is-your-dog-right-pawed-or-left-pawed-heres-how-to-figure-it-out-according-to-a-new-study-180988941/",
+    "tags": [
+      "smithsonianmag.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "0450f96eff0d94f463441d433b04fe42",
+    "title": "\u201cAlways Trying To Be The Eagles\u201d: Fans React As Seattle Seahawks Reveal Super Bowl LX Ring",
+    "slug": "always-trying-to-be-the-eagles-fans-react-as-seattle-seahawks-reveal-super-bowl-",
+    "date": "2026-06-12T19:06:06Z",
+    "description": "Like all other Super Bowl champions, the Seattle Seahawks are also getting their own Super Bowl ring, and it will be a bejeweled custom piece that features the team logo. It will feature several aspects of their championship run and will be made by renowned j\u2026",
+    "category": "Frontend",
+    "source": "https://collegefootballnetwork.com/nfl/fans-react-as-seattle-seahawks-reveal-super-bowl-lx-ring/?utm_medium=rss&amp;utm_source=nordot",
+    "tags": [
+      "collegefootballnetwork.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "9a40f9303e7db536fd4325d94bcf7ffb",
+    "title": "rapt0r-cli added to PyPI",
+    "slug": "rapt0rcli-added-to-pypi",
+    "date": "2026-06-12T18:58:56Z",
+    "description": "Offline terminal prompt builder \u2014 answer a few questions, get a perfect AI prompt in your clipboard. Zero tokens spent on explanations.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/rapt0r-cli/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "e7a1efedfec90a1ef22a30dced582c2c",
     "title": "chuzom-router added to PyPI",
     "slug": "chuzomrouter-added-to-pypi",
