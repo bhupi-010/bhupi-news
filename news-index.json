@@ -1,5 +1,44 @@
 [
   {
+    "id": "5c3778e3e47448a0860e3001b677343d",
+    "title": "Show HN: Wmux \u2013 a native Windows terminal multiplexer for AI agents",
+    "slug": "show-hn-wmux--a-native-windows-terminal-multiplexer-for-ai-agents",
+    "date": "2026-06-13T13:46:19Z",
+    "description": "Windows tmux alternative for AI agents \u2014 split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required. - openwong2kim/wmux",
+    "category": "AI Tools",
+    "source": "https://github.com/openwong2kim/wmux",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "1ee5a7f50fa84ceffab92df22abf20f7",
+    "title": "Robot soccer player dents wall with terrifying kicks",
+    "slug": "robot-soccer-player-dents-wall-with-terrifying-kicks",
+    "date": "2026-06-13T13:37:48Z",
+    "description": "Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.",
+    "category": "AI Tools",
+    "source": "https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks",
+    "tags": [
+      "foxnews.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "49dcaa8af1e3fc54f6937e8b5b9549cc",
+    "title": "Anthropic Pre-IPO Market Falls After US Directive Forces Model Shutdown",
+    "slug": "anthropic-preipo-market-falls-after-us-directive-forces-model-shutdown",
+    "date": "2026-06-13T13:32:07Z",
+    "description": "Anthropic says it disabled Fable 5 and Mythos 5 after a US government export-control directive, while pre-IPO-linked trading weakened.",
+    "category": "Dev News",
+    "source": "https://bitcoinist.com/anthropic-pre-ipo-market-falls-after-us-directive-forces-model-shutdown/",
+    "tags": [
+      "bitcoinist.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "7792e8a82a67f920627d88aa7238765b",
     "title": "The digital Kowloon",
     "slug": "the-digital-kowloon",
