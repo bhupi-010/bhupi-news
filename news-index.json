@@ -1,5 +1,44 @@
 [
   {
+    "id": "8649bcfc15327ae931930350123bb788",
+    "title": "China\u2019s AI \u2018hundred model\u2019 war shifts to enterprise value, JPMorgan says",
+    "slug": "chinas-ai-hundred-model-war-shifts-to-enterprise-value-jpmorgan-says",
+    "date": "2026-06-14T04:00:17Z",
+    "description": "Major platforms are deploying paid subscriptions and coding tools, favouring practical utility over raw power to unlock significant commercial revenue.",
+    "category": "AI Tools",
+    "source": "https://www.scmp.com/tech/big-tech/article/3357008/chinas-ai-hundred-model-war-shifts-enterprise-value-jpmorgan-says",
+    "tags": [
+      "scmp.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "8f01a6cb0c43284740bf3412ca096894",
+    "title": "Show HN: Galdor \u2013 a Go LLM agent framework with built-in tracing and replay",
+    "slug": "show-hn-galdor--a-go-llm-agent-framework-with-builtin-tracing-and-replay",
+    "date": "2026-06-13T19:04:09Z",
+    "description": "Article URL: https://github.com/YasserCR/galdor\nComments URL: https://news.ycombinator.com/item?id=48520360\nPoints: 2\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/YasserCR/galdor",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7fd239a46a07a21a62dac79487ba19eb",
+    "title": "Best cheap and affordable skincare products for winter in New Zealand",
+    "slug": "best-cheap-and-affordable-skincare-products-for-winter-in-new-zealand",
+    "date": "2026-06-13T19:00:00Z",
+    "description": "Experts from New Zealand and Australia share evidence-backed tips.",
+    "category": "Dev News",
+    "source": "https://www.nzherald.co.nz/lifestyle/best-cheap-and-affordable-skincare-for-winter-in-new-zealand/VOQA3EERNFBX7AMRA5ZDRXBMZ4/",
+    "tags": [
+      "nzherald.co.nz",
+      "dev-news"
+    ]
+  },
+  {
     "id": "5c3778e3e47448a0860e3001b677343d",
     "title": "Show HN: Wmux \u2013 a native Windows terminal multiplexer for AI agents",
     "slug": "show-hn-wmux--a-native-windows-terminal-multiplexer-for-ai-agents",
