@@ -1,5 +1,44 @@
 [
   {
+    "id": "89a9e8b8727591c31da3dd482a03a678",
+    "title": "Show HN: LLMRender, a 10kb Markdown+LaTeX renderer for React",
+    "slug": "show-hn-llmrender-a-10kb-markdownlatex-renderer-for-react",
+    "date": "2026-06-13T04:11:11Z",
+    "description": "I've been using the popular React Markdown renderers with Katex and Prism.js for rendering my Markdown and LaTeX, but was tired of having to bundle 300kb+ of min+gzip JS only for this (1.2MB+ of plain JS!). So I created a small Markdown renderer that does it \u2026",
+    "category": "Frontend",
+    "source": "https://llmrender.com/",
+    "tags": [
+      "llmrender.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "c7d827d3d38563ff1ce198feb0a79e71",
+    "title": "Toothless Tiger: EU Commission Punishes Temu",
+    "slug": "toothless-tiger-eu-commission-punishes-temu",
+    "date": "2026-06-13T04:00:00Z",
+    "description": "Photo Credit:\n \n Perchance AIBrussels has weaponized the Digital Services Act against the Chinese online platform Temu.",
+    "category": "AI Tools",
+    "source": "https://www.americanthinker.com/articles/2026/06/toothless_tiger_eu_commission_punishes_temu.html",
+    "tags": [
+      "americanthinker.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a7c6cbc83d94e735236575c8cb23d192",
+    "title": "Agility Health: The Science of Predictive Team Performance in 2026",
+    "slug": "agility-health-the-science-of-predictive-team-performance-in-2026",
+    "date": "2026-06-13T03:49:16Z",
+    "description": "Agility Health: The Science of Predictive Team Performance in 2026tilt365.com",
+    "category": "Dev News",
+    "source": "https://tilt365.com/blog/agility-health-the-science-of-predictive-team-performance-in-2026",
+    "tags": [
+      "tilt365.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f79ab27319eacb5072bf9abd55fde952",
     "title": "Is Your Dog Right-Pawed or Left-Pawed? Here's How to Figure It Out, According to a New Study",
     "slug": "is-your-dog-rightpawed-or-leftpawed-heres-how-to-figure-it-out-according-to-a-ne",
