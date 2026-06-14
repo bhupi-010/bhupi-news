@@ -1,5 +1,44 @@
 [
   {
+    "id": "7792e8a82a67f920627d88aa7238765b",
+    "title": "The digital Kowloon",
+    "slug": "the-digital-kowloon",
+    "date": "2026-06-13T09:26:02Z",
+    "description": "What a walled city in Hong Kong can teach us about the future of AI development. And why vibe coding might be a regression to the 1990s\u2026",
+    "category": "AI Tools",
+    "source": "https://uxdesign.cc/the-digital-kowloon-0daa51df222f",
+    "tags": [
+      "uxdesign.cc",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "cac2e968acfbba1e4c10b2d87e63ac04",
+    "title": "The \u2018AI superstar\u2019 CEO behind a self-driving truck unicorn on why Gen Z is a better hiring bet than industry veterans",
+    "slug": "the-ai-superstar-ceo-behind-a-selfdriving-truck-unicorn-on-why-gen-z-is-a-better",
+    "date": "2026-06-13T09:00:00Z",
+    "description": "Raquel Urtasun, co-founder of autonomous truck startup Waabi, talks to Fortune about unicorn hiring in the AI age: \u201cFear can paralyze your ability to embrace that change.\u201d",
+    "category": "AI Tools",
+    "source": "https://fortune.com/2026/06/13/waabi-ceo-raquel-urtasun-future-of-work-embrace-ai-first-gen-z-over-industry-experts-career-advice/",
+    "tags": [
+      "fortune.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "2df413d4796410d531434eab1ecd1805",
+    "title": "CI Games Rebuilds Lords of the Fallen 2\u2019s Umbral Realm After Criticism It Felt \u201cToo Static\u201d in Earlier Footage",
+    "slug": "ci-games-rebuilds-lords-of-the-fallen-2s-umbral-realm-after-criticism-it-felt-to",
+    "date": "2026-06-13T08:00:00Z",
+    "description": "During Summer Game Fest 2026, CI Games confirmed what we had already assumed when the publisher announced it had purchased back the publishing rights for Lords of the Fallen 2: it's no longer an Epic Games Store exclusive on PC. Moreover, the studio also reve\u2026",
+    "category": "Dev News",
+    "source": "https://wccftech.com/ci-games-lords-of-the-fallen-2-umbral-realm-static-criticism/",
+    "tags": [
+      "wccftech.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "89a9e8b8727591c31da3dd482a03a678",
     "title": "Show HN: LLMRender, a 10kb Markdown+LaTeX renderer for React",
     "slug": "show-hn-llmrender-a-10kb-markdownlatex-renderer-for-react",
