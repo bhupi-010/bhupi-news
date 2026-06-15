@@ -1,5 +1,44 @@
 [
   {
+    "id": "08a6a5bb0a1959bf4af37bc6c42752e3",
+    "title": "minimost added to PyPI",
+    "slug": "minimost-added-to-pypi",
+    "date": "2026-06-14T04:49:07Z",
+    "description": "Lightweight self-hosted collaboration platform for messaging",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/minimost/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6791229c2b25602a47f3abb586249e9c",
+    "title": "Is Olivia Rodrigo covering Fontaines DC and CMAT the pop artist\u2019s bid to garner grown-up cred?",
+    "slug": "is-olivia-rodrigo-covering-fontaines-dc-and-cmat-the-pop-artists-bid-to-garner-g",
+    "date": "2026-06-14T04:22:00Z",
+    "description": "With her album You Seem Pretty Sad for a Girl So in Love, the singer wants a place as a grown-up artist. She tested the water with her Fontaines DC and CMAT songs",
+    "category": "AI Tools",
+    "source": "https://www.irishtimes.com/culture/music/2026/06/14/is-olivia-rodrigo-covering-fontaines-dc-and-cmat-the-pop-artists-bid-to-garner-grown-up-cred/",
+    "tags": [
+      "irishtimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "6f4fc7a975d8ed618b7435ed1571905c",
+    "title": "Timothee Chalamet, Ben Stiller, Knicks celebrities react to New York winning first championship since 1973",
+    "slug": "timothee-chalamet-ben-stiller-knicks-celebrities-react-to-new-york-winning-first",
+    "date": "2026-06-14T04:21:41Z",
+    "description": "Take a look at the round of reactions from the most notable celebrities who donned the blue and orange.",
+    "category": "Frontend",
+    "source": "https://www.sportingnews.com/us/nba/news/timothee-chalamet-tracy-morgan-celebrities-react-knicks/c302ba535e5bd584ac198322",
+    "tags": [
+      "sportingnews.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "8649bcfc15327ae931930350123bb788",
     "title": "China\u2019s AI \u2018hundred model\u2019 war shifts to enterprise value, JPMorgan says",
     "slug": "chinas-ai-hundred-model-war-shifts-to-enterprise-value-jpmorgan-says",
