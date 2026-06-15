@@ -1,5 +1,44 @@
 [
   {
+    "id": "8f79ff33a2d5b3160a17a0c6b7a68092",
+    "title": "fableforge-anvil-agent 0.1.0",
+    "slug": "fableforgeanvilagent-010",
+    "date": "2026-06-14T20:47:34Z",
+    "description": "The open-source, self-verified coding agent. Generate \u2192 Execute \u2192 Verify \u2192 Recover.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/fableforge-anvil-agent/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "85322fb37208cd229c3fb3184bed1de3",
+    "title": "Web Wash: Drupal Canvas vs WordPress Gutenberg: Block Editor Comparison",
+    "slug": "web-wash-drupal-canvas-vs-wordpress-gutenberg-block-editor-comparison",
+    "date": "2026-06-14T20:37:57Z",
+    "description": "Both WordPress and Drupal, with Canvas, let you build pages from blocks and components instead of using just a text area. But the way they go about it is very different.\n\nThe two editors look similar, but they work in opposite ways. The easiest way to see the\u2026",
+    "category": "Dev News",
+    "source": "https://www.webwash.net/drupal-canvas-vs-wordpress-gutenberg-block-editor-comparison/",
+    "tags": [
+      "webwash.net",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "803a8e72258daa2c31fe5a4904722edd",
+    "title": "Knicks Win NBA Championship: Cardi B, Fat Joe & More Musicians React",
+    "slug": "knicks-win-nba-championship-cardi-b-fat-joe--more-musicians-react",
+    "date": "2026-06-14T20:25:05Z",
+    "description": "Musicians are celebrating the New York Knicks' first NBA championship in 53 years.",
+    "category": "Frontend",
+    "source": "http://www.billboard.com/music/music-news/knicks-nba-championship-musicians-react-cardi-b-fat-joe-1236272663/",
+    "tags": [
+      "billboard.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "0aa42229228793de5fb90c343f79f343",
     "title": "Don't read this, Spurs fans: Young NBA teams with bright futures that never returned to the Finals",
     "slug": "dont-read-this-spurs-fans-young-nba-teams-with-bright-futures-that-never-returne",
