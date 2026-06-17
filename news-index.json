@@ -1,5 +1,44 @@
 [
   {
+    "id": "3de7c5c4e98509487f9cf0693f7d1b37",
+    "title": "Inside Cursor's journey to a $60 billion deal with Elon Musk\u2019s SpaceX",
+    "slug": "inside-cursors-journey-to-a-60-billion-deal-with-elon-musks-spacex",
+    "date": "2026-06-17T00:30:00Z",
+    "description": "SpaceX has acquired AI coding assistant Cursor for $60 billion in an all-stock deal, significantly bolstering its AI ambitions. This move positions SpaceX strongly in the AI coding tools segment, competing with giants like OpenAI and Anthropic. Cursor, cofounded by Indian-origin entrepreneur Aman Sanger, boasts substantial annual revenue and a growing user base.",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/tech/technology/inside-spacexs-60-billion-cursor-deal-and-what-it-means-for-the-ai-race/articleshow/131779716.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "5fc4a9f2e4a5a96d1bec4c91a8f820eb",
+    "title": "Show HN: FlatHawk \u2013 Like Google Image search but for finding a house or flat",
+    "slug": "show-hn-flathawk--like-google-image-search-but-for-finding-a-house-or-flat",
+    "date": "2026-06-16T15:34:04Z",
+    "description": "I made this to address a particular pain-point I had while looking for a new place: on a traditional real-estate site, you select your price range and your area and you get a swarm of thumbnails of apartment listings. Unfortunately these are often very unflat\u2026",
+    "category": "AI Tools",
+    "source": "https://flathawk.com/",
+    "tags": [
+      "flathawk.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "473a70c5c97987c8095edeb2c5bcbd1c",
+    "title": "Lord of the Rings Fans React to Anya Taylor-Joy's Casting in The Hunt for Gollum",
+    "slug": "lord-of-the-rings-fans-react-to-anya-taylorjoys-casting-in-the-hunt-for-gollum",
+    "date": "2026-06-16T15:27:08Z",
+    "description": "Lord of the Rings fans have given their reactions to the announcement that Anya Taylor-Joy has been cast as a new character not originated by J.R.R. Tolkien in the upcoming spinoff film The Hunt for Gollum.",
+    "category": "Frontend",
+    "source": "https://www.ign.com/articles/lord-of-the-rings-fans-react-to-anya-taylor-joys-casting-in-the-hunt-for-gollum",
+    "tags": [
+      "ign.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "833b0ce77568e3749bdc3603483f1a34",
     "title": "Can Elon Musk's xAI challenge Anthropic after SpaceX's $60 billion Cursor AI acquisition from Anysphere?",
     "slug": "can-elon-musks-xai-challenge-anthropic-after-spacexs-60-billion-cursor-ai-acquis",
