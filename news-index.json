@@ -1,5 +1,44 @@
 [
   {
+    "id": "833b0ce77568e3749bdc3603483f1a34",
+    "title": "Can Elon Musk's xAI challenge Anthropic after SpaceX's $60 billion Cursor AI acquisition from Anysphere?",
+    "slug": "can-elon-musks-xai-challenge-anthropic-after-spacexs-60-billion-cursor-ai-acquis",
+    "date": "2026-06-16T14:45:00Z",
+    "description": "SpaceX has agreed to acquire Cursor AI parent Anysphere for $60 billion in an all-stock deal, days after SpaceX's blockbuster Nasdaq debut. The acquisition hands xAI's Grok a foothold in AI coding tools, tapping Cursor's $2 billion annualized revenue and rapid enterprise adoption. Closing is expected in Q3 2026. Now the bigger question is whether Cursor AI can help xAI challenge Anthropic's lead in enterprise AI coding.",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/international/us/can-elon-musks-xai-challenge-anthropic-after-spacexs-60-billion-cursor-ai-acquisition-from-anysphere/articleshow/131774782.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "cb9f7b0c82888c9de237951f125d2869",
+    "title": "SpaceX to acquire the AI coding startup Cursor for $60 billion",
+    "slug": "spacex-to-acquire-the-ai-coding-startup-cursor-for-60-billion",
+    "date": "2026-06-16T13:06:23Z",
+    "description": "The deal will help to bolster the company's efforts to compete with rivals like Anthropic and OpenAI, which also offer popular coding tools.",
+    "category": "AI Tools",
+    "source": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
+    "tags": [
+      "cnbc.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "48848ea6f28795a740e094ded883e9db",
+    "title": "Show HN: Pok\u00e9mon Showdown Live Battle Assistant",
+    "slug": "show-hn-pok\u00e9mon-showdown-live-battle-assistant",
+    "date": "2026-06-16T04:07:17Z",
+    "description": "Article URL: https://github.com/AbhishekR3/ps-local\nComments URL: https://news.ycombinator.com/item?id=48550472\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/AbhishekR3/ps-local",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "b226802455570d1f64cc421d05d37c6e",
     "title": "BART\u2019s \u201cAir Traffic Controller\u201d Has a Unique View of the Importance of Transit",
     "slug": "barts-air-traffic-controller-has-a-unique-view-of-the-importance-of-transit",
