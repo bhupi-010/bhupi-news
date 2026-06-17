@@ -1,5 +1,18 @@
 [
   {
+    "id": "294f791e0c1b80daf6558a3ae3ad7dff",
+    "title": "Who Is Michael Truell: The 25-Year-Old Intern Turned Billionaire Behind SpaceX\u2019s $60B AI Deal",
+    "slug": "who-is-michael-truell-the-25yearold-intern-turned-billionaire-behind-spacexs-60b",
+    "date": "2026-06-17T07:20:24Z",
+    "description": "The MIT dropout built Cursor into one of the world\u2019s most popular AI coding tools before landing a blockbuster deal with SpaceX",
+    "category": "AI Tools",
+    "source": "https://www.republicworld.com/tech/who-is-michael-truell-the-25-year-old-intern-turned-billionaire-behind-spacexs-60b-ai-deal-2026-06-17-128618",
+    "tags": [
+      "republicworld.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "3de7c5c4e98509487f9cf0693f7d1b37",
     "title": "Inside Cursor's journey to a $60 billion deal with Elon Musk\u2019s SpaceX",
     "slug": "inside-cursors-journey-to-a-60-billion-deal-with-elon-musks-spacex",
@@ -9,6 +22,32 @@
     "source": "https://economictimes.indiatimes.com/tech/technology/inside-spacexs-60-billion-cursor-deal-and-what-it-means-for-the-ai-race/articleshow/131779716.cms",
     "tags": [
       "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "1fdffb063d4b4e0012c3ba1fb87a7b35",
+    "title": "Olivia Wilde\u2019s return",
+    "slug": "olivia-wildes-return",
+    "date": "2026-06-16T20:18:23Z",
+    "description": "Olivia Wilde\u2019s third feature film, The Invite, opens next week. She has started doing press rounds in New York, including a screening event last night, and earlier yesterday she was out in a cool suit ensemble\u2014she is the exact right height and degree of lanki\u2026",
+    "category": "Dev News",
+    "source": "https://www.laineygossip.com/will-audiences-show-up-for-olivia-wildes-adult-oriented-character-driven-the-invite-this-summer/",
+    "tags": [
+      "laineygossip.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6dcc9b8c40ca8b09e3287607c6af3c8f",
+    "title": "SpaceX will acquire coding tool Cursor to compete with Anthropic, OpenAI - Ars Technica",
+    "slug": "spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai--ars-tec",
+    "date": "2026-06-16T20:13:28Z",
+    "description": "SpaceX will acquire coding tool Cursor to compete with Anthropic, OpenAIArs Technica SpaceX locks in $60 billion Cursor deal to close gap with rivals in AI coding raceReuters SpaceX Cursor Deal Mints Four Multibillionaires in Their Mid-20sBloomberg.com Riding\u2026",
+    "category": "AI Tools",
+    "source": "https://slashdot.org/firehose.pl?op=view&amp;id=183917348",
+    "tags": [
+      "slashdot.org",
       "ai-tools"
     ]
   },
