@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "34096f48a5da8facb42a6565b4f843b6",
+    "title": "What\u2019s new in Gutenberg 23.4? (June 17, 2026)",
+    "slug": "whats-new-in-gutenberg-234-june-17-2026",
+    "date": "2026-06-17T10:15:30Z",
+    "description": "Gutenberg 23.4 brings media refinements, visual updates, developer-facing improvements and a whole lot more.",
+    "category": "Dev News",
+    "source": "https://make.wordpress.org/core/2026/06/17/whats-new-in-gutenberg-23-3-03-jun-2/",
+    "tags": [
+      "make.wordpress.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "d305ef9efbee41a3fae357fd8d22b814",
+    "title": "Quantum Computing Threat to Bitcoin: Real or Hype?",
+    "slug": "quantum-computing-threat-to-bitcoin-real-or-hype",
+    "date": "2026-06-17T10:06:58Z",
+    "description": "A quantum computer is not just another, faster computer. Instead of bits that can encode either 0 or 1, qubits can be in superposition, and...\nThe post Quantum Computing Threat to Bitcoin: Real or Hype? appeared first on Bitcoin Foundation.",
+    "category": "Dev News",
+    "source": "https://bitcoinfoundation.org/news/ai-news/quantum-computing-threat-to-bitcoin-real-or-hype/",
+    "tags": [
+      "bitcoinfoundation.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "bc4518e72e04b033561691005271f707",
+    "title": "New research enables a robot to chart a better course",
+    "slug": "new-research-enables-a-robot-to-chart-a-better-course",
+    "date": "2026-06-17T10:06:45Z",
+    "description": "By rapidly generating a smooth path plan that cuts travel time and avoids obstacles, the open-source \u201cMIGHTY\u201d system could streamline disaster recovery and parcel delivery.",
+    "category": "Dev News",
+    "source": "https://robohub.org/new-research-enables-a-robot-to-chart-a-better-course/",
+    "tags": [
+      "robohub.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "ecc0d33c2b0bb24af000e39a12422cf1",
     "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
     "slug": "malicious-jetbrains-plugins-steal-ai-api-keys-as-chrome-extensions-capture-chatb",
