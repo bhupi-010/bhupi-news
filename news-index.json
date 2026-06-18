@@ -1,5 +1,31 @@
 [
   {
+    "id": "412c0c266ce853df7f0a4c576305750f",
+    "title": "SpaceX Buys AI Coding Startup Cursor for $60 Billion in Stock",
+    "slug": "spacex-buys-ai-coding-startup-cursor-for-60-billion-in-stock",
+    "date": "2026-06-17T14:01:00Z",
+    "description": "xAI has struggled to compete with Anthropic and OpenAI on AI coding tools. Cursor is Musk's answer.",
+    "category": "AI Tools",
+    "source": "https://www.entrepreneur.com/business-news/spacexs-first-big-move-after-its-record-ipo-locking-down-a-60-billion-ai-coding-startup",
+    "tags": [
+      "entrepreneur.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "ecc0d33c2b0bb24af000e39a12422cf1",
+    "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+    "slug": "malicious-jetbrains-plugins-steal-ai-api-keys-as-chrome-extensions-capture-chatb",
+    "date": "2026-06-17T09:38:00Z",
+    "description": "Researchers found 15 malicious JetBrains plugins posing as AI coding tools that exfiltrate OpenAI, DeepSeek, and SiliconFlow API keys.",
+    "category": "AI Tools",
+    "source": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+    "tags": [
+      "thehackernews.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "294f791e0c1b80daf6558a3ae3ad7dff",
     "title": "Who Is Michael Truell: The 25-Year-Old Intern Turned Billionaire Behind SpaceX\u2019s $60B AI Deal",
     "slug": "who-is-michael-truell-the-25yearold-intern-turned-billionaire-behind-spacexs-60b",
@@ -10,6 +36,19 @@
     "tags": [
       "republicworld.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "cc5aadbcee6fafe4c6510b8cec77b96f",
+    "title": "Trump plans to send Iran deal to Congress amid lawmakers\u2019 confusion",
+    "slug": "trump-plans-to-send-iran-deal-to-congress-amid-lawmakers-confusion",
+    "date": "2026-06-17T03:55:43Z",
+    "description": "Congressional review of the Iran deal may reshape US foreign policy dynamics, impacting global markets and geopolitical stability.\nThe post Trump plans to send Iran deal to Congress amid lawmakers\u2019 confusion appeared first on Crypto Briefing.",
+    "category": "Dev News",
+    "source": "https://cryptobriefing.com/trump-iran-deal-congress-crypto-impact/",
+    "tags": [
+      "cryptobriefing.com",
+      "dev-news"
     ]
   },
   {
