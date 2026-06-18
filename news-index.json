@@ -1,5 +1,44 @@
 [
   {
+    "id": "b7fa02abe80c1a22826bf7c795bc1719",
+    "title": "Why weight-loss drugs don\u2019t work for some people",
+    "slug": "why-weightloss-drugs-dont-work-for-some-people",
+    "date": "2026-06-17T15:33:11Z",
+    "description": "Some research suggests between 10% and 30% of GLP-1 drug users may be considered non-responders.",
+    "category": "Dev News",
+    "source": "https://theconversation.com/why-weight-loss-drugs-dont-work-for-some-people-284513",
+    "tags": [
+      "theconversation.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "eb62f54320cbc0219fcbf37657cd105c",
+    "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+    "slug": "agentic-coding-deserves-more-than-a-chat-box-bolted-onto-vs-code",
+    "date": "2026-06-17T15:26:29Z",
+    "description": "Modular IDE designed for agentic coding. Contribute to evanklem/polypore development by creating an account on GitHub.",
+    "category": "Dev News",
+    "source": "https://github.com/evanklem/polypore",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "844ba4a6d7ada1ea0db243a58926753d",
+    "title": "Show HN: Stop your AI agents from approving their own work",
+    "slug": "show-hn-stop-your-ai-agents-from-approving-their-own-work",
+    "date": "2026-06-17T15:22:23Z",
+    "description": "Roles, segregation of duties, and tamper-evident audit for the AI agents you already run. Open-source, self-hosted. - sammysltd/makerchecker",
+    "category": "AI Tools",
+    "source": "https://github.com/sammysltd/makerchecker",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "412c0c266ce853df7f0a4c576305750f",
     "title": "SpaceX Buys AI Coding Startup Cursor for $60 Billion in Stock",
     "slug": "spacex-buys-ai-coding-startup-cursor-for-60-billion-in-stock",
