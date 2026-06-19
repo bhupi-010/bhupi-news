@@ -1,5 +1,44 @@
 [
   {
+    "id": "e19947c92996a8113eec749955b74b17",
+    "title": "Show HN: Cluely is easily detectable / detector source code",
+    "slug": "show-hn-cluely-is-easily-detectable--detector-source-code",
+    "date": "2026-06-18T10:39:28Z",
+    "description": "Open-source Rust app for macOS and Windows. Detects Cluely, Interview Coder ,LockedIn, Parakeet-style tools,  and other interview copilots. Don\u2019t cheat :)! - niravrohra/Honrly-app",
+    "category": "Dev News",
+    "source": "https://github.com/niravrohra/Honrly-app",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5b819f434be4625cd3a744f8d586739d",
+    "title": "UK Sanctions List Keeps HTX In Compliance Spotlight After OFSI Designation",
+    "slug": "uk-sanctions-list-keeps-htx-in-compliance-spotlight-after-ofsi-designation",
+    "date": "2026-06-18T10:38:30Z",
+    "description": "HTX remains in the compliance spotlight after UK OFSI sanctions records and TRM analysis flagged Huobi Global S.A. under Russia-related measures.",
+    "category": "AI Tools",
+    "source": "http://www.newsbtc.com/news/uk-sanctions-list-keeps-htx-in-compliance-spotlight-after-ofsi-designation/",
+    "tags": [
+      "newsbtc.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "8e4c083e96c9c7d925f8cbdaa303fe86",
+    "title": "VS Code 1.123 Adds Two-Hour Extension Update Delay to Limit Supply Chain Attacks",
+    "slug": "vs-code-1123-adds-twohour-extension-update-delay-to-limit-supply-chain-attacks",
+    "date": "2026-06-18T10:15:00Z",
+    "description": "VS Code 1.123 adds a two-hour delay before auto-updating extensions to newly published versions, creating a revocation window against supply chain attacks. The delay does not apply to trusted publishers like Microsoft, GitHub, and OpenAI. Similar cooldown mec\u2026",
+    "category": "AI Tools",
+    "source": "https://www.infoq.com/news/2026/06/vscode-extension-update-delay/",
+    "tags": [
+      "infoq.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "1bf492a1c3d6070e63a415a05c7886f1",
     "title": "What smart people are saying after Fed chair Kevin Warsh's debut",
     "slug": "what-smart-people-are-saying-after-fed-chair-kevin-warshs-debut",
