@@ -1,5 +1,44 @@
 [
   {
+    "id": "553a29fc08172b1797ddbf23946299d0",
+    "title": "Researchers Uncovered A Hidden Brain Mechanism Behind Pain.",
+    "slug": "researchers-uncovered-a-hidden-brain-mechanism-behind-pain",
+    "date": "2026-06-19T09:16:00Z",
+    "description": "Scientists may have uncovered how the brain turns pain on and off.",
+    "category": "AI Tools",
+    "source": "https://www.mindbodygreen.com/articles/researchers-found-hidden-brain-switch-that-controls-pain",
+    "tags": [
+      "mindbodygreen.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "6ce947214f25deef71cc598def7ed494",
+    "title": "What Five Localization Pull Requests Revealed About Open Source Governance: A Field Report on Open Source\u2019s i18n Infrastructure Gap",
+    "slug": "what-five-localization-pull-requests-revealed-about-open-source-governance-a-fie",
+    "date": "2026-06-19T08:19:21Z",
+    "description": "If you maintain an OSS (Open Source Software) project, audit your contribution workflow this week. Could a new contributor add a language without asking basic questions? If not, the next merge is not blocked by translators. It is constrained by the project\u2019s \u2026",
+    "category": "AI Tools",
+    "source": "https://devops.com/what-five-localization-pull-requests-revealed-about-open-source-governance-a-field-report-on-open-sources-i18n-infrastructure-gap/",
+    "tags": [
+      "devops.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "0053a222f0bce03d17bf13d715964852",
+    "title": "Show HN: Write SaaS apps where users control where their data is stored",
+    "slug": "show-hn-write-saas-apps-where-users-control-where-their-data-is-stored",
+    "date": "2026-06-19T07:37:14Z",
+    "description": "A BaaS (Backend-as-a-Service) solution for web applications, inspired by the flexible nature of triplestores. Featuring real-time collaboration and serverless authorization  - wolfoo2931/linkedrec...",
+    "category": "Dev News",
+    "source": "https://github.com/wolfoo2931/linkedrecords/",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "e48a40ee62bc8b38a7e6db583dc68581",
     "title": "Milan Men\u2019s Fashion Week Kicks Off: Executives Weigh In on Challenges,\u00a0Opportunities",
     "slug": "milan-mens-fashion-week-kicks-off-executives-weigh-in-on-challengesopportunities",
