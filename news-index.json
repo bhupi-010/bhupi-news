@@ -1,5 +1,18 @@
 [
   {
+    "id": "42ff1eeedc642acc73d501f3e08d018f",
+    "title": "Christian Ledermann: Stop Copying Your .pre-commit-config.yaml",
+    "slug": "christian-ledermann-stop-copying-your-precommitconfigyaml",
+    "date": "2026-06-21T10:53:36Z",
+    "description": "Tired of hunting through old repositories to copy-paste your .pre-commit-config.yaml? I\u2019ve built a CLI tool that automates the tedious setup of linters and formatters. Whether you\u2019re spinning up a new Python project or a React-based app, pc-init generates a p\u2026",
+    "category": "Frontend",
+    "source": "https://dev.to/ldrscke/stop-copying-your-pre-commit-configyaml-241d",
+    "tags": [
+      "dev.to",
+      "frontend"
+    ]
+  },
+  {
     "id": "f7c6805082f26f1897c502fe989c5fa5",
     "title": "Google DeepMind Loses Nobel Winner John Jumper to Anthropic",
     "slug": "google-deepmind-loses-nobel-winner-john-jumper-to-anthropic",
@@ -9,6 +22,32 @@
     "source": "https://www.outlookbusiness.com/corporate/google-deepmind-loses-nobel-winner-john-jumper-to-anthropic",
     "tags": [
       "outlookbusiness.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "770757804ecd92f74f1ed77d0741990f",
+    "title": "Inside One Startup\u2019s Race To Rescue NASA\u2019s Sinking Space Telescope",
+    "slug": "inside-one-startups-race-to-rescue-nasas-sinking-space-telescope",
+    "date": "2026-06-21T08:04:00Z",
+    "description": "Katalyst Space\u2019s LINK spacecraft will launch from an airplane in the Marshall Islands to boost NASA\u2019s Swift Observatory, which is dangerously close to burning up.",
+    "category": "AI Tools",
+    "source": "https://www.forbes.com/sites/jamiecartereurope/2026/06/21/inside-one-startups-race-to-rescue-nasas-sinking-space-telescope/",
+    "tags": [
+      "forbes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "c5068e9ff27febfa0b7a2ed69da7c608",
+    "title": "How Spain\u2019s bad habits were exposed in shocking result against Cape Verde \u2013 and why it\u2019s a warning sign",
+    "slug": "how-spains-bad-habits-were-exposed-in-shocking-result-against-cape-verde--and-wh",
+    "date": "2026-06-21T07:30:25Z",
+    "description": "As the time ticked away at the end of Cape Verde vs. Spain, nerves reached their natural crescendo. When the referee blew his whistle confirming the shocking 0-0 draw, the entire world seemed to celebrate the moment \u2013 everyone, that is, except for La Roja and\u2026",
+    "category": "AI Tools",
+    "source": "https://www.cnn.com/2026/06/21/sport/spain-world-cup-ambitions-cape-verde",
+    "tags": [
+      "cnn.com",
       "ai-tools"
     ]
   },
