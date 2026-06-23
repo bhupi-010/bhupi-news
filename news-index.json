@@ -1,5 +1,44 @@
 [
   {
+    "id": "2eac6d46e486c4c5523a509df2b35498",
+    "title": "Is Claude Code Making Programmers Lonelier? Anthropic Engineer Finds a Fix",
+    "slug": "is-claude-code-making-programmers-lonelier-anthropic-engineer-finds-a-fix",
+    "date": "2026-06-22T16:47:37Z",
+    "description": "Anthropic's Fiona Fung says AI coding tools are making software development more isolated, prompting efforts to restore collaboration among engineers",
+    "category": "AI Tools",
+    "source": "https://www.firstpost.com/tech/is-claude-code-making-programmers-lonelier-anthropic-engineer-finds-a-fix-14025127.html",
+    "tags": [
+      "firstpost.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "683f9b97d5a91007487cb6c34e1176e6",
+    "title": "Winners and losers from MotoGP's frantic Czech Grand Prix",
+    "slug": "winners-and-losers-from-motogps-frantic-czech-grand-prix",
+    "date": "2026-06-22T09:41:43Z",
+    "description": "As Marc Marquez drew conclusively into the title fight and Marco Bezzecchi lost the plot, here are the winners and losers from a roasting weekend in South Moravia",
+    "category": "Dev News",
+    "source": "https://www.motorsport.com/motogp/news/winners-losers-from-the-motogp-czech-grand-prix/10832373/",
+    "tags": [
+      "motorsport.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7c26df9c85f8a45584e6470c8dabe996",
+    "title": "Show HN: Saar Agentic Orchestration Platform",
+    "slug": "show-hn-saar-agentic-orchestration-platform",
+    "date": "2026-06-22T09:36:15Z",
+    "description": "Hi everyone i have been building saar nexus from a month or so now vibe coding the project and i want you to all please try it out and give me your valuable feedbacks for me to work and improve this further.\nSaar Nexus is a multi persona agentic platform with\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/Poi5eN/Nexus",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "cf0efbb13797e998d87e1ce1aefb2a8f",
     "title": "Show HN: Crespo \u2013 Tree-sitter AST blueprints instead of raw code for LLMs",
     "slug": "show-hn-crespo--treesitter-ast-blueprints-instead-of-raw-code-for-llms",
