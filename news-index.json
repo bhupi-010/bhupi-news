@@ -1,5 +1,44 @@
 [
   {
+    "id": "13401aa9a8e538ebd7a82479e61817bd",
+    "title": "iOS 27 upgrades Messages app with key new features for RCS",
+    "slug": "ios-27-upgrades-messages-app-with-key-new-features-for-rcs",
+    "date": "2026-06-22T19:49:33Z",
+    "description": "iOS 27 beta 2 arrived today for developer testing, and it includes some welcome new features for RCS conversations in the Messages app.",
+    "category": "Dev News",
+    "source": "https://9to5mac.com/2026/06/22/ios-27-upgrades-messages-app-with-key-new-features-for-rcs/",
+    "tags": [
+      "9to5mac.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "23ad2b1f6c42da3e37175fb45333fabf",
+    "title": "Michigan basketball players react to news of Dusty May departure",
+    "slug": "michigan-basketball-players-react-to-news-of-dusty-may-departure",
+    "date": "2026-06-22T19:39:07Z",
+    "description": "Yaxel Lendeborg and Morez Johnson Jr. react to news that Dusty May is leaving Michigan for the Dallas Mavericks.",
+    "category": "Frontend",
+    "source": "https://www.hawkcentral.com/story/sports/college/iowa/basketball-men/2026/06/22/michigan-basketball-coach-dusty-may-dallas-mavericks-yaxel-lendeborg-wolverines/90620335007/",
+    "tags": [
+      "hawkcentral.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "4cf8b68a4cdecc6355c03d90751b9fac",
+    "title": "Stars React to Clive Davis\u2019 Death at 94 With Emotional Tributes",
+    "slug": "stars-react-to-clive-davis-death-at-94-with-emotional-tributes",
+    "date": "2026-06-22T19:32:47Z",
+    "description": "Celebrities are speaking out following the news of the death of Clive Davis. The\u00a0New York Times\u00a0reported on Monday (June 22) [\u2026]\nThe post Stars React to Clive Davis\u2019 Death at 94 With Emotional Tributes appeared first on Just Jared - Celebrity News and Gossip \u2026",
+    "category": "Frontend",
+    "source": "https://www.justjared.com/2026/06/22/stars-react-to-clive-davis-death-at-94-with-emotional-tributes/",
+    "tags": [
+      "justjared.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "2eac6d46e486c4c5523a509df2b35498",
     "title": "Is Claude Code Making Programmers Lonelier? Anthropic Engineer Finds a Fix",
     "slug": "is-claude-code-making-programmers-lonelier-anthropic-engineer-finds-a-fix",
