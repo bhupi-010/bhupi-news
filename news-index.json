@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "f4d584724baf9fd92c482fb2c84caf53",
+    "title": "ACLU to monitor election certification as part of $50 million midterm effort",
+    "slug": "aclu-to-monitor-election-certification-as-part-of-50-million-midterm-effort",
+    "date": "2026-06-23T09:30:00Z",
+    "description": "Half of the group\u2019s spending will go toward ensuring the proper administration of elections in key states amid Trump\u2019s efforts to exert greater influence over the process.",
+    "category": "Dev News",
+    "source": "https://www.nbcnews.com/politics/2026-election/aclu-monitor-election-certification-part-50-million-midterm-effort-rcna349632",
+    "tags": [
+      "nbcnews.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "095ac79a2f0098dc524daa95e6f2b4cc",
+    "title": "AWS Launches Blocks, an Open-Source TypeScript Framework Designed for AI Agents to Build Backends",
+    "slug": "aws-launches-blocks-an-opensource-typescript-framework-designed-for-ai-agents-to",
+    "date": "2026-06-23T09:15:00Z",
+    "description": "AWS released Blocks in public preview, an open-source TypeScript framework where each Block bundles application code, local mocks, and AWS infrastructure. Designed for AI agents to write correct backends from the start, it runs locally without an AWS account \u2026",
+    "category": "AI Tools",
+    "source": "https://www.infoq.com/news/2026/06/aws-blocks-framework-preview/",
+    "tags": [
+      "infoq.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "600c78f8c29953d24b50fa2dbc7e9cdb",
+    "title": "Leaders Inspire Business Growth: How Visionary Guides Mobilize Teams and Accelerate Corporate Success",
+    "slug": "leaders-inspire-business-growth-how-visionary-guides-mobilize-teams-and-accelera",
+    "date": "2026-06-23T09:04:38Z",
+    "description": "In the modern corporate ecosystem, the difference between a stagnant company and a thriving enterprise often comes down to a single factor: leadership. It is no longer enough for executives to simply manage day to day operations or monitor balance sheets. To \u2026",
+    "category": "Dev News",
+    "source": "https://www.successful-blog.com/1/how-leaders-inspire-business-growth/",
+    "tags": [
+      "successful-blog.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "6c283df6586ea4bab20a6e89361c40b5",
     "title": "Woman Is Told To Leave Home After Refusing To Follow One Rule",
     "slug": "woman-is-told-to-leave-home-after-refusing-to-follow-one-rule",
