@@ -1,5 +1,44 @@
 [
   {
+    "id": "9d4c7117f1e917226c7f36291d83c1cb",
+    "title": "Show HN: Persist OS \u2013 Durable decisions for AI code",
+    "slug": "show-hn-persist-os--durable-decisions-for-ai-code",
+    "date": "2026-06-23T19:48:10Z",
+    "description": "In the past few months, I\u2019ve been building and shipping things extremely fast. Some of the MVPs that I built for my friends were completely vibe-coded and shipped within a day to show a demo.While it was a great experience working with AI tools, I wanted to m\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/Karthick-Ramachandran/persist-os",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "d471ebb5c5f280e4ba404064a5529d6c",
+    "title": "Has crypto become too transparent for its own good?",
+    "slug": "has-crypto-become-too-transparent-for-its-own-good",
+    "date": "2026-06-23T19:41:01Z",
+    "description": "Transparency has long been one of cryptocurrency's defining features. Every transaction is recorded on a public ledger, visible to anyone with an internet connection. Supporters argue that openness creates accountability and trust. Critics, however, say it ha\u2026",
+    "category": "Dev News",
+    "source": "https://www.digitaljournal.com/article/has-crypto-become-too-transparent-for-its-own-good/",
+    "tags": [
+      "digitaljournal.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "fdb8c64c4a64362de77e47ebb8fb5922",
+    "title": "Netflix\u2019s Gears of War Movie Plot Officially Confirmed, And Its One Never Seen in the Games",
+    "slug": "netflixs-gears-of-war-movie-plot-officially-confirmed-and-its-one-never-seen-in-",
+    "date": "2026-06-23T19:37:29Z",
+    "description": "Netflix is turning the mega-hit video game Gears of War into a movie of blockbuster proportions. Dune trilogy writer Jon Spaihts is writing the film, and stunt-action guru David Leitch (John Wick, Deadpool 2, Hobbs & Shaw) is directing. However, there have be\u2026",
+    "category": "AI Tools",
+    "source": "http://comicbook.com/movies/news/netflixs-gears-of-war-movie-plot-officially-confirmed-and-its-one-never-seen-in-the-games/",
+    "tags": [
+      "comicbook.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "ed02de85e0f1bb5357cfb4cc32fdfeec",
     "title": "Polymarket Lands Bundesliga Prediction Market Partnership In The US",
     "slug": "polymarket-lands-bundesliga-prediction-market-partnership-in-the-us",
