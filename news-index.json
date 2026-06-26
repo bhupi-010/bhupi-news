@@ -1,5 +1,18 @@
 [
   {
+    "id": "cf153aab2130d3283fe1bf1a07de1d14",
+    "title": "See the Pitch Deck Sazabi Used to Raise $8 Million From YC and J2",
+    "slug": "see-the-pitch-deck-sazabi-used-to-raise-8-million-from-yc-and-j2",
+    "date": "2026-06-25T10:01:01Z",
+    "description": "The startup says its monitoring platform is designed for engineering teams at startups that are using AI coding tools like Cursor and Claude Code.",
+    "category": "AI Tools",
+    "source": "https://www.businessinsider.com/pitch-deck-sazabi-ai-observability-8-million-y-combinator-2026-6",
+    "tags": [
+      "businessinsider.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "5e0e24fd34b8dc1b5da08a930bd0cfc5",
     "title": "BofA Securities prefers this midcap IT stock but stays cautious on its peers",
     "slug": "bofa-securities-prefers-this-midcap-it-stock-but-stays-cautious-on-its-peers",
@@ -10,6 +23,32 @@
     "tags": [
       "cnbctv18.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "19137778f74d186ffdc694c177756bf1",
+    "title": "I\u2019m Using My Camera to Lower My Stress in Life",
+    "slug": "im-using-my-camera-to-lower-my-stress-in-life",
+    "date": "2026-06-25T04:00:00Z",
+    "description": "At nearly 40, I'm glad to say that I've beaten obesity and worked really hard on being as fit and active as I possibly can be. A lot of my health problems are stress related from running this business. And so recently, I've been trying to change my approach t\u2026",
+    "category": "Dev News",
+    "source": "https://www.thephoblographer.com/2026/06/25/im-using-my-camera-to-lower-my-stress-in-life/",
+    "tags": [
+      "thephoblographer.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "1c7a26e13800ef2ac74b7ac606fe485c",
+    "title": "Show HN: TakoQA \u2013 A harness to get a swarm of agents to break your application",
+    "slug": "show-hn-takoqa--a-harness-to-get-a-swarm-of-agents-to-break-your-application",
+    "date": "2026-06-25T03:36:45Z",
+    "description": "Article URL: https://github.com/Tako-Research/TakoQA\nComments URL: https://news.ycombinator.com/item?id=48668549\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/Tako-Research/TakoQA",
+    "tags": [
+      "github.com",
+      "dev-news"
     ]
   },
   {
