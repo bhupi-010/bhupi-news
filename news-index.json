@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "659b23eb1d844ca0a84e9fadae92b904",
+    "title": "animamunch 1.108.82",
+    "slug": "animamunch-110882",
+    "date": "2026-06-26T08:15:21Z",
+    "description": "Token-efficient MCP server for source code exploration via tree-sitter AST parsing",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/animamunch/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f536726752760f69cdde309a673291d6",
+    "title": "Rethinking Figma in an AI world",
+    "slug": "rethinking-figma-in-an-ai-world",
+    "date": "2026-06-26T08:05:34Z",
+    "description": "As AI pulls product development closer to code, Config 2026 reveals Figma\u2019s high-stakes gamble to survive an era of agentic workflows in a\u2026",
+    "category": "AI Tools",
+    "source": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5",
+    "tags": [
+      "uxdesign.cc",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "cb2f86add2f496c5b0ab59f862ecea8c",
+    "title": "Your design system has a new author",
+    "slug": "your-design-system-has-a-new-author",
+    "date": "2026-06-26T08:03:41Z",
+    "description": "Authored change has outpaced the review model, and that breaks more than it looks.",
+    "category": "Dev News",
+    "source": "https://blog.murphytrueman.com/your-design-systems-newest-author-is-an-agent/",
+    "tags": [
+      "blog.murphytrueman.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "0348718f2e920a537ee371cff358e013",
     "title": "Don\u2019t Expect A \u201cRatatouille\u201d Sequel",
     "slug": "dont-expect-a-ratatouille-sequel",
