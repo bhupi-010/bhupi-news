@@ -1,5 +1,44 @@
 [
   {
+    "id": "32b8a50298938aebe26f10ae39a2dad5",
+    "title": "Toss Partners With Poseidon to Bring 30 Million Users Into the AI Data Economy",
+    "slug": "toss-partners-with-poseidon-to-bring-30-million-users-into-the-ai-data-economy",
+    "date": "2026-06-26T13:43:07Z",
+    "description": "Toss users can now contribute real-world data to train AI \u2014 and get paid for it \u2014 in a first-of-its-kind model launching in Korea ahead of global expansion. Poseidon, the data infrastructure built to source and license real-world data for AI, has announced a \u2026",
+    "category": "AI Tools",
+    "source": "https://zycrypto.com/toss-partners-with-poseidon-to-bring-30-million-users-into-the-ai-data-economy/",
+    "tags": [
+      "zycrypto.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a093f707de5c44f31278a44a1274ee1e",
+    "title": "5 Agentic Workflows to Automate Your Data Science Pipeline",
+    "slug": "5-agentic-workflows-to-automate-your-data-science-pipeline",
+    "date": "2026-06-26T13:34:35Z",
+    "description": "This article covers five concrete agentic workflows, one for each major stage of a data science pipeline. Each includes a real-world scenario, tested code patterns, and the design decisions that matter in production.",
+    "category": "Dev News",
+    "source": "https://www.kdnuggets.com/5-agentic-workflows-to-automate-your-data-science-pipeline",
+    "tags": [
+      "kdnuggets.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "ff64a6928094aee60806162910d23c62",
+    "title": "blacksands-bursar added to PyPI",
+    "slug": "blacksandsbursar-added-to-pypi",
+    "date": "2026-06-26T13:30:14Z",
+    "description": "Python SDK for the Blacksands Bursar API",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/blacksands-bursar/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "e3447b12be7f85f69b6d828b3a300847",
     "title": "Every developer I know uses AI coding tools daily, but almost none of them trust the code",
     "slug": "every-developer-i-know-uses-ai-coding-tools-daily-but-almost-none-of-them-trust-",
