@@ -1,5 +1,44 @@
 [
   {
+    "id": "38dd90462a3d812c0dbcb811306b0fd1",
+    "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
+    "slug": "deploy-a-productionready-nvidia-aiq-blueprint-on-oracle-cloud-infrastructure",
+    "date": "2026-06-26T19:00:57Z",
+    "description": "AI agents have changed a lot in the last two years. The first could only answer one question at a time. Then came multi-turn chat, where the model could keep...",
+    "category": "AI Tools",
+    "source": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
+    "tags": [
+      "developer.nvidia.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b3d550b868d60ca212981fae627ef947",
+    "title": "Trump\u2019s Religious Liberty Commission Eyes Changes To Conscience Rights For Healthcare Workers, US Military",
+    "slug": "trumps-religious-liberty-commission-eyes-changes-to-conscience-rights-for-health",
+    "date": "2026-06-26T18:39:44Z",
+    "description": "The Religious Liberty Commission presented the final draft of a report with recommendations on how to beef up religious liberty across the U.S. on Friday.",
+    "category": "Dev News",
+    "source": "https://dailycaller.com/2026/06/26/trump-religious-liberty-commission-report-dan-patrick-ben-carson-christians-conscience-healthcare-military/",
+    "tags": [
+      "dailycaller.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "e377030bb948a3d93a3782698b58d42a",
+    "title": "Ngizwe Mchunu Involved in Car Crash in Verulam, KwaZulu-Natal, Fans React",
+    "slug": "ngizwe-mchunu-involved-in-car-crash-in-verulam-kwazulunatal-fans-react",
+    "date": "2026-06-26T18:28:25Z",
+    "description": "Anti-immigrant activist Ngizwe Mchunu was involved in a car crash in Verulam, KwaZulu-Natal, after his vehicle collided with a Mazda, with no injuries reported.",
+    "category": "Frontend",
+    "source": "https://yen.com.gh/entertainment/celebrities/306925-ngizwe-mchunu-involved-car-crash-verulam-kwazulu-natal-fans-react/",
+    "tags": [
+      "yen.com.gh",
+      "frontend"
+    ]
+  },
+  {
     "id": "32b8a50298938aebe26f10ae39a2dad5",
     "title": "Toss Partners With Poseidon to Bring 30 Million Users Into the AI Data Economy",
     "slug": "toss-partners-with-poseidon-to-bring-30-million-users-into-the-ai-data-economy",
