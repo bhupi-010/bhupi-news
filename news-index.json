@@ -1,5 +1,44 @@
 [
   {
+    "id": "0b3f3210b785af3d005b15a29ef2d80f",
+    "title": "Show HN: role-model, a router for hybrid local/cloud AI",
+    "slug": "show-hn-rolemodel-a-router-for-hybrid-localcloud-ai",
+    "date": "2026-06-28T10:46:08Z",
+    "description": "Hey everyone, I'm launching role-model today: a routing protocol, a reference router runtime, and an extension for Pi that allows for better informed routing decisions.role-model is mostly deterministic, with fallback to a controller model, that routes reques\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/try-works/role-model",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "68b08ddfba80179c7fabf7a7c3560d4b",
+    "title": "The new kid in the waiting room",
+    "slug": "the-new-kid-in-the-waiting-room",
+    "date": "2026-06-28T10:30:00Z",
+    "description": "The receptionist asked me to verify my date of birth.I gave her Gracie\u2019s.For years, I have encouraged fellow caregivers to pay attention to their own health rather than waiting until a crisis forces the issue. This experience has only reinforced that convicti\u2026",
+    "category": "AI Tools",
+    "source": "https://www.theblaze.com/columns/opinion/the-new-kid-in-the-waiting-room",
+    "tags": [
+      "theblaze.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9f5258534751bf19eb45454fb6f7bcfb",
+    "title": "Wolves Fans React to a Crazy Week of Trades",
+    "slug": "wolves-fans-react-to-a-crazy-week-of-trades",
+    "date": "2026-06-28T10:19:32Z",
+    "description": "To say it has been a shocking week for the Minnesota Timberwolves would be selling it incredibly short. Heading into the NBA Draft, this offseason had all the makings of being a fairly quiet one for Minnesota. The Wolves were sitting on the 28th overall pick \u2026",
+    "category": "Frontend",
+    "source": "https://www.canishoopus.com/timberwolves-analysis/67512/wolves-fans-react-to-a-crazy-week-of-trades",
+    "tags": [
+      "canishoopus.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "176d1c03599354a5f41844f11ee05202",
     "title": "5 Must-Watch Korean Variety Shows That Are Seriously Addictive",
     "slug": "5-mustwatch-korean-variety-shows-that-are-seriously-addictive",
