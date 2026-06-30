@@ -1,5 +1,44 @@
 [
   {
+    "id": "17fa8ceb96ca7b9dde9e473d25f2c591",
+    "title": "DK64 Recomp Dev Criticizes Rival Project Using AI Vibe Coding Tools",
+    "slug": "dk64-recomp-dev-criticizes-rival-project-using-ai-vibe-coding-tools",
+    "date": "2026-06-29T16:00:55Z",
+    "description": "Some of the same people behind Donkey Kong 64's popular randomizer are working on the upcoming N64 recompile",
+    "category": "AI Tools",
+    "source": "https://kotaku.com/team-behind-unofficial-pc-port-of-donkey-kong-64-dunks-on-vibe-coding-rival-project-2000711416",
+    "tags": [
+      "kotaku.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "da00b00b108f1075f7dbaaaa5d260105",
+    "title": "ETH Zurich\u2019s bidirectional pixel could turn screens into cameras",
+    "slug": "eth-zurichs-bidirectional-pixel-could-turn-screens-into-cameras",
+    "date": "2026-06-29T09:41:55Z",
+    "description": "A pixel has always done one job. On a screen it emits light to build a picture. In a camera it absorbs light to record one. A team in Switzerland has now made one that does both. Researchers at ETH Zurich have built the first bidirectional pixel, in work publ\u2026",
+    "category": "Dev News",
+    "source": "https://thenextweb.com/news/eth-zurichs-bidirectional-pixel-could-turn-screens-into-cameras/",
+    "tags": [
+      "thenextweb.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2f24fcd8c7c027b5659b51f21dde3d58",
+    "title": "A Coworker Keeps Following Her to Areas of the Workplace He Has No Reason to Be \u2014 She\u2019s Scared but Worried She\u2019s Overreacting",
+    "slug": "a-coworker-keeps-following-her-to-areas-of-the-workplace-he-has-no-reason-to-be-",
+    "date": "2026-06-29T09:20:59Z",
+    "description": "Regardless of his intentions, she needs to make it stop, and that means going to the manager.\u00a0\nThe post A Coworker Keeps Following Her to Areas of the Workplace He Has No Reason to Be \u2014 She\u2019s Scared but Worried She\u2019s Overreacting appeared first on TwistedSift\u2026",
+    "category": "Frontend",
+    "source": "http://twistedsifter.com/2026/06/a-coworker-keeps-following-her-to-areas-of-the-workplace-he-has-no-reason-to-be-shes-scared-but-worried-shes-overreacting/",
+    "tags": [
+      "twistedsifter.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "03bd8e6643fe94302afa83be94fd8f00",
     "title": "Can hedgehogs hear and see?",
     "slug": "can-hedgehogs-hear-and-see",
