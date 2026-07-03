@@ -1,5 +1,44 @@
 [
   {
+    "id": "fba231a787e7e8af30576d30c7ab9e90",
+    "title": "aither-adk 2.13.5",
+    "slug": "aitheradk-2135",
+    "date": "2026-07-02T19:32:46Z",
+    "description": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: free local runtime with typed memory, knowledge graph, code graph and ReAct; paid tiers (portal.aitherium.com) unlock fleets, channels, reasoning and marketplace packs.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/aither-adk/2.13.5/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "eebde68d65eb650e58252b410d97bcf7",
+    "title": "aither-adk 2.13.4",
+    "slug": "aitheradk-2134",
+    "date": "2026-07-02T19:19:17Z",
+    "description": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: free local runtime with typed memory, knowledge graph, code graph and ReAct; paid tiers (portal.aitherium.com) unlock fleets, channels, reasoning and marketplace packs.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/aither-adk/2.13.4/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "2c6decd44ef718f10c6cba7de63606b2",
+    "title": "Experts react to gloomy June jobs report",
+    "slug": "experts-react-to-gloomy-june-jobs-report",
+    "date": "2026-07-02T19:05:01Z",
+    "description": "The U.S. Bureau of Labor Statistics released its monthly jobs report Today, with economic reporters and observers noting its lackluster results. \"A disappointing jobs report,\" wrote Navy Federal Credit Union chief economist Heather Long on X. According to the\u2026",
+    "category": "Frontend",
+    "source": "https://www.rawstory.com/economy-2677148252/",
+    "tags": [
+      "rawstory.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "6475155092115094ee972bfda187e98c",
     "title": "I tried Claude Sonnet 5 with prompts that ask it to finish the job, not just answer the question \u2014 and that's where the AI war is going",
     "slug": "i-tried-claude-sonnet-5-with-prompts-that-ask-it-to-finish-the-job-not-just-answ",
