@@ -1,5 +1,44 @@
 [
   {
+    "id": "bd625b3656d979ba147086413c9fbc78",
+    "title": "Show HN: Dart_agent_core \u2013 Run AI agents in Flutter apps with lifecycle hooks",
+    "slug": "show-hn-dartagentcore--run-ai-agents-in-flutter-apps-with-lifecycle-hooks",
+    "date": "2026-07-02T09:14:29Z",
+    "description": "Dart framework for stateful AI agents: tool use, skills, sub-agent delegation, planning, streaming, evals, and multi-provider LLM support. - memex-lab/dart_agent_core",
+    "category": "AI Tools",
+    "source": "https://github.com/memex-lab/dart_agent_core",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "68fcef92af4d75479b8faf3b240d8859",
+    "title": "Your Daily Horoscope by Madame Clairevoyant: July 2, 2026",
+    "slug": "your-daily-horoscope-by-madame-clairevoyant-july-2-2026",
+    "date": "2026-07-02T09:00:51Z",
+    "description": "Every weekday, the Cut\u2019s astrology expert, Claire Comstock-Gay (aka Madame Clairevoyant) reads the horoscope for every zodiac sign.",
+    "category": "AI Tools",
+    "source": "http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-july-2-2026.html",
+    "tags": [
+      "thecut.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "5f81daedc32e862be2feed2d0a7dcf50",
+    "title": "AlphaTheta announces new multi player, CDJ-1500X",
+    "slug": "alphatheta-announces-new-multi-player-cdj1500x",
+    "date": "2026-07-02T08:46:05Z",
+    "description": "The new unit\u00a0has many features from the flagship CDJ-3000X\u00a0unit in a more compact design intended for smaller booths and at-home setups",
+    "category": "Dev News",
+    "source": "https://djmag.com/tech/alphatheta-announces-new-multi-player-cdj-1500x",
+    "tags": [
+      "djmag.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "567f659000c2b585ef2e26fa5d13f9d0",
     "title": "'Won't do movie scenes that I wouldn't be comfortable watching with my parents': Yash's old video resurfaces amid Toxic Ladies & Ladies teaser backlash",
     "slug": "wont-do-movie-scenes-that-i-wouldnt-be-comfortable-watching-with-my-parents-yash",
