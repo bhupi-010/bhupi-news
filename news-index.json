@@ -1,5 +1,44 @@
 [
   {
+    "id": "6475155092115094ee972bfda187e98c",
+    "title": "I tried Claude Sonnet 5 with prompts that ask it to finish the job, not just answer the question \u2014 and that's where the AI war is going",
+    "slug": "i-tried-claude-sonnet-5-with-prompts-that-ask-it-to-finish-the-job-not-just-answ",
+    "date": "2026-07-02T14:12:05Z",
+    "description": "Claude Sonnet 5 shows that the next AI battle isn\u2019t about better chatbot answers \u2014 it\u2019s about which assistant can actually get work done.",
+    "category": "AI Tools",
+    "source": "https://www.techradar.com/ai-platforms-assistants/claude/i-tried-claude-sonnet-5-with-prompts-that-ask-it-to-finish-the-job-not-just-answer-the-question-and-thats-where-the-ai-war-is-going",
+    "tags": [
+      "techradar.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "f1c7c7aef73a98b026eb0b0efa1d4506",
+    "title": "Hike in bronze price stalls Ambedkar statue work at Indu Mill in Mumbai",
+    "slug": "hike-in-bronze-price-stalls-ambedkar-statue-work-at-indu-mill-in-mumbai",
+    "date": "2026-07-02T14:11:48Z",
+    "description": "Ambedkar Indu Mill memorial statue work stalled as bronze prices double, raising costs beyond contract terms; Maharashtra awaits MMRDA report on funding.",
+    "category": "AI Tools",
+    "source": "https://timesofindia.indiatimes.com/city/mumbai/hike-in-bronze-price-stalls-ambedkar-statue-work-at-indu-mill-in-mumbai/articleshow/132140522.cms",
+    "tags": [
+      "timesofindia.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "7e6a9b5b774539d1e7c514eb2ccb94c6",
+    "title": "Jodhpur airport\u2019s new terminal blends Rajputana heritage with modern design",
+    "slug": "jodhpur-airports-new-terminal-blends-rajputana-heritage-with-modern-design",
+    "date": "2026-07-02T14:09:55Z",
+    "description": "PM Modi to inaugurate Jodhpur Airport\u2019s new Rs400 crore terminal on July 4, blending Rajputana design with modern facilities for 2 million passengers yearly.",
+    "category": "AI Tools",
+    "source": "https://timesofindia.indiatimes.com/city/jaipur/jodhpur-airports-new-terminal-blends-rajputana-heritage-with-modern-design/articleshow/132140705.cms",
+    "tags": [
+      "timesofindia.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "bd625b3656d979ba147086413c9fbc78",
     "title": "Show HN: Dart_agent_core \u2013 Run AI agents in Flutter apps with lifecycle hooks",
     "slug": "show-hn-dartagentcore--run-ai-agents-in-flutter-apps-with-lifecycle-hooks",
