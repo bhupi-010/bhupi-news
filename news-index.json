@@ -1,5 +1,44 @@
 [
   {
+    "id": "57c2572d552be13e19a2880aa42893c0",
+    "title": "Terminal agents are replacing GUI coding tools, and I stopped paying for Cursor the moment I realized",
+    "slug": "terminal-agents-are-replacing-gui-coding-tools-and-i-stopped-paying-for-cursor-t",
+    "date": "2026-07-03T12:30:22Z",
+    "description": "The change took some getting used to but now it's my workflow, not the GUI's",
+    "category": "Dev News",
+    "source": "https://www.xda-developers.com/ditched-cursor-for-open-source-ai-editors-and-saved-240-a-year/",
+    "tags": [
+      "xda-developers.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "df202feb2d7f8cab18510769469bb329",
+    "title": "Taylor Swift and Travis Kelce donated $26 million to handpicked charities ahead of Madison Square Garden wedding",
+    "slug": "taylor-swift-and-travis-kelce-donated-26-million-to-handpicked-charities-ahead-o",
+    "date": "2026-07-03T02:42:52Z",
+    "description": "Taylor Swift and Travis Kelce give $26M to local and national charities, supporting food banks and education ahead of their NYC wedding.",
+    "category": "Dev News",
+    "source": "https://www.businessinsider.com/swift-and-kelce-surprise-charities-with-26m-donations-pre-wedding-2026-7#article",
+    "tags": [
+      "businessinsider.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "041385df50c83e96d8ab7cb751800f00",
+    "title": "Venus Williams and Husband React As Alexandra Eala Makes History at Wimbledon Against Serena Williams\u2019 Conqueror",
+    "slug": "venus-williams-and-husband-react-as-alexandra-eala-makes-history-at-wimbledon-ag",
+    "date": "2026-07-03T02:26:26Z",
+    "description": "Alexandra Eala has earned the support of Venus Williams and her husband, Andrea Preti, after achieving a historic milestone at the 2026 Wimbledon Championships. Days after the duo formed a blockbuster doubles partnership at the Bad Homburg Open, Williams put \u2026",
+    "category": "Frontend",
+    "source": "https://www.profootballnetwork.com/tennis/venus-williams-husband-react-alexandra-eala-makes-history-wimbledon-serena-williams/?utm_medium=rss&amp;utm_source=nordot",
+    "tags": [
+      "profootballnetwork.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "fba231a787e7e8af30576d30c7ab9e90",
     "title": "aither-adk 2.13.5",
     "slug": "aitheradk-2135",
