@@ -1,5 +1,44 @@
 [
   {
+    "id": "b9277272a72375c664f154a6d913ff9f",
+    "title": "Show HN: An assertion library for E2E testing and real user monitoring",
+    "slug": "show-hn-an-assertion-library-for-e2e-testing-and-real-user-monitoring",
+    "date": "2026-07-03T13:30:31Z",
+    "description": "Article URL: https://github.com/Faultsense/faultsense-agent\nComments URL: https://news.ycombinator.com/item?id=48774802\nPoints: 5\n# Comments: 1",
+    "category": "Dev News",
+    "source": "https://github.com/Faultsense/faultsense-agent",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "790c00d7aaa7ab6e4653ad4fd84c16a7",
+    "title": "Consumer confidence hit a historic low \u2014 but stock markets are rallying. Here's why the data may be wrong",
+    "slug": "consumer-confidence-hit-a-historic-low--but-stock-markets-are-rallying-heres-why",
+    "date": "2026-07-03T13:21:49Z",
+    "description": "Consumer sentiment is down, but spending is up. What gives?",
+    "category": "Dev News",
+    "source": "https://finance.yahoo.com/economy/articles/consumer-confidence-hit-historic-low-132149855.html",
+    "tags": [
+      "finance.yahoo.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "db62265d796cb80e85829bcff881dcfa",
+    "title": "LG UltraGear\u2122 OLED: Redefining Speed and Motion Clarity with Industry-First VESA ClearMR 21000 Certification | Al Bawaba",
+    "slug": "lg-ultragear-oled-redefining-speed-and-motion-clarity-with-industryfirst-vesa-cl",
+    "date": "2026-07-03T12:53:54Z",
+    "description": "LG Electronics (LG) is redefining the boundaries of display technology. To match the lightning-fast speeds of next-generation hardware, LG is setting a",
+    "category": "Dev News",
+    "source": "https://www.albawaba.com/business/pr/lg-ultragear%E2%84%A2-oled-redefining-speed-and-1632014",
+    "tags": [
+      "albawaba.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "57c2572d552be13e19a2880aa42893c0",
     "title": "Terminal agents are replacing GUI coding tools, and I stopped paying for Cursor the moment I realized",
     "slug": "terminal-agents-are-replacing-gui-coding-tools-and-i-stopped-paying-for-cursor-t",
