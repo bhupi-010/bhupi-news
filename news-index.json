@@ -1,5 +1,44 @@
 [
   {
+    "id": "0cf8c9c112200ddfc1d6ef2cb79ed3c8",
+    "title": "selects added to PyPI",
+    "slug": "selects-added-to-pypi",
+    "date": "2026-07-06T14:09:14Z",
+    "description": "Local AI-assisted travel photo and video culling",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/selects/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "22da35f0a12060585c9f3ec6f200a11a",
+    "title": "Heartbreaking last words of man who died after firework exploded on his head during 4th of July party",
+    "slug": "heartbreaking-last-words-of-man-who-died-after-firework-exploded-on-his-head-dur",
+    "date": "2026-07-06T14:07:25Z",
+    "description": "A South Carolina family is remembering the final words of a father who was killed in a devastating fireworks accident during a 4th of July celebration. Allen Ray McGrew died in July 2024 after a firework exploded while he was celebrating at a neighborhood blo\u2026",
+    "category": "Dev News",
+    "source": "https://freerepublic.com/focus/f-chat/4386866/posts",
+    "tags": [
+      "freerepublic.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "b329c8b54c51c3aeb32e9c5c9fe1a591",
+    "title": "Show HN: Orchestrate parallel Claude Code and Codex agents on a live map",
+    "slug": "show-hn-orchestrate-parallel-claude-code-and-codex-agents-on-a-live-map",
+    "date": "2026-07-06T14:06:25Z",
+    "description": "Hi HN!I never understood why everybody is fine with (and actually try to copy it multiple times) a single chat interface for ai agents, where you have one conversation on the whole screen. I frequently run many coding agents in parallel (Claude Code, Codex), \u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/Latand/live-log-viewer-next",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "5d7a6648b566ba7127741141f25024ee",
     "title": "Human Rights Drama \u2018Satluj\u2019 Starring Diljit Dosanjh Pulled From Streaming In India Days After Launch",
     "slug": "human-rights-drama-satluj-starring-diljit-dosanjh-pulled-from-streaming-in-india",
