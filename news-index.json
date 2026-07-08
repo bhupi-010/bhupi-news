@@ -1,5 +1,44 @@
 [
   {
+    "id": "786fb9dd429eaed064fdca7883d26865",
+    "title": "Meta Launches Muse Image & Muse Video To Rival Google's Nano Banana 2, Grok, & ChatGPT Images: All Details",
+    "slug": "meta-launches-muse-image--muse-video-to-rival-googles-nano-banana-2-grok--chatgp",
+    "date": "2026-07-08T03:48:04Z",
+    "description": "Meta has launched Muse Image and previewed Muse Video, its first media generation models from Meta Superintelligence Labs. Muse Image can create and edit images using multiple references, web search, coding tools and self-refinement. The model is available through Meta AI, while Muse Video will soon reach creators and users.",
+    "category": "AI Tools",
+    "source": "https://www.freepressjournal.in/tech/meta-launches-muse-image-muse-video-to-rival-googles-nano-banana-grok-chatgpt-images-all-details",
+    "tags": [
+      "freepressjournal.in",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "195b13b8bbbd458c2a49a6dee6082604",
+    "title": "Tall Trees Were Thought to Be More Vulnerable to Drought. But These Towering Plants in Southeast Asia Have Adapted to Move Water Efficiently",
+    "slug": "tall-trees-were-thought-to-be-more-vulnerable-to-drought-but-these-towering-plan",
+    "date": "2026-07-07T19:29:28Z",
+    "description": "A new study found that enormous dipterocarp trees have special adaptations to transport water up to their highest limbs, challenging the assumption that they would more easily succumb to dry conditions",
+    "category": "Dev News",
+    "source": "https://www.smithsonianmag.com/smart-news/tall-trees-were-thought-to-be-more-vulnerable-to-drought-but-these-towering-plants-in-southeast-asia-have-adapted-to-move-water-efficiently-180989075/",
+    "tags": [
+      "smithsonianmag.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "ba65d40c294f44efd6a1226ce2b591a2",
+    "title": "Show HN: Bike4Mind \u2013 open-core AI workbench; any model, agents, RAG, self-host",
+    "slug": "show-hn-bike4mind--opencore-ai-workbench-any-model-agents-rag-selfhost",
+    "date": "2026-07-07T19:17:34Z",
+    "description": "Hi HN, I am Erik Bethke, game dev that has been making online games for 30+ years (Starfleet Command, GoPets, FarmVille, Mafia Wars).For the last 3 years I have been building Bike4Mind and now I have to put my big boy pants on and 'go to market'. Ugh, it woul\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/Bike4Mind/bike4mind",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "c246fb58406c1928560145b55e7d8d31",
     "title": "unlimited-search added to PyPI",
     "slug": "unlimitedsearch-added-to-pypi",
