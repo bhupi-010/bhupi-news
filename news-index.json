@@ -1,5 +1,44 @@
 [
   {
+    "id": "c246fb58406c1928560145b55e7d8d31",
+    "title": "unlimited-search added to PyPI",
+    "slug": "unlimitedsearch-added-to-pypi",
+    "date": "2026-07-07T13:52:03Z",
+    "description": "MCP server for reading public web pages through resilient public routes.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/unlimited-search/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5695bdff8a6e812689f5f41810367df9",
+    "title": "What\u2019s Next for TeamCity \u2013 CI/CD by JetBrains",
+    "slug": "whats-next-for-teamcity--cicd-by-jetbrains",
+    "date": "2026-07-07T13:47:06Z",
+    "description": "What we\u2019re building toward As the share of code written by AI agents grows rapidly, two questions are central to effective AI adoption: How can teams turn AI usage into real productivity gains, and how can they maintain quality, security, and control while do\u2026",
+    "category": "AI Tools",
+    "source": "https://blog.jetbrains.com/teamcity/2026/07/whats-next-for-teamcity/",
+    "tags": [
+      "blog.jetbrains.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "688644d0a076f13259385fd80748363f",
+    "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
+    "slug": "building-a-scrolldriven-3d-gallery-using-a-blender-camera-path-with-threejs-and-",
+    "date": "2026-07-07T13:37:56Z",
+    "description": "Build a cinematic, scroll-driven 3D gallery using a camera path authored in Blender, rendered with Three.js, and animated with GSAP.",
+    "category": "Dev News",
+    "source": "https://tympanus.net/codrops/2026/07/07/building-a-scroll-driven-3d-gallery-using-a-blender-camera-path-with-three-js-and-gsap/",
+    "tags": [
+      "tympanus.net",
+      "dev-news"
+    ]
+  },
+  {
     "id": "1c53e47136420c6bdcf4a11236aa28f9",
     "title": "Galvion Cortex EVO Update",
     "slug": "galvion-cortex-evo-update",
