@@ -1,5 +1,44 @@
 [
   {
+    "id": "1c53e47136420c6bdcf4a11236aa28f9",
+    "title": "Galvion Cortex EVO Update",
+    "slug": "galvion-cortex-evo-update",
+    "date": "2026-07-07T08:30:00Z",
+    "description": "Fourteen years ago, Galvion was awarded its first helmet contract with NATO. Since then they have worked to improve the fit and function of their helmets as well as integrate communications and computing capabilities. The result is the second release in the C\u2026",
+    "category": "Dev News",
+    "source": "https://soldiersystems.net/2026/07/07/galvion-cortex-evo-update/",
+    "tags": [
+      "soldiersystems.net",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "cc1f97a4349e2907f8a8f7e306739ef3",
+    "title": "find-dup-defs added to PyPI",
+    "slug": "finddupdefs-added-to-pypi",
+    "date": "2026-07-07T08:26:10Z",
+    "description": "Find duplicate / near-duplicate top-level definitions across a codebase via clone clustering \u2014 Python, Rust, and TypeScript frontends, plus an opt-in structural helper-extraction pass.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/find-dup-defs/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "83f019c6646b43aeb7679b000a218111",
+    "title": "How to build a landing page using Claude Opus 4.5 + MUI \u2013 Use UXPin Merge!",
+    "slug": "how-to-build-a-landing-page-using-claude-opus-45--mui--use-uxpin-merge",
+    "date": "2026-07-07T08:18:48Z",
+    "description": "Turn Claude prompts into a production-aligned MUI landing page with UXPin Merge: map copy to components, build, and test across breakpoints.\nThe post How to build a landing page using Claude Opus 4.5 + MUI \u2013 Use UXPin Merge! appeared first on Studio by UXPin.",
+    "category": "Dev News",
+    "source": "https://www.uxpin.com/studio/?p=60314",
+    "tags": [
+      "uxpin.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "7c7d31bda8e1f108d2fd9328d6b692de",
     "title": "Why AI Coding Tools Need a Verification Layer",
     "slug": "why-ai-coding-tools-need-a-verification-layer",
