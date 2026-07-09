@@ -1,5 +1,18 @@
 [
   {
+    "id": "9eb35431dffdbeb677c715f4db3d85da",
+    "title": "Lovable and Replit can outlast the AI labs",
+    "slug": "lovable-and-replit-can-outlast-the-ai-labs",
+    "date": "2026-07-08T16:52:51Z",
+    "description": "At RAISE Summit, Mark Cuban argued vibe-coding tools like Lovable and Replit can survive Anthropic and OpenAI by owning the workflow, not just the code.",
+    "category": "AI Tools",
+    "source": "https://thenextweb.com/news/mark-cuban-vibe-coding-lovable-replit-ai-labs-moat",
+    "tags": [
+      "thenextweb.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "16a4efa8a6aea8e8c65ca1ac7d31450b",
     "title": "Midjourney founder David Holz says AI coding tools are changing how programmers work: \u2018My friends are all feeling ...'",
     "slug": "midjourney-founder-david-holz-says-ai-coding-tools-are-changing-how-programmers-",
@@ -10,6 +23,32 @@
     "tags": [
       "timesofindia.indiatimes.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "11bc0e0be6cf63ec89333053c89eaf5c",
+    "title": "KPop Demon Hunters HUNTR/X Mira in The Daily LITG, 8th July 2026",
+    "slug": "kpop-demon-hunters-huntrx-mira-in-the-daily-litg-8th-july-2026",
+    "date": "2026-07-08T09:19:10Z",
+    "description": "KPop Demon Hunters HUNTR/X Mira was the most-read story on Bleeding Cool yesterday, again, and you can find even more Kpop Demon Hunters scoops and breaking news with this handy dandy Bleeding Cool tag. And as all the comics publisher solicitations fall out, \u2026",
+    "category": "AI Tools",
+    "source": "https://bleedingcool.com/collectibles/kpop-demon-hunters-huntr-x-mira-in-the-daily-litg-8th-july-2026/",
+    "tags": [
+      "bleedingcool.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "2e58d8affe9cdaba81732d93f38ff1f2",
+    "title": "America 250 attendees rally behind Trump's July 4 speech: 'What we needed to hear'",
+    "slug": "america-250-attendees-rally-behind-trumps-july-4-speech-what-we-needed-to-hear",
+    "date": "2026-07-08T09:00:25Z",
+    "description": "Attendees at the Great American State Fair react to Trump's Fourth of July National Mall speech, calling it a celebration of freedom over politics.",
+    "category": "Frontend",
+    "source": "https://www.foxnews.com/politics/watch-america-250-attendees-defend-trumps-july-4-speech-wasnt-too-political",
+    "tags": [
+      "foxnews.com",
+      "frontend"
     ]
   },
   {
