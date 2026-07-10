@@ -1,5 +1,18 @@
 [
   {
+    "id": "ff7a81c4ed0fab8f1702ad3aa4b65af5",
+    "title": "Mark Zuckerberg makes X comeback to announce Muse Spark 1.1, kicks off AI price war with OpenAI and Anthropic",
+    "slug": "mark-zuckerberg-makes-x-comeback-to-announce-muse-spark-11-kicks-off-ai-price-wa",
+    "date": "2026-07-10T04:05:43Z",
+    "description": "Meta is taking on Anthropic and OpenAI with its first AI coding tool, Muse Spark 1.1. The release is so important that Meta CEO Mark Zuckerberg broke his 3-year silence on X to announce Muse Spark 1.1. In doing so, Zuckerberg has also started a price war for AI coding tools.",
+    "category": "AI Tools",
+    "source": "https://www.indiatoday.in/technology/news/story/mark-zuckerberg-makes-x-comeback-to-announce-muse-spark-11-kicks-off-ai-price-war-with-openai-and-anthropic-2944595-2026-07-10",
+    "tags": [
+      "indiatoday.in",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "d040c49b153011ab4a2651125d51ab59",
     "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
     "slug": "openai-unveils-longawaited-super-app-as-rivalry-with-anthropic-intensifies",
@@ -22,6 +35,32 @@
     "source": "https://crypto.news/openai-launches-gpt-5-6-sol-with-four-agent-reasoning/",
     "tags": [
       "crypto.news",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "424d900f29070eb16be76bbe6eb8fb45",
+    "title": "Which teams are eliminated from World Cup? Updated bracket ahead of quarterfinals",
+    "slug": "which-teams-are-eliminated-from-world-cup-updated-bracket-ahead-of-quarterfinals",
+    "date": "2026-07-09T19:26:01Z",
+    "description": "The World Cup is entering the quarterfinal round. Here are the teams that have been eliminated and a look at the updated bracket.",
+    "category": "Dev News",
+    "source": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/09/world-cup-eliminated-teams-quarterfinals-bracket-schedule/90865533007/",
+    "tags": [
+      "usatoday.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "584e9f95e8fb6b336e6d165f3e4fd53c",
+    "title": "Ranking #1 on Google Now Delivers 58% Fewer Clicks Than It Used To, Gravitate Analysis Finds",
+    "slug": "ranking-1-on-google-now-delivers-58-fewer-clicks-than-it-used-to-gravitate-analy",
+    "date": "2026-07-09T19:20:00Z",
+    "description": "AI Overviews reduce position-1 CTR by 58% - Ahrefs, December 2025 data. VANCOUVER, Wash., July 9, 2026 /PRNewswire/ -- Gravitate, a digital marketing agency based out of Vancouver for the past 26 years, released an analysis demonstrating that high organic sea\u2026",
+    "category": "AI Tools",
+    "source": "https://www.prnewswire.com/news-releases/ranking-1-on-google-now-delivers-58-fewer-clicks-than-it-used-to-gravitate-analysis-finds-302822237.html",
+    "tags": [
+      "prnewswire.com",
       "ai-tools"
     ]
   },
