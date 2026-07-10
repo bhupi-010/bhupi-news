@@ -1,5 +1,18 @@
 [
   {
+    "id": "d040c49b153011ab4a2651125d51ab59",
+    "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
+    "slug": "openai-unveils-longawaited-super-app-as-rivalry-with-anthropic-intensifies",
+    "date": "2026-07-09T23:08:24Z",
+    "description": "OpenAI has launched ChatGPT Work, a new AI agent combining its chatbot and coding tool, to help white-collar workers access coding tools without the high costs.",
+    "category": "AI Tools",
+    "source": "https://www.devdiscourse.com/article/technology/3948135-openai-unveils-long-awaited-super-appas-rivalry-with-anthropic-intensifies",
+    "tags": [
+      "devdiscourse.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "569719cab2cb0a8388091c80697da6f6",
     "title": "OpenAI launches GPT-5.6 Sol with four-agent reasoning system",
     "slug": "openai-launches-gpt56-sol-with-fouragent-reasoning-system",
@@ -10,6 +23,32 @@
     "tags": [
       "crypto.news",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "f67d4df7b829f72f51327bb06147cff4",
+    "title": "BP CEO says oil giant needs to make \u2018fewer and better\u2019 choices",
+    "slug": "bp-ceo-says-oil-giant-needs-to-make-fewer-and-better-choices",
+    "date": "2026-07-09T14:33:40Z",
+    "description": "BP PLC\u2019s new chief executive acknowledged that the oil giant still has work to do to streamline its decision-making processes. Read here now",
+    "category": "Dev News",
+    "source": "https://financialpost.com/commodities/energy/oil-gas/bp-ceo-oil-giant-make-better-choices",
+    "tags": [
+      "financialpost.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "533423454bd0e90376e348be04774145",
+    "title": "Say Goodbye To Benedict Cumberbatch's Sherlock As Guy Ritchie's New Adaptation Takes Over",
+    "slug": "say-goodbye-to-benedict-cumberbatchs-sherlock-as-guy-ritchies-new-adaptation-tak",
+    "date": "2026-07-09T14:30:21Z",
+    "description": "Benedict Cumberbatch's Sherlock may have been the 2010s' definitive Sherlock Holmes TV adaptation, but each generation deserves a new version.",
+    "category": "Dev News",
+    "source": "https://screenrant.com/young-sherlock-guy-ritchie-replaces-benedict-cumberbatch-sherlock/",
+    "tags": [
+      "screenrant.com",
+      "dev-news"
     ]
   },
   {
