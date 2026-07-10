@@ -1,5 +1,44 @@
 [
   {
+    "id": "fdfa634c92a6e26b341c583b25474b4c",
+    "title": "DC Studios Officially Teases The Best Future For The DCU\u2019s Superman",
+    "slug": "dc-studios-officially-teases-the-best-future-for-the-dcus-superman",
+    "date": "2026-07-09T03:35:38Z",
+    "description": "DC Studios' latest Superman project is teasing a very exciting future for the DCU's Superman with an epic proof-of-concept adventure for Kal-El.",
+    "category": "Dev News",
+    "source": "https://screenrant.com/dc-studios-teases-best-dcu-superman-future-superboy/",
+    "tags": [
+      "screenrant.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "cc8912a57e25fb254319615a3d027528",
+    "title": "Glitter Pills, Gold Pills, and the Weird Viral Obsession With Glitter Poop",
+    "slug": "glitter-pills-gold-pills-and-the-weird-viral-obsession-with-glitter-poop",
+    "date": "2026-07-09T03:35:21Z",
+    "description": "Glitter Pills went viral for the bizarre promise of glitter poop. Learn what glitter poop pills are and what to know before eating anything glittery.",
+    "category": "Dev News",
+    "source": "https://incrediblethings.com/food/this-gold-pill-makes-you-poop-glitter/",
+    "tags": [
+      "incrediblethings.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f997175de76790e9e9ddb563818e2af5",
+    "title": "What's slowing down the AI buildout",
+    "slug": "whats-slowing-down-the-ai-buildout",
+    "date": "2026-07-09T03:26:02Z",
+    "description": "America has the electricity to power its data centers; the problem is getting it where it's needed.",
+    "category": "AI Tools",
+    "source": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+    "tags": [
+      "worksinprogress.news",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "e32b5596f80964ee38b7005f5de8c561",
     "title": "caid-blueprint-core added to PyPI",
     "slug": "caidblueprintcore-added-to-pypi",
