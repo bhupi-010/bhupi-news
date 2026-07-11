@@ -1,5 +1,44 @@
 [
   {
+    "id": "a133fa847bf1c9affdbef247cbc605ef",
+    "title": "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques",
+    "slug": "the-sleepers-creating-an-atmospheric-webgl-experience-with-lightweight-technique",
+    "date": "2026-07-10T13:31:58Z",
+    "description": "From swirling transitions and animated fog to mesh outlines and infinite worlds, here's a breakdown of the techniques behind it.",
+    "category": "Dev News",
+    "source": "https://tympanus.net/codrops/2026/07/10/the-sleepers-creating-an-atmospheric-webgl-experience-with-lightweight-techniques/",
+    "tags": [
+      "tympanus.net",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5eb097fab8fa9d758dd6134afc9e2d37",
+    "title": "FIFA's ExpressVPN World Cup sponsorship sparks fury from Spain's La Liga and French broadcasters",
+    "slug": "fifas-expressvpn-world-cup-sponsorship-sparks-fury-from-spains-la-liga-and-frenc",
+    "date": "2026-07-10T13:27:26Z",
+    "description": "La Liga and top French broadcasters are furious with FIFA for naming ExpressVPN an official 2026 World Cup sponsor. The rightsholders are lashing out at the VPN provider's refusal to implement anti-piracy site blocks.",
+    "category": "AI Tools",
+    "source": "https://www.techradar.com/vpn/vpn-privacy-security/fifas-expressvpn-world-cup-sponsorship-sparks-fury-from-spains-la-liga-and-french-broadcasters",
+    "tags": [
+      "techradar.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "c7122af7d08c71bb02e3d06e98aa1c38",
+    "title": "The Man ICE Killed in Texas Wasn\u2019t Even Person They Were Looking For",
+    "slug": "the-man-ice-killed-in-texas-wasnt-even-person-they-were-looking-for",
+    "date": "2026-07-10T13:25:32Z",
+    "description": "The federal immigration agents who shot and killed Lorenzo Salgado Araujo, a Mexican father of three in Texas, weren\u2019t even looking for him.When ICE agents conducted a deadly traffic stop in Houston, Texas, on Tuesday, they were looking for two people from Gu\u2026",
+    "category": "Dev News",
+    "source": "https://newrepublic.com/post/212928/man-ice-killed-texas-not-who-looking-for",
+    "tags": [
+      "newrepublic.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "55dedaa21936d97398d5b9a30af1a734",
     "title": "OpenAI is killing its ChatGPT Atlas browser less than a year after launch",
     "slug": "openai-is-killing-its-chatgpt-atlas-browser-less-than-a-year-after-launch",
