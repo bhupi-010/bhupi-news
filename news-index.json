@@ -1,5 +1,44 @@
 [
   {
+    "id": "94985a0e77e418a589388d90181ca106",
+    "title": "China's coding tools gain as Claude Code is flagged",
+    "slug": "chinas-coding-tools-gain-as-claude-code-is-flagged",
+    "date": "2026-07-12T13:48:15Z",
+    "description": "Beijing flagged Claude Code as a security back door. ByteDance's Trae, Alibaba's Qoder, Tencent's CodeBuddy, and Zhipu's ZCode stand to gain.",
+    "category": "AI Tools",
+    "source": "https://thenextweb.com/news/china-ai-coding-tools-claude-code-backdoor",
+    "tags": [
+      "thenextweb.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a9c47817b924ef3a9994a478f688f573",
+    "title": "Why do hunters use green lights?",
+    "slug": "why-do-hunters-use-green-lights",
+    "date": "2026-07-12T03:17:03Z",
+    "description": "Why Do Hunters Use Green Lights? Why do hunters use green lights? Hunters employ green lights primarily because deer and other game animals are less sensitive to green light than white light, allowing hunters to illuminate their targets without spooking them.\u2026",
+    "category": "Dev News",
+    "source": "https://www.lifesciencesworld.com/why-do-hunters-use-green-lights/",
+    "tags": [
+      "lifesciencesworld.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "0b3847ddd3ff8282294799b87e2aad6a",
+    "title": "Why gold never tarnishes has finally been explained",
+    "slug": "why-gold-never-tarnishes-has-finally-been-explained",
+    "date": "2026-07-12T02:36:05Z",
+    "description": "Gold may have a secret self-defense system that helps it resist tarnishing. Researchers discovered that atoms on gold surfaces reorganize themselves into patterns that block oxygen from reacting with the metal, suppressing oxidation by up to a trillion-fold. \u2026",
+    "category": "Frontend",
+    "source": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm",
+    "tags": [
+      "sciencedaily.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "6ab02b159afc18513c11b762e0b7e018",
     "title": "openaria added to PyPI",
     "slug": "openaria-added-to-pypi",
