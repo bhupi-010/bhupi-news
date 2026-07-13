@@ -1,5 +1,44 @@
 [
   {
+    "id": "905e1c39b04618a1660a2a5b77d4b4a3",
+    "title": "STEPHEN DAISLEY: It turns out Reform and the SNP aren't all that different. Scrutiny is met with contempt, denial... or dishonesty",
+    "slug": "stephen-daisley-it-turns-out-reform-and-the-snp-arent-all-that-different-scrutin",
+    "date": "2026-07-12T19:21:34Z",
+    "description": "The SNP spends so much time on its high horse it's a wonder they don't all get vertigo.",
+    "category": "AI Tools",
+    "source": "https://www.dailymail.com/news/article-15972057/STEPHEN-DAISLEY-turns-Reform-SNP-arent-different-Scrutiny-met-contempt-denial-dishonesty.html",
+    "tags": [
+      "dailymail.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "560f557bbf5e872537bc117cfe62c61a",
+    "title": "showtime-review added to PyPI",
+    "slug": "showtimereview-added-to-pypi",
+    "date": "2026-07-12T19:07:11Z",
+    "description": "Browser review loop for agent-authored plans",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/showtime-review/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "617d49c9e64ceb7e84eda7d6b67b66e9",
+    "title": "tracelabel added to PyPI",
+    "slug": "tracelabel-added-to-pypi",
+    "date": "2026-07-12T19:05:25Z",
+    "description": "Local-first, zero-config labeling \u2014 keyboard-fast, no accounts, no server.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/tracelabel/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "0f875402de1b0578e0fcffeeace2f760",
     "title": "ESPN's AI vision overlay for the World Series of Poker predicts when payers are bluffing (AI roundup)",
     "slug": "espns-ai-vision-overlay-for-the-world-series-of-poker-predicts-when-payers-are-b",
