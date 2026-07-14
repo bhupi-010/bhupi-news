@@ -1,5 +1,44 @@
 [
   {
+    "id": "7e14baf6d2ea95b7ccdaec89426bf525",
+    "title": "OpenCode: AI Agent That Reads and Edits Code in Terminal",
+    "slug": "opencode-ai-agent-that-reads-and-edits-code-in-terminal",
+    "date": "2026-07-13T07:56:10Z",
+    "description": "The post OpenCode: AI Agent That Reads and Edits Code in Terminal first appeared on Tecmint: Linux Howtos, Tutorials & Guides .OpenCode brings an AI coding agent right into your terminal. Once you see it understand an entire project instead of\nThe post OpenCo\u2026",
+    "category": "AI Tools",
+    "source": "https://www.tecmint.com/opencode-ai-coding-agent-linux/",
+    "tags": [
+      "tecmint.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "c7c270614a82a153b1e34c368f5262b3",
+    "title": "The hard things about design",
+    "slug": "the-hard-things-about-design",
+    "date": "2026-07-13T07:46:20Z",
+    "description": "Design is legible to everyone, non-linear by nature, and powered by obsession. An honest accounting of what the craft costs, and why it costs more than the crafts sitting right next to it.",
+    "category": "Dev News",
+    "source": "https://hvpandya.com/hard-things-about-design",
+    "tags": [
+      "hvpandya.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5822b89bcd805776c2367c94e5e9669f",
+    "title": "Show HN: TradingSpy-Loop based research and backtesting trading Agent",
+    "slug": "show-hn-tradingspyloop-based-research-and-backtesting-trading-agent",
+    "date": "2026-07-13T07:20:57Z",
+    "description": "Hi all, I build this agent for beginners to use it locally in this laptop\n\nComments URL: https://news.ycombinator.com/item?id=48889045\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/mrhustlex/TradingSpy-TradingAgentService/tree/main",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "3268f0866ea84b2facf57d98174bb464",
     "title": "Strait of Hormuz closure, US inflation data set to impact markets this week",
     "slug": "strait-of-hormuz-closure-us-inflation-data-set-to-impact-markets-this-week",
