@@ -1,5 +1,44 @@
 [
   {
+    "id": "27439e7022b8cf7feca7601df9d45b7d",
+    "title": "How VAR turned this World Cup into a review booth",
+    "slug": "how-var-turned-this-world-cup-into-a-review-booth",
+    "date": "2026-07-14T13:47:14Z",
+    "description": "Debate over whether soccer's instant replay technology is being used as intended has often dominated the conversation around this World Cup.",
+    "category": "Dev News",
+    "source": "https://sports.yahoo.com/soccer/article/how-var-turned-this-world-cup-into-a-review-booth-134714054.html",
+    "tags": [
+      "sports.yahoo.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2c208253400336af59cdbcd60eea2a03",
+    "title": "HTMX and Web Components Instead of React",
+    "slug": "htmx-and-web-components-instead-of-react",
+    "date": "2026-07-14T13:45:58Z",
+    "description": "So instead of asking \u201cwhy not React?\u201d we asked: Which of our actual problems would React solve? We went through the list. There were none.\r\n\n\n\nAlso, this is good advice when you\u2019re about to make a web component:\n\n\n Every component starts with the question \u201cdo\u2026",
+    "category": "Frontend",
+    "source": "https://kore-nordmann.de/blog/htmx-and-web-components-instead-of-react.html",
+    "tags": [
+      "kore-nordmann.de",
+      "frontend"
+    ]
+  },
+  {
+    "id": "7ce44584901b99529ae60b9bcb9c2adb",
+    "title": "LeBron James\u2019s Free Agency Saga Appears To Be Nearing An End With Two Teams Left In Contention",
+    "slug": "lebron-jamess-free-agency-saga-appears-to-be-nearing-an-end-with-two-teams-left-",
+    "date": "2026-07-14T13:39:51Z",
+    "description": "The 2026-27 NBA season is set to be, in all likelihood, the final year of\u00a0LeBron James\u2019\u00a0legendary career, and yet with just months until the first game, we still don\u2019t know who the superstar will be playing for. James informed the Los Angeles Lakers of his in\u2026",
+    "category": "Dev News",
+    "source": "https://brobible.com/sports/article/lebron-james-free-agency-saga-nearing-end-warriors-cavaliers/",
+    "tags": [
+      "brobible.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "ecc317ad9fc32c260a1beab1f36436e6",
     "title": "After Adam Driver\u2019s Magneto, Marvel Fans React to Professor X Casting Rumor: \u201cThis Is Elite casting\u201d",
     "slug": "after-adam-drivers-magneto-marvel-fans-react-to-professor-x-casting-rumor-this-i",
