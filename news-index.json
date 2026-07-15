@@ -1,5 +1,44 @@
 [
   {
+    "id": "ecc317ad9fc32c260a1beab1f36436e6",
+    "title": "After Adam Driver\u2019s Magneto, Marvel Fans React to Professor X Casting Rumor: \u201cThis Is Elite casting\u201d",
+    "slug": "after-adam-drivers-magneto-marvel-fans-react-to-professor-x-casting-rumor-this-i",
+    "date": "2026-07-14T08:00:05Z",
+    "description": "Image Courtesy of\u00a0Marvel Comics\n\nMarvel Studios has spent the summer keeping the spotlight fixed on Spider-Man: Brand New Day and the two-part finale of the Multiversal Saga, Avengers: Doomsday and Avengers: Secret Wars. However, behind the scenes, the studio\u2026",
+    "category": "Frontend",
+    "source": "http://comicbook.com/movies/news/after-adam-drivers-magneto-marvel-fans-react-to-professor-x-casting-rumor-this-is-elite-casting/",
+    "tags": [
+      "comicbook.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "ebdb60e442c34fbb7efd11aa826e5360",
+    "title": "SwiftData Enhances Queries, Adds Support for External Types and Data Store Observation",
+    "slug": "swiftdata-enhances-queries-adds-support-for-external-types-and-data-store-observ",
+    "date": "2026-07-14T08:00:00Z",
+    "description": "The 2027 release of SwiftData introduces support for persisting custom and third-party types via Codable, along with the ability to organize data into SwiftUI list sections. It also adds new capabilities for observing data store changes through ResultsObserve\u2026",
+    "category": "Dev News",
+    "source": "https://www.infoq.com/news/2026/07/swiftdata-27-whats-new/",
+    "tags": [
+      "infoq.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "1591394faff37846d3e76edf9f66ccc3",
+    "title": "What happens if you yell at a bird?",
+    "slug": "what-happens-if-you-yell-at-a-bird",
+    "date": "2026-07-14T07:40:50Z",
+    "description": "What Happens If You Yell At A Bird? Understanding Avian Reactions to Human Vocalizations The immediate effect of yelling at a bird is usually flight or freezing in fear, but the long-term implications can include learned avoidance of humans and disruption of \u2026",
+    "category": "Frontend",
+    "source": "https://www.lifesciencesworld.com/what-happens-if-you-yell-at-a-bird/",
+    "tags": [
+      "lifesciencesworld.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "74477771aa32d40aca6015f5df275ca1",
     "title": "Maestro Media Will Release Ghost Blitz in North America",
     "slug": "maestro-media-will-release-ghost-blitz-in-north-america",
