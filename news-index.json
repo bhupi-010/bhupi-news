@@ -1,5 +1,44 @@
 [
   {
+    "id": "1f28e5e7414223bd36547b8f3758a490",
+    "title": "Show HN: Mocca \u2013 Claude Code wrapper where Plugin takes center stage",
+    "slug": "show-hn-mocca--claude-code-wrapper-where-plugin-takes-center-stage",
+    "date": "2026-07-17T02:43:28Z",
+    "description": "Hi HN!,\nI have been using Claude Code for a couple of month now and have discovered a lot of cool plugin like career-ops that helps you search for jobs and coding dj that plays lofi music from the terminal.Although I love using them but I always feel like the\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/valehelle/mocca-hub",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "11a8619810f67e972872cb93a436b993",
+    "title": "Alzheimer's drug breakthrough, and sugar in space",
+    "slug": "alzheimers-drug-breakthrough-and-sugar-in-space",
+    "date": "2026-07-17T01:48:51Z",
+    "description": "A new drug called Trontinemab, which could stop Alzheimer's disease, is about to start clinical trials. How does it work? Also, scientists at the University of Oxford have created a vaccine to fight Ebola; researchers have documented three different types of \u2026",
+    "category": "Dev News",
+    "source": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/alzheimers-drug-breakthrough-and-sugar-space",
+    "tags": [
+      "thenakedscientists.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "057cbe2fb769c0369cec91494bcebca4",
+    "title": "Bayern Munich\u2019s Max Eberl talks tunes out distractions during contract talks",
+    "slug": "bayern-munichs-max-eberl-talks-tunes-out-distractions-during-contract-talks",
+    "date": "2026-07-17T01:00:00Z",
+    "description": "The FC Bayern exec knows the importance of staying focused.",
+    "category": "Dev News",
+    "source": "https://www.bavarianfootballworks.com/bayern-munich-transfer-news-rumors/230569/bayern-munichs-max-eberl-talks-tunes-out-distractions-during-contract-talks",
+    "tags": [
+      "bavarianfootballworks.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "57aec4ff6e0670503b53bef72eeb02cb",
     "title": "How Argentina can tip the scales in the midfield battle",
     "slug": "how-argentina-can-tip-the-scales-in-the-midfield-battle",
