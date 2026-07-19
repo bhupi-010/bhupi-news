@@ -1,5 +1,44 @@
 [
   {
+    "id": "7e94d2260791854e9c85ecfa2b4f33a0",
+    "title": "Polling rates explained: do you really need 8,000Hz for keyboards and mice in 2026?",
+    "slug": "polling-rates-explained-do-you-really-need-8000hz-for-keyboards-and-mice-in-2026",
+    "date": "2026-07-18T13:00:00Z",
+    "description": "TechRadar investigates whether you really need an 8,000Hz polling rate for your gaming keyboard or mouse, looks at the pros/cons, professional players, and gives a definitive verdict.",
+    "category": "AI Tools",
+    "source": "https://www.techradar.com/computing/mice/polling-rates-explained",
+    "tags": [
+      "techradar.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "8684e89d45624dad3b7b791da44debdd",
+    "title": "Show HN: Cashzilla \u2013 a local-first finance app (Android)",
+    "slug": "show-hn-cashzilla--a-localfirst-finance-app-android",
+    "date": "2026-07-18T12:58:41Z",
+    "description": "There's a point in every developer's life when they build their own finance app. It's a rite of passage. Mine has arrived. I built Cashzilla for three reasons: I wanted it to be genuinely free \u2014 not free-until-the-useful-parts. It's local-only: no accounts, n\u2026",
+    "category": "Dev News",
+    "source": "https://news.ycombinator.com/item?id=48957761",
+    "tags": [
+      "news.ycombinator.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "c67192324f6c1b9890849a5084500691",
+    "title": "Chloe Fineman had tension with \u2018SNL\u2019 co-stars before exit: \u2018Not everyone clicked with her\u2019",
+    "slug": "chloe-fineman-had-tension-with-snl-costars-before-exit-not-everyone-clicked-with",
+    "date": "2026-07-18T12:10:42Z",
+    "description": "The actress announced her departure from the iconic sketch comedy series Thursday after seven seasons.",
+    "category": "Dev News",
+    "source": "https://pagesix.com/2026/07/18/entertainment/chloe-fineman-had-tension-with-snl-co-stars-before-exit/",
+    "tags": [
+      "pagesix.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "532a85f95158ce6115e740438daffd75",
     "title": "China's Kimi K3 rattles US AI industry",
     "slug": "chinas-kimi-k3-rattles-us-ai-industry",
