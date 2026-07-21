@@ -1,5 +1,44 @@
 [
   {
+    "id": "2a04a87e48ce2a3dd19611cfd0b4c9be",
+    "title": "A Beginner\u2019s Guide to Setting Up Claude Code for High Performance Agentic Programming",
+    "slug": "a-beginners-guide-to-setting-up-claude-code-for-high-performance-agentic-program",
+    "date": "2026-07-20T14:00:23Z",
+    "description": "This article walks through the actual configuration, permissions, hooks, and command habits that separate a fresh install from a setup that holds up under real, sustained agentic work, verified against Anthropic's current documentation rather than assumed fro\u2026",
+    "category": "AI Tools",
+    "source": "https://www.kdnuggets.com/a-beginners-guide-to-setting-up-claude-code-for-high-performance-agentic-programming",
+    "tags": [
+      "kdnuggets.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "98bcca50a0735d5eacd21df0820e6a0e",
+    "title": "First epidemiological characterization of Leishmania tarentolae in sand flies collected in southern France and Corsica Island",
+    "slug": "first-epidemiological-characterization-of-leishmania-tarentolae-in-sand-flies-co",
+    "date": "2026-07-20T14:00:00Z",
+    "description": "Author summary Leishmaniasis is a parasitic disease transmitted by sand flies and caused by different Leishmania species. In southern France, Leishmania infantum infects dogs and humans and is a well-known public health concern. Another species, Leishmania ta\u2026",
+    "category": "Dev News",
+    "source": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014526",
+    "tags": [
+      "journals.plos.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "c3f2e8f62ba3829bc787ac589ae79f2c",
+    "title": "DocJuris Launches Workforce: The First AI Apps Service That Completes Work for In-House Legal Teams",
+    "slug": "docjuris-launches-workforce-the-first-ai-apps-service-that-completes-work-for-in",
+    "date": "2026-07-20T14:00:00Z",
+    "description": "As a leader in contract-review for the past 8 years, DocJuris now expands to every practice area with purpose-built apps that complete critical work and return it finished for review. HOUSTON, July 20, 2026 /PRNewswire/ -- DocJuris today launched Workforce, a\u2026",
+    "category": "AI Tools",
+    "source": "https://www.prnewswire.com/news-releases/docjuris-launches-workforce-the-first-ai-apps-platform-that-completes-work-for-in-house-legal-teams-302829028.html",
+    "tags": [
+      "prnewswire.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "b56031d6129f2385e849c4d0e634b2ef",
     "title": "Jack Nicklaus and Bryson DeChambeau react as Ryan Fox wins The Open Championship",
     "slug": "jack-nicklaus-and-bryson-dechambeau-react-as-ryan-fox-wins-the-open-championship",
