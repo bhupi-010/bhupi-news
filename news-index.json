@@ -1,5 +1,44 @@
 [
   {
+    "id": "57fb8a224cac733c18bf8b19b65c5673",
+    "title": "Jimothy the raccoon has a rare spinal condition. Here\u2019s what that means.",
+    "slug": "jimothy-the-raccoon-has-a-rare-spinal-condition-heres-what-that-means",
+    "date": "2026-07-21T19:00:09Z",
+    "description": "The internet's favorite raccoon has become a symbol of resilience in Seattle. Here's what his condition might mean for his future in the wild.\nThe post Jimothy the raccoon has a rare spinal condition. Here\u2019s what that means. appeared first on Popular Science.",
+    "category": "Dev News",
+    "source": "http://www.popsci.com/science/whats-jimothy-raccoon-condition/",
+    "tags": [
+      "popsci.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f340bc7b0bc5a76eb8b1d243e0a69f43",
+    "title": "Show HN: Browser-based 3D terrain reconstruction",
+    "slug": "show-hn-browserbased-3d-terrain-reconstruction",
+    "date": "2026-07-21T18:57:49Z",
+    "description": "This is an open-source experiment in how far we can reconstruct a real environment using only public geospatial data, rendered entirely in the browser.No GIS software, no install.\n\nComments URL: https://news.ycombinator.com/item?id=48996559\nPoints: 4\n# Commen\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/topherchris420/lop-nur-twin",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e6931566a4ba67e15579ede2fce3f314",
+    "title": "Humanoid Raises $152 Million to Expand Robotics Company",
+    "slug": "humanoid-raises-152-million-to-expand-robotics-company",
+    "date": "2026-07-21T18:48:05Z",
+    "description": "U.K.-based robotics firm Humanoid says it is now a $1 billion company. The startup achieved that status, becoming \u201cEurope\u2019s first pure-play humanoid robotics unicorn,\u201d after raising $152 million in a Series A round announced Tuesday (July 21). \u201cNow is a defin\u2026",
+    "category": "AI Tools",
+    "source": "https://www.pymnts.com/news/investment-tracker/2026/humanoid-raises-152-million-to-expand-robotics-company/",
+    "tags": [
+      "pymnts.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "34f234b3be8069879ad6a0e1f9003507",
     "title": "Michigan basketball keeping majority of its staff, including the GM",
     "slug": "michigan-basketball-keeping-majority-of-its-staff-including-the-gm",
