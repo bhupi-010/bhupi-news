@@ -1,5 +1,44 @@
 [
   {
+    "id": "34f234b3be8069879ad6a0e1f9003507",
+    "title": "Michigan basketball keeping majority of its staff, including the GM",
+    "slug": "michigan-basketball-keeping-majority-of-its-staff-including-the-gm",
+    "date": "2026-07-21T14:02:25Z",
+    "description": "The most challenging [part] was literally just keeping the group together,\u201d Boynton said on Defend The Block. \u201cThat was the biggest mission [at first].\"",
+    "category": "AI Tools",
+    "source": "https://www.freep.com/story/sports/college/university-michigan/wolverines/2026/07/21/michigan-basketball-mike-boynton-coaching-staff-dusty-may/90993156007/",
+    "tags": [
+      "freep.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "d9921a7de932001dbad5f876c56ee693",
+    "title": "Show HN: Back up Claude Code sessions from Codespaces to a private repo",
+    "slug": "show-hn-back-up-claude-code-sessions-from-codespaces-to-a-private-repo",
+    "date": "2026-07-21T14:00:09Z",
+    "description": "I prefer to run Claude Code in GitHub Codespaces rather than on my local machine, but there is one problem: Claude Code logs disappear when the remote Codespace is deleted or rebuilt.Logkeeper saves a human-readable conversation log and an age-encrypted copy \u2026",
+    "category": "Dev News",
+    "source": "https://github.com/markmatsu/claude-logkeeper",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "cde7e04b684168bbfb0d2e4dc228ee29",
+    "title": "More Testosterone Won\u2019t Make a Better Soldier or a Tougher Man \u2013 Aggression and Strength Drive T Levels, Not the Other Way Around",
+    "slug": "more-testosterone-wont-make-a-better-soldier-or-a-tougher-man--aggression-and-st",
+    "date": "2026-07-21T13:55:37Z",
+    "description": "Pete Hegseth is almost predictably wrong. His beliefs about testosterone supplementation are par for the course.",
+    "category": "Dev News",
+    "source": "https://www.nakedcapitalism.com/2026/07/more-testosterone-wont-make-a-better-soldier-or-a-tougher-man-aggression-and-strength-drive-t-levels-not-the-other-way-around.html",
+    "tags": [
+      "nakedcapitalism.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "63dd160274228b311292560dbbae24c6",
     "title": "Alphabet's Gemini delay, spending worries loom over earnings",
     "slug": "alphabets-gemini-delay-spending-worries-loom-over-earnings",
