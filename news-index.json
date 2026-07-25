@@ -1,5 +1,44 @@
 [
   {
+    "id": "b49e934c1d1d551b5255a0b9f5f2a6f5",
+    "title": "(PR) ASRock Launches Phantom Gaming PGO27QSA Series QD-OLED Gaming Monitors in Black and White",
+    "slug": "pr-asrock-launches-phantom-gaming-pgo27qsa-series-qdoled-gaming-monitors-in-blac",
+    "date": "2026-07-24T13:29:10Z",
+    "description": "ASRock, the global leading manufacturer of motherboards, graphics cards, mini PCs, gaming monitors, power supply units, and AIO liquid coolers, today announced the launch of the new Phantom Gaming PGO27QSA and PGO27QSA-W OLED gaming monitors. Featuring a 27-i\u2026",
+    "category": "AI Tools",
+    "source": "https://www.techpowerup.com/351058/asrock-launches-phantom-gaming-pgo27qsa-series-qd-oled-gaming-monitors-in-black-and-white",
+    "tags": [
+      "techpowerup.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "dbff60e2a8e4bb2b6d0daa3074486d7d",
+    "title": "agentgraph-compiler added to PyPI",
+    "slug": "agentgraphcompiler-added-to-pypi",
+    "date": "2026-07-24T13:24:31Z",
+    "description": "Compile structured YAML configurations into production-grade LangGraph multi-agent architectures.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/agentgraph-compiler/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "ba70b5701b6483d2288c45f8065df55b",
+    "title": "The 6 Best Chariot Alternatives for Vibe Coding",
+    "slug": "the-6-best-chariot-alternatives-for-vibe-coding",
+    "date": "2026-07-24T13:21:00Z",
+    "description": "Vibe-coding tools promise a fast path to custom site enhancements even if you have limited code experience. One such tool, Chariot, uses prompts to generate websites from the ground up. If you\u2019re starting fresh and need a simple site quickly, that approach ca\u2026",
+    "category": "Dev News",
+    "source": "https://www.squarespace.com/blog/chariot-alternatives",
+    "tags": [
+      "squarespace.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f5457d391618f5e3499e4269849fc5b0",
     "title": "Inside the Launch of DevOS: An Executive Q&A with Journi Co-Founder Jake Rickhuss",
     "slug": "inside-the-launch-of-devos-an-executive-qa-with-journi-cofounder-jake-rickhuss",
