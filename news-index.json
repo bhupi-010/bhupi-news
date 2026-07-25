@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "4b07ac5270b58a7e8cc116903ace3f61",
+    "title": "Fans react to \u2018absolutely amazing\u2019 moment between Donald Trump and the Los Angeles Dodgers",
+    "slug": "fans-react-to-absolutely-amazing-moment-between-donald-trump-and-the-los-angeles",
+    "date": "2026-07-24T07:30:00Z",
+    "description": "The Los Angeles Dodgers visited President Donald Trump this week to celebrate their most recent World Series win. After coming from behind to beat the Toronto Blue Jays, the Dodgers clinched their latest trophy back in November 2025.",
+    "category": "Frontend",
+    "source": "https://www.hitc.com/fans-react-to-absolutely-amazing-moment-between-donald-trump-and-the-los-angeles-dodgers/",
+    "tags": [
+      "hitc.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "226522078c5e5556a43baf30acb7d5b9",
+    "title": "Show HN: Jharu \u2013 Open-Source AI and Dev Junk Cleaner for Mac and PC",
+    "slug": "show-hn-jharu--opensource-ai-and-dev-junk-cleaner-for-mac-and-pc",
+    "date": "2026-07-24T07:23:04Z",
+    "description": "Free open source disk cleaner for developers. Clean Hugging Face, Ollama, npm, pip, conda, Docker caches, app leftovers, and junk files on macOS and Windows. Built with Tauri. - riponcm/Jharu",
+    "category": "AI Tools",
+    "source": "https://github.com/riponcm/Jharu",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "4320047a9c9367600ef41abe62a95508",
+    "title": "On layout choreography",
+    "slug": "on-layout-choreography",
+    "date": "2026-07-24T06:48:44Z",
+    "description": "Layout animation keeps spatial memory intact when lists reorder, panels expand, and items enter or leave. FLIP turns layout jumps into transform-based motion.",
+    "category": "Dev News",
+    "source": "https://karlkoch.me/writing/on-layout-choreography",
+    "tags": [
+      "karlkoch.me",
+      "dev-news"
+    ]
+  },
+  {
     "id": "b09ca0f272a2d34eeceb119a65426cac",
     "title": "Explosions and air defense activity reported across 14 Iranian cities amid ongoing war",
     "slug": "explosions-and-air-defense-activity-reported-across-14-iranian-cities-amid-ongoi",
