@@ -1,5 +1,44 @@
 [
   {
+    "id": "0c430d8e63a7378df58bf34f63e58cbd",
+    "title": "Google founder Sergey Brin found out using Gemini, company's own AI model, on the internal list of tools engineers are banned from using; to kill that one rule 'upset Brin' passed over the 'fight' to",
+    "slug": "google-founder-sergey-brin-found-out-using-gemini-companys-own-ai-model-on-the-i",
+    "date": "2026-07-26T05:50:00Z",
+    "description": "Tech News News: Google co-founder Sergey Brin revealed that he once found Gemini, Google's own AI model, on an internal list of coding tools that engineers were not a.",
+    "category": "AI Tools",
+    "source": "https://timesofindia.indiatimes.com/technology/tech-news/google-founder-sergey-brin-found-out-using-gemini-companys-own-ai-model-on-the-internal-list-of-tools-engineers-are-banned-from-using-to-kill-that-one-rule-upset-brin-passed-over-the-fight-to-companys-ceo/articleshow/132636943.cms",
+    "tags": [
+      "timesofindia.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9b20d31a034a55014a497e9a8bd3f1a1",
+    "title": "aither-adk 2.41.0",
+    "slug": "aitheradk-2410",
+    "date": "2026-07-25T18:36:53Z",
+    "description": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: free local runtime with typed memory, knowledge graph, code graph and ReAct; paid tiers (portal.aitherium.com) unlock fleets, channels, reasoning and marketplace packs.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/aither-adk/2.41.0/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "304915fad9f3d6e8503bb5a52949d723",
+    "title": "Spencer Jones reacts to potentially joining OKC Thunder: 'More to come'",
+    "slug": "spencer-jones-reacts-to-potentially-joining-okc-thunder-more-to-come",
+    "date": "2026-07-25T18:00:47Z",
+    "description": "Spencer Jones reacts to potentially joining Oklahoma City Thunder: 'More to come.'",
+    "category": "Frontend",
+    "source": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/07/25/spencer-jones-reacts-to-potentially-joining-okc-thunder-more-to-come/91048983007/",
+    "tags": [
+      "okcthunderwire.usatoday.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "ac7179d531e2c646dda4701cdea03761",
     "title": "LeBron James, Bronny James are \u2018not a package deal\u2019 after 76ers move, agent Rich Paul says",
     "slug": "lebron-james-bronny-james-are-not-a-package-deal-after-76ers-move-agent-rich-pau",
