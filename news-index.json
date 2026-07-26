@@ -1,5 +1,44 @@
 [
   {
+    "id": "767c4ad1076a2b31344615c4d94abfeb",
+    "title": "aither-adk 2.36.0",
+    "slug": "aitheradk-2360",
+    "date": "2026-07-25T03:03:22Z",
+    "description": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: free local runtime with typed memory, knowledge graph, code graph and ReAct; paid tiers (portal.aitherium.com) unlock fleets, channels, reasoning and marketplace packs.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/aither-adk/2.36.0/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "2e99a722c309d6f55c3394c6ec0aefb8",
+    "title": "Show HN: AI Meter \u2013 Local token usage with energy and water estimates",
+    "slug": "show-hn-ai-meter--local-token-usage-with-energy-and-water-estimates",
+    "date": "2026-07-25T02:11:52Z",
+    "description": "[Problem] \nI wanted to track how many tokens I am burning and it's estimated energy and water impact.[WHAT THIS IS]\nA local token usage tracker that works across different coding harnesses and estimates energy and water impact[MY EXPERIENCE]\nTracking this rea\u2026",
+    "category": "AI Tools",
+    "source": "https://ai-meter.app",
+    "tags": [
+      "ai-meter.app",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "ff11e84720b1730600f6d69735f854fc",
+    "title": "\u2018I\u2019m happy to watch it implode\u2019: Celtics fans react to LeBron James signing with Philadelphia",
+    "slug": "im-happy-to-watch-it-implode-celtics-fans-react-to-lebron-james-signing-with-phi",
+    "date": "2026-07-25T01:47:06Z",
+    "description": "Some Boston sports fans are eager to see the Sixers. They don\u2019t think all the star power is going to bring the City of Brotherly Love a title.",
+    "category": "Frontend",
+    "source": "https://sports.yahoo.com/articles/m-happy-watch-implode-celtics-014706097.html",
+    "tags": [
+      "sports.yahoo.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "80e3b6235ad4c8909c570799b8c76fc1",
     "title": "How Adidas And LEGO Won The World Cup Conversation",
     "slug": "how-adidas-and-lego-won-the-world-cup-conversation",
