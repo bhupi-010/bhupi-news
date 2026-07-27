@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "5b1c41fbef791f5698ca9611bbf9c2dd",
+    "title": "infragen added to PyPI",
+    "slug": "infragen-added-to-pypi",
+    "date": "2026-07-26T08:52:13Z",
+    "description": "Multi-agent CLI that generates Terraform and deploys full-stack apps to AWS/GCP free tier",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/infragen/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "763c32051b9702b3efa66150c33ca5ac",
+    "title": "The $25 million Bitcoin glitch hiding inside Wall Street\u2019s clearinghouses",
+    "slug": "the-25-million-bitcoin-glitch-hiding-inside-wall-streets-clearinghouses",
+    "date": "2026-07-26T08:23:31Z",
+    "description": "Two Wall Street trading desks can hold economically similar exposure to Bitcoin and still pay materially different amounts to keep that exposure open. That's not because one desk made a better market call, but because the regulated products carrying the posit\u2026",
+    "category": "Dev News",
+    "source": "https://cryptoslate.com/the-25-million-bitcoin-glitch-hiding-inside-wall-streets-clearinghouses/",
+    "tags": [
+      "cryptoslate.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "90e855269ab79af63bb1e240bbd63aec",
+    "title": "French proverb of the day: \u2018The night carries advice\u2019 \u2013 A lesson on thoughtful decision-making",
+    "slug": "french-proverb-of-the-day-the-night-carries-advice--a-lesson-on-thoughtful-decis",
+    "date": "2026-07-26T08:02:21Z",
+    "description": "Difficult choices often benefit from delayed action and thoughtful consideration.  A French proverb suggests that sleep can bring valuable advice and new perspectives.  This ancient wisdom highlights the importance of patience and reflection in problem-solvin\u2026",
+    "category": "Dev News",
+    "source": "https://economictimes.indiatimes.com/news/international/australia/french-proverb-of-the-day-the-night-carries-advice-a-lesson-on-thoughtful-decision-making/articleshow/132638146.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "0c430d8e63a7378df58bf34f63e58cbd",
     "title": "Google founder Sergey Brin found out using Gemini, company's own AI model, on the internal list of tools engineers are banned from using; to kill that one rule 'upset Brin' passed over the 'fight' to",
     "slug": "google-founder-sergey-brin-found-out-using-gemini-companys-own-ai-model-on-the-i",
