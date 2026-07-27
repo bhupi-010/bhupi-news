@@ -1,5 +1,31 @@
 [
   {
+    "id": "7fb5da1957ea5af280fbc79849812ada",
+    "title": "Lessons From 20 Years Photographing Wildlife in Extreme Weather",
+    "slug": "lessons-from-20-years-photographing-wildlife-in-extreme-weather",
+    "date": "2026-07-26T14:00:33Z",
+    "description": "The best wildlife photographs can happen when the weather is at its worst. After more than two decades photographing wildlife in snow, mud, rain, and storms, I've learned that challenging conditions are often where the most rewarding images are created.\n[Read\u2026",
+    "category": "AI Tools",
+    "source": "https://petapixel.com/2026/07/26/lessons-from-20-years-photographing-wildlife-in-extreme-weather/",
+    "tags": [
+      "petapixel.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "969eb0659c5f6c326699d390ce1885d9",
+    "title": "Show HN: Exercise snack reminders for iOS/Android, no server, one-time purchase",
+    "slug": "show-hn-exercise-snack-reminders-for-iosandroid-no-server-onetime-purchase",
+    "date": "2026-07-26T13:56:02Z",
+    "description": "I built Snack App for my wife. She works from home, and every night, she would feel stiff and creaky after sitting all day, so she decided that she had to be less sedentary. Her idea was to break up her day with \"exercise snacks\" - formally defined as \"isolat\u2026",
+    "category": "Dev News",
+    "source": "https://getsnack.app",
+    "tags": [
+      "getsnack.app",
+      "dev-news"
+    ]
+  },
+  {
     "id": "d1f47a3309209336bbdc775f7d78426b",
     "title": "Don't like AI? Linux's creator says go fork yourself",
     "slug": "dont-like-ai-linuxs-creator-says-go-fork-yourself",
@@ -9,6 +35,19 @@
     "source": "https://www.businessinsider.com/linux-creator-linus-torvalds-ai-holdouts-fork-off-2026-7",
     "tags": [
       "businessinsider.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e2343881b51d93f5ccab058ab5b402d2",
+    "title": "Why are investors freaking out about Big Tech's booming AI capex?",
+    "slug": "why-are-investors-freaking-out-about-big-techs-booming-ai-capex",
+    "date": "2026-07-26T12:30:00Z",
+    "description": "Why so worried about AI spending?",
+    "category": "AI Tools",
+    "source": "https://finance.yahoo.com/markets/article/why-are-investors-freaking-out-about-big-techs-booming-ai-capex-123000998.html",
+    "tags": [
+      "finance.yahoo.com",
       "ai-tools"
     ]
   },
