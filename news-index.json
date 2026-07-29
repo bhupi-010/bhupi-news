@@ -1,5 +1,44 @@
 [
   {
+    "id": "f87662b7d815f1fe8ae1cc8d64718d97",
+    "title": "Show HN: Edge Drop \u2013 The clipboard manager Windows 11 should have shipped with",
+    "slug": "show-hn-edge-drop--the-clipboard-manager-windows-11-should-have-shipped-with",
+    "date": "2026-07-28T02:09:16Z",
+    "description": "Edge-Drop is like a Dynamic Island for your desktop clipboard. It hides on the edge of your screen and opens when you hover near it, letting you easily store and drag text, links, images, and files...",
+    "category": "Dev News",
+    "source": "https://github.com/Deepender25/Edge-Drop",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "bfbe686ca26fd808b43459abc1df2ea8",
+    "title": "Skills And Raids-TENOKE",
+    "slug": "skills-and-raidstenoke",
+    "date": "2026-07-28T02:07:59Z",
+    "description": "Release Description:Combat is real-time and focuses on managing skill rotations, cooldowns, and resources while reacting to enemy mechanics. Pay close attention to status effects, as they heavily influence the outcome of each encounter. A pause mechanic allow\u2026",
+    "category": "Frontend",
+    "source": "https://post.rlsbb.cc/skills-and-raids-tenoke/",
+    "tags": [
+      "post.rlsbb.cc",
+      "frontend"
+    ]
+  },
+  {
+    "id": "f979ae153e29f20ae94c91f67be4a006",
+    "title": "synapse-recall added to PyPI",
+    "slug": "synapserecall-added-to-pypi",
+    "date": "2026-07-28T01:41:10Z",
+    "description": "Episodic and semantic memory over workplace conversations",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/synapse-recall/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "7b5bd58d5b10dd71f9b565cc7a157a88",
     "title": "Evinced Harnesses Agentic Coding to Fix Accessibility Problems",
     "slug": "evinced-harnesses-agentic-coding-to-fix-accessibility-problems",
