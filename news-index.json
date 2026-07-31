@@ -1,5 +1,44 @@
 [
   {
+    "id": "be4e54ff78f8be6194199219856df532",
+    "title": "Show HN: I'm a senior estimator, I open sourced my construction takeoff tool",
+    "slug": "show-hn-im-a-senior-estimator-i-open-sourced-my-construction-takeoff-tool",
+    "date": "2026-07-30T18:39:23Z",
+    "description": "Open-source (Apache-2.0) PDF takeoff for construction &amp; flooring \u2014 the first engine an AI agent drives natively over MCP, not bolted on. One-click room detection, materials + quantities, built ...",
+    "category": "AI Tools",
+    "source": "https://github.com/Kentucky-ai/opentakeoff",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "63de0eb12992e1d4725240e4f7143dae",
+    "title": "Could Darrion Williams, Donovan Atwell join Texas Tech basketball in 2026?",
+    "slug": "could-darrion-williams-donovan-atwell-join-texas-tech-basketball-in-2026",
+    "date": "2026-07-30T18:17:32Z",
+    "description": "Could Texas Tech basketball get Darrion Williams and Donovan Atwell on the roster? The pair are part of a lawsuit seeking a year of eligibility.",
+    "category": "AI Tools",
+    "source": "https://www.lubbockonline.com/story/sports/college/red-raiders/2026/07/30/texas-tech-basketball-darrion-williams-donovan-atwell-lawsuit-eligibility/91111006007/",
+    "tags": [
+      "lubbockonline.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a8e27f24302a9bc49c638add360825f4",
+    "title": "Ayra Starr Stirs Speculation as She Gives Update About Her Health: \"More Complicated Than Expected\"",
+    "slug": "ayra-starr-stirs-speculation-as-she-gives-update-about-her-health-more-complicat",
+    "date": "2026-07-30T18:00:56Z",
+    "description": "Ayra Starr opens up about her major surgery recovery, sharing her health update, heartfelt message to fans, and excitement for her upcoming project, Starrgirl.",
+    "category": "Dev News",
+    "source": "https://www.legit.ng/entertainment/music/1722322-ayra-starr-stirs-speculation-update-health-complicated-expected/",
+    "tags": [
+      "legit.ng",
+      "dev-news"
+    ]
+  },
+  {
     "id": "c79f76f938ebb7086218d2e734dc1269",
     "title": "Building an Infinite GSAP Scroll Gallery with Parallax and Flip Transitions",
     "slug": "building-an-infinite-gsap-scroll-gallery-with-parallax-and-flip-transitions",
