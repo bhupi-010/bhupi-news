@@ -1,5 +1,44 @@
 [
   {
+    "id": "b9cb5950976c4e32279e448f4dc4eedd",
+    "title": "French Inflation Unexpectedly Accelerates on Services, Power",
+    "slug": "french-inflation-unexpectedly-accelerates-on-services-power",
+    "date": "2026-07-31T08:05:10Z",
+    "description": "French inflation unexpectedly quickened this month, supporting the case for another European Central Bank interest-rate increase.",
+    "category": "Dev News",
+    "source": "https://financialpost.com/pmn/business-pmn/french-inflation-unexpectedly-accelerates-on-services-power",
+    "tags": [
+      "financialpost.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "8d71317ab1d686e46c9aab27bae77eb4",
+    "title": "Andre Sayles named Seattle\u2019s new interim police chief - The Seattle Times",
+    "slug": "andre-sayles-named-seattles-new-interim-police-chief--the-seattle-times",
+    "date": "2026-07-31T07:52:46Z",
+    "description": "Andre Sayles named Seattle\u2019s new interim police chiefThe Seattle Times Seattle Police Chief Barnes has resigned; mayor makes it official after hours of silenceKUOW Seattle police chief resigns after deadly food festival shootingThe Guardian Seattle police wat\u2026",
+    "category": "Dev News",
+    "source": "https://slashdot.org/firehose.pl?op=view&amp;id=184783330",
+    "tags": [
+      "slashdot.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "be20c7eb542a01ed38040e204289a8b3",
+    "title": "Introducing Symfony Reprise: The Symfony Integration Layer for Modern Bundlers",
+    "slug": "introducing-symfony-reprise-the-symfony-integration-layer-for-modern-bundlers",
+    "date": "2026-07-31T07:52:00Z",
+    "description": "Webpack Encore is now in maintenance mode, and Reprise is the forward path for Symfony apps that need a real front-end toolchain. It plugs into Vite or Rsbuild and handles the Symfony-specific integration work: entrypoints, manifest, Twig tag rendering, Stimu\u2026",
+    "category": "AI Tools",
+    "source": "https://symfony.com/blog/introducing-symfony-reprise-the-symfony-integration-layer-for-modern-bundlers",
+    "tags": [
+      "symfony.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "07e3ac8ee26c7bab9f8ab9f69606b8f1",
     "title": "Seattle police chief resigns days after food festival shooting - NBC News",
     "slug": "seattle-police-chief-resigns-days-after-food-festival-shooting--nbc-news",
