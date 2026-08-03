@@ -1,5 +1,44 @@
 [
   {
+    "id": "fb4a123424e86be82a44d43880071765",
+    "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
+    "slug": "show-hn-syncular--offlinefirst-sql-sync-with-typescript-and-rust-cores",
+    "date": "2026-08-02T09:48:08Z",
+    "description": "Offline-first sync framework for TypeScript. Local SQLite on the client, Postgres on the server, a commit log in between. - syncular/syncular",
+    "category": "Dev News",
+    "source": "https://github.com/syncular/syncular",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "41f1aa4bfc4ec676b9ba1ce0948af704",
+    "title": "Mitch Albom: Losing Tarik Skubal is rough, but the process was worse",
+    "slug": "mitch-albom-losing-tarik-skubal-is-rough-but-the-process-was-worse",
+    "date": "2026-08-02T09:08:17Z",
+    "description": "Mitch Albom: Tarik Skubal was one of ours in Detroit ... until, as MLB economics work, he wasn't. Just be glad the wait and watch are over.",
+    "category": "AI Tools",
+    "source": "https://www.freep.com/story/sports/columnists/mitch-albom/2026/08/02/detroit-tigers-tarik-skubal-trade-stinks-but-wait-for-it-was-worse/91139251007/",
+    "tags": [
+      "freep.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "6afb0054aeba79e221fdf253bcf1b19c",
+    "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
+    "slug": "show-hn-bor--opensource-policy-management-for-linux-desktops",
+    "date": "2026-08-02T09:06:33Z",
+    "description": "Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management.Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time\u2014no polling\u2014and currently support Firefox,\u2026",
+    "category": "Dev News",
+    "source": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+    "tags": [
+      "getbor.dev",
+      "dev-news"
+    ]
+  },
+  {
     "id": "2a6019ed1efeabcc46ea0fecf0f4625c",
     "title": "20 \u201cNotes to Self\u201d on Loving People (Instead of Judging or Ignoring Them)",
     "slug": "20-notes-to-self-on-loving-people-instead-of-judging-or-ignoring-them",
