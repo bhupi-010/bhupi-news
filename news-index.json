@@ -1,5 +1,44 @@
 [
   {
+    "id": "5a876bdbc9bb66cfac0edcaabc6f69e7",
+    "title": "What should you do if you hit a hedgehog?",
+    "slug": "what-should-you-do-if-you-hit-a-hedgehog",
+    "date": "2026-08-03T08:30:38Z",
+    "description": "What Should You Do If You Hit a Hedgehog? If you accidentally hit a hedgehog, your immediate response is crucial: safely pull over and assess the situation. Check if the hedgehog is alive, and if so, immediately contact a local wildlife rescue organization or\u2026",
+    "category": "Dev News",
+    "source": "https://www.lifesciencesworld.com/what-should-you-do-if-you-hit-a-hedgehog/",
+    "tags": [
+      "lifesciencesworld.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "13ee54d4d4c8e371e015ffdcd394b613",
+    "title": "Can you use oatmeal shampoo on ferrets?",
+    "slug": "can-you-use-oatmeal-shampoo-on-ferrets",
+    "date": "2026-08-03T08:11:13Z",
+    "description": "Can You Use Oatmeal Shampoo on Ferrets? A Comprehensive Guide The answer to \u201cCan you use oatmeal shampoo on ferrets?\u201d is a qualified yes, but only with specific formulations. Standard human or even dog oatmeal shampoos often contain ingredients that are harmf\u2026",
+    "category": "AI Tools",
+    "source": "https://www.lifesciencesworld.com/can-you-use-oatmeal-shampoo-on-ferrets/",
+    "tags": [
+      "lifesciencesworld.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "3a365d386ab9b62f2a4a9940c52c50d3",
+    "title": "Octane \u2013 React's programming model, compiled",
+    "slug": "octane--reacts-programming-model-compiled",
+    "date": "2026-08-03T08:04:04Z",
+    "description": "React's programming model, compiled ahead of time. No VDOM, no rules of hooks.",
+    "category": "Frontend",
+    "source": "https://octanejs.dev",
+    "tags": [
+      "octanejs.dev",
+      "frontend"
+    ]
+  },
+  {
     "id": "07978a3549fbca974de2e737c679d899",
     "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
     "slug": "openais-super-pac-is-funding-aigenerated-news-site-attacking-industry-critics",
