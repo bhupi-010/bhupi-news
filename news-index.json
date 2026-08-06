@@ -1,5 +1,44 @@
 [
   {
+    "id": "a09f4687d9548b4d47f53f847dbb5a8f",
+    "title": "Meta chases OpenAI, Anthropic with new AI coding app Muse Code",
+    "slug": "meta-chases-openai-anthropic-with-new-ai-coding-app-muse-code",
+    "date": "2026-08-06T02:17:16Z",
+    "description": "Meta entered the race for automated coding tools on Wednesday when it announced a new app for developers of artificial intelligence products, as it competes with other major AI labs for customers and revenue. Microsoft, which has invested billions into both OpenAI and Anthropic, offers coding tools through its business-focused AI app, Copilot, in addition to a developer product, GitHub.",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-chases-openai-anthropic-with-new-ai-coding-app-muse-code/articleshow/132979303.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b8f6fe4046cf15e7fa0abf60f30b519d",
+    "title": "Pokopia\u2019s Massive 2.0 Patch Makes Pok\u00e9mon Stop Being Divas",
+    "slug": "pokopias-massive-20-patch-makes-pok\u00e9mon-stop-being-divas",
+    "date": "2026-08-05T14:20:03Z",
+    "description": "The life sim\u2019s new Bubbly Basin DLC is out, but so is a big update for everyone",
+    "category": "Dev News",
+    "source": "https://kotaku.com/pokemon-pokopia-2-0-patch-notes-bubbly-basin-expansion-dlc-2000721906",
+    "tags": [
+      "kotaku.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2d4cc236f5d3f99d79419c757409c682",
+    "title": "No WSL experience but who is new Man Utd boss Olid?",
+    "slug": "no-wsl-experience-but-who-is-new-man-utd-boss-olid",
+    "date": "2026-08-05T14:15:40Z",
+    "description": "Manchester United appoint former Hearts boss Eva Olid as their new women's manager on a two-year deal, with an option for a further 12 months.",
+    "category": "Dev News",
+    "source": "https://www.bbc.com/sport/football/articles/c4g4k0ep23vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "tags": [
+      "bbc.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "b8d4f60137960742581dcb4ec5737a1b",
     "title": "Microsoft has 'good news' and 'bad news' for engineers using AI coding tools",
     "slug": "microsoft-has-good-news-and-bad-news-for-engineers-using-ai-coding-tools",
