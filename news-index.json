@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "aba45cc5f91a878d355d3951a0426827",
+    "title": "SoundBridge: Virtual Collaboration on steroids",
+    "slug": "soundbridge-virtual-collaboration-on-steroids",
+    "date": "2026-08-05T08:41:34Z",
+    "description": "Choosing a DAW is a weirdly personal thing. Most of us end up with one of the familiar names, learn its shortcuts, build our templates, complain about it often, and then keep using it for years. That is part of the challenge for SoundBridge. It has been aroun\u2026",
+    "category": "AI Tools",
+    "source": "https://bedroomproducersblog.com/2026/08/05/soundbridge-review/",
+    "tags": [
+      "bedroomproducersblog.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9f7d90284631a6e7e73a87a98bff5eba",
+    "title": "Qodana User Spotlight: Meet Fullstack Software Engineer Drew Penrod",
+    "slug": "qodana-user-spotlight-meet-fullstack-software-engineer-drew-penrod",
+    "date": "2026-08-05T08:17:16Z",
+    "description": "Drew Penrod is an experienced fullstack engineer at a company that makes phones designed for kids using Samsung Galaxy hardware running custom software. He and his team develop and maintain an Android-based platform that gives parents control over apps, conta\u2026",
+    "category": "AI Tools",
+    "source": "https://blog.jetbrains.com/qodana/2026/08/qodana-user-spotlight-meet-fullstack-software-engineer-drew-penrod/",
+    "tags": [
+      "blog.jetbrains.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9b3c36afe72f9d5202e06921472dafaf",
+    "title": "Ponytail Agent Skill Corrects Its Own Benchmark After Contributor Challenge",
+    "slug": "ponytail-agent-skill-corrects-its-own-benchmark-after-contributor-challenge",
+    "date": "2026-08-05T08:05:00Z",
+    "description": "A single-author repo of instruction files, not code, Ponytail passed 44,000 GitHub stars in nine days by making coding agents stop over-building. Its headline claim of 80-94% less code came from a flawed baseline; after a contributor said so, the maintainer r\u2026",
+    "category": "AI Tools",
+    "source": "https://www.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/",
+    "tags": [
+      "infoq.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "c3edff328820d1e632ae73ea27d3ad2d",
     "title": "Next.js 16.3 aims to reduce dreaded FATAL ERROR messages",
     "slug": "nextjs-163-aims-to-reduce-dreaded-fatal-error-messages",
