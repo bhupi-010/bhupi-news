@@ -1,5 +1,44 @@
 [
   {
+    "id": "7b14efcbfc7f92f5d515a31181bc97d2",
+    "title": "Meta chases OpenAI, Anthropic with new AI coding app",
+    "slug": "meta-chases-openai-anthropic-with-new-ai-coding-app",
+    "date": "2026-08-06T13:45:00Z",
+    "description": "SAN FRANCISCO, United States \u2014 Meta entered the race for automated coding tools on Wednesday when it announced a new app for developers of artificial intelligence products, as it competes with other major AI labs for customers and revenue.",
+    "category": "AI Tools",
+    "source": "https://www.manilatimes.net/2026/08/06/world/meta-chases-openai-anthropic-with-new-ai-coding-app/2400254",
+    "tags": [
+      "manilatimes.net",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "328d2e6b032edaf55f64dc1e2825f1aa",
+    "title": "Meta introduces Muse Code beta with multi-agent AI for software development",
+    "slug": "meta-introduces-muse-code-beta-with-multiagent-ai-for-software-development",
+    "date": "2026-08-06T13:04:36Z",
+    "description": "Meta's latest AI-powered tool is designed to help developers write, debug and verify code, marking its entry into the fast-growing AI coding tools market dominated by OpenAI, Anthropic and other rivals.",
+    "category": "AI Tools",
+    "source": "https://indianexpress.com/article/technology/artificial-intelligence/meta-introduces-muse-code-ai-tool-for-coding-10821091/",
+    "tags": [
+      "indianexpress.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "c4e81a65b87154ea8596a9cb179757b8",
+    "title": "Do dogs know how fragile babies are?",
+    "slug": "do-dogs-know-how-fragile-babies-are",
+    "date": "2026-08-06T06:55:35Z",
+    "description": "Do Dogs Know How Fragile Babies Are? The question of whether domestic dogs truly understand the delicacy of infants is complex, but in short, the answer is often a qualified yes, though it\u2019s rooted in instinct, learned behavior, and sensitivity to human cues \u2026",
+    "category": "Dev News",
+    "source": "https://www.lifesciencesworld.com/do-dogs-know-how-fragile-babies-are/",
+    "tags": [
+      "lifesciencesworld.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "e3cbc46472a7d247e8c2aa21c3a3aad0",
     "title": "Meta challenges OpenAI, Anthropic for tech profits with \u2018Muse Code\u2019, its first automated coding tool",
     "slug": "meta-challenges-openai-anthropic-for-tech-profits-with-muse-code-its-first-autom",
