@@ -26,6 +26,45 @@
     ]
   },
   {
+    "id": "3dc21d69d40f565ec253f041559a898c",
+    "title": "Show HN: Live Embedded Dashboards on Your GitHub Repo Page",
+    "slug": "show-hn-live-embedded-dashboards-on-your-github-repo-page",
+    "date": "2026-08-06T13:03:15Z",
+    "description": "The link is to our GitHub template repo. Just follow the instructions to get the dashboard templates on your repo. You put the SlickFast URL endpoint inside your readme. There are multiple templates on the page to choose from.It's very easy to create your own\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/SlickFast/github-dashboard-template",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2405f27be9f385195f2fa2a0993b77df",
+    "title": "Envoy launches Response to provide threat intelligence and incident management for businesses",
+    "slug": "envoy-launches-response-to-provide-threat-intelligence-and-incident-management-f",
+    "date": "2026-08-06T13:00:57Z",
+    "description": "Envoy Inc. today announced the launch of Response, a solution that brings intelligence records to the physical presence of people at work to detect potential threats, manage incidents, communicate during crises and prepare for audits. Founded in 2013 by found\u2026",
+    "category": "Dev News",
+    "source": "https://siliconangle.com/2026/08/06/envoy-launches-response-provide-threat-intelligence-incident-management-businesses/",
+    "tags": [
+      "siliconangle.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f6ad590111f60b5c80bb4d62655c569a",
+    "title": "Bose's QuietComfort Headphones get a major upgrade with a design that's sleeker than ever",
+    "slug": "boses-quietcomfort-headphones-get-a-major-upgrade-with-a-design-thats-sleeker-th",
+    "date": "2026-08-06T13:00:16Z",
+    "description": "Look for a feature from the Ultra model too",
+    "category": "Dev News",
+    "source": "https://www.androidpolice.com/bose-quietcomfort-headphones-gen-2-news/",
+    "tags": [
+      "androidpolice.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "c4e81a65b87154ea8596a9cb179757b8",
     "title": "Do dogs know how fragile babies are?",
     "slug": "do-dogs-know-how-fragile-babies-are",
