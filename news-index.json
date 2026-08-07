@@ -1,5 +1,18 @@
 [
   {
+    "id": "e3cbc46472a7d247e8c2aa21c3a3aad0",
+    "title": "Meta challenges OpenAI, Anthropic for tech profits with \u2018Muse Code\u2019, its first automated coding tool",
+    "slug": "meta-challenges-openai-anthropic-for-tech-profits-with-muse-code-its-first-autom",
+    "date": "2026-08-06T02:54:44Z",
+    "description": "SAN FRANCISCO, Aug 6 \u2014 Meta entered the race for automated coding tools on Wednesday when it announced a new app for developers of artificial intelligence products, as it...",
+    "category": "AI Tools",
+    "source": "https://www.malaymail.com/news/tech-gadgets/2026/08/06/meta-challenges-openai-anthropic-for-tech-profits-with-muse-code-its-first-automated-coding-tool/230376",
+    "tags": [
+      "malaymail.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "a09f4687d9548b4d47f53f847dbb5a8f",
     "title": "Meta chases OpenAI, Anthropic with new AI coding app Muse Code",
     "slug": "meta-chases-openai-anthropic-with-new-ai-coding-app-muse-code",
@@ -9,6 +22,32 @@
     "source": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-chases-openai-anthropic-with-new-ai-coding-app-muse-code/articleshow/132979303.cms",
     "tags": [
       "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "40075bffbac941c6491b2a77d230810d",
+    "title": "EA Sports College Football 27 Reveals Third Title Update",
+    "slug": "ea-sports-college-football-27-reveals-third-title-update",
+    "date": "2026-08-05T23:42:09Z",
+    "description": "EA Sports announced the latest title update for College Football 27, set for release on August 6 on PC and consoles. This particular update covers several areas, providing enhancements to blocking, Pass Rush, and Defensive Fronts. They also give the Dynasty B\u2026",
+    "category": "Dev News",
+    "source": "https://bleedingcool.com/games/ea-sports-college-football-27-reveals-third-title-update/",
+    "tags": [
+      "bleedingcool.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "b87a43ba1b498b4dc5004e9a98f95157",
+    "title": "US Army tested the AI future of warfare in the California desert \u2014 but all didn\u2019t go according to plan",
+    "slug": "us-army-tested-the-ai-future-of-warfare-in-the-california-desert--but-all-didnt-",
+    "date": "2026-08-05T23:41:12Z",
+    "description": "The latest Project Convergence Capstone 6 exercise took place at Fort Irwin, where soldiers spent nine days testing more than 90 technologies in one of the Army\u2019s largest experimentation events to date.",
+    "category": "AI Tools",
+    "source": "https://nypost.com/2026/08/05/us-news/us-army-tests-ai-weapons-in-mojave-desert-to-modernize-warfare/",
+    "tags": [
+      "nypost.com",
       "ai-tools"
     ]
   },
