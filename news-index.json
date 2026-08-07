@@ -1,5 +1,44 @@
 [
   {
+    "id": "c8cfe3f6da715c58e5f8354562ac2d1f",
+    "title": "Las Cruces native Ariana Carrasco set to do battle on Aug. 7 El Paso boxing card",
+    "slug": "las-cruces-native-ariana-carrasco-set-to-do-battle-on-aug-7-el-paso-boxing-card",
+    "date": "2026-08-06T19:00:18Z",
+    "description": "Las Cruces boxer Ariana Carrasco returns to the ring on Aug. 7 in El Paso. It will be her first true pro fight after a bizarre debut win by forfeit.",
+    "category": "Dev News",
+    "source": "https://www.lcsun-news.com/story/sports/2026/08/06/las-cruces-new-mexico-boxer-ariana-carrasco-to-feature-on-dazn-card-in-el-paso-texas-red-owl-boxing/91128845007/",
+    "tags": [
+      "lcsun-news.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "572853db8a6d7daef07540604ecac625",
+    "title": "Why Netflix Hosting a \u2018GTA VI\u2019 Preview Follows a Rockstar Precedent & The Fan Reaction So Far",
+    "slug": "why-netflix-hosting-a-gta-vi-preview-follows-a-rockstar-precedent--the-fan-react",
+    "date": "2026-08-06T18:53:15Z",
+    "description": "Analyzing why Netflix and Rockstar Games are teaming up for an exclusive GTA VI preview event this August.",
+    "category": "Frontend",
+    "source": "https://www.whats-on-netflix.com/news/why-netflix-is-hosting-gta-6-preview/",
+    "tags": [
+      "whats-on-netflix.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "42ce87338206c3d1cee4c4cf19988847",
+    "title": "Detroit voters call on Democrats to unite around El-Sayed after stunning victory of far-left progressive",
+    "slug": "detroit-voters-call-on-democrats-to-unite-around-elsayed-after-stunning-victory-",
+    "date": "2026-08-06T18:30:31Z",
+    "description": "Detroit voters react to Abdul El-Sayed's primary win over Haley Stevens, expressing excitement about the progressive's path to the general election.",
+    "category": "Frontend",
+    "source": "https://www.foxnews.com/media/detroit-voters-call-democrats-unite-el-sayed-stunning-victory-far-left-progressive",
+    "tags": [
+      "foxnews.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "7b14efcbfc7f92f5d515a31181bc97d2",
     "title": "Meta chases OpenAI, Anthropic with new AI coding app",
     "slug": "meta-chases-openai-anthropic-with-new-ai-coding-app",
