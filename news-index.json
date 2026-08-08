@@ -1,5 +1,44 @@
 [
   {
+    "id": "2c8c9e02bcbb3fe52ec50f8626bd98bf",
+    "title": "\"ROSSONERI IN A NEW LIGHT\": AC MILAN AND PUMA UNVEIL THE 2026/27 THIRD KIT",
+    "slug": "rossoneri-in-a-new-light-ac-milan-and-puma-unveil-the-202627-third-kit",
+    "date": "2026-08-07T06:57:00Z",
+    "description": "AC Milan and PUMA unveil the 2026/27 Third Kit. Featuring a black base with fluorescent red details, the design is rooted first and foremost in a clear stylistic vision. The jersey takes the Club's co...",
+    "category": "AI Tools",
+    "source": "https://www.acmilan.com/en/news/articles/media/2026-08-07/rossoneri-in-a-new-light-ac-milan-and-puma-unveil-the-2026-27-third-kit",
+    "tags": [
+      "acmilan.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a5356dc7bc75590b2b3a93bfab732909",
+    "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+    "slug": "teampcp-linked-to-redis-attacks-dating-back-to-2020-and-later-supply-chain-campa",
+    "date": "2026-08-07T06:50:05Z",
+    "description": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software\u2026",
+    "category": "AI Tools",
+    "source": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+    "tags": [
+      "thehackernews.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "aabbd6b4eebd7bda0e32c4114e6aa82d",
+    "title": "\u201cSo weird and wrong,\u201d \u201cNext John Madden\u201d: NFL fans react to Mike Tomlin making NBC debut before Panthers vs. Cardinals HOF Game",
+    "slug": "so-weird-and-wrong-next-john-madden-nfl-fans-react-to-mike-tomlin-making-nbc-deb",
+    "date": "2026-08-07T06:31:16Z",
+    "description": "Former Pittsburgh Steelers coach Mike Tomlin is one of the most decorated coaches of his era with an NFL stint that has spanned decades. The 54-year-old made his NFL coaching debut in 2001 as a defensive backs coach for the Tampa Bay Buccaneers.",
+    "category": "Frontend",
+    "source": "https://collegefootballnetwork.com/nfl/so-weird-and-wrong-next-john-madden-nfl-fans-react-to-mike-tomlin-making-nbc-debut-before-panthers-vs-cardinals-hof-game/?utm_medium=rss&amp;utm_source=nordot",
+    "tags": [
+      "collegefootballnetwork.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "cb53be311769080a05da59c568d4f0ac",
     "title": "Building a real-time PWA on Atlassian\u2019s own stack",
     "slug": "building-a-realtime-pwa-on-atlassians-own-stack",
