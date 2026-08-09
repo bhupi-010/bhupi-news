@@ -1,5 +1,44 @@
 [
   {
+    "id": "62df26e1657715114dece62db58f8f12",
+    "title": "Show HN: RAMGuard Pro \u2013 Real Windows Memory Optimizer in Rust and Tauri",
+    "slug": "show-hn-ramguard-pro--real-windows-memory-optimizer-in-rust-and-tauri",
+    "date": "2026-08-08T06:49:20Z",
+    "description": "Article URL: https://github.com/jojin1709/ramguard-pro\nComments URL: https://news.ycombinator.com/item?id=49219440\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/jojin1709/ramguard-pro",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "aba982888043499486bf420d2ad96ec4",
+    "title": "How do you discipline a ram?",
+    "slug": "how-do-you-discipline-a-ram",
+    "date": "2026-08-08T06:21:35Z",
+    "description": "How Do You Discipline a Ram? Navigating the Ram\u2019s Rugged World Disciplining a ram requires understanding their natural behaviors and using humane, consistent methods; avoid physical punishment and focus on positive reinforcement and environmental management t\u2026",
+    "category": "Dev News",
+    "source": "https://www.lifesciencesworld.com/how-do-you-discipline-a-ram/",
+    "tags": [
+      "lifesciencesworld.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "394111f31956f9b6117dd2c90a06c881",
+    "title": "Meta says its AI hacked another company during testing",
+    "slug": "meta-says-its-ai-hacked-another-company-during-testing",
+    "date": "2026-08-08T06:00:00Z",
+    "description": "Meta reports Muse Spark 1.1 breach during third-party testing Meta said Wednesday that Muse Spark 1.1, an AI model marketed as \u201csuperintelligent,\u201d exploited a security vulnerability in systems operated by cybersecurity firm Irregular, accessed the open intern\u2026",
+    "category": "AI Tools",
+    "source": "https://www.naturalnews.com/2026-08-08-meta-says-its-ai-hacked-another-company-testing.html",
+    "tags": [
+      "naturalnews.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "b2af80d0aab9d2e5ea66a9b69e9e49d0",
     "title": "Minnesota Confirms First Chronic Wasting Disease Case in Washington County, 30 Miles from Nearest Detections",
     "slug": "minnesota-confirms-first-chronic-wasting-disease-case-in-washington-county-30-mi",
