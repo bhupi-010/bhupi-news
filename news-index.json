@@ -1,5 +1,44 @@
 [
   {
+    "id": "835f9928f3f7bcf703d4c18f68dfd6af",
+    "title": "The Base Is Under Attack",
+    "slug": "the-base-is-under-attack",
+    "date": "2026-08-10T13:08:22Z",
+    "description": "The following article originally appeared on Tim O\u2019Brien\u2019s Medium page and is being republished here with the author\u2019s permission. At some point, the software \u201cSecurity\u201d industry stopped talking about stopping threats and started talking about detecting them:\u2026",
+    "category": "Dev News",
+    "source": "https://www.oreilly.com/radar/the-base-is-under-attack/#BlogPosting",
+    "tags": [
+      "oreilly.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "eb5ad64a06aa1ca2420229a7ecbe8757",
+    "title": "Viral Nation launches AI Discovery a social-first GEO offering to connect consumers with brands via AI-driven discovery",
+    "slug": "viral-nation-launches-ai-discovery-a-socialfirst-geo-offering-to-connect-consume",
+    "date": "2026-08-10T13:07:00Z",
+    "description": "New offering helps brands improve visibility and influence by tapping into consumer understanding, trust and recommendations NEW YORK, Aug. 10, 2026 /PRNewswire/ -- Viral Nation, a leading social-first agency and technology company, today announced the launch\u2026",
+    "category": "AI Tools",
+    "source": "https://www.prnewswire.com/news-releases/viral-nation-launches-ai-discovery-a-social-first-geo-offering-to-connect-consumers-with-brands-via-ai-driven-discovery-302846437.html",
+    "tags": [
+      "prnewswire.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "faab1ca05d89a6cc579fef56352e10f1",
+    "title": "Lancium Supports Governor Abbott's Call for Transparency and Accountability in Texas Data Center Development",
+    "slug": "lancium-supports-governor-abbotts-call-for-transparency-and-accountability-in-te",
+    "date": "2026-08-10T13:03:00Z",
+    "description": "Lancium backs verified reporting on power and water use, ratepayer protection, and transparent community partnership that starts long before construction HOUSTON, Aug. 10, 2026 /PRNewswire/ -- Lancium, a Texas-based developer and operator of large-scale power\u2026",
+    "category": "Dev News",
+    "source": "https://www.prnewswire.com/news-releases/lancium-supports-governor-abbotts-call-for-transparency-and-accountability-in-texas-data-center-development-302847121.html",
+    "tags": [
+      "prnewswire.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "17ed6ee51e0f2427aaf4e8a4a1c8f3bd",
     "title": "AI coding boom shifts software companies\u2019 focus towards testing, verification",
     "slug": "ai-coding-boom-shifts-software-companies-focus-towards-testing-verification",
