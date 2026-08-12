@@ -1,5 +1,44 @@
 [
   {
+    "id": "be887dad82342d4b63fe114493f5c873",
+    "title": "Show HN: Seal \u2013 Open-source P2P encrypted chat in Rust and Tauri",
+    "slug": "show-hn-seal--opensource-p2p-encrypted-chat-in-rust-and-tauri",
+    "date": "2026-08-11T13:04:25Z",
+    "description": "Hey y'all, I've built a completely free open-source p2p Messanger in my free-time. Most 'private' messengers still rely on central server infrastructure to queue and hold messages in an inbox - that makes it a target for metadata or message collection.With Se\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/Emn4tor/Seal",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "77a2d620c171ff971e33c9bf405a2e15",
+    "title": "ray-slide-captcha added to PyPI",
+    "slug": "rayslidecaptcha-added-to-pypi",
+    "date": "2026-08-11T12:13:55Z",
+    "description": "Slide puzzle captcha Python backend library (framework-agnostic core service, FastAPI router optional)",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/ray-slide-captcha/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "cb2445a2a1682e6b527c37cd5ab4b6c4",
+    "title": "Show HN: ReadAware \u2013 an extensible eBook reader that evolves with you",
+    "slug": "show-hn-readaware--an-extensible-ebook-reader-that-evolves-with-you",
+    "date": "2026-08-11T12:04:34Z",
+    "description": "I enjoy reading books, and I wanted an ebook reader that could give me some help while I read, instead of making me wander around between different apps and lose my attention.Also, I never really found an existing ebook reader that fits my taste. To be honest\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/ahpxex/read-aware",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f8e6542f1ed2c615937f2c718144bd2d",
     "title": "Preventing Architecture Drift with Executable Dependency Rules",
     "slug": "preventing-architecture-drift-with-executable-dependency-rules",
