@@ -1,5 +1,44 @@
 [
   {
+    "id": "f8e6542f1ed2c615937f2c718144bd2d",
+    "title": "Preventing Architecture Drift with Executable Dependency Rules",
+    "slug": "preventing-architecture-drift-with-executable-dependency-rules",
+    "date": "2026-08-11T07:18:49Z",
+    "description": "Prevent architecture drift with executable dependency rules. Turn architectural decisions into automated tests for C# applications using ArchUnitNET.",
+    "category": "Dev News",
+    "source": "https://www.c-sharpcorner.com/article/preventing-architecture-drift-with-executable-dependency-rules/",
+    "tags": [
+      "c-sharpcorner.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "ae03006d6832285663e5bdfbe68e4bbc",
+    "title": "Legislation To Slow The Pace Of Frontier AI Could Spur A Highly Dangerous Preemptive Acceleration",
+    "slug": "legislation-to-slow-the-pace-of-frontier-ai-could-spur-a-highly-dangerous-preemp",
+    "date": "2026-08-11T07:15:00Z",
+    "description": "Lawmakers might opt to pass a law on slowing down the pace of AI. If this happens, expect a dangerous preemptive acceleration. An AI Insider analysis and scoop.",
+    "category": "AI Tools",
+    "source": "https://www.forbes.com/sites/lanceeliot/2026/08/11/legislation-to-slow-the-pace-of-frontier-ai-could-spur-a-highly-dangerous-preemptive-acceleration/",
+    "tags": [
+      "forbes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "6c8f26b1ea5e21a14eefba265c2ea082",
+    "title": "Olivia Attwood goes 'off the rails' as she parties with her sister on a wild trip to St Tropez - as Pete Wicks heads to Thailand for three weeks amid fears their romance 'moved too fast'",
+    "slug": "olivia-attwood-goes-off-the-rails-as-she-parties-with-her-sister-on-a-wild-trip-",
+    "date": "2026-08-11T07:13:17Z",
+    "description": "Olivia Attwood joked she 'keeps going off the rails' as she partied with her sister on a wild trip in St Tropez.",
+    "category": "AI Tools",
+    "source": "https://www.dailymail.com/tvshowbiz/article-16043577/Olivia-Attwood-St-Tropez-Pete-Wicks-Thailand.html",
+    "tags": [
+      "dailymail.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "1269f858f0049b90f2a2b91740b13af1",
     "title": "What essential oils are bad for ferrets?",
     "slug": "what-essential-oils-are-bad-for-ferrets",
