@@ -1,5 +1,44 @@
 [
   {
+    "id": "dc4a0f993d502ef9b46fb15f98ceda4c",
+    "title": "OpenAI revenue run rate crosses $40 billion as IPO plans gather pace",
+    "slug": "openai-revenue-run-rate-crosses-40-billion-as-ipo-plans-gather-pace",
+    "date": "2026-08-14T01:38:22Z",
+    "description": "OpenAI\u2019s annualised revenue run rate has surpassed $40 billion, nearly doubling from end-2025, as coding tools, subscriptions and AI agents fuel growth.",
+    "category": "AI Tools",
+    "source": "https://www.thehindubusinessline.com/info-tech/openai-revenue-doubles-to-over-40-billion-as-ipo-plans-gather-pace/article71343861.ece",
+    "tags": [
+      "thehindubusinessline.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "54ec27347936bd24ff5732166c815aff",
+    "title": "What Wowed Us at Google\u2019s Pixel Event? Tech Editors React to Made by Google",
+    "slug": "what-wowed-us-at-googles-pixel-event-tech-editors-react-to-made-by-google",
+    "date": "2026-08-13T18:34:27Z",
+    "description": "Our top mobile and health tech editors from PCMag, CNET and ZDNET share their thoughts on Google\u2019s Made by Google Pixel event hosted by Trevor Noah. What were the coolest features on the new Pixel devices, and what felt like a dud?",
+    "category": "Frontend",
+    "source": "https://www.cnet.com/videos/what-wowed-us-at-googles-pixel-event-tech-editors-react-to-made-by-google/",
+    "tags": [
+      "cnet.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "a486680cbd5c49fcec20cef76ac76fa0",
+    "title": "Zenoti Launches Predictive Intelligence - The Next Generation of AI for Beauty and Wellness",
+    "slug": "zenoti-launches-predictive-intelligence--the-next-generation-of-ai-for-beauty-an",
+    "date": "2026-08-13T18:30:00Z",
+    "description": "The next evolution of Zenoti's AI workforce predicts guest churn, optimizes staffing, and forecasts inventory, giving operators across 30,000+ businesses the power to act before problems arise. SEATTLE, Aug. 13, 2026 /PRNewswire/ -- Zenoti, the leading AI-pow\u2026",
+    "category": "AI Tools",
+    "source": "https://www.prnewswire.com/news-releases/zenoti-launches-predictive-intelligence--the-next-generation-of-ai-for-beauty-and-wellness-302851191.html",
+    "tags": [
+      "prnewswire.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "c48a3fea6b65bd6dc7713e2df46ddb0b",
     "title": "Back to School Means Back to Traffic: Mercury Insurance Urges Drivers to Reset Their Commute",
     "slug": "back-to-school-means-back-to-traffic-mercury-insurance-urges-drivers-to-reset-th",
