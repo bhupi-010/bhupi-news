@@ -1,5 +1,44 @@
 [
   {
+    "id": "59a8f1cf8a0e9d1fdf03d485589ff3ed",
+    "title": "Show HN: Open-source and AI native web analytics",
+    "slug": "show-hn-opensource-and-ai-native-web-analytics",
+    "date": "2026-08-14T18:17:42Z",
+    "description": "Open-source, privacy-first web analytics with revenue attribution and an MCP server. No cookies, no cross-site profiles. - OpenLabs-so/openanalytics",
+    "category": "AI Tools",
+    "source": "https://github.com/OpenLabs-so/openanalytics",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "3469248f15ad33037be9b11bfb7a4481",
+    "title": "Biggest Takeaways From Week 2 of LSU Football Fall Camp",
+    "slug": "biggest-takeaways-from-week-2-of-lsu-football-fall-camp",
+    "date": "2026-08-14T18:00:46Z",
+    "description": "LSU's fall camp week 2 is done, and here's what to note from the productive week",
+    "category": "Dev News",
+    "source": "https://www.si.com/college/lsu/football/biggest-takeaways-from-week-2-of-lsu-football-fall-camp",
+    "tags": [
+      "si.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "eb67e0548675804313ea89a9cfb29670",
+    "title": "The Queue: Perfect Bird Time",
+    "slug": "the-queue-perfect-bird-time",
+    "date": "2026-08-14T18:00:19Z",
+    "description": "The fight between Gun Nun and Alucard from Castlevania is one of the coolest things I\u2019ve seen in recent times. Look it up, it\u2019s canon.\r\n\nThis is The Queue, our daily Q&A column where instead of having tea with our potential allies, we\u2019re forced to ask ourselv\u2026",
+    "category": "AI Tools",
+    "source": "https://blizzardwatch.com/2026/08/14/queue-perfect-bird-time/",
+    "tags": [
+      "blizzardwatch.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "2535dbf0c7d69a9b0db8beec382f0022",
     "title": "OpenAI\u2019s annualised revenue crosses $40 billion as AI growth accelerates",
     "slug": "openais-annualised-revenue-crosses-40-billion-as-ai-growth-accelerates",
