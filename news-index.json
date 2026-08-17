@@ -1,5 +1,44 @@
 [
   {
+    "id": "bbea3f25bd2822d08d9fbaabcc655b05",
+    "title": "Show HN: Flynt.js \u2013 2.2kb, zero-build, CSP-safe reactivity library for MPAs",
+    "slug": "show-hn-flyntjs--22kb-zerobuild-cspsafe-reactivity-library-for-mpas",
+    "date": "2026-08-16T17:40:33Z",
+    "description": "Article URL: https://github.com/marsbos/flynt.js\nComments URL: https://news.ycombinator.com/item?id=49322015\nPoints: 2\n# Comments: 0",
+    "category": "Frontend",
+    "source": "https://github.com/marsbos/flynt.js",
+    "tags": [
+      "github.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "1f3832fde5bbc83415e3639911edde64",
+    "title": "X-Men's Kitty Pryde Debuts Her Darkest Redesign Of All Time",
+    "slug": "xmens-kitty-pryde-debuts-her-darkest-redesign-of-all-time",
+    "date": "2026-08-16T17:00:11Z",
+    "description": "Marvel reveals Kitty Pryde's new design, the most dramatic of all the X-Men, which makes her look ripped straight out of a horror movie.",
+    "category": "AI Tools",
+    "source": "https://screenrant.com/x-men-kitty-pryde-dark-redesign-costume/",
+    "tags": [
+      "screenrant.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "8b379ba6603d09bd0d194dd714096fb5",
+    "title": "Scientists recreated the conditions on Saturn\u2019s moon Titan and watched molecules that shouldn\u2019t mix form stable crystals together \u2014 at around minus 179\u00b0C, polar hydrogen cyanide accepts nonpolar methane and ethane into its crystal structure, breaking one of chemistry\u2019s most familiar rules of thumb.",
+    "slug": "scientists-recreated-the-conditions-on-saturns-moon-titan-and-watched-molecules-",
+    "date": "2026-08-16T16:30:00Z",
+    "description": "Raman spectra and crystal modelling show how nonpolar hydrocarbons can enter highly polar HCN solids under Titan-like cold, with ethane the stronger surface candidate.\nThe post Scientists recreated the conditions on Saturn\u2019s moon Titan and watched molecules t\u2026",
+    "category": "Dev News",
+    "source": "https://spacedaily.com/t-titan-hcn-methane-ethane-cryogenic-crystals/",
+    "tags": [
+      "spacedaily.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "06e50c1aa9504d5e49142c5dddd1cac5",
     "title": "Vibing fitness tracking",
     "slug": "vibing-fitness-tracking",
