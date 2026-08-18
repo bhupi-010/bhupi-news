@@ -1,5 +1,44 @@
 [
   {
+    "id": "093ffeb61fd12d934a16a745035009e3",
+    "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
+    "slug": "show-hn-harnessrouter-unified-interface-for-agent-harnesses",
+    "date": "2026-08-17T18:33:38Z",
+    "description": "Hey HN! We are building HarnessRouter, a canonical API for running Codex, Claude Code, Hermes, and other managed agent harnesses as your product backend.Before building HarnessRouter, I used to build our own agent harness for our products. I tried LangGraph, \u2026",
+    "category": "Dev News",
+    "source": "https://github.com/harnessrouter/harnessrouter",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5afad1071a989fa79c2a59f0dd7cdc31",
+    "title": "Show HN: Visimer \u2013 open-source visual editor for Mermaid diagrams",
+    "slug": "show-hn-visimer--opensource-visual-editor-for-mermaid-diagrams",
+    "date": "2026-08-17T18:26:04Z",
+    "description": "Hi HN, Nick here, founder at OpenKnowledge. We built an open source library, Visimer, for editing Mermaid diagrams with a what-you-see-is-what-you-get visual editor. Try the playground at https://visimer.com/playground. You can rename labels, change shapes, a\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/inkeep/visimer",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b88167dc2b7a9edb3d09d34735da476e",
+    "title": "400+ Goon Captions for Bold, Funny, and Unforgettable Vibes",
+    "slug": "400-goon-captions-for-bold-funny-and-unforgettable-vibes",
+    "date": "2026-08-17T17:41:48Z",
+    "description": "Some moments deserve more than an ordinary caption. Whether you are posting a confident selfie, sharing a funny group photo, celebrating your unique personality, or simply showing off your carefree energy, the right words can make your post stand out. Goon ca\u2026",
+    "category": "Dev News",
+    "source": "https://curiousmindmagazine.com/goon-captions/",
+    "tags": [
+      "curiousmindmagazine.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "c2a1f7842a2d7819f104946381dd13e3",
     "title": "10 Hard Realities in Life that Actually Help Us Grow",
     "slug": "10-hard-realities-in-life-that-actually-help-us-grow",
