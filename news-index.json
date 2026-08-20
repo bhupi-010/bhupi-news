@@ -1,5 +1,44 @@
 [
   {
+    "id": "7bde0abb3888a278fe4c96cefa954fe4",
+    "title": "Microsoft.Extensions.AI Routing: Benchmarking Cost, Latency, and Failover",
+    "slug": "microsoftextensionsai-routing-benchmarking-cost-latency-and-failover",
+    "date": "2026-08-19T06:24:58Z",
+    "description": "Benchmark Microsoft.Extensions.AI routing for model selection, measuring cost, latency, failover behavior, reliability, and performance across multiple AI providers and models.",
+    "category": "AI Tools",
+    "source": "https://www.c-sharpcorner.com/article/microsoft-extensions-ai-routing-benchmarking-cost-latency-and-failover/",
+    "tags": [
+      "c-sharpcorner.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "4dff5b16de88f15c01d57dc759cd31fe",
+    "title": "React Router v8: A Deliberately Boring Release with ESM-Only Builds and Default Middleware",
+    "slug": "react-router-v8-a-deliberately-boring-release-with-esmonly-builds-and-default-mi",
+    "date": "2026-08-19T06:21:00Z",
+    "description": "React Router v8 was released on June 17, 2026, with minimal breaking changes and new baselines. Key updates include an ESM-only build and default middleware settings. React Router v6 and Remix v2 have reached End of Life. Developers should follow specific mig\u2026",
+    "category": "Frontend",
+    "source": "https://www.infoq.com/news/2026/08/react-route-v8/",
+    "tags": [
+      "infoq.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "2f214038d2d862c5732d4d77ebf17b9e",
+    "title": "Building Professional KPI Cards with Enterprise Multi-Agent AI",
+    "slug": "building-professional-kpi-cards-with-enterprise-multiagent-ai",
+    "date": "2026-08-19T06:08:13Z",
+    "description": "Learn how to build smart KPI cards with LangGraph, RAG, and persistent memory to detect anomalies, explain SaaS churn trends, identify root causes, and generate actionable business insights.",
+    "category": "AI Tools",
+    "source": "https://www.c-sharpcorner.com/article/building-professional-kpi-cards-with-enterprise-multi-agent-ai/",
+    "tags": [
+      "c-sharpcorner.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "28c24b6208df0d986a944fad7981387a",
     "title": "Meta trial begins with states accusing social media giant of exploiting, intentionally addicting children",
     "slug": "meta-trial-begins-with-states-accusing-social-media-giant-of-exploiting-intentio",
