@@ -1,5 +1,44 @@
 [
   {
+    "id": "b18a140845dc66495e12c7e82cf62057",
+    "title": "Alibaba\u2019s new small model runs on a laptop and scores like a cloud one",
+    "slug": "alibabas-new-small-model-runs-on-a-laptop-and-scores-like-a-cloud-one",
+    "date": "2026-08-19T12:17:24Z",
+    "description": "Alibaba has released a small AI model that runs on a personal computer and scores like a cloud one. The model, Qwen3.8-27B, has been downloaded more than a million times in a few days, The Information reported. Juro Osawa wrote that it is one of the company\u2019s\u2026",
+    "category": "AI Tools",
+    "source": "https://thenextweb.com/news/alibaba-qwen3-8-27b-local-frontier-model",
+    "tags": [
+      "thenextweb.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b7360949606180c8bcc0fe7b2129892b",
+    "title": "Are LLMs Equally Good (or Bad) at Building Secure Software?",
+    "slug": "are-llms-equally-good-or-bad-at-building-secure-software",
+    "date": "2026-08-19T12:12:25Z",
+    "description": "An SCW study finds a large variance in how frontier and budget LLMs perform across different frameworks, and explains the striking cost variance.",
+    "category": "AI Tools",
+    "source": "https://devops.com/are-llms-equally-good-or-bad-at-building-secure-software/",
+    "tags": [
+      "devops.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "99ecf859f5a95962d789e9cbe92fb070",
+    "title": "The bob is dead! 2026 is the year of ridiculously long hair",
+    "slug": "the-bob-is-dead-2026-is-the-year-of-ridiculously-long-hair",
+    "date": "2026-08-19T12:06:00Z",
+    "description": "Throughout history, long hair has been used to symbolise everything from femininity and purity to wealth, masculine virility and counterculture decadence. But what does it represent today?",
+    "category": "AI Tools",
+    "source": "https://www.dazeddigital.com/beauty/article/70367/1/why-is-long-hair-the-beauty-trend-of-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-bob-is-dead-2026-is-the-year-of-ridiculously-long-hair",
+    "tags": [
+      "dazeddigital.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "7bde0abb3888a278fe4c96cefa954fe4",
     "title": "Microsoft.Extensions.AI Routing: Benchmarking Cost, Latency, and Failover",
     "slug": "microsoftextensionsai-routing-benchmarking-cost-latency-and-failover",
