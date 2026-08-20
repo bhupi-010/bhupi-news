@@ -1,5 +1,44 @@
 [
   {
+    "id": "5fc10179b86f60fba8f08fa3e641f735",
+    "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
+    "slug": "nasa-updates-next-steps-for-commercial-swift-boost-mission",
+    "date": "2026-08-19T18:08:25Z",
+    "description": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still wi\u2026",
+    "category": "Dev News",
+    "source": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
+    "tags": [
+      "nasa.gov",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5e29c118ce82b652b1695d86ed3b2181",
+    "title": "UConn, Kansas games highlight Ohio State men's hoops nonconference slate",
+    "slug": "uconn-kansas-games-highlight-ohio-state-mens-hoops-nonconference-slate",
+    "date": "2026-08-19T18:00:51Z",
+    "description": "Ohio State's men's basketball team has unveiled its full 2026-27 nonconference schedule. Here's who the Buckeyes will play and when.",
+    "category": "Dev News",
+    "source": "https://www.dispatch.com/story/sports/college/basketball/2026/08/19/uconn-kansas-games-highlight-ohio-state-mens-hoops-nonconference-slate/91368244007/",
+    "tags": [
+      "dispatch.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "d6717656765eb81ea1ec41fccc6a878b",
+    "title": "On Red Sox potentially promoting Franklin Arias \u2014 and if MLB teams could \u2018walk very sketchy line\u2019 with prospects",
+    "slug": "on-red-sox-potentially-promoting-franklin-arias--and-if-mlb-teams-could-walk-ver",
+    "date": "2026-08-19T18:00:18Z",
+    "description": "The Red Sox face an unusual dilemma with top prospect Franklin Arias. A potential MLB work stoppage could influence whether they promote the 20-year-old shortstop.",
+    "category": "Dev News",
+    "source": "https://www.masslive.com/redsox/2026/08/on-red-sox-potentially-promoting-franklin-arias-and-if-mlb-teams-could-walk-very-sketchy-line.html",
+    "tags": [
+      "masslive.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "b18a140845dc66495e12c7e82cf62057",
     "title": "Alibaba\u2019s new small model runs on a laptop and scores like a cloud one",
     "slug": "alibabas-new-small-model-runs-on-a-laptop-and-scores-like-a-cloud-one",
