@@ -1,5 +1,44 @@
 [
   {
+    "id": "f385e55f680b5009071a7846605e9673",
+    "title": "AI can code in seconds, but are developers forgetting how to code? Viral post sparks debate",
+    "slug": "ai-can-code-in-seconds-but-are-developers-forgetting-how-to-code-viral-post-spar",
+    "date": "2026-08-24T04:31:19Z",
+    "description": "Explore the debate on whether AI is diminishing developers' coding skills as automated coding tools proliferate, making tasks faster but potentially leading to a loss of understanding and ownership in software engineering.",
+    "category": "AI Tools",
+    "source": "https://www.indiatimes.com/trending/ai-can-code-in-seconds-but-are-developers-forgetting-how-to-code-viral-post-sparks-debate/articleshow/133451053.html",
+    "tags": [
+      "indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "aab83e01b76d4f2cab8919ac27e52c9b",
+    "title": "Why TypeScript 7.0 Was Rewritten in Go (and what it means for your dev stack) | spf13",
+    "slug": "why-typescript-70-was-rewritten-in-go-and-what-it-means-for-your-dev-stack--spf1",
+    "date": "2026-08-23T18:14:08Z",
+    "description": "Why TypeScript 7.0 Was Rewritten in Go (and what it means for your dev stack) Over the last year, the team that invented TypeScript ported the TypeScript compiler and tools to Go. Not Rust. Not C++. Go. Microsoft\u2019s numbers show build times improving by roughl\u2026",
+    "category": "Dev News",
+    "source": "https://spf13.com/p/go-the-agentic-language/",
+    "tags": [
+      "spf13.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "766bb580047a1497266e07f8e2048fd0",
+    "title": "Liverpool\u2019s Defensive Midfield Problem Exposed in 2-2 Newcastle Draw",
+    "slug": "liverpools-defensive-midfield-problem-exposed-in-22-newcastle-draw",
+    "date": "2026-08-23T17:45:00Z",
+    "description": "Newcastle 2-2 Liverpool \u2013 Premier League Player RatingsThe Premier League return saw the historical rivals meet on a day when Kevin Keegan was rapturously remembered.The lineup and subsequent rating...",
+    "category": "Dev News",
+    "source": "https://anfieldindex.com/98521/liverpools-defensive-midfield-problem-exposed-in-2-2-newcastle-draw.html",
+    "tags": [
+      "anfieldindex.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "3a6d98afc746f0dbe2e1f929cf9e4ea3",
     "title": "Less splash, more dribble",
     "slug": "less-splash-more-dribble",
