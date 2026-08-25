@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "49786923e935cc2c1d5ff627522398f6",
+    "title": "themis",
+    "slug": "themis",
+    "date": "2026-08-24T01:21:13Z",
+    "description": "Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.",
+    "category": "Dev News",
+    "source": "https://kitploit.com/en/tools/github/cossacklabs/themis/",
+    "tags": [
+      "kitploit.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6c1b9ea3a356d4868909c59e5718674c",
+    "title": "Divorce dispute turns into legal battle: The financial costs a husband may face",
+    "slug": "divorce-dispute-turns-into-legal-battle-the-financial-costs-a-husband-may-face",
+    "date": "2026-08-24T01:18:39Z",
+    "description": "The aftermath of matrimonial disputes often lingers long after a marriage has ended, imposing hefty financial and legal challenges on men. While protective laws exist for women, they can be misapplied, leading to significant turmoil for husbands. Awareness of\u2026",
+    "category": "Dev News",
+    "source": "https://economictimes.indiatimes.com/wealth/plan/divorce-dispute-turns-into-legal-battle-the-financial-costs-a-husband-may-face/articleshow/133416509.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5ac69431fdbb8b75b017830744e83193",
+    "title": "Cheboygan volleyball reaches semifinals at Pellston Invitational",
+    "slug": "cheboygan-volleyball-reaches-semifinals-at-pellston-invitational",
+    "date": "2026-08-24T01:12:45Z",
+    "description": "The Cheboygan volleyball team reached the semifinals at Saturday's Pellston Invitational while other area teams also competed.",
+    "category": "Dev News",
+    "source": "https://www.cheboygannews.com/story/sports/high-school/2026/08/23/cheboygan-volleyball-leads-area-teams-at-pellston-invitational/91376652007/",
+    "tags": [
+      "cheboygannews.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "aab83e01b76d4f2cab8919ac27e52c9b",
     "title": "Why TypeScript 7.0 Was Rewritten in Go (and what it means for your dev stack) | spf13",
     "slug": "why-typescript-70-was-rewritten-in-go-and-what-it-means-for-your-dev-stack--spf1",
