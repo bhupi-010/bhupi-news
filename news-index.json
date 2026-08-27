@@ -1,5 +1,44 @@
 [
   {
+    "id": "88e9b975a2dcc9cb166d012c314d76d5",
+    "title": "X Launches \u2018NFL Gametime,\u2019 a Football Feed Placed Alongside \u2018For You\u2019 and \u2018Following\u2019",
+    "slug": "x-launches-nfl-gametime-a-football-feed-placed-alongside-for-you-and-following",
+    "date": "2026-08-26T21:00:00Z",
+    "description": "X will really mark the spot for NFL content. The social-media outlet is launching \u201cNFL Gametime,\u201d a new project that offers an NFL feed weaving data, news and creators into the overall user experience. X users can choose to put the new topic-focused stream al\u2026",
+    "category": "Dev News",
+    "source": "https://variety.com/2026/tv/news/x-launches-nfl-gametime-football-feed-1236844339/",
+    "tags": [
+      "variety.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "909356491b1a40e6e36ca07fe008f54d",
+    "title": "Urban Survival: Navigating Cities During Civil Unrest or Infrastructure Failure",
+    "slug": "urban-survival-navigating-cities-during-civil-unrest-or-infrastructure-failure",
+    "date": "2026-08-26T20:21:34Z",
+    "description": "Urban Survival: Navigating Cities During Civil Unrest or Infrastructure Failure\nUrban survival means knowing when to move, when to stay put, and how to get home safely when riots, blackouts, or infrastructure failures hit.\nThis Article Urban Survival: Navigat\u2026",
+    "category": "AI Tools",
+    "source": "https://offgridsurvival.com/urban-survival-navigating-cities-during-civil-unrest-or-infrastructure-failure/",
+    "tags": [
+      "offgridsurvival.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "38f784beba4ec20512d37d66e76a8ae3",
+    "title": "Talk Python to Me: #560: Building a Research OS: From Django to 30,000 Samples",
+    "slug": "talk-python-to-me-560-building-a-research-os-from-django-to-30000-samples",
+    "date": "2026-08-26T20:04:24Z",
+    "description": "In 2020, a gastroenterologist in Glasgow did the math on his new research study and came up with 30,000 samples, arriving over two years from three cities and a dozen hospitals. He asked around about how researchers keep track of that. The answer was Microsof\u2026",
+    "category": "Dev News",
+    "source": "https://talkpython.fm/episodes/show/560/building-a-research-os-from-django-to-30-000-samples",
+    "tags": [
+      "talkpython.fm",
+      "dev-news"
+    ]
+  },
+  {
     "id": "41438e15c20c527636e14970d327b0fa",
     "title": "python-pptx2 added to PyPI",
     "slug": "pythonpptx2-added-to-pypi",
