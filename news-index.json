@@ -1,5 +1,44 @@
 [
   {
+    "id": "41438e15c20c527636e14970d327b0fa",
+    "title": "python-pptx2 added to PyPI",
+    "slug": "pythonpptx2-added-to-pypi",
+    "date": "2026-08-26T07:35:18Z",
+    "description": "Create, read, and update PowerPoint 2007+ (.pptx) files. Fork of power-pptx / python-pptx, published as python-pptx2.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/python-pptx2/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "0cbaed043b7a1adfb6a0ff4aebee334e",
+    "title": "Curiosity has found the largest field of honeycomb fractures it has ever encountered on Mars. Similar polygons elsewhere preserve mud repeatedly soaked and dried 3.8 billion years ago\u2014but NASA says this new \u201csea of polygons\u201d could also have been created by temperature swings, compression or mineral changes.",
+    "slug": "curiosity-has-found-the-largest-field-of-honeycomb-fractures-it-has-ever-encount",
+    "date": "2026-08-26T06:36:06Z",
+    "description": "Curiosity\u2019s hand-sized polygons resemble ancient wet-dry cracks elsewhere in Gale Crater, but NASA is testing several other origins before assigning this vast fracture field a water history.\nThe post Curiosity has found the largest field of honeycomb fracture\u2026",
+    "category": "Dev News",
+    "source": "https://spacedaily.com/t-curiosity-largest-field-honeycomb-polygons-mars/",
+    "tags": [
+      "spacedaily.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2b3e038d4dbaba432ff14b4595a4bd0e",
+    "title": "Hamilton and Leclerc have the potential to win titles but Ferrari\u2019s biggest problem is something else",
+    "slug": "hamilton-and-leclerc-have-the-potential-to-win-titles-but-ferraris-biggest-probl",
+    "date": "2026-08-26T06:00:00Z",
+    "description": "Ferrari have arguably two of the most talented drivers on the Formula 1 grid. They have a car capable of fighting near the front.",
+    "category": "Dev News",
+    "source": "https://www.gpblog.com/en/analysis/hamilton-and-leclerc-have-the-potential-to-win-titles-but-ferraris-biggest-problem-is-something-else",
+    "tags": [
+      "gpblog.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "0f73ad9b79a895e02f16bbf95880c873",
     "title": "Anthropic merges Claude chat and Cowork memory, on by default",
     "slug": "anthropic-merges-claude-chat-and-cowork-memory-on-by-default",
