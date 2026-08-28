@@ -1,5 +1,44 @@
 [
   {
+    "id": "83b18c88394a12eacee6249e6a765bb3",
+    "title": "Next.js fixes two critical RCE flaws, including a Windows-only attack",
+    "slug": "nextjs-fixes-two-critical-rce-flaws-including-a-windowsonly-attack",
+    "date": "2026-08-27T21:32:10Z",
+    "description": "Vercel has patched two critical unauthenticated remote-code-execution vulnerabilities in Next.js, including a Windows-only path-traversal flaw rated CVSS 9.0 and an AVIF image-processing bug rated CVSS 9.5. Administrators should upgrade immediately: no workar\u2026",
+    "category": "Frontend",
+    "source": "https://4sysops.com/archives/next-js-fixes-two-critical-rce-flaws-including-a-windows-only-attack/",
+    "tags": [
+      "4sysops.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "98a65f6a4e40add7d9a7bfd1e9b74fb7",
+    "title": "Rockstar Games pulls back the curtain on Grand Theft Auto VI after leak",
+    "slug": "rockstar-games-pulls-back-the-curtain-on-grand-theft-auto-vi-after-leak",
+    "date": "2026-08-27T20:57:13Z",
+    "description": "In Grand Theft Auto VI, even a life of crime requires good communication.",
+    "category": "AI Tools",
+    "source": "https://www.nbcnews.com/pop-culture/pop-culture-news/rockstar-games-netflix-grand-theft-auto-vi-teaser-preview-what-to-know-rcna591225",
+    "tags": [
+      "nbcnews.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "bbb741d3f385a3b58491a6faf4e829f2",
+    "title": "Show HN: SvGrid \u2013 a Svelte 5 data grid an AI can drive to build a full app",
+    "slug": "show-hn-svgrid--a-svelte-5-data-grid-an-ai-can-drive-to-build-a-full-app",
+    "date": "2026-08-27T20:48:07Z",
+    "description": "Native Svelte 5 data grid. Headless-first engine + drop-in render component. Row + column virtualization (1M rows), Excel-style filters, inline editing, grouping, pivot, server-side data. MIT core ...",
+    "category": "AI Tools",
+    "source": "https://github.com/sv-grid/sv-grid",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "2f47f11a934ee6bec9a273a251abc5de",
     "title": "I was nervous to take on a dream role 2 states away for 3 weeks. My husband and son fully supported my decision.",
     "slug": "i-was-nervous-to-take-on-a-dream-role-2-states-away-for-3-weeks-my-husband-and-s",
