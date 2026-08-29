@@ -1,5 +1,44 @@
 [
   {
+    "id": "da271a00486b8b4ca6cc4ccbeee7d052",
+    "title": "What to do if a chinchilla bites you?",
+    "slug": "what-to-do-if-a-chinchilla-bites-you",
+    "date": "2026-08-28T06:10:41Z",
+    "description": "What To Do If a Chinchilla Bites You: Expert Advice A chinchilla bite, while not usually serious, requires prompt attention. Immediately wash the wound thoroughly with soap and water to prevent infection, and then assess the severity of the bite to determine \u2026",
+    "category": "Dev News",
+    "source": "https://www.lifesciencesworld.com/what-to-do-if-a-chinchilla-bites-you/",
+    "tags": [
+      "lifesciencesworld.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "fb9bb776016ab396f8bdaf938b5687be",
+    "title": "LLMs and performative productivity",
+    "slug": "llms-and-performative-productivity",
+    "date": "2026-08-28T05:47:01Z",
+    "description": "A developer's case that AI coding agents produce the feeling of productivity while measurably eroding skills, code quality, and organizational learning - with a survey of the research backing the skepticism up.",
+    "category": "AI Tools",
+    "source": "https://joshcollinsworth.com/blog/productivity",
+    "tags": [
+      "joshcollinsworth.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "cbf1514bc0d3e239021a3848db0a0c89",
+    "title": "BSE options surge 4,000% in 15 minutes shows wild swings under new CAS",
+    "slug": "bse-options-surge-4000-in-15-minutes-shows-wild-swings-under-new-cas",
+    "date": "2026-08-28T05:41:00Z",
+    "description": "A bank index put option surged nearly 4,000% before crashing to zero within 15 minutes",
+    "category": "Dev News",
+    "source": "https://www.business-standard.com/markets/news/bse-options-surge-4-000-in-15-minutes-shows-wild-swings-under-new-cas-126082800375_1.html",
+    "tags": [
+      "business-standard.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "83b18c88394a12eacee6249e6a765bb3",
     "title": "Next.js fixes two critical RCE flaws, including a Windows-only attack",
     "slug": "nextjs-fixes-two-critical-rce-flaws-including-a-windowsonly-attack",
