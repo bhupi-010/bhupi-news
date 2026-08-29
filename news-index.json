@@ -1,5 +1,44 @@
 [
   {
+    "id": "7aa91d52e8b05c4772881ff38e7501ce",
+    "title": "How Fever guard Kelsey Mitchell is putting together one of the greatest scoring seasons in WNBA history",
+    "slug": "how-fever-guard-kelsey-mitchell-is-putting-together-one-of-the-greatest-scoring-",
+    "date": "2026-08-28T16:27:19Z",
+    "description": "Breaking down the buckets, efficiency, consistency and playmaking behind Mitchell's record-breaking tear",
+    "category": "Dev News",
+    "source": "https://www.cbssports.com/wnba/news/fever-guard-kelsey-mitchell-best-scoring-season-wnba-history/",
+    "tags": [
+      "cbssports.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "95d2c930eaf0398f3903b974ab7118c6",
+    "title": "The Tribeverse Effect: What It Reveals About India\u2019s Cultural Hierarchy",
+    "slug": "the-tribeverse-effect-what-it-reveals-about-indias-cultural-hierarchy",
+    "date": "2026-08-28T16:27:00Z",
+    "description": "Tribeverse, a recently released Indian cultural-adventure reality show, raised a host of controversies. Marketed as a celebration of indigenous communities of the North-Eastern state of Nagaland, Tribeverse brought contestants to Nagaland to participate in ch\u2026",
+    "category": "AI Tools",
+    "source": "https://www.fairobserver.com/culture/the-tribeverse-effect-what-it-reveals-about-indias-cultural-hierarchy/",
+    "tags": [
+      "fairobserver.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e6c05ccb1d4b8a50a0ea1b675786c319",
+    "title": "Razor Group\u2019s journey to a modern data lakehouse on AWS",
+    "slug": "razor-groups-journey-to-a-modern-data-lakehouse-on-aws",
+    "date": "2026-08-28T16:25:02Z",
+    "description": "Razor Group, one of Europe's leading ecommerce aggregators managing 250+ brands, migrated from always-on Amazon Redshift clusters to an open lakehouse on Apache Iceberg, Amazon S3 Tables, and Apache Spark. Learn the architectural decisions, the five-phase mig\u2026",
+    "category": "Dev News",
+    "source": "https://aws.amazon.com/blogs/big-data/razor-groups-journey-to-a-modern-data-lakehouse-on-aws/",
+    "tags": [
+      "aws.amazon.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "da271a00486b8b4ca6cc4ccbeee7d052",
     "title": "What to do if a chinchilla bites you?",
     "slug": "what-to-do-if-a-chinchilla-bites-you",
