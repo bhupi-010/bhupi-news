@@ -1,5 +1,44 @@
 [
   {
+    "id": "cceaff38e550bad525b37d1bf10a2eaa",
+    "title": "Show HN: Manage coding norms across your AI agents",
+    "slug": "show-hn-manage-coding-norms-across-your-ai-agents",
+    "date": "2026-08-30T22:16:23Z",
+    "description": "Working on a tiny repo to keep coding norms in sync across AI agents. Trying to make it simpler than Ruler / RuleSync.Would love feedback on:\n1) Is this the right way to manage coding norms as agent use balloons?\n2) Would it be useful to sync rules with your \u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/gsttm/norms",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "232b3e60f7e9853acb5cf2f26578dc90",
+    "title": "Puka Nacua, NFL stars react to Aaron Donald coming out of retirement",
+    "slug": "puka-nacua-nfl-stars-react-to-aaron-donald-coming-out-of-retirement",
+    "date": "2026-08-30T21:56:33Z",
+    "description": "Aaron Donald is back, and it did not take long for the rest of the NFL to realize what that means. Players and former stars flooded social media Sunday after Donald officially ended his two-year retirement to rejoin the Rams, turning a defensive front that wa\u2026",
+    "category": "Frontend",
+    "source": "https://nypost.com/2026/08/30/sports/nfl-players-react-to-aaron-donalds-rams-return/",
+    "tags": [
+      "nypost.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "e909c5935b40227e41ad1a871fcf623b",
+    "title": "onecli v2.0.1",
+    "slug": "onecli-v201",
+    "date": "2026-08-30T21:56:21Z",
+    "description": "Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys.",
+    "category": "AI Tools",
+    "source": "https://kitploit.com/en/posts/github-onecli-onecli-v201",
+    "tags": [
+      "kitploit.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "a51156ddbafa910b54160fe113373661",
     "title": "Why Dolly Parton\u2019s death can feel like losing someone you knew personally",
     "slug": "why-dolly-partons-death-can-feel-like-losing-someone-you-knew-personally",
