@@ -1,5 +1,44 @@
 [
   {
+    "id": "5fc8a7dc5c4588d5059cce1e736d36ba",
+    "title": "Why Aaron Donald Makes Sean McVay\u2019s Job Harder, And Why The Chiefs Are Way Too Quiet",
+    "slug": "why-aaron-donald-makes-sean-mcvays-job-harder-and-why-the-chiefs-are-way-too-qui",
+    "date": "2026-08-31T16:10:39Z",
+    "description": "Inside Aaron Donald\u2019s return, the Chiefs\u2019 quiet camp, the friendly but fierce battle between Myles Garrett and Micah Parsons and more.",
+    "category": "Dev News",
+    "source": "https://www.foxsports.com/stories/nfl/aaron-donald-makes-sean-mcvays-job-harder-chiefs-way-too-quiet",
+    "tags": [
+      "foxsports.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6d0b58724000ba45f5fefd4533afbc8b",
+    "title": "Packers Film Room, Preseason Week 3: Sturdivant goes for 6",
+    "slug": "packers-film-room-preseason-week-3-sturdivant-goes-for-6",
+    "date": "2026-08-31T16:00:00Z",
+    "description": "Breaking down the 29 yard TD to J. Michael Sturdivant in the Packers win over the Cardinals",
+    "category": "Dev News",
+    "source": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85574/packers-film-room-preseason-week-3-sturdivant-goes-for-6",
+    "tags": [
+      "acmepackingcompany.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "b268159ecdf8911d671cc950d167a39f",
+    "title": "Let\u2019s Use the Emergent CSS random() Function in all the Browsers",
+    "slug": "lets-use-the-emergent-css-random-function-in-all-the-browsers",
+    "date": "2026-08-31T15:12:19Z",
+    "description": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet\u2019s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsl\u2026",
+    "category": "Dev News",
+    "source": "https://css-tricks.com/css-random-function-polyfill/",
+    "tags": [
+      "css-tricks.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "558daab995df275536d07832aeeb87db",
     "title": "Krushna Abhishek cheers for wife Kashmera Shah as she talks about body positivity; fans react",
     "slug": "krushna-abhishek-cheers-for-wife-kashmera-shah-as-she-talks-about-body-positivit",
