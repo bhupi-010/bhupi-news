@@ -1,5 +1,44 @@
 [
   {
+    "id": "49f395549a6e4651a0bebac4885c6e59",
+    "title": "How Naomi Osaka Gets Her Skin So Good",
+    "slug": "how-naomi-osaka-gets-her-skin-so-good",
+    "date": "2026-09-01T16:12:04Z",
+    "description": "Ahead of the U.S. Open, the tennis star walks us through her routine and gives us a glimpse into her tournament style.",
+    "category": "Dev News",
+    "source": "http://www.thecut.com/article/tennis-naomi-osaka-beauty-routine-products-and-sunscreen.html",
+    "tags": [
+      "thecut.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "3e184cbb4bc6dac29d84bddbd3c88980",
+    "title": "Conan, My Practice Baby",
+    "slug": "conan-my-practice-baby",
+    "date": "2026-09-01T16:00:04Z",
+    "description": "In her new book, \u2018The World\u2019s Worst Mom,\u2019 Sona Movsesian, longterm assistant to Conan O\u2019Brien, describes how their dynamic changed when she had two new humans to care for.",
+    "category": "Dev News",
+    "source": "http://www.vulture.com/article/conan-my-practice-baby-worlds-worst-mom-excerpt.html",
+    "tags": [
+      "vulture.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2ff7647bc13eb7c39eb250a3c0536d95",
+    "title": "Python Bytes: #494 Python Wrapture",
+    "slug": "python-bytes-494-python-wrapture",
+    "date": "2026-09-01T15:39:32Z",
+    "description": "News and announcements from the Python community for the week of Sep 1st, 2026",
+    "category": "Dev News",
+    "source": "https://pythonbytes.fm/episodes/show/494/python-wrapture",
+    "tags": [
+      "pythonbytes.fm",
+      "dev-news"
+    ]
+  },
+  {
     "id": "06997dbce7b8ad11dc036dc4313391bb",
     "title": "\u201cDillon Gabriel is QB2\u201d: Fans React With Concern for Shedeur Sanders\u2019 Future After Todd Monken\u2019s Latest QB Comments",
     "slug": "dillon-gabriel-is-qb2-fans-react-with-concern-for-shedeur-sanders-future-after-t",
