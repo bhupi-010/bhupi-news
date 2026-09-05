@@ -1,5 +1,44 @@
 [
   {
+    "id": "06f64e3aae320a4659ea349c7324ff27",
+    "title": "India is a lot more than garbage and cows on streets: Polish woman says \u2018don\u2019t follow stereotypes\u2019, praises highways, metros, hotels",
+    "slug": "india-is-a-lot-more-than-garbage-and-cows-on-streets-polish-woman-says-dont-foll",
+    "date": "2026-09-04T19:37:08Z",
+    "description": "Dominika Patalas-Kalra, a Polish woman who has lived and travelled in India for 10 years, has challenged social media stereotypes about the country. In an Instagram video, she praised India\u2019s transport, highways, metro systems, hotels, landscapes, stadiums an\u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/new-updates/india-is-a-lot-more-than-garbage-and-cows-on-streets-polish-woman-says-dont-follow-stereotypes-praises-highways-metros-hotels/articleshow/133776333.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "291d59a9a8eb3cf0141843d10d43c45d",
+    "title": "navig-mobile added to PyPI",
+    "slug": "navigmobile-added-to-pypi",
+    "date": "2026-09-04T18:07:10Z",
+    "description": "NAVIG Mobile \u2014 pro-grade Android + iOS device operations: connect, device info, apps, file pull, screenshots, backups, plus forensics / spyware-scan / root-jailbreak assist / OSINT, and app UI automation (a11y snapshots, tap/fill, `ui assert` machine checks, \u2026",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/navig-mobile/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e881a448cf874079ea6e558b20f384a4",
+    "title": "The Rust React Compiler is now native in Vite",
+    "slug": "the-rust-react-compiler-is-now-native-in-vite",
+    "date": "2026-09-04T17:49:09Z",
+    "description": "The transition to the Rust version of the React Compiler for the 1,036-file React Router codebase resulted in a significant speed increase, improving build times from 14.3 seconds to 0.81 seconds. The new compiler addresses previous limitations and ensures co\u2026",
+    "category": "Frontend",
+    "source": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+    "tags": [
+      "blog.master.dev",
+      "frontend"
+    ]
+  },
+  {
     "id": "7d6e7e9d5a883d99b470982d40e2d4d0",
     "title": "Microsoft announces Project Zenith, a ready-to-code Windows 11 setup for developers",
     "slug": "microsoft-announces-project-zenith-a-readytocode-windows-11-setup-for-developers",
