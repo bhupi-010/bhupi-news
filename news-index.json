@@ -1,5 +1,44 @@
 [
   {
+    "id": "7d6e7e9d5a883d99b470982d40e2d4d0",
+    "title": "Microsoft announces Project Zenith, a ready-to-code Windows 11 setup for developers",
+    "slug": "microsoft-announces-project-zenith-a-readytocode-windows-11-setup-for-developers",
+    "date": "2026-09-04T16:04:57Z",
+    "description": "Microsoft has announced Project Zenith, a preconfigured Windows 11 experience meant for developer-class PCs with coding tools and developer-friendly settings already in place.",
+    "category": "Dev News",
+    "source": "https://www.digitaltrends.com/computing/microsoft-announces-project-zenith-a-ready-to-code-windows-11-setup-for-developers/",
+    "tags": [
+      "digitaltrends.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "783eae61f49e4580b978052f014c9ce7",
+    "title": "evalforge-ci added to PyPI",
+    "slug": "evalforgeci-added-to-pypi",
+    "date": "2026-09-04T10:11:11Z",
+    "description": "Portable evaluation evidence and policy gates for RAG and AI assistants",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/evalforge-ci/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "07436e677fbf7a92d4d3a97e5a0ed2de",
+    "title": "In 2009, Illinois used 38,881 tons of fly ash in highway construction; IDOT reported spending $1.75 million while reducing landfill use and cement demand",
+    "slug": "in-2009-illinois-used-38881-tons-of-fly-ash-in-highway-construction-idot-reporte",
+    "date": "2026-09-04T10:10:00Z",
+    "description": "Illinois highways are increasingly integrating fly ash, a byproduct of coal combustion, as a sustainable option for road construction. This practice not only diverts waste from landfills but also conserves millions by minimizing the reliance on energy-demandi\u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/international/us/in-2009-illinois-used-38881-tons-of-fly-ash-in-highway-construction-idot-reported-spending-1-75-million-while-reducing-landfill-use-and-cement-demand/articleshow/133732758.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "391d31db612ea5e5bcca6055d1dedc35",
     "title": "LG UltraGear G6 27G64NA 27\" QHD 300Hz Gaming Monitor $349 @ JB Hi-Fi (RRP $699)",
     "slug": "lg-ultragear-g6-27g64na-27-qhd-300hz-gaming-monitor-349--jb-hifi-rrp-699",
