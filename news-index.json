@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "3ad6d71d401d7438afb39e75144468e7",
+    "title": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
+    "slug": "analysis-lower-treasury-yields-could-require-a-weaker-economy-trump-wont-fix-the",
+    "date": "2026-09-04T14:07:24Z",
+    "description": "Long-term Treasury yields are being held up by Trump-era policy risk, heavy government borrowing and AI-driven corporate debt.",
+    "category": "AI Tools",
+    "source": "https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
+    "tags": [
+      "cnbc.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "11bb6b242647f705f3c38f490f5b7240",
+    "title": "9 signs you\u2019re being too nice to your adult kids (and it\u2019s not good for both of you)",
+    "slug": "9-signs-youre-being-too-nice-to-your-adult-kids-and-its-not-good-for-both-of-you",
+    "date": "2026-09-04T14:07:20Z",
+    "description": "You said yes again. Not to anything huge. The groceries, maybe, or the car insurance renewal, or a Saturday rearranged so you could drive over and handle something they could have handled themselves. It felt like love,...\nThe post 9 signs you\u2019re being too nic\u2026",
+    "category": "AI Tools",
+    "source": "https://stylegirlfriend.com/9-signs-youre-being-too-nice-to-your-adult-kids-and-its-not-good-for-both-of-you/",
+    "tags": [
+      "stylegirlfriend.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "736d75c077e8abae9ec27594ac565fa9",
+    "title": "Show HN: Webmcp-react v1.0.0 (React hooks for agents to use WebMCP)",
+    "slug": "show-hn-webmcpreact-v100-react-hooks-for-agents-to-use-webmcp",
+    "date": "2026-09-04T13:45:53Z",
+    "description": "React hooks for exposing your app's functionality as WebMCP tools - transport-agnostic, SSR-safe, Strict Mode safe, W3C spec-aligned - agentcathq/webmcp-react",
+    "category": "Frontend",
+    "source": "https://github.com/agentcathq/webmcp-react",
+    "tags": [
+      "github.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "783eae61f49e4580b978052f014c9ce7",
     "title": "evalforge-ci added to PyPI",
     "slug": "evalforgeci-added-to-pypi",
