@@ -1,5 +1,44 @@
 [
   {
+    "id": "1c1c6ed164a341b2e1c430b662bb421d",
+    "title": "awdk 3.8.13",
+    "slug": "awdk-3813",
+    "date": "2026-09-05T20:03:46Z",
+    "description": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: free local runtime with typed memory, knowledge graph, code graph and ReAct; paid tiers (aitherium.com) unlock fleets, channels, reasoning and marketplace packs.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/awdk/3.8.13/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "3720d91cfaa5211b66c4e197bfa71a54",
+    "title": "Khamzat Chimeav needs just 94 seconds to pin Tyron Woodley in RAF Moscow main event",
+    "slug": "khamzat-chimeav-needs-just-94-seconds-to-pin-tyron-woodley-in-raf-moscow-main-ev",
+    "date": "2026-09-05T19:50:26Z",
+    "description": "Khamzat Chimaev puts on another dominant performance at RAF",
+    "category": "AI Tools",
+    "source": "https://www.mmafighting.com/raf-wrestling/508714/khamzat-chimeav-needs-just-94-seconds-to-pin-tyron-woodley-in-raf-moscow-main-event",
+    "tags": [
+      "mmafighting.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "48d0597875d6e606399ea3c24ac4abca",
+    "title": "remagent added to PyPI",
+    "slug": "remagent-added-to-pypi",
+    "date": "2026-09-05T18:14:19Z",
+    "description": "Autonomous Zero-Vector Memory Framework for AI Agents powered by Google Gemini & Biological REM Consolidation",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/remagent/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "f7acacf702f7631573ab330a3d21c0e6",
     "title": "Donna Mills does 100 sit-ups a day, plays tennis five times a week at 85 but won't quit Doritos",
     "slug": "donna-mills-does-100-situps-a-day-plays-tennis-five-times-a-week-at-85-but-wont-",
