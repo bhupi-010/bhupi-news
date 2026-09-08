@@ -1,5 +1,44 @@
 [
   {
+    "id": "213e7cf56af721f3078a39cc2ce07118",
+    "title": "Updated Oklahoma game-by-game projections from ESPN Matchup Predictor",
+    "slug": "updated-oklahoma-gamebygame-projections-from-espn-matchup-predictor",
+    "date": "2026-09-07T16:01:07Z",
+    "description": "How did the ESPN Matchup Predictor change its view of the Oklahoma Sooners 2026 season after their Week 1 win?",
+    "category": "Dev News",
+    "source": "https://soonerswire.usatoday.com/story/sports/college/sooners/football/2026/09/07/oklahoma-football-predictions-playoff-espn-matchu-predictor/91649020007/",
+    "tags": [
+      "soonerswire.usatoday.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7e6c16193ff9547d9a9d51d0a30b78f8",
+    "title": "Science says carnivorous plant Venus Flytraps don\u2019t snap shut every time something touches them: Here\u2019s the clever reason why",
+    "slug": "science-says-carnivorous-plant-venus-flytraps-dont-snap-shut-every-time-somethin",
+    "date": "2026-09-07T15:41:37Z",
+    "description": "Inside the Venus flytrap\u2019s two-lobed trap are specialized trigger hairs that act as mechanosensory structures. When an insect bends one of these hairs enough to reach the required threshold, the mechanical stimulus is converted into an electrical signal known\u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/international/us/science-says-carnivorous-plant-venus-flytraps-dont-snap-shut-every-time-something-touches-them-heres-the-clever-reason-why/articleshow/133886412.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "ba73ccf7cb0da74c6326ff2c0b77e3d2",
+    "title": "Show HN: Qumra \u2013 Screen recorder that uploads while you record",
+    "slug": "show-hn-qumra--screen-recorder-that-uploads-while-you-record",
+    "date": "2026-09-07T15:17:23Z",
+    "description": "I built Qumra 3 years ago for myself. It's a Loom like desktop screen and camera recorder for Mac and Windows.I used Loom at the time and had a problem with the pricing, and the editor never did what I needed. As a software developer I record a lot of short v\u2026",
+    "category": "Dev News",
+    "source": "https://qumra.io",
+    "tags": [
+      "qumra.io",
+      "dev-news"
+    ]
+  },
+  {
     "id": "55cbebbd4dea23faf4c1b62eefe98f87",
     "title": "logiq-sdk added to PyPI",
     "slug": "logiqsdk-added-to-pypi",
