@@ -1,5 +1,44 @@
 [
   {
+    "id": "d6be76bc800a6df97af2cd133b99085d",
+    "title": "MAGA diehards threaten to abandon Fox News in sensational schism after Maria Bartiromo was axed",
+    "slug": "maga-diehards-threaten-to-abandon-fox-news-in-sensational-schism-after-maria-bar",
+    "date": "2026-09-07T20:31:43Z",
+    "description": "Several X users took to the platform to say as such\u00a0over the weekend, while reacting to reports the decision stemmed from censorship.",
+    "category": "Frontend",
+    "source": "https://www.dailymail.com/media/article-16112103/maria-baritromo-fox-news-paul-ryan-boycott.html",
+    "tags": [
+      "dailymail.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "f70107d1612ced04453072815a70f2f9",
+    "title": "Obsession Was A Huge Success. I Just Found Out Another Studio Totally Lost The Film",
+    "slug": "obsession-was-a-huge-success-i-just-found-out-another-studio-totally-lost-the-fi",
+    "date": "2026-09-07T20:30:00Z",
+    "description": "Sony Pictures just wanted Obsession to love them more than anything in the world.",
+    "category": "Dev News",
+    "source": "https://www.cinemablend.com/movies/obsession-was-huge-success-another-studio-totally-lost-the-film",
+    "tags": [
+      "cinemablend.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "34aadc80ed2515d2060b2155cbf6a8dc",
+    "title": "\u2018Amazing News If True\u2019 \u2014 Caitlin Clark Fans React As Dave Portnoy Claims Fever HC Stephanie White Will Be Fired Soon",
+    "slug": "amazing-news-if-true--caitlin-clark-fans-react-as-dave-portnoy-claims-fever-hc-s",
+    "date": "2026-09-07T20:06:00Z",
+    "description": "The Indiana Fever are dark horse title contenders for the 2026 WNBA season, with teams like the Minnesota Lynx, Las Vegas Aces, and Golden State Valkyries the favorites to win it all. Caitlin Clark and Fever fans believe the team is good enough to trade blows\u2026",
+    "category": "Frontend",
+    "source": "https://www.profootballnetwork.com/wnba/caitlin-clark-fans-react-dave-portnoy-claims-fever-hc-stephanie-white-fired-soon/?utm_medium=rss&amp;utm_source=nordot",
+    "tags": [
+      "profootballnetwork.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "213e7cf56af721f3078a39cc2ce07118",
     "title": "Updated Oklahoma game-by-game projections from ESPN Matchup Predictor",
     "slug": "updated-oklahoma-gamebygame-projections-from-espn-matchup-predictor",
