@@ -1,5 +1,44 @@
 [
   {
+    "id": "d27c5c27df0e0999a4254aaa61596faf",
+    "title": "Logitech launches MX Keypad in India, offering programmable keys for coding tools and AI workflows, priced at \u20b915,999",
+    "slug": "logitech-launches-mx-keypad-in-india-offering-programmable-keys-for-coding-tools",
+    "date": "2026-09-08T15:16:52Z",
+    "description": "With programmable controls and dedicated workflow features, Logitech\u2019s MX Keypad aims to reduce repetitive actions for developers, creators and other power users. | Technology News",
+    "category": "AI Tools",
+    "source": "https://www.hindustantimes.com/technology/logitech-launches-mx-keypad-in-india-offering-programmable-keys-for-coding-tools-and-ai-workflows-priced-at-rs-15999-101788879073555.html",
+    "tags": [
+      "hindustantimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a28cf3f49de5b66211f5be895a63ce28",
+    "title": "selection-fragility added to PyPI",
+    "slug": "selectionfragility-added-to-pypi",
+    "date": "2026-09-08T03:39:33Z",
+    "description": "Decision breakdown point (k*) and ranking-fragility diagnostics for forecast model selection",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/selection-fragility/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "b8ae420269c9414dea0519b98bc31bff",
+    "title": "Why do people cook crabs alive?",
+    "slug": "why-do-people-cook-crabs-alive",
+    "date": "2026-09-08T01:57:04Z",
+    "description": "Why Do People Cook Crabs Alive? Understanding the Practice and Ethical Concerns The practice of cooking crabs alive boils down to the belief that it prevents the release of toxins after death and preserves the texture of the meat. Why do people cook crabs ali\u2026",
+    "category": "Dev News",
+    "source": "https://www.lifesciencesworld.com/why-do-people-cook-crabs-alive/",
+    "tags": [
+      "lifesciencesworld.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "d6be76bc800a6df97af2cd133b99085d",
     "title": "MAGA diehards threaten to abandon Fox News in sensational schism after Maria Bartiromo was axed",
     "slug": "maga-diehards-threaten-to-abandon-fox-news-in-sensational-schism-after-maria-bar",
