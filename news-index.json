@@ -13,6 +13,45 @@
     ]
   },
   {
+    "id": "79291c84e223edc31f3dc36687412913",
+    "title": "TypeScript 7 in WebStorm: Faster Coding Assistance for Angular and React, No Migration Required",
+    "slug": "typescript-7-in-webstorm-faster-coding-assistance-for-angular-and-react-no-migra",
+    "date": "2026-09-08T10:54:49Z",
+    "description": "TypeScript 7 is a real game-changer, and its new Go-based language engine fundamentally alters how IDEs integrate with TypeScript. And what\u2019s more, WebStorm 2026.2 ships stable support for it, including for Angular and React projects. No migration is required\u2026",
+    "category": "Frontend",
+    "source": "https://blog.jetbrains.com/webstorm/2026/09/typescript-7-in-webstorm-faster-coding-assistance-for-angular-and-react-no-migration-required/",
+    "tags": [
+      "blog.jetbrains.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "9f61406a06a386bc67c4393a77337f26",
+    "title": "Quote of the day by Chris Browne: \"People make changes in their lives and their portfolios because they are confident they are making a change for the better. Without that confidence, they would merely sit still.\"",
+    "slug": "quote-of-the-day-by-chris-browne-people-make-changes-in-their-lives-and-their-po",
+    "date": "2026-09-08T10:49:46Z",
+    "description": "Chris Browne\u2019s investment philosophy highlights confidence as a driver of portfolio decisions. Investors may change allocations when they believe it improves outcomes, but decisions should be research-backed and disciplined, avoiding emotional reactions, over\u2026",
+    "category": "Frontend",
+    "source": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-chris-browne-people-make-changes-in-their-lives-and-their-portfolios-because-they-are-confident-they-are-making-a-change-for-the-better-without-that-confidence-they-would-merely-sit-still-/articleshow/133921229.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "902d787d25c97db94e7c97d2e61768fc",
+    "title": "For My Family",
+    "slug": "for-my-family",
+    "date": "2026-09-08T10:48:24Z",
+    "description": "Pedri was destined to play for FC Barcelona. He wrote this for his grandfather and his family: \u201cIt\u2019s Bar\u00e7a. It\u2019s in our family\u2019s blood.\u201d",
+    "category": "Dev News",
+    "source": "https://www.theplayerstribune.com/pedri-soccer-la-liga-barcelona-spain",
+    "tags": [
+      "theplayerstribune.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "a28cf3f49de5b66211f5be895a63ce28",
     "title": "selection-fragility added to PyPI",
     "slug": "selectionfragility-added-to-pypi",
