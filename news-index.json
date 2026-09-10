@@ -1,5 +1,44 @@
 [
   {
+    "id": "0942d697c2d969c2c3d3b5aa11adabd2",
+    "title": "Rams vs. 49ers rivalry as intense as ever heading into high-stakes Australian opener",
+    "slug": "rams-vs-49ers-rivalry-as-intense-as-ever-heading-into-highstakes-australian-open",
+    "date": "2026-09-09T15:57:34Z",
+    "description": "San Francisco 49ers coach Kyle Shanahan isn't pleased his team had to give up a \"home game\" at SoFi Stadium and is determined to beat the favored Rams.",
+    "category": "Dev News",
+    "source": "https://sports.yahoo.com/articles/rams-vs-49ers-rivalry-intense-155734962.html",
+    "tags": [
+      "sports.yahoo.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "57281ccaed2392b0c5c634fbe0317b22",
+    "title": "Flaw in DeepSeek Harness AI Coding Tool Let Agents Disable Their Sandbox",
+    "slug": "flaw-in-deepseek-harness-ai-coding-tool-let-agents-disable-their-sandbox",
+    "date": "2026-09-09T15:57:34Z",
+    "description": "A vulnerability unearthed by Ox Security in the popular open source DeepSeek Harness AI coding tool could allow agents bypass their sandbox restrictions and unauthenticated remote attacker to gain full controls agent.",
+    "category": "AI Tools",
+    "source": "https://devops.com/flaw-in-deepseek-harness-ai-coding-tool-let-agents-disable-their-sandbox/",
+    "tags": [
+      "devops.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9f34ef32fb3a94434117689760165488",
+    "title": "Near-Death Experiences and the Grief No One Names",
+    "slug": "neardeath-experiences-and-the-grief-no-one-names",
+    "date": "2026-09-09T15:48:32Z",
+    "description": "This is why coming back changed from a near-death experience can mean losing a shared reality.",
+    "category": "Dev News",
+    "source": "https://www.psychologytoday.com/us/blog/navigating-the-serpentine-path/202609/near-death-experiences-and-the-grief-no-one-names",
+    "tags": [
+      "psychologytoday.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "1808158b17717cde37e9642f6ae0730d",
     "title": "A Mutant Black Cat in The Daily LITG, 9th September 2026",
     "slug": "a-mutant-black-cat-in-the-daily-litg-9th-september-2026",
