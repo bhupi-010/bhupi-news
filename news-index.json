@@ -1,5 +1,44 @@
 [
   {
+    "id": "6d1b1d86baab43e89fbefe25144733ae",
+    "title": "UNSW reveals new measures to deal with AI cheating",
+    "slug": "unsw-reveals-new-measures-to-deal-with-ai-cheating",
+    "date": "2026-09-10T20:25:00Z",
+    "description": "As it expands ChatGPT Edu to 80,000 students, staff and researchers.",
+    "category": "AI Tools",
+    "source": "https://www.itnews.com.au/news/unsw-reveals-new-measures-to-deal-with-ai-cheating-628831",
+    "tags": [
+      "itnews.com.au",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "0e4c49a1801a331c64007c1fe2d1ea08",
+    "title": "High School Girls Are Complex Again, Huzzah",
+    "slug": "high-school-girls-are-complex-again-huzzah",
+    "date": "2026-09-10T20:09:09Z",
+    "description": "I didn\u2019t know Prime was remaking Carrie as a miniseries.\n\nThat is, maybe I read a headline about it somewhere or other, but first of all, we all know a headline like \u2018Amazon Prime to adapt Stephen King\u2019s Carrie\u2019 happens five times a day. Sometimes, something \u2026",
+    "category": "AI Tools",
+    "source": "https://www.laineygossip.com/what-is-the-first-thing-you-notice-in-trailer-for-prime-videos-series-remake-of-carrie/",
+    "tags": [
+      "laineygossip.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "f7477018636d22116157e701d7a0b9b2",
+    "title": "Stream It Or Skip It: \u2018The Perfect Lie\u2019 On Netflix, A Thriller Where A Mysterious Death Dredges Up Secrets Among A Group Of Rich Friends",
+    "slug": "stream-it-or-skip-it-the-perfect-lie-on-netflix-a-thriller-where-a-mysterious-de",
+    "date": "2026-09-10T20:00:00Z",
+    "description": "Yes, another series in the \"rich people being awful\" genre. But this one is at least tolerable.",
+    "category": "Dev News",
+    "source": "https://decider.com/2026/09/10/the-perfect-lie-netflix-review/",
+    "tags": [
+      "decider.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "817a1259fb55f65fb5b0d2c705e00bd6",
     "title": "Abacus.AI Launches the Smaug Line of Open-Weight Models Optimized for Enterprise Agentic AI Use Cases",
     "slug": "abacusai-launches-the-smaug-line-of-openweight-models-optimized-for-enterprise-a",
