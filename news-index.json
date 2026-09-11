@@ -1,5 +1,44 @@
 [
   {
+    "id": "9956b1d3e666efb4af232402284cba4c",
+    "title": "Labour's new winter of discontent? Fears over looming triple whammy of rises to energy bills, interest rates and taxes",
+    "slug": "labours-new-winter-of-discontent-fears-over-looming-triple-whammy-of-rises-to-en",
+    "date": "2026-09-10T10:51:23Z",
+    "description": "The economic mood looks to be darkening as the Iran war continues to heap costs on businesses around the world.",
+    "category": "Dev News",
+    "source": "https://www.dailymail.com/news/article-16119985/Labour-winter-discontent-energy-bills-rates-taxes.html",
+    "tags": [
+      "dailymail.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "0e0b7e482973ee04134c387dbcef837c",
+    "title": "#233 \u2013 Chris Reynolds on Building Trust With Project Contracts for Reliable AI Development",
+    "slug": "233--chris-reynolds-on-building-trust-with-project-contracts-for-reliable-ai-dev",
+    "date": "2026-09-10T10:24:58Z",
+    "description": "The conversation focused on AI-assisted development in WordPress, exploring how large language models like Claude can be both powerful and unpredictable. We talked about the need for guardrails, structured project contracts and reviewer agents, to ensure outp\u2026",
+    "category": "AI Tools",
+    "source": "https://wptavern.com/podcast/233-chris-reynolds-on-building-trust-with-project-contracts-for-reliable-ai-development",
+    "tags": [
+      "wptavern.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "6df3a963671ed35cad8239829914da41",
+    "title": "oss-oopssec-store v2.20.0",
+    "slug": "ossoopssecstore-v2200",
+    "date": "2026-09-10T10:11:21Z",
+    "description": "Security training for the apps you actually ship. Open your browser and start hacking.",
+    "category": "AI Tools",
+    "source": "https://kitploit.com/en/posts/github-koadt-oss-oopssec-store-v2200",
+    "tags": [
+      "kitploit.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "247168f9a297fedd2b8d63b1550b36f7",
     "title": "NCIS Showrunner on How Much Tony DiNozzo We're Getting in Season 24",
     "slug": "ncis-showrunner-on-how-much-tony-dinozzo-were-getting-in-season-24",
