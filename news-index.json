@@ -1,5 +1,44 @@
 [
   {
+    "id": "c77308a63fc9e42f1d3ed7da2d548324",
+    "title": "Cybersecurity Is AI's Next Big Bet After Coding: Nvidia's Jensen Huang",
+    "slug": "cybersecurity-is-ais-next-big-bet-after-coding-nvidias-jensen-huang",
+    "date": "2026-09-11T09:21:42Z",
+    "description": "Nvidia CEO Jensen Huang said cybersecurity could be the next major frontier for artificial intelligence after AI coding tools. Speaking at a Goldman Sachs conference, Huang said AI systems that help write software can also detect bugs and vulnerabilities.",
+    "category": "AI Tools",
+    "source": "https://www.freepressjournal.in/tech/cybersecurity-is-ais-next-big-bet-after-coding-nvidias-jensen-huang",
+    "tags": [
+      "freepressjournal.in",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e29c7b5f80f8a25218e1d1df36e9a5a5",
+    "title": "Show HN: OpenMuse \u2013 an Open Source alternative to Meta's personal agent",
+    "slug": "show-hn-openmuse--an-open-source-alternative-to-metas-personal-agent",
+    "date": "2026-09-11T02:14:03Z",
+    "description": "Article URL: https://github.com/diggerhq/openmuse/\nComments URL: https://news.ycombinator.com/item?id=49652769\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/diggerhq/openmuse/",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "fa845a0bfe2701e82fd0117c484d64f1",
+    "title": "\u2018Substation Has Insane Range,\u2019 \u2018Have Had Enough of This\u2019 \u2014 NFL Fans React As 49ers WR De\u2019Zhaun Stribling Suffers Injury vs. Rams",
+    "slug": "substation-has-insane-range-have-had-enough-of-this--nfl-fans-react-as-49ers-wr-",
+    "date": "2026-09-11T01:54:17Z",
+    "description": "The San Francisco 49ers just kicked off their season in Melbourne. Their offense hasn\u2019t quite clicked, although they\u2019ve done alright moving the ball downfiel...",
+    "category": "Frontend",
+    "source": "https://www.profootballnetwork.com/nfl-fans-react-49ers-dezhaun-stribling-injury/",
+    "tags": [
+      "profootballnetwork.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "6d1b1d86baab43e89fbefe25144733ae",
     "title": "UNSW reveals new measures to deal with AI cheating",
     "slug": "unsw-reveals-new-measures-to-deal-with-ai-cheating",
