@@ -1,5 +1,44 @@
 [
   {
+    "id": "f3252f368c2d7438e1acb5984e5e6b0f",
+    "title": "How Variety Covered 9/11 Attack and Its Aftermath 25 Years Ago",
+    "slug": "how-variety-covered-911-attack-and-its-aftermath-25-years-ago",
+    "date": "2026-09-11T15:15:00Z",
+    "description": "On Sept. 11, 2001, after the deadliest terrorist attack on the U.S. in history, Variety reporters and editors swung into action to put out the daily paper. This was the lede on the multi-bylined top story in the Sept. 12 edition of Daily Variety: \u201cIt was the \u2026",
+    "category": "AI Tools",
+    "source": "https://variety.com/2026/biz/news/how-variety-covered-9-11-terrorist-attacks-1236857523/",
+    "tags": [
+      "variety.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "2c855dff9c7fa55f34e82ac09419f784",
+    "title": "Cowboys WR George Pickens ranks himself, CeeDee Lamb as No. 1",
+    "slug": "cowboys-wr-george-pickens-ranks-himself-ceedee-lamb-as-no-1",
+    "date": "2026-09-11T15:12:47Z",
+    "description": "As the Dallas Cowboys 2026 season opener with the New York Giants nears, George Pickens has big expectations for himself and running mate CeeDee Lamb.",
+    "category": "Dev News",
+    "source": "https://www.elpasotimes.com/story/sports/football/nfl/2026/09/11/george-pickens-believes-he-and-ceedee-lamb-are-the-best-in-nfl/91696362007/",
+    "tags": [
+      "elpasotimes.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a7f502afecc891ffa767586b858037e6",
+    "title": "evaltrack added to PyPI",
+    "slug": "evaltrack-added-to-pypi",
+    "date": "2026-09-11T14:44:14Z",
+    "description": "Pytest plugin to record, gate and track LLM eval runs from pydantic-evals, DeepEval or a runner you write a translator for",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/evaltrack/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "b88ccb78625e7a85a7239bc6c2bb43ca",
     "title": "Patriots' Dre\u2019Mont Jones laid foundation for big year, even in defeat",
     "slug": "patriots-dremont-jones-laid-foundation-for-big-year-even-in-defeat",
