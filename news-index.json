@@ -1,5 +1,44 @@
 [
   {
+    "id": "622c9d38a58d34cc7a0943359a0c5939",
+    "title": "agent-eval-flow added to PyPI",
+    "slug": "agentevalflow-added-to-pypi",
+    "date": "2026-09-14T11:22:58Z",
+    "description": "Evidence-preserving evaluation of complete agent systems",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/agent-eval-flow/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "437f02f44269474560f5eacfec319c60",
+    "title": "sklad v0.2.3",
+    "slug": "sklad-v023",
+    "date": "2026-09-14T11:09:22Z",
+    "description": "Industrial-grade secure snippet warehouse for your system tray.  Built with Rust (Tauri v2) & React. Offline-first, AES-256 encrypted, and recursive.",
+    "category": "Frontend",
+    "source": "https://kitploit.com/en/posts/github-rench321-sklad-v023",
+    "tags": [
+      "kitploit.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "f15bca325ff1e802095fd7bdc74ab4f9",
+    "title": "EXCLUSIVE | Bacary Sagna: \u2018Loving football is one thing, but understanding it is something else.\u00a0It is about business.\u2019",
+    "slug": "exclusive--bacary-sagna-loving-football-is-one-thing-but-understanding-it-is-som",
+    "date": "2026-09-14T11:05:00Z",
+    "description": "Get French Football News had the opportunity to sit down for a chat with former Arsenal, Manchester City and France defender Bacary Sagna to discuss the business of football.When you look at almost ev...",
+    "category": "Dev News",
+    "source": "https://www.getfootballnewsfrance.com/2026/exclusive-bacary-sagna-loving-football-is-one-thing-but-understanding-it-is-something-else-it-is-about-business/",
+    "tags": [
+      "getfootballnewsfrance.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "7317dfa8e611737b6be96ff3d161203d",
     "title": "Can chickens smell fox urine?",
     "slug": "can-chickens-smell-fox-urine",
