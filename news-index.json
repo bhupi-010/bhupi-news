@@ -1,5 +1,44 @@
 [
   {
+    "id": "b613805c8e9c91c9463b45703ae2c281",
+    "title": "BBC Women's Football Weekly",
+    "slug": "bbc-womens-football-weekly-b61380",
+    "date": "2026-09-14T16:31:00Z",
+    "description": "How costly could early dropped points be for Arsenal and their fight for the WSL title?",
+    "category": "Dev News",
+    "source": "https://www.bbc.co.uk/sounds/play/p0p9lrc6?at_campaign=rss",
+    "tags": [
+      "bbc.co.uk",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "28c5e8e98757db92f31a6cb686247dd2",
+    "title": "Psychology says people who saw the ChatGPT \u201980s trend everywhere but still decided to opt out of it aren\u2019t boring",
+    "slug": "psychology-says-people-who-saw-the-chatgpt-80s-trend-everywhere-but-still-decide",
+    "date": "2026-09-14T16:15:21Z",
+    "description": "A trend often feels exciting at first because it is new and relatively uncommon. But when countless versions of the same aesthetic begin appearing across social media feeds, that sense of originality can quickly fade. For someone who values individuality, the\u2026",
+    "category": "Dev News",
+    "source": "https://economictimes.indiatimes.com/news/international/us/psychology-says-people-who-saw-the-chatgpt-80s-trend-everywhere-but-still-decided-to-opt-out-of-it-arent-boring/articleshow/134242226.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "9004da8158fa36f2335c8991888cf9ae",
+    "title": "Hackers Mass-Scan Exposed Vite Servers to Steal AWS and Azure Cloud Credentials",
+    "slug": "hackers-massscan-exposed-vite-servers-to-steal-aws-and-azure-cloud-credentials",
+    "date": "2026-09-14T16:00:00Z",
+    "description": "Hackers are conducting a large-scale automated scanning campaign against internet-exposed Vite development servers, attempting to steal AWS credentials, Azure access tokens, environment variables, and Infrastructure-as-Code secrets. F5 honeypot sensors record\u2026",
+    "category": "AI Tools",
+    "source": "https://cybersecuritynews.com/vite-servers-under-attack/",
+    "tags": [
+      "cybersecuritynews.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "622c9d38a58d34cc7a0943359a0c5939",
     "title": "agent-eval-flow added to PyPI",
     "slug": "agentevalflow-added-to-pypi",
