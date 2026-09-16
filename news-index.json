@@ -1,5 +1,44 @@
 [
   {
+    "id": "0e98321d3329c8b5f0bf86a74ff8332b",
+    "title": "Show HN: Leo \u2013 a Markdown engineering process for AI coding agents",
+    "slug": "show-hn-leo--a-markdown-engineering-process-for-ai-coding-agents",
+    "date": "2026-09-15T15:38:37Z",
+    "description": "A deterministic context-driven agentic SDLC framework for Cursor and Claude. 41 codified laws and 22 specialist roles to eliminate LLM hallucinations and context drift. - alex-zaporozhan/leo",
+    "category": "AI Tools",
+    "source": "https://github.com/alex-zaporozhan/leo",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "0a55b6fb7ec4108be8411e4d70e60c3d",
+    "title": "/C O R R E C T I O N -- First Watch Restaurants/",
+    "slug": "c-o-r-r-e-c-t-i-o-n--first-watch-restaurants",
+    "date": "2026-09-15T15:38:00Z",
+    "description": "In the news release, The Traitors: New Blood and First Watch Serve Up A Devilishly Delicious Breakfast This Fall, issued 15-Sep-2026 by First Watch Restaurants over PR Newswire, we are advised by the company that the hyperlink in the fifth paragraph has been \u2026",
+    "category": "AI Tools",
+    "source": "https://www.prnewswire.com/news-releases/the-traitors-new-blood-and-first-watch-serve-up-a-devilishly-delicious-breakfast-this-fall-302878614.html",
+    "tags": [
+      "prnewswire.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e991e687f23d64ea3ea86ff647839d78",
+    "title": "\u201cRidiculous\u201d; \u201cSo Weird\u201d \u2013 MLB World Reacts As Mets Fans Cheer Pete Alonso\u2019s Near-HR, Leave Early After His Final At-Bat For Orioles",
+    "slug": "ridiculous-so-weird--mlb-world-reacts-as-mets-fans-cheer-pete-alonsos-nearhr-lea",
+    "date": "2026-09-15T15:33:01Z",
+    "description": "Orioles star slugger Pete Alonso received a warm reception at Citi Field as Baltimore opened their three-game series against the Mets on Monday night. The scene inside the stadium was shocking, as home fans seemed to cheer more for an opposing player during h\u2026",
+    "category": "Frontend",
+    "source": "https://collegefootballnetwork.com/baseball/mets-fans-cheer-pete-alonso/?utm_medium=rss&amp;utm_source=nordot",
+    "tags": [
+      "collegefootballnetwork.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "7c6820f3035df490bd1dfca6239275c6",
     "title": "Bills news: Buffalo\u2019s coaches react to season-opening win",
     "slug": "bills-news-buffalos-coaches-react-to-seasonopening-win",
