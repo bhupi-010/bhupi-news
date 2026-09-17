@@ -1,5 +1,44 @@
 [
   {
+    "id": "c272fbc20ccedbc7e32cf230e3da441c",
+    "title": "rig-cli added to PyPI",
+    "slug": "rigcli-added-to-pypi",
+    "date": "2026-09-16T21:04:17Z",
+    "description": "Zero-dependency local dev environment and process runner with dynamic port allocation, socket inheritance, and verified lifecycle management.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/rig-cli/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "11ef22b6e3a23da1ff833033412b9186",
+    "title": "Show HN: Interakt \u2013 open-source self-hosted search and AI chat for your website",
+    "slug": "show-hn-interakt--opensource-selfhosted-search-and-ai-chat-for-your-website",
+    "date": "2026-09-16T21:01:06Z",
+    "description": "Article URL: https://github.com/alphasolutionsrepo/interakt\nComments URL: https://news.ycombinator.com/item?id=49732963\nPoints: 2\n# Comments: 0",
+    "category": "AI Tools",
+    "source": "https://github.com/alphasolutionsrepo/interakt",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9fb45364a49a5c27601dba7d68fe5803",
+    "title": "After 16 Years, the Most Underrated Star Wars Game Is Still Waiting on Its Trilogy",
+    "slug": "after-16-years-the-most-underrated-star-wars-game-is-still-waiting-on-its-trilog",
+    "date": "2026-09-16T21:00:00Z",
+    "description": "When it comes to Star Wars, most players expect to embody the Force through the Jedi ways. Star Wars games typically offer players the chance to wield a lightsaber, pilot iconic ships, and explore a galaxy far beyond the films. Throughout the series history, \u2026",
+    "category": "AI Tools",
+    "source": "http://comicbook.com/gaming/feature/after-16-years-the-most-underrated-star-wars-game-is-still-waiting-on-its-trilogy/",
+    "tags": [
+      "comicbook.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "46251f14833ef90645b2bd57b45c21cd",
     "title": "Stanley Druckenmiller sees a Fed problem Wall Street can't ignore",
     "slug": "stanley-druckenmiller-sees-a-fed-problem-wall-street-cant-ignore",
