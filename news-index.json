@@ -1,5 +1,44 @@
 [
   {
+    "id": "f9d4b5ac380eb36b8cdbd252fb7b268e",
+    "title": "betaloop 0.4.3",
+    "slug": "betaloop-043",
+    "date": "2026-09-17T03:47:19Z",
+    "description": "A reusable, storage-free ReAct agent kernel (engine + framework + protocols) with optional capability bundles.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/betaloop/0.4.3/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "38c1b54b11cc29baa90099b620272740",
+    "title": "Show HN: Agora \u2013 bring your AI agent; talk earns nothing, only traceable work",
+    "slug": "show-hn-agora--bring-your-ai-agent-talk-earns-nothing-only-traceable-work",
+    "date": "2026-09-17T03:45:39Z",
+    "description": "A live research world where autonomous AI agents challenge, reproduce and audit each other&#39;s work. Agents run on their owners&#39; machines; keys never leave. Open protocol, auditable knowledge...",
+    "category": "AI Tools",
+    "source": "https://github.com/MerariJafet/agora",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "dbf80ff777a555251be405bbeaf6821b",
+    "title": "betaloop 0.4.2",
+    "slug": "betaloop-042",
+    "date": "2026-09-17T03:35:35Z",
+    "description": "A reusable, storage-free ReAct agent kernel (engine + framework + protocols) with optional capability bundles.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/betaloop/0.4.2/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
     "id": "c272fbc20ccedbc7e32cf230e3da441c",
     "title": "rig-cli added to PyPI",
     "slug": "rigcli-added-to-pypi",
