@@ -1,5 +1,44 @@
 [
   {
+    "id": "579b7505d11e2334751d8f34ead1fae5",
+    "title": "Brushstroke Shader by Immerea",
+    "slug": "brushstroke-shader-by-immerea",
+    "date": "2026-09-17T10:48:12Z",
+    "description": "A real-time brushstroke shader for Unity that turns 3D models into a hand-painted aesthetic. Create layered strokes, directional brushwork, flowing patterns, and loose strokes with full control.<ul><li>Unity Version: 6000.1\u20136000.4 tested (newer versions may b\u2026",
+    "category": "AI Tools",
+    "source": "https://assetstore.unity.com/packages/vfx/shaders/brushstroke-shader-398878",
+    "tags": [
+      "assetstore.unity.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "6da46db4f71dce50fa3a3fbaec6e5020",
+    "title": "Show HN: Windows Automation Tool \u2013 System Center Orchestrator Replacement",
+    "slug": "show-hn-windows-automation-tool--system-center-orchestrator-replacement",
+    "date": "2026-09-17T10:42:09Z",
+    "description": "Open source tool for automating your Windows tasks, if you are annoyed of plane powershell scripts and Windows Scheduled Tasks.\n\nComments URL: https://news.ycombinator.com/item?id=49738860\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/Sev7eNup/NodePilot",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "c1626f7b79421115a42914f902b89ccc",
+    "title": "King Charles issues fiery response to Princess Diana\u2019s brother over claims in new book",
+    "slug": "king-charles-issues-fiery-response-to-princess-dianas-brother-over-claims-in-new",
+    "date": "2026-09-17T10:40:53Z",
+    "description": "In a rare rebuke, Buckingham Palace issued a robust statement aimed at King Charles III\u2019s former brother-in-law, Earl Charles Spencer, as he is set to release his bombshell memoir.",
+    "category": "AI Tools",
+    "source": "https://www.nbcnews.com/world/united-kingdom/king-charles-princess-diana-brother-charles-spencer-book-forgotten-rcna598282",
+    "tags": [
+      "nbcnews.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "f9d4b5ac380eb36b8cdbd252fb7b268e",
     "title": "betaloop 0.4.3",
     "slug": "betaloop-043",
