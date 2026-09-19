@@ -1,5 +1,44 @@
 [
   {
+    "id": "2bee03604811530b6ec126ecabb69309",
+    "title": "Blizzard, this is the Diablo 5 I want",
+    "slug": "blizzard-this-is-the-diablo-5-i-want",
+    "date": "2026-09-18T03:31:00Z",
+    "description": "Diablo V has a rare opportunity to learn from everything that came before it, both within the series and outside it. Here is what I want Blizzard to keep, rethink and completely overhaul for the next chapter.",
+    "category": "Dev News",
+    "source": "https://www.notebookcheck.net/Blizzard-this-is-the-Diablo-5-I-want.1402394.0.html",
+    "tags": [
+      "notebookcheck.net",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f712a43cf8a2a1d334d0ad04a7515b88",
+    "title": "Rotorua and P\u0101p\u0101moa Pak\u2019nSave owners react to National\u2019s Foodstuffs-split plan",
+    "slug": "rotorua-and-p\u0101p\u0101moa-paknsave-owners-react-to-nationals-foodstuffssplit-plan",
+    "date": "2026-09-18T03:11:29Z",
+    "description": "Another supermarket owner in the region said he was 'bewildered' and in 'disbelief'.",
+    "category": "Frontend",
+    "source": "https://www.nzherald.co.nz/rotorua-daily-post/news/rotorua-and-papamoa-paknsave-owners-react-to-nationals-foodstuffs-split-plan/G3H5MSDNDZD63EKU6WEVYEPC74/",
+    "tags": [
+      "nzherald.co.nz",
+      "frontend"
+    ]
+  },
+  {
+    "id": "c7443d3a37e694a63718483df21fc8b2",
+    "title": "lexis-cli added to PyPI",
+    "slug": "lexiscli-added-to-pypi",
+    "date": "2026-09-18T03:00:46Z",
+    "description": "Ossie-native semantic layer: author models once, transpile to warehouse-native SQL and BI/AI consumer formats",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/lexis-cli/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "01593071ed5965d5180f01f619be678b",
     "title": "Attackers turn AI coding tools and agent skills into supply-chain entry points",
     "slug": "attackers-turn-ai-coding-tools-and-agent-skills-into-supplychain-entry-points",
