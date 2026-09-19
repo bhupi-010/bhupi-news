@@ -1,5 +1,44 @@
 [
   {
+    "id": "caaa74e06bd8601b17271665aeefb873",
+    "title": "Show HN: Lodestar \u2013 Read, respond and manage coding agents more naturally",
+    "slug": "show-hn-lodestar--read-respond-and-manage-coding-agents-more-naturally",
+    "date": "2026-09-18T19:14:49Z",
+    "description": "I was frustrated by having 10 terminal windows open, and I checked a few solutions on how to make this better. They are all nice, but then I realized what I really wanted was something that feels a bit deeper and more intelligent than a \"dashboard\" of all you\u2026",
+    "category": "Dev News",
+    "source": "https://www.try-lodestar.com/",
+    "tags": [
+      "try-lodestar.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2d813b01f5a225d5da4c3a4b1d869cdf",
+    "title": "MCP vs REST/HTTP API vs Kafka: The Architect's Guide to Agentic AI Integration",
+    "slug": "mcp-vs-resthttp-api-vs-kafka-the-architects-guide-to-agentic-ai-integration",
+    "date": "2026-09-18T19:00:00Z",
+    "description": "Every major AI vendor now supports the Model Context Protocol. The framing is almost always the same: MCP is the universal connector for AI agents in the enterprise. That framing sets up a false choice. MCP, REST/HTTP APIs, and Apache Kafka are not alternativ\u2026",
+    "category": "AI Tools",
+    "source": "https://www.kai-waehner.de/blog/2026/04/10/mcp-vs-rest-http-api-vs-kafka-the-architects-guide-to-agentic-ai-integration/",
+    "tags": [
+      "kai-waehner.de",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a600426137b9b8036dce342476144dc3",
+    "title": "Payward files to offer single-stock perpetual futures on Kraken for US traders",
+    "slug": "payward-files-to-offer-singlestock-perpetual-futures-on-kraken-for-us-traders",
+    "date": "2026-09-18T18:57:55Z",
+    "description": "The launch of single-stock perpetual futures could revolutionize US trading by offering continuous market access and new leverage opportunities.\nThe post Payward files to offer single-stock perpetual futures on Kraken for US traders appeared first on Crypto B\u2026",
+    "category": "Dev News",
+    "source": "https://cryptobriefing.com/payward-kraken-single-stock-perpetual-futures/",
+    "tags": [
+      "cryptobriefing.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "6397199622e75658d36ef2a98d3af000",
     "title": "CLARITY Act Failed. Now SEC and CFTC Could Rewrite U.S. Crypto Rules",
     "slug": "clarity-act-failed-now-sec-and-cftc-could-rewrite-us-crypto-rules",
