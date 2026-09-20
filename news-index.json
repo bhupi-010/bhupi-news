@@ -1,5 +1,44 @@
 [
   {
+    "id": "285dd2f52f4b90ba226c6a392f1a7d2e",
+    "title": "Show HN: NSLibrary \u2013 a self-hosted library for your Switch games and homebrew",
+    "slug": "show-hn-nslibrary--a-selfhosted-library-for-your-switch-games-and-homebrew",
+    "date": "2026-09-19T10:57:21Z",
+    "description": "Self-hosted library for your own Nintendo Switch dumps. Scan folders of NSP, NSZ, XCI, XCZ, and homebrew NRO files, fill in metadata, spot missing or duplicate content, and send titles to a modded ...",
+    "category": "Dev News",
+    "source": "https://github.com/tuckerwales/nslibrary",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "56de2a615ef7474fc3b16e43063b9826",
+    "title": "Five One UI 9 features you should try first",
+    "slug": "five-one-ui-9-features-you-should-try-first",
+    "date": "2026-09-19T10:48:47Z",
+    "description": "Samsung released the stable One UI 9 update for the Galaxy S26 series in Korea on September 16. A wider rollout should start from September 21, with devices such as the Galaxy S25 series scheduled to follow from September 28 in some markets. One UI 9 includes\u2026",
+    "category": "Dev News",
+    "source": "https://www.sammobile.com/news/five-one-ui-9-features-you-should-try-first/",
+    "tags": [
+      "sammobile.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "eef182f65c105effca078cf6dec36172",
+    "title": "Assassins Creed Mirage-RUNE",
+    "slug": "assassins-creed-miragerune",
+    "date": "2026-09-19T10:38:30Z",
+    "description": "Release Description: VALLEY OF MEMORYEnjoy 6 hours of new gameplay in Valley of Memory, a free major update that expands Basim\u2019s story and introduces the breathtaking new region of AlUla, with gameplay improvements across the full game.THE ULTIMATE ASSASSINBe\u2026",
+    "category": "Dev News",
+    "source": "https://post.rlsbb.cc/assassins-creed-mirage-rune/",
+    "tags": [
+      "post.rlsbb.cc",
+      "dev-news"
+    ]
+  },
+  {
     "id": "ec4f0fdba83a460feeeafff3ec9fc21c",
     "title": "\u2018I Should\u2019ve Faded Puka Nacua,\u2019 \u2018Not Ideal\u2019 \u2014 Doctors React to Rams Superstar\u2019s Surprise Absence From Practice With Hip Injury",
     "slug": "i-shouldve-faded-puka-nacua-not-ideal--doctors-react-to-rams-superstars-surprise",
