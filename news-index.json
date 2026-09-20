@@ -1,5 +1,44 @@
 [
   {
+    "id": "537d1722b88fe7c975a59bbe3c41d1b7",
+    "title": "yakit v1.4.8-0919",
+    "slug": "yakit-v1480919",
+    "date": "2026-09-19T15:26:07Z",
+    "description": "All-in-one penetration testing platform with MITM proxy, web fuzzer, reverse connection handler, and plugin system for automated security testing and exploitation.",
+    "category": "Dev News",
+    "source": "https://kitploit.com/en/posts/github-yaklang-yakit-v148-0919",
+    "tags": [
+      "kitploit.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f309d5cb092d2d99c0d904641e472f5e",
+    "title": "His Neighbor Keeps Showing Up in His Yard Unannounced With His Son to Play With the Dogs \u2014 He\u2019s Had Enough",
+    "slug": "his-neighbor-keeps-showing-up-in-his-yard-unannounced-with-his-son-to-play-with-",
+    "date": "2026-09-19T15:24:37Z",
+    "description": "You have to be extra careful when your dog is around kids that don't belong to you.\nThe post His Neighbor Keeps Showing Up in His Yard Unannounced With His Son to Play With the Dogs \u2014 He\u2019s Had Enough appeared first on TwistedSifter.",
+    "category": "Dev News",
+    "source": "https://twistedsifter.com/2026/09/his-neighbor-keeps-showing-up-in-his-yard-unannounced-with-his-son-to-play-with-the-dogs-hes-had-enough/",
+    "tags": [
+      "twistedsifter.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a8f03a781158d4617f066a81893c550f",
+    "title": "\u2018Nobody Asked for This,\u2019 \u2018Atmosphere Is Going To Be Wild\u2019 \u2014 CFB Fans React As Ole Miss Sends Unusual Warning to Students Before LSU Clash",
+    "slug": "nobody-asked-for-this-atmosphere-is-going-to-be-wild--cfb-fans-react-as-ole-miss",
+    "date": "2026-09-19T15:19:19Z",
+    "description": "Ole Miss and LSU are heading into a matchup that has become one of the weekend\u2019s biggest talking points in the football community. Two undefeated top-10 teams are set to meet, while Lane Kiffin\u2019s return to Oxford adds another context to the rivalry.",
+    "category": "Frontend",
+    "source": "https://www.profootballnetwork.com/cfb/cfb-fans-react-ole-miss-sends-warning-before-lsu-clash/",
+    "tags": [
+      "profootballnetwork.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "285dd2f52f4b90ba226c6a392f1a7d2e",
     "title": "Show HN: NSLibrary \u2013 a self-hosted library for your Switch games and homebrew",
     "slug": "show-hn-nslibrary--a-selfhosted-library-for-your-switch-games-and-homebrew",
