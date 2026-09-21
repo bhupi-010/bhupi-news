@@ -1,5 +1,44 @@
 [
   {
+    "id": "3289e46cf1bec0eb61225eccb7aaf420",
+    "title": "Jets blow late double-digit lead, lose to Packers in overtime, 20-17",
+    "slug": "jets-blow-late-doubledigit-lead-lose-to-packers-in-overtime-2017",
+    "date": "2026-09-20T21:00:16Z",
+    "description": "The Jets blew a 10-point fourth quarter lead and then hurt themselves with offensive line breakdowns and penalties in overtime, setting up rookie Trey Smack\u2019s game-winning kick.",
+    "category": "Dev News",
+    "source": "https://sny.tv/articles/jets-packers-takeaways-9-20-26",
+    "tags": [
+      "sny.tv",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "1c1a0f3109e935dd1f93a8f35733ed16",
+    "title": "Aaron Rodgers acknowledges Steelers offense isn't playing 'winning football' after listless effort in loss to Patriots",
+    "slug": "aaron-rodgers-acknowledges-steelers-offense-isnt-playing-winning-football-after-",
+    "date": "2026-09-20T19:58:52Z",
+    "description": "For the second time in two 2026 games, Drake Maye wasn't great. On Sunday, he didn't need to be. New England's defense teed off on Aaron Rodgers and an impotent Pittsburgh Steelers offense for a 20-3 Patriots win.",
+    "category": "Dev News",
+    "source": "https://sports.yahoo.com/nfl/breaking-news/article/aaron-rodgers-acknowledges-steelers-offense-isnt-playing-winning-football-after-listless-effort-in-loss-to-patriots-195852114.html",
+    "tags": [
+      "sports.yahoo.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a501e12b67f00f236690c50a621cae8e",
+    "title": "settled-computer added to PyPI",
+    "slug": "settledcomputer-added-to-pypi",
+    "date": "2026-09-20T19:41:12Z",
+    "description": "MCP server for desktop computer use with event-driven settling: every action waits until the screen reacts and stops changing, then returns the settled screenshot.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/settled-computer/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
     "id": "347e385a1eaf3e0b56bb5a57b36b9235",
     "title": "UCLA AD Tim Harris sees major opportunity to \u2018wake up the giant\u2019",
     "slug": "ucla-ad-tim-harris-sees-major-opportunity-to-wake-up-the-giant",
