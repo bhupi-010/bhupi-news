@@ -1,5 +1,44 @@
 [
   {
+    "id": "9a7cb74e22874557365985f89cf77495",
+    "title": "\u2018Soul-sucking\u2019: Techie's viral post on AI coding tools sparks debate, Elon Musk reacts",
+    "slug": "soulsucking-techies-viral-post-on-ai-coding-tools-sparks-debate-elon-musk-reacts",
+    "date": "2026-09-22T04:35:10Z",
+    "description": "The techie also claimed employees face intense pressure to ship products at maximum speed, leaving them with little to no time to review the AI's output or understand the underlying code.",
+    "category": "Frontend",
+    "source": "https://www.livemint.com/news/trends/soulsucking-techies-viral-post-on-ai-coding-tools-sparks-debate-elon-musk-reacts-11790045885996.html",
+    "tags": [
+      "livemint.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "97472da8b312e537e215485e602dbbeb",
+    "title": "The agents, they just want to talk",
+    "slug": "the-agents-they-just-want-to-talk",
+    "date": "2026-09-21T16:22:26Z",
+    "description": "After reading about the Huggingface incident from the OpenAI report, I got the idea of trying to replicate the self organizing behavior of agents by modifying the Pi harness to run locally. Whilst doing it, I also ended up replicating the tragedy of the commo\u2026",
+    "category": "AI Tools",
+    "source": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
+    "tags": [
+      "snats.xyz",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "265e2a55fd06286e903952e5c80462b5",
+    "title": "Bitcoin ETFs Just Had Their Worst Day Since June: What Happened?",
+    "slug": "bitcoin-etfs-just-had-their-worst-day-since-june-what-happened",
+    "date": "2026-09-21T16:11:06Z",
+    "description": "US Bitcoin ETFs saw sharp reversal in mid-September as investors reduced risk during a volatile week. Spot funds lost about $450 million in one session,...\nThe post Bitcoin ETFs Just Had Their Worst Day Since June: What Happened? appeared first on Bitcoin Fou\u2026",
+    "category": "Dev News",
+    "source": "https://bitcoinfoundation.org/news/crypto-etf/bitcoin-etfs-just-had-their-worst-day-since-june-what-happened/",
+    "tags": [
+      "bitcoinfoundation.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "d0819b41ab8715ff9031e7a76a43b657",
     "title": "So Your Kid Walked In On You Having Sex. Now What?",
     "slug": "so-your-kid-walked-in-on-you-having-sex-now-what",
