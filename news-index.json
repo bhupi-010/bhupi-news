@@ -1,5 +1,44 @@
 [
   {
+    "id": "23e9c366edfe97a9e055c68550600299",
+    "title": "Claude Opus 5.5",
+    "slug": "claude-opus-55",
+    "date": "2026-09-22T16:27:30Z",
+    "description": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+    "category": "Dev News",
+    "source": "https://www.anthropic.com/claude-opus-5-5",
+    "tags": [
+      "anthropic.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "b8d18a2cf7a8df3b9899f0d189af8c5a",
+    "title": "Glassnode Flips Bullish on Altcoins: Is Altcoin Season Finally Here?",
+    "slug": "glassnode-flips-bullish-on-altcoins-is-altcoin-season-finally-here",
+    "date": "2026-09-22T16:20:58Z",
+    "description": "Glassnode turns bullish on altcoins: is altcoin season finally here? The altcoin market in 2026 has entered a more significant phase after months of price...\nThe post Glassnode Flips Bullish on Altcoins: Is Altcoin Season Finally Here? appeared first on Bitco\u2026",
+    "category": "Dev News",
+    "source": "https://bitcoinfoundation.org/news/analysis/glassnode-flips-bullish-on-altcoins-is-altcoin-season-finally-here/",
+    "tags": [
+      "bitcoinfoundation.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a72592f83093ee00ba2fa9ee3c8f7516",
+    "title": "pddiktiaw added to PyPI",
+    "slug": "pddiktiaw-added-to-pypi",
+    "date": "2026-09-22T16:02:24Z",
+    "description": "Unofficial PDDIKTI API wrapper (FastAPI + httpx): Indonesian higher-education database \u2014 students, lecturers, institutions, study programmes",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/pddiktiaw/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "015c866c7ec71f182608ea3d6b2456b3",
     "title": "Crypto Crash Panic: Coinbase Goes Down as Bitcoin Hits $85K and $919M Shorts Get Wiped Out",
     "slug": "crypto-crash-panic-coinbase-goes-down-as-bitcoin-hits-85k-and-919m-shorts-get-wi",
