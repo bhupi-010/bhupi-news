@@ -1,5 +1,44 @@
 [
   {
+    "id": "e99bc2a092112f4f71638f5c34c07ab1",
+    "title": "tselora added to PyPI",
+    "slug": "tselora-added-to-pypi",
+    "date": "2026-09-22T21:17:33Z",
+    "description": "Open-source execution intelligence platform for AI agents.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/tselora/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "4fef54a487f03007366bc048589a1137",
+    "title": "Breitbart Business Digest: Who\u2019s the Boss of the Bond Market?",
+    "slug": "breitbart-business-digest-whos-the-boss-of-the-bond-market",
+    "date": "2026-09-22T21:12:05Z",
+    "description": "Rising Treasury yields are routinely presented as a warning from an unusually sober and wise constituency. But the bond market may simply be a prediction market based on forecasting Fed policy.\nThe post Breitbart Business Digest: Who\u2019s the Boss of the Bond Ma\u2026",
+    "category": "Dev News",
+    "source": "https://www.breitbart.com/economy/2026/09/22/breitbart-business-digest-whos-the-boss-of-the-bond-market/",
+    "tags": [
+      "breitbart.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "240fb8873f0184b7c1e637e97df95214",
+    "title": "Will investors be better or worse off under new housing tax changes? See what 18 years of data reveals",
+    "slug": "will-investors-be-better-or-worse-off-under-new-housing-tax-changes-see-what-18-",
+    "date": "2026-09-22T20:16:46Z",
+    "description": "New research suggests upcoming housing investor taxes will have a less dramatic impact than many fear. But some, especially retired investors, will be worse off.",
+    "category": "Dev News",
+    "source": "https://theconversation.com/will-investors-be-better-or-worse-off-under-new-housing-tax-changes-see-what-18-years-of-data-reveals-285148",
+    "tags": [
+      "theconversation.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "23e9c366edfe97a9e055c68550600299",
     "title": "Claude Opus 5.5",
     "slug": "claude-opus-55",
