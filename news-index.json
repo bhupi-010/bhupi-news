@@ -1,5 +1,44 @@
 [
   {
+    "id": "46b922240acfa8c474c9a22191cf3fed",
+    "title": "skyline-review added to PyPI",
+    "slug": "skylinereview-added-to-pypi",
+    "date": "2026-09-23T03:21:07Z",
+    "description": "See how a change shapes the design, not just the lines.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/skyline-review/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7ea87ddcb2c9b3e3e93c7a5e8ce916d6",
+    "title": "Chainlink Ships Node v2.64.0 Maintenance Release",
+    "slug": "chainlink-ships-node-v2640-maintenance-release",
+    "date": "2026-09-23T02:30:00Z",
+    "description": "TL;DR Chainlink node software v2.64.0 was released on September 14. The update includes telemetry fixes, EVM log-poller improvements and OCR2 maintenance work. The release is not a new CCIP protocol launch. Chainlink node operators have a new production relea\u2026",
+    "category": "AI Tools",
+    "source": "https://bitcoinist.com/chainlink-ships-node-v2640-maintenance-release/",
+    "tags": [
+      "bitcoinist.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "7573daef3b66e60b106e5990e00a841a",
+    "title": "What Charles told Camilla years after Diana's death left her stunned... it exposes a hard truth about Earl Spencer's allegations. Those close to the King know it all too well: ROBERT JOBSON",
+    "slug": "what-charles-told-camilla-years-after-dianas-death-left-her-stunned-it-exposes-a",
+    "date": "2026-09-23T01:22:16Z",
+    "description": "I was inside Westminster Abbey for the ceremonial funeral of Diana, Princess of Wales. I had a direct view of the royal family.",
+    "category": "Dev News",
+    "source": "https://www.dailymail.com/news/royals/article-16151387/king-charles-diana-camilla-earl-spencer-stunned.html",
+    "tags": [
+      "dailymail.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "e99bc2a092112f4f71638f5c34c07ab1",
     "title": "tselora added to PyPI",
     "slug": "tselora-added-to-pypi",
