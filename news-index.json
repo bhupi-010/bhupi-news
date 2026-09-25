@@ -1,5 +1,44 @@
 [
   {
+    "id": "cb6de0ef2fa492dd1a84af2818226884",
+    "title": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week",
+    "slug": "it-genuinely-breaks-my-heart-confusion-and-frustration-reign-as-gaming-communiti",
+    "date": "2026-09-24T16:38:14Z",
+    "description": "It's been another difficult week for Xbox and the many studios it operates, as a second wave of layoffs has ripped through the company. The saddest news surrounds the impending closure of Hellblade studio Ninja Theory, but layoffs have all but dismantled Halo\u2026",
+    "category": "Frontend",
+    "source": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
+    "tags": [
+      "eurogamer.net",
+      "frontend"
+    ]
+  },
+  {
+    "id": "53fbfcca76f1dfe3d53739a386846635",
+    "title": "Eagles vs. Bears: 5 sneaky threats on Chicago's roster",
+    "slug": "eagles-vs-bears-5-sneaky-threats-on-chicagos-roster",
+    "date": "2026-09-24T16:16:21Z",
+    "description": "The Eagles visit Soldier Field looking to keep rolling, but these five Bears could make Monday night's game much more difficult",
+    "category": "Dev News",
+    "source": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2026/09/24/eagles-bears-five-overlooked-players-week-3/91917284007/",
+    "tags": [
+      "theeagleswire.usatoday.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f980f21c4ad78b856a25dda32d29edc6",
+    "title": "Solana\u2019s 150ms Upgrade Is Coming: Could SOL Become the Fastest Major Blockchain?",
+    "slug": "solanas-150ms-upgrade-is-coming-could-sol-become-the-fastest-major-blockchain",
+    "date": "2026-09-24T16:15:35Z",
+    "description": "Solana is preparing for one of its biggest updates. The network has begun testing Alpenglow, a new consensus system designed to cut finality from roughly...\nThe post Solana\u2019s 150ms Upgrade Is Coming: Could SOL Become the Fastest Major Blockchain? appeared fir\u2026",
+    "category": "AI Tools",
+    "source": "https://bitcoinfoundation.org/news/altcoins/solana-150ms-upgrade-fastest-blockchain/",
+    "tags": [
+      "bitcoinfoundation.org",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "44b1443afc423da7de6e1901744da4c4",
     "title": "AI coding tools are accelerating dependency sprawl and expanding malware risk with it",
     "slug": "ai-coding-tools-are-accelerating-dependency-sprawl-and-expanding-malware-risk-wi",
