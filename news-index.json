@@ -1,5 +1,44 @@
 [
   {
+    "id": "4de003fcde840b8194b5337a3399abdb",
+    "title": "Media reporter Brian Stelter applauds Fox News for 'being a real ally' and boycotting White House pool in support of banned MS NOW, CNN and Politico",
+    "slug": "media-reporter-brian-stelter-applauds-fox-news-for-being-a-real-ally-and-boycott",
+    "date": "2026-09-24T21:05:58Z",
+    "description": "Stelter paid compliments the cable news station for standing behind CNN, MS NOW, and Politico for the past several days during Donald Trump's press ban.",
+    "category": "AI Tools",
+    "source": "https://www.dailymail.com/media/article-16158437/brian-stelter-cnn-fox-news-ally-trump-white-house-ban.html",
+    "tags": [
+      "dailymail.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "29e9d112255a6ddac549d471a114e723",
+    "title": "pykatai added to PyPI",
+    "slug": "pykatai-added-to-pypi",
+    "date": "2026-09-24T21:04:08Z",
+    "description": "Katai is an ultra-fast, non-autoregressive AI browser agent powered by local System-1 decision models for instant, deterministic web automation.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/pykatai/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "f36d62eba782986f0e64f5d47d80d85f",
+    "title": "Lili Reinhart and Tom Bateman Interview on The Love Hypothesis, Fandom",
+    "slug": "lili-reinhart-and-tom-bateman-interview-on-the-love-hypothesis-fandom",
+    "date": "2026-09-24T20:35:36Z",
+    "description": "The leads of Prime Video's latest romance adaptation unpack their first impressions of one another, talk dealing with online scrutiny \u2014 and look at the unlikely real-life connection Bateman has to Ali Hazelwood's novel.",
+    "category": "Dev News",
+    "source": "http://www.hollywoodreporter.com/movies/movie-features/the-love-hypothesis-lili-reinhart-tom-bateman-interivew-1236706153/",
+    "tags": [
+      "hollywoodreporter.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "cb6de0ef2fa492dd1a84af2818226884",
     "title": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week",
     "slug": "it-genuinely-breaks-my-heart-confusion-and-frustration-reign-as-gaming-communiti",
