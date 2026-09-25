@@ -1,5 +1,44 @@
 [
   {
+    "id": "44b1443afc423da7de6e1901744da4c4",
+    "title": "AI coding tools are accelerating dependency sprawl and expanding malware risk with it",
+    "slug": "ai-coding-tools-are-accelerating-dependency-sprawl-and-expanding-malware-risk-wi",
+    "date": "2026-09-24T14:30:00Z",
+    "description": "AI coding tools are accelerating dependency sprawl, exposing enterprises to malware, transitive dependency risk and software supply chain attacks.",
+    "category": "AI Tools",
+    "source": "https://venturebeat.com/security/ai-coding-tools-are-accelerating-dependency-sprawl-and-expanding-malware-risk-with-it",
+    "tags": [
+      "venturebeat.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e0efd38b0e73520721ac54af16982969",
+    "title": "Show HN: Tokenhush \u2013 keeps your secrets out of what Claude Code sends",
+    "slug": "show-hn-tokenhush--keeps-your-secrets-out-of-what-claude-code-sends",
+    "date": "2026-09-24T03:59:58Z",
+    "description": "Article URL: https://github.com/fregie/tokenhush\nComments URL: https://news.ycombinator.com/item?id=49826094\nPoints: 2\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/fregie/tokenhush",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "3fdb4072928c4b74d20809e8ac691a16",
+    "title": "Will deer come back after a gun shot?",
+    "slug": "will-deer-come-back-after-a-gun-shot",
+    "date": "2026-09-24T03:53:31Z",
+    "description": "Will Deer Come Back After a Gun Shot? Understanding Deer Behavior Deer will often return to an area even after a gunshot, but the time it takes and the likelihood of their return are influenced by many factors including the intensity of hunting pressure, the \u2026",
+    "category": "Dev News",
+    "source": "https://www.lifesciencesworld.com/will-deer-come-back-after-a-gun-shot/",
+    "tags": [
+      "lifesciencesworld.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "65c176e3740b0c5a045ab5892daa3799",
     "title": "Rose McGowan Reacts to Harvey Weinstein\u2019s Prison Sentence: \u2018Massive Exhale\u2019",
     "slug": "rose-mcgowan-reacts-to-harvey-weinsteins-prison-sentence-massive-exhale",
