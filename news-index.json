@@ -1,5 +1,44 @@
 [
   {
+    "id": "bcb754d016166bfba2a9fa55596d2cc4",
+    "title": "Panic on Wall Street as experts warn bond turmoil could CRASH stock market: Here's how it threatens your investments and what you must not do",
+    "slug": "panic-on-wall-street-as-experts-warn-bond-turmoil-could-crash-stock-market-heres",
+    "date": "2026-09-25T16:01:34Z",
+    "description": "Wall Street has been rattled by the chaos in the bond market, and experts are warning that if things don't settle down soon, it could impact your investments and 401(k).",
+    "category": "Dev News",
+    "source": "https://www.dailymail.com/yourmoney/article-16157093/wall-street-bond-turmoil-stock-crash.html",
+    "tags": [
+      "dailymail.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "583955d421d29e215fdad4ec2e264150",
+    "title": "RCMP watchdog postpones report on B.C. resource standoff policing due to snap election",
+    "slug": "rcmp-watchdog-postpones-report-on-bc-resource-standoff-policing-due-to-snap-elec",
+    "date": "2026-09-25T16:00:32Z",
+    "description": "First Nations leaders and civil liberties advocates are concerned after the RCMP's federal review agency postponed release of a much-anticipated investigation into protest policing in British Columbia due to the snap election call.",
+    "category": "Dev News",
+    "source": "https://www.cbc.ca/news/indigenous/crcc-cirg-investigation-report-delay-9.7354107",
+    "tags": [
+      "cbc.ca",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2513046a9538b1f9b32faa00a6843560",
+    "title": "laravel React Saas boilerplate",
+    "slug": "laravel-react-saas-boilerplate",
+    "date": "2026-09-25T16:00:00Z",
+    "description": "Contribute to castielsiddiqui/laravel-react-saas-boilerplate development by creating an account on GitHub.",
+    "category": "Frontend",
+    "source": "https://github.com/castielsiddiqui/laravel-react-saas-boilerplate?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews",
+    "tags": [
+      "github.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "ba4d37fbf218c97c6e809ba1eb80c6c8",
     "title": "Microsoft unveils new Copilot with AI agents, coding tools to expand workplace automation",
     "slug": "microsoft-unveils-new-copilot-with-ai-agents-coding-tools-to-expand-workplace-au",
