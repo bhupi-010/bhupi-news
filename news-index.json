@@ -1,5 +1,44 @@
 [
   {
+    "id": "80c1f8cecf239e24ea1ab7990fa0bc73",
+    "title": "Colts react to NFL's fine of Matt Goncalves chugging: 'I think the fine is ridiculous'",
+    "slug": "colts-react-to-nfls-fine-of-matt-goncalves-chugging-i-think-the-fine-is-ridiculo",
+    "date": "2026-09-25T20:27:01Z",
+    "description": "NFL fined Colts guard Matt Goncalves for a TD celebration called 'offensive' that involved pantomiming chugging the football",
+    "category": "Frontend",
+    "source": "https://www.indystar.com/story/sports/nfl/colts/2026/09/25/colts-react-matt-goncalves-fine-from-nfl-chugging-football/91867586007/",
+    "tags": [
+      "indystar.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "2b993d4bc2373ef02a9d8f38e6a8ca8f",
+    "title": "Warriors' Steph Curry knows he can't beat Father Time. So he's trying to outsmart it",
+    "slug": "warriors-steph-curry-knows-he-cant-beat-father-time-so-hes-trying-to-outsmart-it",
+    "date": "2026-09-25T20:16:55Z",
+    "description": "After a summer that included some mind-bending drills, trainer Brandon Payne is convinced: \"You're going to keep seeing the same Stephen Curry,\" as the Warriors guard enters his 18th season.",
+    "category": "AI Tools",
+    "source": "https://www.sfchronicle.com/sports/warriors/article/warriors-steph-curry-can-t-beat-father-time-22447766.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+    "tags": [
+      "sfchronicle.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "c03d82dcf790821efa4d987fe941544f",
+    "title": "floorplan-api added to PyPI",
+    "slug": "floorplanapi-added-to-pypi",
+    "date": "2026-09-25T20:11:37Z",
+    "description": "Official Python client for the Floor Plan API \u2014 wall-segmentation masks from floor plan images and PDFs.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/floorplan-api/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "bcb754d016166bfba2a9fa55596d2cc4",
     "title": "Panic on Wall Street as experts warn bond turmoil could CRASH stock market: Here's how it threatens your investments and what you must not do",
     "slug": "panic-on-wall-street-as-experts-warn-bond-turmoil-could-crash-stock-market-heres",
