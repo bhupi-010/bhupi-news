@@ -1,5 +1,44 @@
 [
   {
+    "id": "ed219a75e36107889716b57985420bdb",
+    "title": "Show HN: Policy gateway for AI agent tool calls, with a tamper-evident log",
+    "slug": "show-hn-policy-gateway-for-ai-agent-tool-calls-with-a-tamperevident-log",
+    "date": "2026-09-26T16:24:11Z",
+    "description": "Compliance gateway that verifies OPA policy and a proof-checked, tamper-evident audit trail on autonomous AI agent tool calls before they execute. Isolated SDK-based verifier; framework-agnostic en...",
+    "category": "AI Tools",
+    "source": "https://github.com/banji-007/compliance-ail",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9097dbd03f87f4b4569a89ae3fee3e56",
+    "title": "graphweave added to PyPI",
+    "slug": "graphweave-added-to-pypi",
+    "date": "2026-09-26T16:15:06Z",
+    "description": "Local GitHub repository tracing with a bundled interactive graph viewer.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/graphweave/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "464d6abf4a76652d9f4e18e43d307043",
+    "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+    "slug": "turning-glm53flash-into-a-jevlike-decision-model",
+    "date": "2026-09-26T15:49:04Z",
+    "description": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.The core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass.In the bl\u2026",
+    "category": "Dev News",
+    "source": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+    "tags": [
+      "privatemode.ai",
+      "dev-news"
+    ]
+  },
+  {
     "id": "a4b16959404b6374e93d4664b0326d5f",
     "title": "Taylor Swift Is Losing Us",
     "slug": "taylor-swift-is-losing-us",
