@@ -1,5 +1,44 @@
 [
   {
+    "id": "d973d6d12c651e2bba22359b3b0b9b48",
+    "title": "Microsoft revamps Copilot into AI \u2018super app\u2019 with coding tools, always-on agent",
+    "slug": "microsoft-revamps-copilot-into-ai-super-app-with-coding-tools-alwayson-agent",
+    "date": "2026-09-28T06:41:39Z",
+    "description": "Microsoft is looking to replicate Office 365\u2019s success by positioning the new Copilot app as an AI productivity tool for its core enterprise user base.",
+    "category": "AI Tools",
+    "source": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-revamps-copilot-ai-super-app-10897180/",
+    "tags": [
+      "indianexpress.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "921ce5d037fdc029b9fa62d47acc52ae",
+    "title": "Australia's card surcharge ban is kicks in this week - but it could end up costing shoppers more",
+    "slug": "australias-card-surcharge-ban-is-kicks-in-this-week--but-it-could-end-up-costing",
+    "date": "2026-09-27T23:02:25Z",
+    "description": "A huge payment change is coming for Australians.",
+    "category": "Dev News",
+    "source": "https://www.dailymail.com/news/article-16164989/card-surcharge-ban-australia.html",
+    "tags": [
+      "dailymail.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f7028c4ad0fc61929949b03a49acfe9a",
+    "title": "'Home Improvement' star says Patricia Richardson got 'tired' of fighting for sitcom",
+    "slug": "home-improvement-star-says-patricia-richardson-got-tired-of-fighting-for-sitcom",
+    "date": "2026-09-27T22:01:55Z",
+    "description": "Taran Noah Smith reveals Patricia Richardson fought to keep \"Home Improvement\" realistic as new writers pushed scripts in a different direction.",
+    "category": "Dev News",
+    "source": "https://www.foxnews.com/entertainment/home-improvement-star-says-patricia-richardson-got-tired-fighting-sitcom",
+    "tags": [
+      "foxnews.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "9433a6066b22b282fe7a3907fdef9fd4",
     "title": "I stopped paying for multiple AI coding tools and built one setup that can use Claude, GPT, Gemini, and local models",
     "slug": "i-stopped-paying-for-multiple-ai-coding-tools-and-built-one-setup-that-can-use-c",
