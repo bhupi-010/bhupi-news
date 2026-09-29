@@ -1,5 +1,44 @@
 [
   {
+    "id": "5ccd7bc85cb487545ec0e2407fe0216c",
+    "title": "Breitbart Business Digest: AI Divisions Emerge at the Fed",
+    "slug": "breitbart-business-digest-ai-divisions-emerge-at-the-fed",
+    "date": "2026-09-28T21:48:35Z",
+    "description": "A key question facing investors is how the Federal Reserve will react to the AI investment boom.\nThe post Breitbart Business Digest: AI Divisions Emerge at the Fed appeared first on Breitbart.",
+    "category": "Frontend",
+    "source": "https://www.breitbart.com/economy/2026/09/28/breitbart-business-digest-ai-divisions-emerge-at-the-fed/",
+    "tags": [
+      "breitbart.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "298a29f22c836e180dde71b6a75c389e",
+    "title": "NCIS: Michael Weatherly Talks \"Origins,\" \"New York\" Crossover Chances",
+    "slug": "ncis-michael-weatherly-talks-origins-new-york-crossover-chances",
+    "date": "2026-09-28T21:37:08Z",
+    "description": "Between LL Cool J's Sam Hanna returning on NCIS: New York, Mark Harmon's Gibbs returning on NCIS: Origins, and Michael Weatherly's Tony DiNozzo returning on NCIS, CBS is going all-in when it comes to the franchise this television season. But could three red-h\u2026",
+    "category": "Dev News",
+    "source": "https://bleedingcool.com/tv/ncis-michael-weatherly-talks-origins-new-york-crossover-chances/",
+    "tags": [
+      "bleedingcool.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "78fcbc08aeb73ec0c9a0500c13c92b8f",
+    "title": "BladeWind: Only The CSS You Need",
+    "slug": "bladewind-only-the-css-you-need",
+    "date": "2026-09-28T21:00:00Z",
+    "description": "Per-page CSS for Laravel Blade. Serves each page only the rules it uses, split from your existing Vite build. No Node on the server. - daikazu/bladewind",
+    "category": "AI Tools",
+    "source": "https://github.com/daikazu/bladewind?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "69511d1f70323a962c975a3322b07eb8",
     "title": "Mother I Am Suffocating This Is My Last Film About You 2019 1080p MUBI WEB-DL H264-KUCHU",
     "slug": "mother-i-am-suffocating-this-is-my-last-film-about-you-2019-1080p-mubi-webdl-h26",
