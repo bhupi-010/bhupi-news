@@ -1,5 +1,44 @@
 [
   {
+    "id": "3ab77cbd2319576ff452d00ffcb43299",
+    "title": "GoDaddy Launches Web App Hosting with API for AI Coding Tools",
+    "slug": "godaddy-launches-web-app-hosting-with-api-for-ai-coding-tools",
+    "date": "2026-09-29T13:13:00Z",
+    "description": "/PRNewswire/ -- GoDaddy (NYSE: GDDY), the world's largest domain name registrar, just launched Node.js Hosting, giving customers a simpler way to get web apps...",
+    "category": "AI Tools",
+    "source": "https://www.prnewswire.co.uk/news-releases/godaddy-launches-web-app-hosting-with-api-for-ai-coding-tools-302891984.html",
+    "tags": [
+      "prnewswire.co.uk",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9b4d4d5d594d6094209421e916c0bc1d",
+    "title": "OpenAI DevDay 2026: 7 Things ChatGPT Users Could See Tonight",
+    "slug": "openai-devday-2026-7-things-chatgpt-users-could-see-tonight",
+    "date": "2026-09-29T11:46:30Z",
+    "description": "OpenAI DevDay 2026 takes place today. Here are seven things ChatGPT users could see, from AI agents and new APIs to coding tools and model updates.",
+    "category": "AI Tools",
+    "source": "https://www.news18.com/tech/openai-devday-2026-7-things-chatgpt-users-could-see-tonight-10359559.html",
+    "tags": [
+      "news18.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "d9d97b78046db64321756ca051203228",
+    "title": "roblox-headless-renderer added to PyPI",
+    "slug": "robloxheadlessrenderer-added-to-pypi",
+    "date": "2026-09-29T04:44:58Z",
+    "description": "Headless previews of Roblox UI and 3D builds for AI agents: PNGs plus layout JSON, no Studio needed.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/roblox-headless-renderer/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "5ccd7bc85cb487545ec0e2407fe0216c",
     "title": "Breitbart Business Digest: AI Divisions Emerge at the Fed",
     "slug": "breitbart-business-digest-ai-divisions-emerge-at-the-fed",
