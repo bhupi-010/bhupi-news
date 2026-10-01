@@ -1,5 +1,44 @@
 [
   {
+    "id": "474164e79e8b1b4beeeee7751b543ee9",
+    "title": "Big Hits And Baseball's Hottest Team: 4 Takeaways From First Day Of MLB Playoffs",
+    "slug": "big-hits-and-baseballs-hottest-team-4-takeaways-from-first-day-of-mlb-playoffs",
+    "date": "2026-09-30T05:01:01Z",
+    "description": "Stellar pitching, big bats, and a dramatic late-inning home run. The first day of the MLB playoffs delivered.",
+    "category": "Dev News",
+    "source": "https://www.foxsports.com/stories/mlb/mlb-playoffs-wild-card-braves-yankees-white-sox-padres-win-4-takeaways",
+    "tags": [
+      "foxsports.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "0585d5ff4066567f285be2d43173a5a0",
+    "title": "Phillies Stars Kyle Schwarber, J.T. Realmuto React to Playoff Loss to Braves",
+    "slug": "phillies-stars-kyle-schwarber-jt-realmuto-react-to-playoff-loss-to-braves",
+    "date": "2026-09-30T04:39:03Z",
+    "description": "The Philadelphia Phillies took a punch to the gut in Game 1 of the NL Wild Card Series. Then, it unraveled in the 8th inning as the Atlanta Braves came from behind to win.\u201cI loved it for about eight innings,\u201d starting catcher J.T. Realmuto said.The Phillies j\u2026",
+    "category": "Frontend",
+    "source": "https://heavy.com/sports/mlb/philadelphia-phillies/kyle-schwarber-jt-realmuto-react-braves/",
+    "tags": [
+      "heavy.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "24eff0280f96bf3cef8c5a9ac69e77ff",
+    "title": "lithe 0.9.6",
+    "slug": "lithe-096",
+    "date": "2026-09-30T04:29:06Z",
+    "description": "A reusable, storage-free ReAct agent kernel (engine + framework + protocols) with optional capability bundles.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/lithe/0.9.6/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
     "id": "36d5fa9902eaf41c744201e4fe679304",
     "title": "Former Detroit Tigers Pitcher Suddenly Let Go by Atlanta Braves",
     "slug": "former-detroit-tigers-pitcher-suddenly-let-go-by-atlanta-braves",
