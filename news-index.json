@@ -1,5 +1,44 @@
 [
   {
+    "id": "03a7877739d37c552109352e73a49aea",
+    "title": "lithe 0.9.10",
+    "slug": "lithe-0910",
+    "date": "2026-09-30T12:41:52Z",
+    "description": "A reusable, storage-free ReAct agent kernel (engine + framework + protocols) with optional capability bundles.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/lithe/0.9.10/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "b034367773f9253b7448a25e2ec3c52c",
+    "title": "Pit Beirer admits KTM's engine problems \u201calmost killed us\u201d",
+    "slug": "pit-beirer-admits-ktms-engine-problems-almost-killed-us",
+    "date": "2026-09-30T12:36:51Z",
+    "description": "KTM was deep in an engine crisis at times in 2026, and racing Director Pit Beirer has described it as one of the \u201cworst periods\u201d in the entire MotoGP project",
+    "category": "Dev News",
+    "source": "https://www.motorsport.com/motogp/news/ktm-engine-issues-almost-killed-us-pit-beirer/10860187/",
+    "tags": [
+      "motorsport.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "25f2a1a24cbc6264a5d43e182a84a1ee",
+    "title": "Cohen 1939-RUNE",
+    "slug": "cohen-1939rune",
+    "date": "2026-09-30T12:36:18Z",
+    "description": "Release Description:Enter Birmingham\u2019s criminal underworld as Elisa seeks revenge for her murdered husband. Cohen 1939 pairs Peaky Blinders-inspired gangster atmosphere with the lethal top-down combat of Hotline Miami. Your enemies die fast. So do you. Read t\u2026",
+    "category": "AI Tools",
+    "source": "https://post.rlsbb.cc/cohen-1939-rune/",
+    "tags": [
+      "post.rlsbb.cc",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "474164e79e8b1b4beeeee7751b543ee9",
     "title": "Big Hits And Baseball's Hottest Team: 4 Takeaways From First Day Of MLB Playoffs",
     "slug": "big-hits-and-baseballs-hottest-team-4-takeaways-from-first-day-of-mlb-playoffs",
