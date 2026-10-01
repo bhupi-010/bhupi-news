@@ -1,5 +1,44 @@
 [
   {
+    "id": "dd002fe8c14e341aa8b89d9248589a9a",
+    "title": "Five Plays: Wake Forest Fourth Quarter",
+    "slug": "five-plays-wake-forest-fourth-quarter",
+    "date": "2026-09-30T22:09:16Z",
+    "description": "The fourth quarter of this game was pretty wild, for only producing a combined six points, but both teams made key plays that led to drives stalling out. This was one of the worst halves of football I\u2019ve seen from Louisville\u2019s offense under Jeff Brohm. There \u2026",
+    "category": "Dev News",
+    "source": "https://www.cardchronicle.com/film-reviews/104720/five-plays-wake-forest-fourth-quarter",
+    "tags": [
+      "cardchronicle.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "8d0e4d9bd6186551348701f8d608a59f",
+    "title": "noust 3.1.7",
+    "slug": "noust-317",
+    "date": "2026-09-30T21:25:02Z",
+    "description": "Noust - deploy and manage web applications on Linux servers",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/noust/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6645d583f67cf8436d457549a62a9a81",
+    "title": "VLA 2.0 vs. FSD in Amsterdam \u2014 Part 3: Comparing XPENG & Tesla",
+    "slug": "vla-20-vs-fsd-in-amsterdam--part-3-comparing-xpeng--tesla",
+    "date": "2026-09-30T20:26:43Z",
+    "description": "In the first two parts of this series, I explored the XPENG L03 with VLA 2.0 and the Tesla Model 3 with FSD from my recent test in Amsterdam. The focus of those two articles was on each intelligent driving system. However, the AI-based systems are just part o\u2026",
+    "category": "AI Tools",
+    "source": "https://cleantechnica.com/2026/09/30/vla-2-0-vs-fsd-in-amsterdam-part-3-comparing-xpeng-tesla/",
+    "tags": [
+      "cleantechnica.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "03a7877739d37c552109352e73a49aea",
     "title": "lithe 0.9.10",
     "slug": "lithe-0910",
