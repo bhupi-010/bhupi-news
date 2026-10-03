@@ -1,5 +1,44 @@
 [
   {
+    "id": "fbd682e66069cf309e8ecfcab9f5ce45",
+    "title": "Chris Evans Picked His Ultimate Avengers Team (And I Don\u2019t Disagree)",
+    "slug": "chris-evans-picked-his-ultimate-avengers-team-and-i-dont-disagree",
+    "date": "2026-10-02T20:30:00Z",
+    "description": "Let him assemble the team.",
+    "category": "Dev News",
+    "source": "https://www.cinemablend.com/movies/chris-evans-picked-ultimate-avengers-team-i-dont-disagree-wanda-thor-iron-man",
+    "tags": [
+      "cinemablend.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "95fb26760aa45911690220508e3e3ad0",
+    "title": "caps-ai added to PyPI",
+    "slug": "capsai-added-to-pypi",
+    "date": "2026-10-02T20:22:10Z",
+    "description": "Atomic, file-first long-term memory with bounded drift for autonomous AI agents (Capsule)",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/caps-ai/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "7936aed07e1709c94e61a6abf14fabc5",
+    "title": "The Genotype/Phenotype Distinction",
+    "slug": "the-genotypephenotype-distinction",
+    "date": "2026-10-02T20:05:41Z",
+    "description": "[New Entry by Michael Dietrich and Marina DiMarco on October 2, 2026.]\n [Editor's Note: The following new entry by Michael Dietrich and Marina DiMarco replaces the former entry on this topic by the previous authors.]...",
+    "category": "Dev News",
+    "source": "https://plato.stanford.edu/entries/genotype-phenotype/",
+    "tags": [
+      "plato.stanford.edu",
+      "dev-news"
+    ]
+  },
+  {
     "id": "a3b63108fcd38c35337532e753c49aaf",
     "title": "Grok Chats May Have Convinced Trump to Invade Venezuela",
     "slug": "grok-chats-may-have-convinced-trump-to-invade-venezuela",
