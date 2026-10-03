@@ -1,5 +1,44 @@
 [
   {
+    "id": "9138ccaf3a8e9d97b46821991b1cc184",
+    "title": "lithe 0.9.17",
+    "slug": "lithe-0917",
+    "date": "2026-10-02T11:17:45Z",
+    "description": "A reusable, storage-free ReAct agent kernel (engine + framework + protocols) with optional capability bundles.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/lithe/0.9.17/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "945207c0cd4dd7c0547190bf17bea016",
+    "title": "Where every US governor stands on AI and the data-center boom",
+    "slug": "where-every-us-governor-stands-on-ai-and-the-datacenter-boom",
+    "date": "2026-10-02T11:13:01Z",
+    "description": "Some governors see their states as the next powerhouse for the growing AI industry. Others are exploring a \"kill switch\" for rogue AI.",
+    "category": "AI Tools",
+    "source": "https://www.businessinsider.com/where-every-us-governor-stands-ai-data-centers-midterms-2026-10#article",
+    "tags": [
+      "businessinsider.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "8ac7733f098c2ad12e5a015f1a42cf1f",
+    "title": "Milwaukee M18 2904 | 1/2\u2033 Hammer Drill/Driver",
+    "slug": "milwaukee-m18-2904--12-hammer-drilldriver",
+    "date": "2026-10-02T11:00:41Z",
+    "description": "This is a great drill.",
+    "category": "Dev News",
+    "source": "https://brooksreview.net/2026/10/milwaukee-m18-2904-1-2-hammer-drill-driver/",
+    "tags": [
+      "brooksreview.net",
+      "dev-news"
+    ]
+  },
+  {
     "id": "d64b07d40f8e35fe33f7d628bc6347ad",
     "title": "Are air fresheners toxic to animals?",
     "slug": "are-air-fresheners-toxic-to-animals",
