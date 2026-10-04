@@ -1,5 +1,44 @@
 [
   {
+    "id": "0799978f351bf1d058b9c8c0b5497a86",
+    "title": "lithe 0.9.20",
+    "slug": "lithe-0920",
+    "date": "2026-10-03T05:00:12Z",
+    "description": "A reusable, storage-free ReAct agent kernel (engine + framework + protocols) with optional capability bundles.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/lithe/0.9.20/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "e133107bef161ae163a34e18d196ee18",
+    "title": "shiori-sdk added to PyPI",
+    "slug": "shiorisdk-added-to-pypi",
+    "date": "2026-10-03T04:27:49Z",
+    "description": "Public Shiori plugin contracts and independent testing support.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/shiori-sdk/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "9c3d0a6a8b445ed8083d07ee38615149",
+    "title": "Arizona Diamondbacks owner reveals how much team will spend in 2027",
+    "slug": "arizona-diamondbacks-owner-reveals-how-much-team-will-spend-in-2027",
+    "date": "2026-10-03T04:25:54Z",
+    "description": "Arizona Diamondbacks owner Ken Kendrick told The Burns & Gambo Show on Arizona Sports that the team will have a lower payroll in 2027 than 2026.",
+    "category": "Dev News",
+    "source": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/10/02/arizona-diamondbacks-owner-ken-kendrick-deflating-update-2027-payroll/92066729007/",
+    "tags": [
+      "azcentral.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "fbd682e66069cf309e8ecfcab9f5ce45",
     "title": "Chris Evans Picked His Ultimate Avengers Team (And I Don\u2019t Disagree)",
     "slug": "chris-evans-picked-his-ultimate-avengers-team-and-i-dont-disagree",
