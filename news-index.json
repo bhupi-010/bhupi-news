@@ -1,5 +1,44 @@
 [
   {
+    "id": "ab6c586098509fb07fc59c13fb58f52a",
+    "title": "Is Digger the Most Annoying Movie of the Year?",
+    "slug": "is-digger-the-most-annoying-movie-of-the-year",
+    "date": "2026-10-03T11:00:03Z",
+    "description": "Vulture staffers react to the new Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu climate-change movie starring Tom Cruise in a roundtable discussion.",
+    "category": "Frontend",
+    "source": "http://www.vulture.com/article/is-this-the-years-most-annoying-movie-digger-tom-cruise-reactions.html",
+    "tags": [
+      "vulture.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "37116720fdb663ba321587767cd84dd8",
+    "title": "Show HN: Beautiful form back end for AI agents \u2013 Nisuform",
+    "slug": "show-hn-beautiful-form-back-end-for-ai-agents--nisuform",
+    "date": "2026-10-03T10:16:04Z",
+    "description": "Hi! everyone, really excited to share my latest project, which is a form backend service that's very easy to setup.Feel free to ask anything about it :)\n\nComments URL: https://news.ycombinator.com/item?id=49942913\nPoints: 1\n# Comments: 0",
+    "category": "AI Tools",
+    "source": "https://nisuform.com/",
+    "tags": [
+      "nisuform.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a9c7f7339ad8cc14a8ce1ed6dc4a8b42",
+    "title": "awdk 3.8.48",
+    "slug": "awdk-3848",
+    "date": "2026-10-03T10:15:27Z",
+    "description": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: free local runtime with typed memory, knowledge graph, code graph and ReAct; paid tiers (api.aitherium.com) unlock fleets, channels, reasoning and marketplace packs.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/awdk/3.8.48/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
     "id": "0799978f351bf1d058b9c8c0b5497a86",
     "title": "lithe 0.9.20",
     "slug": "lithe-0920",
