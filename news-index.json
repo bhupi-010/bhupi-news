@@ -1,5 +1,44 @@
 [
   {
+    "id": "f8b5cec4c7e3046f1c0f90e554975ed7",
+    "title": "Mike Vrabel Identifies The Josh Allen Problem That Starts After The Snap",
+    "slug": "mike-vrabel-identifies-the-josh-allen-problem-that-starts-after-the-snap",
+    "date": "2026-10-03T20:40:26Z",
+    "description": "The Patriots head coach talks about the quarterback they will face Sunday.",
+    "category": "Dev News",
+    "source": "https://nesn.com/new-england-patriots/news/mike-vrabel-identifies-josh-allen-problem-starts-after-snap/5e5d0fe175801f7c7de00d99",
+    "tags": [
+      "nesn.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "9e86fefc2cfcf7c7305f890a59ef6ac9",
+    "title": "Surely you have ultra-wideband radios on your bins too?",
+    "slug": "surely-you-have-ultrawideband-radios-on-your-bins-too",
+    "date": "2026-10-03T20:27:44Z",
+    "description": "How I massively over-engineered a trivial problem again because I just can't help myself",
+    "category": "AI Tools",
+    "source": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+    "tags": [
+      "sjg.io",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "83b555abb36f0f4f8f5d5b9fc3c5993a",
+    "title": "greenbar added to PyPI",
+    "slug": "greenbar-added-to-pypi",
+    "date": "2026-10-03T20:21:13Z",
+    "description": "Contract-first, gate-enforced development framework \u2014 turn best-practices into CI gates.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/greenbar/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "ab6c586098509fb07fc59c13fb58f52a",
     "title": "Is Digger the Most Annoying Movie of the Year?",
     "slug": "is-digger-the-most-annoying-movie-of-the-year",
