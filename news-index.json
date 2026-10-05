@@ -1,5 +1,44 @@
 [
   {
+    "id": "2ed530f73be345fe259e782afc0916ef",
+    "title": "lithe 0.9.3",
+    "slug": "lithe-093",
+    "date": "2026-10-04T23:52:00Z",
+    "description": "A reusable, storage-free ReAct agent kernel (engine + framework + protocols) with optional capability bundles.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/lithe/0.9.3/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "e9d78b6097f2ed2bf397a0222818cbb3",
+    "title": "lithe 0.9.26",
+    "slug": "lithe-0926",
+    "date": "2026-10-04T23:39:42Z",
+    "description": "A reusable, storage-free ReAct agent kernel (engine + framework + protocols) with optional capability bundles.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/lithe/0.9.26/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "d307a5b1e45cde4cb20639f89488aad8",
+    "title": "George Kittle and the 49ers outrun the Broncos to stay undefeated",
+    "slug": "george-kittle-and-the-49ers-outrun-the-broncos-to-stay-undefeated",
+    "date": "2026-10-04T23:38:05Z",
+    "description": "The 49ers offense woke up in the second half, while their defense shut down Bo Nix and the Broncos in a 24-14 victory.",
+    "category": "Dev News",
+    "source": "https://www.ninersnation.com/san-francisco-49ers-news/163691/george-kittle-and-the-49ers-outrun-the-broncos-to-stay-undefeated",
+    "tags": [
+      "ninersnation.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "ea3fb3a6131d725941d91f5b67fd02db",
     "title": "Object Examination for Game Creator 2 by Auxilium",
     "slug": "object-examination-for-game-creator-2-by-auxilium",
