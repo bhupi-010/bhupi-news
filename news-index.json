@@ -1,5 +1,44 @@
 [
   {
+    "id": "fdb844d06dc6bb30a32056b30f6b23d3",
+    "title": "Mike Conley 1-on-1: on finally landing with Celtics, Payton Pritchard bond, and the secrets to being a great teammate",
+    "slug": "mike-conley-1on1-on-finally-landing-with-celtics-payton-pritchard-bond-and-the-s",
+    "date": "2026-10-06T12:52:42Z",
+    "description": "The new Celtics addition opened up about coming to Boston after years of it almost happening, his rewarding relationship with Payton Pritchard, and how he grew to become one of the best-regarded teammates in the NBA.",
+    "category": "Dev News",
+    "source": "https://www.celticsblog.com/boston-celtics-news/147096/mike-conley-celtics-payton-pritchard",
+    "tags": [
+      "celticsblog.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2a145e0d4575343a48fafd20c52393d4",
+    "title": "Show HN: Lask \u2013 A task runner with a type system and pinned Docker environments",
+    "slug": "show-hn-lask--a-task-runner-with-a-type-system-and-pinned-docker-environments",
+    "date": "2026-10-06T12:46:52Z",
+    "description": "I implemented a task runner called Lask. Let me introduce it to you.Lask is a lightweight task runner with a statically typed DSL. It runs by calling Docker from Lask on the host.Makefiles or shell scripts I wrote often failed to run on my colleagues' machine\u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/lask-task-runner/lask",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "7b02456c61e43c8e84210638adf0bbe8",
+    "title": "Steelers Daily News & Links: Stephen A. Smith Blasts Omar Khan; Porters with Pickens",
+    "slug": "steelers-daily-news--links-stephen-a-smith-blasts-omar-khan-porters-with-pickens",
+    "date": "2026-10-06T12:41:28Z",
+    "description": "Steelers Daily News & Links: Your daily stop for all of the news and links.  Stephen A. Smith went [\u2026]",
+    "category": "AI Tools",
+    "source": "https://steelersnow.com/steelers-daily-news-links-stephen-a-smith-blasts-omar-khan-porters-with-pickens/",
+    "tags": [
+      "steelersnow.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "3acdc285be131f366182fb151973a13b",
     "title": "Meta and Microsoft cut internal Claude use as AI costs climb",
     "slug": "meta-and-microsoft-cut-internal-claude-use-as-ai-costs-climb",
