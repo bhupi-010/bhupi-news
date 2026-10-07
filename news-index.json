@@ -1,5 +1,44 @@
 [
   {
+    "id": "3acdc285be131f366182fb151973a13b",
+    "title": "Meta and Microsoft cut internal Claude use as AI costs climb",
+    "slug": "meta-and-microsoft-cut-internal-claude-use-as-ai-costs-climb",
+    "date": "2026-10-06T11:31:52Z",
+    "description": "Meta and Microsoft are steering employees away from Anthropic's Claude towards their own AI coding tools. The shift reflects mounting cost pressures and a push to improve in-house products while still offering Claude to customers.",
+    "category": "AI Tools",
+    "source": "https://www.indiatoday.in/technology/news/story/anthropic-claude-meta-microsoft-internal-use-falls-in-house-ai-tools-grow-3010764-2026-10-06",
+    "tags": [
+      "indiatoday.in",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "1c810dd58738394d02ef8761ae8149f7",
+    "title": "Show HN: DemoForge \u2013 Product demo videos generated from Playwright scripts",
+    "slug": "show-hn-demoforge--product-demo-videos-generated-from-playwright-scripts",
+    "date": "2026-10-06T04:42:22Z",
+    "description": "Article URL: https://github.com/DixitRam/Demo-Forge\nComments URL: https://news.ycombinator.com/item?id=49974275\nPoints: 1\n# Comments: 0",
+    "category": "Dev News",
+    "source": "https://github.com/DixitRam/Demo-Forge",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "3c6f93fb9836d3d41c77e03d20c33984",
+    "title": "Her Sister Kept Inventing Excuses to Keep Her Home from the Surprise Party\u2014Then She Discovered She Was the One Being Surprised",
+    "slug": "her-sister-kept-inventing-excuses-to-keep-her-home-from-the-surprise-partythen-s",
+    "date": "2026-10-06T04:35:19Z",
+    "description": "Sometimes, the party isn\u2019t worth the drama.\nThe post Her Sister Kept Inventing Excuses to Keep Her Home from the Surprise Party\u2014Then She Discovered She Was the One Being Surprised appeared first on TwistedSifter.",
+    "category": "Dev News",
+    "source": "https://twistedsifter.com/2026/10/her-sister-kept-inventing-excuses-to-keep-her-home-from-the-surprise-party-then-she-discovered-she-was-the-one-being-surprised/",
+    "tags": [
+      "twistedsifter.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f2ed8d9c5c2ad4078ab7b38cbf95b6fb",
     "title": "India's Gen Z Faces Down The Artificial Intelligence Future",
     "slug": "indias-gen-z-faces-down-the-artificial-intelligence-future",
