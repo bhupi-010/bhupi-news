@@ -1,5 +1,44 @@
 [
   {
+    "id": "190060029ae1b3cdf0fdcbc913042cf4",
+    "title": "Who owns the bug when AI writes the code?",
+    "slug": "who-owns-the-bug-when-ai-writes-the-code",
+    "date": "2026-10-08T08:13:00Z",
+    "description": "As AI-generated code becomes more prevalent in software development, engineering teams are confronting a difficult question: who remains accountable when machine-produced code fails in production? The rising adoption of AI coding tools is forcing companies to rethink code review, human oversight, and governance, with software offering an early test of accountability in AI-enabled work.",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/ai/ai-insights/who-owns-the-bug-when-ai-writes-the-code/articleshow/134783690.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "00a443880c9109c72776ecc521b6c088",
+    "title": "ROBERT HARDMAN: Hiding behind umbrellas, the ghouls marching for Hamas on the October 7th anniversary...",
+    "slug": "robert-hardman-hiding-behind-umbrellas-the-ghouls-marching-for-hamas-on-the-octo",
+    "date": "2026-10-07T22:48:11Z",
+    "description": "Just by Holborn Tube station, I heard the most priceless chant of the day. 'Here's our message to the cops,' they cried. 'Get a real f****** job!'",
+    "category": "Dev News",
+    "source": "https://www.dailymail.com/news/article-16191611/ROBERT-HARDMAN-umbrellas-ghouls-marching-Hamas-October-7th-anniversary.html",
+    "tags": [
+      "dailymail.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6ae4e7070e95d2f7aeae2c33c5c62ee9",
+    "title": "Commanders QB Jayden Daniels working to \u2018embrace the brace\u2019 in return to action",
+    "slug": "commanders-qb-jayden-daniels-working-to-embrace-the-brace-in-return-to-action",
+    "date": "2026-10-07T22:10:28Z",
+    "description": "Commanders quarterback Jayden Daniels will wear a large brace to protect his elbow after dislocating in Week 2",
+    "category": "Dev News",
+    "source": "https://www.hogshaven.com/washington-commanders-news/447216/commanders-jayden-daniels-elbow-injury-new-york-giants-brace",
+    "tags": [
+      "hogshaven.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "d2a8dd78df5e3efc63b9cec42d0fe949",
     "title": "10 Hours With Johnathan Blow\u2019s New Puzzle Game Order Of The Sinking Star",
     "slug": "10-hours-with-johnathan-blows-new-puzzle-game-order-of-the-sinking-star",
