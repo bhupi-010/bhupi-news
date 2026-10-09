@@ -1,5 +1,44 @@
 [
   {
+    "id": "55e3b962c939732c6fedae56d8ef42e8",
+    "title": "Show HN: Awesomer \u2013 trending GitHub repos, organized by awesome-list",
+    "slug": "show-hn-awesomer--trending-github-repos-organized-by-awesomelist",
+    "date": "2026-10-08T21:55:08Z",
+    "description": "TL;DR, I made an app that sorts the repos on awesome lists by trending stars, and it updates daily.I'm not using AI to write this.\nkldjfklgjdcsjklxfhgjkshdfjkghsjkldfgyis8df7g897123hjkl23\nSee?I use awesome lists to discover the best open source projects, but \u2026",
+    "category": "AI Tools",
+    "source": "https://github.com/patrickclery/awesomer",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "7ea540610dd2a9df60ba10dfb8745b48",
+    "title": "Blue Wave or Blue Ripple?",
+    "slug": "blue-wave-or-blue-ripple",
+    "date": "2026-10-08T21:00:00Z",
+    "description": "This week, Emily Bazelon, John Dickerson, and David Plotz discuss where the midterms stand mere weeks out from Election Day, the legal and cultural issues at the heart of the deeply disturbing Cornell University rape case, and the perennial American debate ov\u2026",
+    "category": "Dev News",
+    "source": "https://shows.acast.com/political-gabfest/episodes/blue-wave-or-blue-ripple",
+    "tags": [
+      "shows.acast.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "17e8421e86c6452df31831ab6f087cb0",
+    "title": "Republicans Have the Cash, but Democrats Have the Atmosphere",
+    "slug": "republicans-have-the-cash-but-democrats-have-the-atmosphere",
+    "date": "2026-10-08T21:00:00Z",
+    "description": "Republicans are shifting money from North Carolina to Kansas as Democrats keep adding targets. The hosts debate whether the wider map is real or a feint.",
+    "category": "Dev News",
+    "source": "https://slate.com/podcasts/political-gabfest/2026/10/politics-where-the-2026-midterms-stand-weeks-before-election-day",
+    "tags": [
+      "slate.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "beeb816b00aa21928cbccb2927bb7e07",
     "title": "27 People Share What Happened At Work That Made Everyone Quit At Once",
     "slug": "27-people-share-what-happened-at-work-that-made-everyone-quit-at-once",
