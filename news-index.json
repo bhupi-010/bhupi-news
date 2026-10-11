@@ -1,5 +1,44 @@
 [
   {
+    "id": "eeb2860c139f5f20395df5ef17965ddf",
+    "title": "Tom King On Superman\u00a0In The Daily LITG, 10th Of October, 2026",
+    "slug": "tom-king-on-supermanin-the-daily-litg-10th-of-october-2026",
+    "date": "2026-10-10T10:54:08Z",
+    "description": "Tom King And Mitch Gerads On Superman was the most-read article on Bleeding Cool yesterday. Lying In The Gutters is the daily runaround for the most-read stories the day before, as well as over the past eight years. Founded seventeen years ago and steeped in \u2026",
+    "category": "AI Tools",
+    "source": "https://bleedingcool.com/comics/tom-king-on-superman-in-the-daily-litg-10th-of-october-2026/",
+    "tags": [
+      "bleedingcool.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "73789dcd955d438a76eacd83bcc8a6f0",
+    "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+    "slug": "talorys--a-selfhosted-personal-ai-agent-on-cloudflares-free-tier",
+    "date": "2026-10-10T10:52:09Z",
+    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...",
+    "category": "AI Tools",
+    "source": "https://github.com/rociiu/talorys",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "ec2fabe5c12bf7af39d2950bad1c17fb",
+    "title": "phantom-grid",
+    "slug": "phantomgrid",
+    "date": "2026-10-10T10:45:12Z",
+    "description": "Free Burp Collaborator alternative- OOB interaction capture (HTTP/HTTPS/DNS) with SQLite & exfil reassembly",
+    "category": "Dev News",
+    "source": "https://kitploit.com/en/tools/github/evkir/phantom-grid/",
+    "tags": [
+      "kitploit.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "29779dddd98f862452c832c0b3ae33bb",
     "title": "Lies. Deceit. MURDER. Who was killed? Who was Banished? Traitors Celeb 2x3/4 & New Blood 1x05",
     "slug": "lies-deceit-murder-who-was-killed-who-was-banished-traitors-celeb-2x34--new-bloo",
