@@ -1,5 +1,44 @@
 [
   {
+    "id": "f6456218c0d0571f8f4a3188664dc3ff",
+    "title": "How AI coding tools could amplify software supply-chain attacks",
+    "slug": "how-ai-coding-tools-could-amplify-software-supplychain-attacks",
+    "date": "2026-10-13T10:00:34Z",
+    "description": "A slug flaw in npm Trusted Publishing exposed 1,500+ packages with 10m downloads. Bloom Security on what it means when AI agents install code.",
+    "category": "AI Tools",
+    "source": "https://thenextweb.com/news/npm-trusted-publishing-flaw-ai-agents-slugfest",
+    "tags": [
+      "thenextweb.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "5c58863b19bce0f86194845d3580943a",
+    "title": "NBA PRESEASON DISCUSSION: Brooklyn Nets at Washington Wizards, 7:00 PM ET",
+    "slug": "nba-preseason-discussion-brooklyn-nets-at-washington-wizards-700-pm-et",
+    "date": "2026-10-12T22:20:00Z",
+    "description": "Nets go for a third consecutive win in the preseason.",
+    "category": "Dev News",
+    "source": "https://www.netsdaily.com/nets-discussion/114657/nba-preseason-discussion-nets-at-wizards-aj-dybantsa",
+    "tags": [
+      "netsdaily.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "b569a830b366fe66a9b21c302c3b3d96",
+    "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
+    "slug": "guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-att",
+    "date": "2026-10-12T21:58:44Z",
+    "description": "Amazon GuardDuty Extended Threat Detection correlates weak GuardDuty signals into a single, critical-severity attack sequence finding when their composition crosses a threshold of credibility. On May 20, 2026, the service started attaching five new indicator \u2026",
+    "category": "Dev News",
+    "source": "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/",
+    "tags": [
+      "aws.amazon.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "34361a190502fd11a3205d5050ed4b2c",
     "title": "Win tickets to a Champions League game with bet365",
     "slug": "win-tickets-to-a-champions-league-game-with-bet365",
