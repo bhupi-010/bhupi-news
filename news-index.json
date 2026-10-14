@@ -1,5 +1,18 @@
 [
   {
+    "id": "3fbcc13e88247e179b9022fa72bb23f8",
+    "title": "X Launches Unified Subscription Bundling Grok, Cursor and Premium: All Details",
+    "slug": "x-launches-unified-subscription-bundling-grok-cursor-and-premium-all-details",
+    "date": "2026-10-13T10:27:50Z",
+    "description": "SpaceXSI has launched The X Subscription, combining Grok AI, Cursor coding tools and X Premium features under one membership. Paid plans start at $8 per month, while Premium costs $30 and includes benefits the company says previously cost about $90 separately. Five tiers are available, with higher plans offering more AI usage, advanced Grok features and developer tools.",
+    "category": "AI Tools",
+    "source": "https://www.freepressjournal.in/tech/x-launches-unified-subscription-bundling-grok-cursor-and-premium-all-details",
+    "tags": [
+      "freepressjournal.in",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "f6456218c0d0571f8f4a3188664dc3ff",
     "title": "How AI coding tools could amplify software supply-chain attacks",
     "slug": "how-ai-coding-tools-could-amplify-software-supplychain-attacks",
@@ -10,6 +23,32 @@
     "tags": [
       "thenextweb.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "f6b31da07ded2e4b3955f55194f656cd",
+    "title": "Collin Gosselin accuses mom Kate of \u2018dragging\u2019 him by the ear as son exposes alleged abuse",
+    "slug": "collin-gosselin-accuses-mom-kate-of-dragging-him-by-the-ear-as-son-exposes-alleg",
+    "date": "2026-10-13T04:05:00Z",
+    "description": "Collin made the allegation while promoting his new memoir, \"In the Shadow of Eight: Surviving the Reality of My Childhood.\"",
+    "category": "Dev News",
+    "source": "https://pagesix.com/2026/10/13/celebrity-news/collin-gosselin-accuses-mom-kate-of-dragging-him-by-the-ear-as-son-exposes-horrific-abuse-claims/",
+    "tags": [
+      "pagesix.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2595dd6a4e4306a2dc8f472dfc7a2993",
+    "title": "Show HN: vne \u2013 .env util for agents",
+    "slug": "show-hn-vne--env-util-for-agents",
+    "date": "2026-10-13T03:54:45Z",
+    "description": "vne lets your coding agent work on .env files it is blocked from reading. It finds keys, checks what&#39;s missing, copies them between files and runs commands with them loaded, and hands you a com...",
+    "category": "Dev News",
+    "source": "https://github.com/pro-vi/vne",
+    "tags": [
+      "github.com",
+      "dev-news"
     ]
   },
   {
