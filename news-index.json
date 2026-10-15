@@ -1,5 +1,18 @@
 [
   {
+    "id": "d4af0302c4ea72fdc3e4b52e16ef706e",
+    "title": "Infosys says 80,000 employees use AI coding tools. Why is it still hiring 20,000 graduates?",
+    "slug": "infosys-says-80000-employees-use-ai-coding-tools-why-is-it-still-hiring-20000-gr",
+    "date": "2026-10-15T03:16:42Z",
+    "description": "Infosys' chief executive and managing director Salil Parekh expects AI services to account for almost half of the company\u2019s work within two to three years.",
+    "category": "AI Tools",
+    "source": "https://www.livemint.com/companies/news/infosys-says-80-000-employees-use-ai-coding-tools-why-is-it-still-hiring-20-000-graduates-11792030468356.html",
+    "tags": [
+      "livemint.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "960b12f283badc99845987d8a6f937a9",
     "title": "Epic says it 'vibe coded' its new launcher and claims it's 46% faster than Steam",
     "slug": "epic-says-it-vibe-coded-its-new-launcher-and-claims-its-46-faster-than-steam",
@@ -10,6 +23,32 @@
     "tags": [
       "digitaltrends.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "eba57c2ba2e91c9022e41a52963276fb",
+    "title": "Chicago Bears Pass Protection Analysis on the Sacks Allowed vs Packers",
+    "slug": "chicago-bears-pass-protection-analysis-on-the-sacks-allowed-vs-packers",
+    "date": "2026-10-14T16:30:00Z",
+    "description": "The Bears Sackwatch is trending in the wrong direction. @wiltfongjr takes a look at what happened on the 4 sacks allowed to the Packers",
+    "category": "Dev News",
+    "source": "https://www.windycitygridiron.com/chicago-bears-analysis/125102/chicago-bears-pass-protection-analysis-sacks-allowed-packers-tyson-bagent-case-keenum-garrett-bradbury",
+    "tags": [
+      "windycitygridiron.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "80050f79847b2753ec12761817ddc0df",
+    "title": "Moho Pro 14.5 Build 20261012",
+    "slug": "moho-pro-145-build-20261012",
+    "date": "2026-10-14T16:25:36Z",
+    "description": "Description: Moho Animation Software provides professional, powerful and easy to use rigging and animation tools. Just draw directly in Moho or import your artwork from any other app. Moho will give you easier and faster results with the quality you are looki\u2026",
+    "category": "Dev News",
+    "source": "https://post.rlsbb.cc/moho-pro-14-5-build-20261012/",
+    "tags": [
+      "post.rlsbb.cc",
+      "dev-news"
     ]
   },
   {
