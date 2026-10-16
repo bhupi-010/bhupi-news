@@ -1,5 +1,44 @@
 [
   {
+    "id": "e77b17d55b2850828346f6f9c2a1fdef",
+    "title": "Study: AI coding tools do not write accessible code",
+    "slug": "study-ai-coding-tools-do-not-write-accessible-code",
+    "date": "2026-10-16T04:39:38Z",
+    "description": "A new study reveals that the most popular AI coding tools do not meet basic accessibility standards when creating websites. AudioEye\u00a0gave five coding AI tools from OpenAI, Anthropic, Google, xAI and Lovable the same brief: build a news and media site, an online store and a financial services site that met the Web Content Accessibility",
+    "category": "AI Tools",
+    "source": "https://abc17news.com/stacker-ai/2026/10/15/study-ai-coding-tools-do-not-write-accessible-code/",
+    "tags": [
+      "abc17news.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "69527990f5ab3a219b41f15a406798f2",
+    "title": "DP David Kruta on Lensing Deceit and Brutalism in 'Orion'",
+    "slug": "dp-david-kruta-on-lensing-deceit-and-brutalism-in-orion",
+    "date": "2026-10-15T20:30:03Z",
+    "description": "In an era dominated by visual effects and digital imagery, cinematographer David Kruta prefers to tackle the challenge of making everything feel real. For Orion, a psychological science fiction movie directed by Jaco Bouwer, Kruta faced a unique creative chal\u2026",
+    "category": "Dev News",
+    "source": "https://nofilmschool.com/cinematographer-david-kruta",
+    "tags": [
+      "nofilmschool.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f383880fbfd360ff5ab93511bf7d6d39",
+    "title": "Denise Richards\u2019 $200K Facelift Fuels \u2018The Substance\u2019 Comparisons As Before-And-After Photos Go Viral",
+    "slug": "denise-richards-200k-facelift-fuels-the-substance-comparisons-as-beforeandafter-",
+    "date": "2026-10-15T20:28:38Z",
+    "description": "Denise Richards revealed why she went public with her facelift as before-and-after photos left netizens speechless over the result.",
+    "category": "Dev News",
+    "source": "https://www.boredpanda.com/denise-richards-facelift-fuels-comparisons/",
+    "tags": [
+      "boredpanda.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "03c2f78afb991a9caf4b8c65ca7042f9",
     "title": "open-net-worth added to PyPI",
     "slug": "opennetworth-added-to-pypi",
