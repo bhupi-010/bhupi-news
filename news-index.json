@@ -1,5 +1,31 @@
 [
   {
+    "id": "75ed3152bee36014d4a186fcdd877496",
+    "title": "awdk 3.8.69",
+    "slug": "awdk-3869",
+    "date": "2026-10-15T03:49:10Z",
+    "description": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: free local runtime with typed memory, knowledge graph, code graph and ReAct; paid tiers (api.aitherium.com) unlock fleets, channels, reasoning and marketplace packs.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/awdk/3.8.69/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "a536feed945589687d1b71669c90da55",
+    "title": "\u2018He\u2019s Media Trained,\u2019 \u2018A True Professional\u2019 \u2014 NFL Fans React to Texans WR Marvin Harrison Jr.\u2019s \u2018Mature Response\u2019 to Cardinals Trade",
+    "slug": "hes-media-trained-a-true-professional--nfl-fans-react-to-texans-wr-marvin-harris",
+    "date": "2026-10-15T03:30:49Z",
+    "description": "Marvin Harrison Jr. is keeping his emotions in check after the Arizona Cardinals traded him to the Houston Texans earlier this week.",
+    "category": "Frontend",
+    "source": "https://www.profootballnetwork.com/nfl-fans-praise-marvin-harrison-jr-mature-response-cardinals-trade/",
+    "tags": [
+      "profootballnetwork.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "d4af0302c4ea72fdc3e4b52e16ef706e",
     "title": "Infosys says 80,000 employees use AI coding tools. Why is it still hiring 20,000 graduates?",
     "slug": "infosys-says-80000-employees-use-ai-coding-tools-why-is-it-still-hiring-20000-gr",
@@ -9,6 +35,19 @@
     "source": "https://www.livemint.com/companies/news/infosys-says-80-000-employees-use-ai-coding-tools-why-is-it-still-hiring-20-000-graduates-11792030468356.html",
     "tags": [
       "livemint.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "83c70deea58e335e94919c1e346d09fb",
+    "title": "How do you treat an injured hedgehog?",
+    "slug": "how-do-you-treat-an-injured-hedgehog",
+    "date": "2026-10-15T02:53:45Z",
+    "description": "How to Treat an Injured Hedgehog: A Comprehensive Guide Learn how to treat an injured hedgehog with immediate first aid and proper care; providing prompt assistance significantly increases the chances of survival and successful rehabilitation for these vulner\u2026",
+    "category": "AI Tools",
+    "source": "https://www.lifesciencesworld.com/how-do-you-treat-an-injured-hedgehog/",
+    "tags": [
+      "lifesciencesworld.com",
       "ai-tools"
     ]
   },
