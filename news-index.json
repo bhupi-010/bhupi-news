@@ -1,5 +1,44 @@
 [
   {
+    "id": "03c2f78afb991a9caf4b8c65ca7042f9",
+    "title": "open-net-worth added to PyPI",
+    "slug": "opennetworth-added-to-pypi",
+    "date": "2026-10-15T16:09:11Z",
+    "description": "Open-source self-hosted wealth manager with an AI assistant (Lucius).",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/open-net-worth/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "c70771d7e891a0b0e3d26c724daa088a",
+    "title": "Inside ICE, Officials Question String of Trump Admin \u201cMidterm Panic Moves\u201d",
+    "slug": "inside-ice-officials-question-string-of-trump-admin-midterm-panic-moves",
+    "date": "2026-10-15T16:07:25Z",
+    "description": "One ICE official said the timing of the raid on Ilhan Omar\u2019s home was \u201cpolitically motivated.\u201d\nThe post Inside ICE, Officials Question String of Trump Admin \u201cMidterm Panic Moves\u201d appeared first on The Intercept.",
+    "category": "AI Tools",
+    "source": "https://theintercept.com/2026/10/15/ice-omar-raid-midterms-political/",
+    "tags": [
+      "theintercept.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "d5d176e5f7d2ad958d279ace6cfa62cf",
+    "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+    "slug": "steam-client-is-now-faster-than-epics-new-vibe-coded-launcher",
+    "date": "2026-10-15T16:03:19Z",
+    "description": "Epic Games \"vibe coded\" Launcher V2 to beat Steam with a 5.47s boot time. Valve quietly responded with a client update that dropped Steam startup speeds to 5.23s.",
+    "category": "Dev News",
+    "source": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+    "tags": [
+      "respawnfirst.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "9c2e888d649d877a75dba45512c64188",
     "title": "New York Jets News: Garrett Wilson Sets Tone Before Patriots Clash",
     "slug": "new-york-jets-news-garrett-wilson-sets-tone-before-patriots-clash",
