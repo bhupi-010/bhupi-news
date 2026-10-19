@@ -1,5 +1,44 @@
 [
   {
+    "id": "446dc49de74a4220114383f9c86a398b",
+    "title": "Representation Matters",
+    "slug": "representation-matters",
+    "date": "2026-10-18T12:34:36Z",
+    "description": "Does it matter that \"Forgotten Island\" is Hollywood's first animated feature centered on Filipino culture? To an estimated 133 million Filipinos worldwide, the answer is yes.",
+    "category": "Dev News",
+    "source": "https://www.psychologytoday.com/us/blog/ordinary-magic/202610/representation-matters",
+    "tags": [
+      "psychologytoday.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f3656fb115a94efcc0478874933be130",
+    "title": "Chiefs News: Chiefs don\u2019t seem to be \u2018in a rush\u2019 for Tyreek reunion",
+    "slug": "chiefs-news-chiefs-dont-seem-to-be-in-a-rush-for-tyreek-reunion",
+    "date": "2026-10-18T12:15:00Z",
+    "description": "The latest Chiefs news, brought fresh to you every morning!",
+    "category": "Dev News",
+    "source": "https://www.arrowheadpride.com/kansas-city-chiefs-news/213298/chiefs-news-chiefs-dont-seem-rush-tyreek-reunion",
+    "tags": [
+      "arrowheadpride.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "71cbb20af67342525c126dd7e80b0704",
+    "title": "A new way to think about borrow checking (in reverse)",
+    "slug": "a-new-way-to-think-about-borrow-checking-in-reverse",
+    "date": "2026-10-18T12:11:13Z",
+    "description": "Article URL: https://verdagon.dev/blog/reverse-borrow-checking\nComments URL: https://news.ycombinator.com/item?id=50140383\nPoints: 6\n# Comments: 3",
+    "category": "Dev News",
+    "source": "https://verdagon.dev/blog/reverse-borrow-checking",
+    "tags": [
+      "verdagon.dev",
+      "dev-news"
+    ]
+  },
+  {
     "id": "f312f59321768173a5fbe068633b24b6",
     "title": "After Bend Elementary School Shooting, Oregon Officials Urge Families to Watch Children for Signs of Trauma and Grief",
     "slug": "after-bend-elementary-school-shooting-oregon-officials-urge-families-to-watch-ch",
