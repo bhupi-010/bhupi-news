@@ -1,5 +1,18 @@
 [
   {
+    "id": "27b41677b4338c45c3e244bb23f36a37",
+    "title": "Want To Be More Resilient To Stress? Research Suggests 3 Key Habits",
+    "slug": "want-to-be-more-resilient-to-stress-research-suggests-3-key-habits",
+    "date": "2026-10-21T11:25:00Z",
+    "description": "Start here if you want to handle stress better",
+    "category": "Dev News",
+    "source": "https://www.mindbodygreen.com/articles/these-low-effort-habits-could-make-you-way-more-resilient-zoom-out-on-your-habits",
+    "tags": [
+      "mindbodygreen.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "ee99adbb2d2ba6723073ef1d33984c3d",
     "title": "Exclusive: AI code-testing startup Blacksmith hits $1 billion valuation as AI-written code surges",
     "slug": "exclusive-ai-codetesting-startup-blacksmith-hits-1-billion-valuation-as-aiwritte",
@@ -10,6 +23,32 @@
     "tags": [
       "fortune.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "c6f33209ebde3848d87c5b814f59303e",
+    "title": "Toledo chemical explosion prompts evacuations and shelter-in-place orders",
+    "slug": "toledo-chemical-explosion-prompts-evacuations-and-shelterinplace-orders",
+    "date": "2026-10-21T10:40:43Z",
+    "description": "Ohio officials on Wednesday said an explosion at a chemical tank at a North Toledo company released a chemical into the air overnight and prompted an evacuation of nearby residents.",
+    "category": "AI Tools",
+    "source": "https://www.nbcnews.com/news/us-news/evacuations-shelter-place-orders-issued-toledo-ohio-chemical-release-rcna604739",
+    "tags": [
+      "nbcnews.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "ea3acb78b8c35f6851fcbed04cdebadc",
+    "title": "Chiefs News: Mecole Hardman signs with Colts practice squad",
+    "slug": "chiefs-news-mecole-hardman-signs-with-colts-practice-squad",
+    "date": "2026-10-21T10:30:00Z",
+    "description": "The latest Chiefs news, brought fresh to you every morning!",
+    "category": "Dev News",
+    "source": "https://www.arrowheadpride.com/kansas-city-chiefs-news/213690/chiefs-news-mecole-hardman-signs-colts-practice-squad",
+    "tags": [
+      "arrowheadpride.com",
+      "dev-news"
     ]
   },
   {
