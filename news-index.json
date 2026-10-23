@@ -1,5 +1,44 @@
 [
   {
+    "id": "371e79e1abdf6ef3601ce2e5c3079515",
+    "title": "Return of the world car: China backs one-size-fits-all approach",
+    "slug": "return-of-the-world-car-china-backs-onesizefitsall-approach",
+    "date": "2026-10-22T04:00:00Z",
+    "description": "China's ability to build competitive cars at cheap prices shows that one product for all markets can work\n\nChinese car makers are reviving what many volume brands had written off: the idea of a 'global car' that works across all regions.\r\n\nAt the same time, h\u2026",
+    "category": "Dev News",
+    "source": "https://www.autocar.co.uk/car-news/business-manufacturing/return-world-car-china-backs-one-size-fits-all-approach",
+    "tags": [
+      "autocar.co.uk",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7c13744f655940f7e10d33f55a7b25e7",
+    "title": "awdk 3.8.81",
+    "slug": "awdk-3881",
+    "date": "2026-10-22T03:50:41Z",
+    "description": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: free local runtime with typed memory, knowledge graph, code graph and ReAct; paid tiers (api.aitherium.com) unlock fleets, channels, reasoning and marketplace packs.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/awdk/3.8.81/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "2a3510f8a84dc760de5b68a895029586",
+    "title": "What neutralizes the ammonia smell from dog urine?",
+    "slug": "what-neutralizes-the-ammonia-smell-from-dog-urine",
+    "date": "2026-10-22T03:32:04Z",
+    "description": "What Neutralizes the Ammonia Smell From Dog Urine? The key to eliminating that pungent ammonia odor is to completely neutralize the urine\u2019s alkaline compounds. Effective solutions often involve enzymatic cleaners and thorough rinsing to break down and remove \u2026",
+    "category": "Dev News",
+    "source": "https://www.lifesciencesworld.com/what-neutralizes-the-ammonia-smell-from-dog-urine/",
+    "tags": [
+      "lifesciencesworld.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "678705bf730242423c55964e1f50e3ec",
     "title": "Show HN: Repository of the Day - Flisk \u2013 run a full local service stack ASAP",
     "slug": "show-hn-repository-of-the-day--flisk--run-a-full-local-service-stack-asap",
