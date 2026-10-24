@@ -1,5 +1,44 @@
 [
   {
+    "id": "d6023bbddd3a00b8542d1e10e43810f5",
+    "title": "Issue 360: Python and Wagtail Security Releases",
+    "slug": "issue-360-python-and-wagtail-security-releases",
+    "date": "2026-10-23T10:25:38Z",
+    "description": "News\nPython 3.15.1, 3.14.9 and 3.13.17 are now available\nExpedited security releases on October 21, carrying pip 26.2.2 and certifi 2026.10.19 to drop the compromised eMudhra CA. 3.13 is the odd one out: it had just entered security-only mode, where pip is no\u2026",
+    "category": "AI Tools",
+    "source": "https://django-news.com/archive/issue-360-python-and-wagtail-security-releases/",
+    "tags": [
+      "django-news.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "3151515bcf917baa902da08df7e02afb",
+    "title": "Fran\u00e7ois Arnaud is \u2018protecting himself more\u2019 after Heated Rivalry fame",
+    "slug": "fran\u00e7ois-arnaud-is-protecting-himself-more-after-heated-rivalry-fame",
+    "date": "2026-10-23T10:05:47Z",
+    "description": "Heated Rivalry star Fran\u00e7ois Arnaud says he\u2019s protecting himself more after the wildly popular ice hockey romance put him in the spotlight.\u00a0 Forty-one-year-old Arnaud, who came out as bisexual in 2020, plays ice hockey star Scott Hunter in Heated Rivalry. He\u2019\u2026",
+    "category": "Dev News",
+    "source": "https://www.thepinknews.com/2026/10/23/francois-arnaud-is-protecting-himself-more-after-heated-rivalry-fame/",
+    "tags": [
+      "thepinknews.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "777d33d14a9105687af5ce9f9e286372",
+    "title": "Questrade Brings Extended-Hours Trading for Pre-Market Equity Options",
+    "slug": "questrade-brings-extendedhours-trading-for-premarket-equity-options",
+    "date": "2026-10-23T10:03:47Z",
+    "description": "Clients can act on news that breaks outside the 9:30 am to 4:00 pm window TORONTO, Oct. 23, 2026 (GLOBE NEWSWIRE) \u2014 Questrade, Canada\u2019s leading digital financial platform, today announced pre-market and post-market trading for equity options, so clients can r\u2026",
+    "category": "Dev News",
+    "source": "https://financialpost.com/globe-newswire/questrade-brings-extended-hours-trading-for-pre-market-equity-options",
+    "tags": [
+      "financialpost.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "09880223a259b15cfbec5f22398758e0",
     "title": "Watch Celtics\u2019 Jayson Tatum reveal his stunned reaction to the Jaylen Brown trade",
     "slug": "watch-celtics-jayson-tatum-reveal-his-stunned-reaction-to-the-jaylen-brown-trade",
