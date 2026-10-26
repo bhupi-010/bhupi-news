@@ -1,5 +1,44 @@
 [
   {
+    "id": "af5c35a2b2c02cf748d92492d409f646",
+    "title": "git-repokit added to PyPI",
+    "slug": "gitrepokit-added-to-pypi",
+    "date": "2026-10-25T12:06:02Z",
+    "description": "Create standardized Git repositories: language presets, licences, GitHub setup, and a private notes vault",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/git-repokit/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "4026488c9dbe138f798f2e0443ac4b60",
+    "title": "Chiefs News: Chris Roland-Wallace fined for punch from Week 6",
+    "slug": "chiefs-news-chris-rolandwallace-fined-for-punch-from-week-6",
+    "date": "2026-10-25T12:00:00Z",
+    "description": "The latest Chiefs news, brought fresh to you every morning!",
+    "category": "Dev News",
+    "source": "https://www.arrowheadpride.com/kansas-city-chiefs-news/214049/chiefs-news-chris-roland-wallace-fined-punch-week-6",
+    "tags": [
+      "arrowheadpride.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "93f8426790081553a0e1ff9528cb1fc1",
+    "title": "Top 25 Predictions: What the AP Poll Will Look Like After Week 8",
+    "slug": "top-25-predictions-what-the-ap-poll-will-look-like-after-week-8",
+    "date": "2026-10-25T12:00:00Z",
+    "description": "Three more top-10 teams lost on another upset-filled Saturday. Athlon projects the next AP Top 25.",
+    "category": "Dev News",
+    "source": "https://athlonsports.com/college-football/top-25-predictions-what-the-ap-poll-will-look-like-after-week-8",
+    "tags": [
+      "athlonsports.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "7d55b1fe7537c62bc10a5c798cc044f3",
     "title": "Tomorrow's Top 25 Today: Texas vaults back into top 10 as BYU, Texas Tech fall in college football rankings",
     "slug": "tomorrows-top-25-today-texas-vaults-back-into-top-10-as-byu-texas-tech-fall-in-c",
