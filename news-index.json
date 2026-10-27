@@ -1,5 +1,18 @@
 [
   {
+    "id": "cb685d5b4cbcc16ac9db7635362d00a9",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "slug": "how-openai-turned-its-coding-tools-into-dots-an-alwayson-personal-assistant",
+    "date": "2026-10-27T02:00:00Z",
+    "description": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "category": "AI Tools",
+    "source": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "tags": [
+      "techcrunch.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "3b849a8afe057d9a36d6dffc47bb54dd",
     "title": "Zerodha\u2019s Nithin Kamath asks traders: What are you building with Kite's free APIs and AI?",
     "slug": "zerodhas-nithin-kamath-asks-traders-what-are-you-building-with-kites-free-apis-a",
@@ -10,6 +23,32 @@
     "tags": [
       "cnbctv18.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "1d2992aa3b0ebce2f7af3cb05810bc79",
+    "title": "maap-client added to PyPI",
+    "slug": "maapclient-added-to-pypi",
+    "date": "2026-10-26T17:07:03Z",
+    "description": "Python client for ESA MAAP EarthCARE satellite data access",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/maap-client/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7256431e135d06987a900a222cbc19d3",
+    "title": "An opinionated Laravel starter kit",
+    "slug": "an-opinionated-laravel-starter-kit",
+    "date": "2026-10-26T17:00:00Z",
+    "description": "An opinionated starter kit for the Laravel framework. - scajal/laravel-react-starter-kit",
+    "category": "Frontend",
+    "source": "https://github.com/scajal/laravel-react-starter-kit?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews",
+    "tags": [
+      "github.com",
+      "frontend"
     ]
   },
   {
