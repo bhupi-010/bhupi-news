@@ -1,5 +1,44 @@
 [
   {
+    "id": "f9dfb2347b1c0ce601885c3f9276c4ab",
+    "title": "\u2018Fertility treatment is like a second job\u2019: How can employers support staff undergoing IVF?",
+    "slug": "fertility-treatment-is-like-a-second-job-how-can-employers-support-staff-undergo",
+    "date": "2026-10-29T05:00:00Z",
+    "description": "When the personal collides with work during fertility treatment, women react in different ways",
+    "category": "Frontend",
+    "source": "https://www.irishtimes.com/business/work/2026/10/29/fertility-treatment-is-like-a-second-job-how-can-employers-support-staff-undergoing-ivf/",
+    "tags": [
+      "irishtimes.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "a70b4ce4fe6ddbc71dd11f3c69a02630",
+    "title": "agentbench-core added to PyPI",
+    "slug": "agentbenchcore-added-to-pypi",
+    "date": "2026-10-29T04:53:32Z",
+    "description": "Provider-agnostic evaluation and benchmarking platform for autonomous AI coding agents",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/agentbench-core/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "96ef91d9bed493828f3cb705f98222ef",
+    "title": "picadolabs-agentbench added to PyPI",
+    "slug": "picadolabsagentbench-added-to-pypi",
+    "date": "2026-10-29T04:49:52Z",
+    "description": "Provider-agnostic evaluation and benchmarking platform for autonomous AI coding agents",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/picadolabs-agentbench/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "119771ecf8f8916d6c244fbd9e0e9d97",
     "title": "Modric says Milan \u2018deserved\u2019 defeat against Bologna: \u2018We didn\u2019t expect it\u2019",
     "slug": "modric-says-milan-deserved-defeat-against-bologna-we-didnt-expect-it",
