@@ -1,5 +1,44 @@
 [
   {
+    "id": "6b25ab7751d97a78f09e5e69729c49f3",
+    "title": "CEO shares 'terrifying experience' his family endured after home invaders burst into his $2.1m mansion then shot him and his two daughters as he warns that Toronto is going to the dogs",
+    "slug": "ceo-shares-terrifying-experience-his-family-endured-after-home-invaders-burst-in",
+    "date": "2026-10-30T21:00:21Z",
+    "description": "An 'altercation' began after the men, armed with firearms and a hammer, forced their way in through the rear end and demanded the family's personal valuables.",
+    "category": "Dev News",
+    "source": "https://www.dailymail.com/news/article-16253471/manhunt-ceo-wife-daughters-mansion-attacked-canada.html",
+    "tags": [
+      "dailymail.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "4f6a4ceae237e92f537e3ed4a3bb400f",
+    "title": "Show HN: mobile-agent \u2013 Let AI agents control Android and iOS devices",
+    "slug": "show-hn-mobileagent--let-ai-agents-control-android-and-ios-devices",
+    "date": "2026-10-30T20:54:51Z",
+    "description": "Experimental, pre-release. Drives Android devices and emulators, iOS Simulators and iPhones for AI agents: a daemon with a live mirror of every screen, a CLI and an MCP server, built around the lat...",
+    "category": "AI Tools",
+    "source": "https://github.com/gesposito/mobile-agent",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9c3e546cc51baa3d87d2ab6914145d65",
+    "title": "California Billionaires May Well Prevail in Their Quest to Block a State Wealth Tax",
+    "slug": "california-billionaires-may-well-prevail-in-their-quest-to-block-a-state-wealth-",
+    "date": "2026-10-30T20:49:51Z",
+    "description": "Greed is on California\u2019s state ballot, and it appears to be winning. For a while, Prop. 40, the Billionaire Tax initiative, which is supported by the state Democratic Party but opposed by many unions and prominent Democrats, was polling well. The notion of ta\u2026",
+    "category": "AI Tools",
+    "source": "https://www.motherjones.com/politics/2026/10/california-propositions-40-41-42-billionaire-wealth-tax-losing-polls-building-better-advertising/",
+    "tags": [
+      "motherjones.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "dbc2f868d367e893e73eeda3dc56b4f5",
     "title": "Inside Rai Benjamin's Ultimate double and what it means for 2027",
     "slug": "inside-rai-benjamins-ultimate-double-and-what-it-means-for-2027",
