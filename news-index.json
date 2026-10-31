@@ -1,5 +1,44 @@
 [
   {
+    "id": "c1e9054809be05c857c18a6f2d0a597a",
+    "title": "Doctors Say a Rare Kind of Measles Is on the Rise",
+    "slug": "doctors-say-a-rare-kind-of-measles-is-on-the-rise",
+    "date": "2026-10-30T11:00:00Z",
+    "description": "Babies are catching measles in utero for the first time in decades.",
+    "category": "Dev News",
+    "source": "https://www.theatlantic.com/health/2026/10/congenital-measles-birth-pennsylvania/689214/?utm_source=feed",
+    "tags": [
+      "theatlantic.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "f83043d02ac22c07e2265205ae6fa08e",
+    "title": "New York Jets News: Raiders Game Will Determine Aaron Glenn\u2019s Control of the Locker Room",
+    "slug": "new-york-jets-news-raiders-game-will-determine-aaron-glenns-control-of-the-locke",
+    "date": "2026-10-30T11:00:00Z",
+    "description": "Your daily links to the New York Jets",
+    "category": "AI Tools",
+    "source": "https://www.ganggreennation.com/new-york-jets-news/98043/raiders-game-will-determine-aaron-glenns-control-of-locker-room",
+    "tags": [
+      "ganggreennation.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "7ceef661f94140c059e45b6b779d6d64",
+    "title": "Presentation: The Ladder Is Missing Rungs: Engineering Progression When AI Ate the Middle",
+    "slug": "presentation-the-ladder-is-missing-rungs-engineering-progression-when-ai-ate-the",
+    "date": "2026-10-30T11:00:00Z",
+    "description": "Alasdair Allan discusses empirical research from METR and Anthropic on AI coding adoption. He explains the \"supervision paradox,\" where reliance on AI tools disrupts junior skill development, risks institutional context loss, and threatens the long-term engin\u2026",
+    "category": "AI Tools",
+    "source": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/",
+    "tags": [
+      "infoq.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "6b18bb0149c3222356f7a3b2d4d31bd4",
     "title": "Show HN: Breatic \u2013 Collaborative canvases and documents with an AI agent",
     "slug": "show-hn-breatic--collaborative-canvases-and-documents-with-an-ai-agent",
