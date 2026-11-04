@@ -1,5 +1,44 @@
 [
   {
+    "id": "4906e37203e25cbee15b2795c266af32",
+    "title": "Bayern Munich\u2019s Max Eberl: \u2018Thank God we extended his contract\u2019",
+    "slug": "bayern-munichs-max-eberl-thank-god-we-extended-his-contract",
+    "date": "2026-11-03T23:21:19Z",
+    "description": "Dayot Upamecano and FC Bayern\u2019s defense smothered Atletico Madrid.",
+    "category": "Dev News",
+    "source": "https://www.bavarianfootballworks.com/champions-league/277169/bayern-munich-max-eberl-dayot-upamecano-atletico-madrid",
+    "tags": [
+      "bavarianfootballworks.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "8d1cedcda552616edfbff788b5bed334",
+    "title": "Show HN: Claudinho \u2013 Claude Code's mascot on an ESP32, driven by hooks",
+    "slug": "show-hn-claudinho--claude-codes-mascot-on-an-esp32-driven-by-hooks",
+    "date": "2026-11-03T23:11:27Z",
+    "description": "Clawd, the Claude Code mascot, on an ESP32 touchscreen: reacts to what Claude is doing and shows your plan usage. No OAuth, no cloud, zero tokens. (EN/PT) - argeuthiesen/claudinho",
+    "category": "Frontend",
+    "source": "https://github.com/argeuthiesen/claudinho",
+    "tags": [
+      "github.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "024def550a63b34f834719a88ff7d49d",
+    "title": "Chennedy Carter Shares True Feelings After Aces Assistant Coach Mistaken For Her As Becky Hammon Attends JuJu Watkins Game",
+    "slug": "chennedy-carter-shares-true-feelings-after-aces-assistant-coach-mistaken-for-her",
+    "date": "2026-11-03T23:11:26Z",
+    "description": "Chennedy Carter expressed her feelings after a college commentator mistook Las Vegas Aces assistant head coach Nola Henry for Carter. After the 2026 WNBA season, the coaching staff is already scouting for younger talent to strategize for the offseason and the\u2026",
+    "category": "Dev News",
+    "source": "https://collegefootballnetwork.com/wnba/chennedy-carter-shares-true-feelings-after-aces-assistant-coach-mistaken-for-her-as-becky-hammon-attends-juju-watkins-game/?utm_medium=rss&amp;utm_source=nordot",
+    "tags": [
+      "collegefootballnetwork.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "234a6e8f551e63f4f64007d235dd3140",
     "title": "algeria-geo added to PyPI",
     "slug": "algeriageo-added-to-pypi",
