@@ -1,5 +1,18 @@
 [
   {
+    "id": "234a6e8f551e63f4f64007d235dd3140",
+    "title": "algeria-geo added to PyPI",
+    "slug": "algeriageo-added-to-pypi",
+    "date": "2026-11-03T13:27:30Z",
+    "description": "Algeria's administrative divisions: 69 wilayas, 538 dairas and 1,541 communes, with Arabic/French search and historical boundaries.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/algeria-geo/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "040b17ca3306f72ea34a81b967143d10",
     "title": "Goldman Sachs bans some employees from using AI, Replit CEO says this is widespread in finance",
     "slug": "goldman-sachs-bans-some-employees-from-using-ai-replit-ceo-says-this-is-widespre",
@@ -10,6 +23,32 @@
     "tags": [
       "indiatoday.in",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "605daa6039d80d14996b80f237eb0901",
+    "title": "The brain\u2019s hidden fear mechanism may explain anxiety and PTSD",
+    "slug": "the-brains-hidden-fear-mechanism-may-explain-anxiety-and-ptsd",
+    "date": "2026-11-03T13:03:02Z",
+    "description": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scientists found that memories of threatening \u2026",
+    "category": "AI Tools",
+    "source": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
+    "tags": [
+      "sciencedaily.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "d63c6b773396729732ad7b4dac1f8476",
+    "title": "qpyserve added to PyPI",
+    "slug": "qpyserve-added-to-pypi",
+    "date": "2026-11-03T12:51:11Z",
+    "description": "Run FastAPI with HTML, React, or Vue on one host using one Python command",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/qpyserve/",
+    "tags": [
+      "pypi.org",
+      "frontend"
     ]
   },
   {
