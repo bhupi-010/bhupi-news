@@ -1,5 +1,44 @@
 [
   {
+    "id": "040b17ca3306f72ea34a81b967143d10",
+    "title": "Goldman Sachs bans some employees from using AI, Replit CEO says this is widespread in finance",
+    "slug": "goldman-sachs-bans-some-employees-from-using-ai-replit-ceo-says-this-is-widespre",
+    "date": "2026-11-03T13:15:49Z",
+    "description": "Goldman Sachs is restricting access to AI coding tools such as Claude Code and GitHub, limiting their use to engineers. The move has reportedly frustrated traders who had been using the tools to speed up every day work.",
+    "category": "AI Tools",
+    "source": "https://www.indiatoday.in/technology/news/story/goldman-sachs-bans-some-employees-from-using-ai-replit-ceo-says-this-is-widespread-in-finance-3031550-2026-11-03",
+    "tags": [
+      "indiatoday.in",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e359d283305ed4ecab4d5ae247881be7",
+    "title": "Show HN: Open a 300k-row XLSX in the browser in ~300ms, no server",
+    "slug": "show-hn-open-a-300krow-xlsx-in-the-browser-in-300ms-no-server",
+    "date": "2026-11-03T05:13:30Z",
+    "description": "View & edit DOCX, XLSX, PPTX in the browser. Progressive loading, formulas, real-time collab, saves to original format. - p10node/office-engine",
+    "category": "Dev News",
+    "source": "https://github.com/p10node/office-engine",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "3a4096b9f2ccd7f83b458541d93d9e44",
+    "title": "What animal has more than one brain?",
+    "slug": "what-animal-has-more-than-one-brain",
+    "date": "2026-11-03T05:11:03Z",
+    "description": "What Animal Has More Than One Brain? Exploring Polycephalic Creatures What animal has more than one brain? The answer is, surprisingly, no animal truly possesses multiple, fully functional brains in the way we typically understand them. However, many creature\u2026",
+    "category": "AI Tools",
+    "source": "https://www.lifesciencesworld.com/what-animal-has-more-than-one-brain/",
+    "tags": [
+      "lifesciencesworld.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "67487187408a314c8f4d447c24e97db3",
     "title": "How a post-Helen Haines attack motion split a NSW council",
     "slug": "how-a-posthelen-haines-attack-motion-split-a-nsw-council",
