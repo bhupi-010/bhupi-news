@@ -1,5 +1,44 @@
 [
   {
+    "id": "984fda365b2fffc9384f28fb7207153d",
+    "title": "OpenAI Acquires Pierre Computer Company To Expand Codex AI Coding Tools & Strengthen AI-Powered Software Development",
+    "slug": "openai-acquires-pierre-computer-company-to-expand-codex-ai-coding-tools--strengt",
+    "date": "2026-11-05T04:02:23Z",
+    "description": "OpenAI is acquiring Pierre Computer Company to strengthen its Codex platform with advanced coding tools, Git-based workflows and AI agent capabilities. The deal will integrate Pierre",
+    "category": "AI Tools",
+    "source": "https://www.freepressjournal.in/tech/openai-acquires-pierre-computer-company-to-expand-codex-ai-coding-tools-strengthen-ai-powered-software-development-2",
+    "tags": [
+      "freepressjournal.in",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "e4f2ed6815215b5e33e626dfb49dff7f",
+    "title": "OpenAI to acquire Pierre Computer Company to expand Codex coding tools",
+    "slug": "openai-to-acquire-pierre-computer-company-to-expand-codex-coding-tools",
+    "date": "2026-11-05T03:30:25Z",
+    "description": "OpenAI will acquire Pierre Computer Company to expand Codex capabilities, integrate open-source coding tools and strengthen AI-powered software development workflows.",
+    "category": "AI Tools",
+    "source": "https://www.thehindubusinessline.com/info-tech/openai-to-acquire-pierre-computer-company-to-expand-codex-coding-capabilities/article71668505.ece",
+    "tags": [
+      "thehindubusinessline.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "7f0ae9b344a4e8cba24658ad4cbe191e",
+    "title": "OpenAI to acquire developer tools firm Pierre to expand Codex capabilities",
+    "slug": "openai-to-acquire-developer-tools-firm-pierre-to-expand-codex-capabilities",
+    "date": "2026-11-05T02:27:25Z",
+    "description": "OpenAI will acquire Pierre Computer Company, the developer of open-source coding tools, to expand its Codex platform's capabilities in building, understanding and reviewing software, as it looks to strengthen the role of AI agents across the software development process.",
+    "category": "AI Tools",
+    "source": "https://www.tribuneindia.com/news/business/openai-to-acquire-developer-tools-firm-pierre-to-expand-codex-capabilities/",
+    "tags": [
+      "tribuneindia.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "02a645ceecd285432677dadb4224c4c5",
     "title": "Aswath Damodaran trims his Anthropic IPO valuation to $1.45 trillion; Dean of valuation explains why",
     "slug": "aswath-damodaran-trims-his-anthropic-ipo-valuation-to-145-trillion-dean-of-valua",
