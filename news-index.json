@@ -1,5 +1,44 @@
 [
   {
+    "id": "c4860ec48262ddb85f44935ec9e13d3c",
+    "title": "A massive blue wave just hit America. Here\u2019s what it could bring next.",
+    "slug": "a-massive-blue-wave-just-hit-america-heres-what-it-could-bring-next",
+    "date": "2026-11-04T05:33:44Z",
+    "description": "Voters just ushered the United States into the post-Trump era. The ballots are still being counted, and key races are still being called, but here\u2019s the short version of the midterm election: It\u2019s a blue tsunami. Democrats looked set to take full control of C\u2026",
+    "category": "Dev News",
+    "source": "https://www.vox.com/politics/508927/midterms-blue-wave-democrats-win-texas",
+    "tags": [
+      "vox.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "56cfa268bec49ef4972070dbcbea26d4",
+    "title": "iOS 27.3 beta 1: All the new features and changes",
+    "slug": "ios-273-beta-1-all-the-new-features-and-changes",
+    "date": "2026-11-04T05:31:56Z",
+    "description": "Apple\u2019s first iOS 27.3 beta bring back the redesigned Health app, give Siri more control across apps, add vertical tabs to Safari and more.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "category": "Dev News",
+    "source": "https://www.cultofmac.com/news/ios-27-3-beta-features-changes",
+    "tags": [
+      "cultofmac.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "55bdbf4e6576bc1a73105b01af4ff641",
+    "title": "Hollywood Celebrates Midterms Blue Tsunami: Jimmy Kimmel, Alyssa Milano & More React",
+    "slug": "hollywood-celebrates-midterms-blue-tsunami-jimmy-kimmel-alyssa-milano--more-reac",
+    "date": "2026-11-04T05:31:28Z",
+    "description": "After collectively holding is breath, much of Hollywood breathed a sigh of relief tonight as Democrats posted a stunning electoral rebuke of President Donald Trump, his policies and the candidates he backed. By 9 p.m. PT, the blue wave had become a blue tsuna\u2026",
+    "category": "Frontend",
+    "source": "http://deadline.com/2026/11/midterms-hollywood-celebrities-react-celebrate-1237212866/",
+    "tags": [
+      "deadline.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "4906e37203e25cbee15b2795c266af32",
     "title": "Bayern Munich\u2019s Max Eberl: \u2018Thank God we extended his contract\u2019",
     "slug": "bayern-munichs-max-eberl-thank-god-we-extended-his-contract",
