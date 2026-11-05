@@ -1,5 +1,44 @@
 [
   {
+    "id": "02a645ceecd285432677dadb4224c4c5",
+    "title": "Aswath Damodaran trims his Anthropic IPO valuation to $1.45 trillion; Dean of valuation explains why",
+    "slug": "aswath-damodaran-trims-his-anthropic-ipo-valuation-to-145-trillion-dean-of-valua",
+    "date": "2026-11-04T14:06:30Z",
+    "description": "Valuation expert Aswath Damodaran has lowered Anthropic's estimated worth to $1.45 trillion, citing concerns over governance, regulatory hurdles, infrastructure costs and profitability. He also outlined four investment strategies to manage uncertainty surroun\u2026",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/aswath-damodaran-trims-his-anthropic-ipo-valuation-to-1-45-trillion-dean-of-valuation-explains-why/articleshow/135541731.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "294623ed68ce2da6b9bc4126c02faed3",
+    "title": "Laravel N+1 query fix",
+    "slug": "laravel-n1-query-fix",
+    "date": "2026-11-04T14:00:00Z",
+    "description": "Find and fix the Laravel N+1 query problem with eager loading, withCount, preventLazyLoading and tests, so slow pages and API endpoints speed up.",
+    "category": "Dev News",
+    "source": "https://aqibjavaid.site/blog/laravel-n-plus-one-query-fix",
+    "tags": [
+      "aqibjavaid.site",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "53cd0e5bbaed1a5eff3b81d7563408ff",
+    "title": "Mothers\u2019 experiences of caring for a child with acute lymphoblastic leukemia in the West Bank, Palestine: A qualitative study",
+    "slug": "mothers-experiences-of-caring-for-a-child-with-acute-lymphoblastic-leukemia-in-t",
+    "date": "2026-11-04T14:00:00Z",
+    "description": "Background Acute lymphoblastic leukaemia (ALL) is the most common childhood cancer globally and requires prolonged, intensive treatment that places substantial demands on families. Mothers often assume primary caregiving roles; however, their experiences in c\u2026",
+    "category": "Dev News",
+    "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362098",
+    "tags": [
+      "journals.plos.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "c4860ec48262ddb85f44935ec9e13d3c",
     "title": "A massive blue wave just hit America. Here\u2019s what it could bring next.",
     "slug": "a-massive-blue-wave-just-hit-america-heres-what-it-could-bring-next",
