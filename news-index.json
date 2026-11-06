@@ -1,5 +1,44 @@
 [
   {
+    "id": "67956b34da402a6f5a48ebae50279595",
+    "title": "WebStorm 2026.3: New Design-Code-Production Workflow, JetBrains Air in WebStorm, and More",
+    "slug": "webstorm-20263-new-designcodeproduction-workflow-jetbrains-air-in-webstorm-and-m",
+    "date": "2026-11-05T13:27:56Z",
+    "description": "WebStorm 2026.3 is now available! Building a UI feature with an AI agent often involves more switching between tools than actual coding. You copy values out of Figma, hunt for the right story in Storybook, write the prompt, wait for the agent, and then check \u2026",
+    "category": "AI Tools",
+    "source": "https://blog.jetbrains.com/webstorm/2026/11/webstorm-2026-3/",
+    "tags": [
+      "blog.jetbrains.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "37126f0e75359587b2a2850481c38b15",
+    "title": "Chiefs News: Chiefs bring back rookie return man to practice squad",
+    "slug": "chiefs-news-chiefs-bring-back-rookie-return-man-to-practice-squad",
+    "date": "2026-11-05T13:00:00Z",
+    "description": "The latest Chiefs news, brought fresh to you every morning!",
+    "category": "Dev News",
+    "source": "https://www.arrowheadpride.com/kansas-city-chiefs-news/215233/chiefs-bring-back-rookie-udfa-return-man-practice-squad",
+    "tags": [
+      "arrowheadpride.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "9b112d4d022d780849523498d66a6560",
+    "title": "What I Did with Hermes Agent, Ollama & Local Models",
+    "slug": "what-i-did-with-hermes-agent-ollama--local-models",
+    "date": "2026-11-05T13:00:00Z",
+    "description": "Hermes Agent is an open-source AI agent built by Nous Research, released under the permissive MIT license and it ships in two ways: a native desktop app for macOS, Windows, and Linux, and a terminal-first CLI, and both give you the same underlying agent, not \u2026",
+    "category": "AI Tools",
+    "source": "https://www.kdnuggets.com/what-i-did-with-hermes-agent-ollama-local-models",
+    "tags": [
+      "kdnuggets.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "4863071e368b4c1b1e0b1b830747a53c",
     "title": "What do bass do at night?",
     "slug": "what-do-bass-do-at-night",
