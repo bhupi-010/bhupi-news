@@ -1,5 +1,44 @@
 [
   {
+    "id": "cd92b364e808e6a571ddf930f3f19e81",
+    "title": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
+    "slug": "scientists-accidentally-solve-a-chemistry-mystery-that-lasted-60-years",
+    "date": "2026-11-06T21:28:04Z",
+    "description": "After more than 60 years of unsuccessful attempts, scientists have finally isolated stable examples of elusive boron-oxygen molecules once considered too unstable to capture. The surprising breakthrough, achieved using relatively simple chemical reactions, co\u2026",
+    "category": "Frontend",
+    "source": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
+    "tags": [
+      "sciencedaily.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "8beded52d8c4f363acb8be26151431d7",
+    "title": "Show HN: Realtime sync engine without any new infra",
+    "slug": "show-hn-realtime-sync-engine-without-any-new-infra",
+    "date": "2026-11-06T21:27:38Z",
+    "description": "Tandem is an open-source sync engine and client-side database that plugs into your existing infrastructure. Add the Tandem library to sync data in real time across your clients and server, without deploying any new services.I started work on Tandem 6 years ag\u2026",
+    "category": "Dev News",
+    "source": "https://github.com/tanishqkancharla/tandem",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "e17d157aed93a814cada56a7da7026a6",
+    "title": "Jay Rockefeller, Senate voice on health care and security, dies at 89 - The Washington Post",
+    "slug": "jay-rockefeller-senate-voice-on-health-care-and-security-dies-at-89--the-washing",
+    "date": "2026-11-06T21:13:54Z",
+    "description": "Jay Rockefeller, Senate voice on health care and security, dies at 89The Washington Post John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89The New York Times 'W.Va. has lost a giant': State and federal officials react to death of Jay Rocke\u2026",
+    "category": "Frontend",
+    "source": "https://slashdot.org/firehose.pl?op=view&amp;id=186620962",
+    "tags": [
+      "slashdot.org",
+      "frontend"
+    ]
+  },
+  {
     "id": "73f32749cb5c14a7427fad1b4bec99c5",
     "title": "Goldman Sachs bans thousands of employees from using Claude Code and GitHub; company says: After a period of experimentation, we put them in the hands of those...",
     "slug": "goldman-sachs-bans-thousands-of-employees-from-using-claude-code-and-github-comp",
