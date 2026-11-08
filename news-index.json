@@ -1,5 +1,44 @@
 [
   {
+    "id": "02e2245b7d1040b43e41e196878bf339",
+    "title": "'They cheated,' \u2018Everything Australia have ever won is null and void\u2019: Fans react to Usman Khawaja's Sandpapergate revelations",
+    "slug": "they-cheated-everything-australia-have-ever-won-is-null-and-void-fans-react-to-u",
+    "date": "2026-11-07T05:07:22Z",
+    "description": "See how cricket fans and social media reacted to Usman Khawaja's explosive 2018 Sandpapergate revelations.",
+    "category": "Frontend",
+    "source": "https://www.cricketnews.com/en/cricket/news/cheated-australia-won-null-fans-react-khawaja-sandpapergate-revelations/e8002346fe6a1759d7a26f99",
+    "tags": [
+      "cricketnews.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "6d4c8b6d53a4e8cb341671768aaa2069",
+    "title": "awdk 3.8.96",
+    "slug": "awdk-3896",
+    "date": "2026-11-07T05:00:22Z",
+    "description": "Build AI agents with real memory + faculties on any backend, local or cloud. Open-core: free local runtime with typed memory, knowledge graph, code graph and ReAct; paid tiers (api.aitherium.com) unlock fleets, channels, reasoning and marketplace packs.",
+    "category": "Frontend",
+    "source": "https://pypi.org/project/awdk/3.8.96/",
+    "tags": [
+      "pypi.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "0b44c8ecc89479bba72c5dc9637e07b3",
+    "title": "US midterms push Meloni away from Trump and closer to Europe",
+    "slug": "us-midterms-push-meloni-away-from-trump-and-closer-to-europe",
+    "date": "2026-11-07T05:00:00Z",
+    "description": "The election results deepen the Italian prime minister\u2019s already strained relationship with her former \u201cfriend Donald\u201d, accelerating her shift towards Europe on military aid for Ukraine and diplomatic ties with Iran",
+    "category": "AI Tools",
+    "source": "https://www.repubblica.it/en/europe/news/2026/11/07/news/us_midterms_giorgia_meloni_trump_europe-425704151/",
+    "tags": [
+      "repubblica.it",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "cd92b364e808e6a571ddf930f3f19e81",
     "title": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
     "slug": "scientists-accidentally-solve-a-chemistry-mystery-that-lasted-60-years",
