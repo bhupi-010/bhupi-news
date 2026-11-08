@@ -1,5 +1,44 @@
 [
   {
+    "id": "1365a97a6c5f54ced09e34e693dffd23",
+    "title": "Shadow of the Sun",
+    "slug": "shadow-of-the-sun",
+    "date": "2026-11-07T21:11:05Z",
+    "description": "Sometimes I want to abandon any pretense of a normal life and live like a drifter. I could drop the burden of ordinary work, friends, relationships, property, and just go to unusual places, see unu\u2026",
+    "category": "Dev News",
+    "source": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+    "tags": [
+      "mattlakeman.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "665f3e12b743ec8d3c6ce61dec6aaf0b",
+    "title": "Ebola: Why is there still no vaccine?",
+    "slug": "ebola-why-is-there-still-no-vaccine",
+    "date": "2026-11-07T21:03:00Z",
+    "description": "Ebola has been known about for decades, but there is still no vaccine against the Bundibugyo strain of the virus causing the current outbreak. New research raises hopes of protection against the various types of Ebola. 1976: A hitherto unknown disease breaks \u2026",
+    "category": "AI Tools",
+    "source": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134",
+    "tags": [
+      "dw.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "8abb8e540dfce38057aa03d656a22a99",
+    "title": "\u2018It\u2019s a Tradition,\u2019 \u2018This Is What Rivalries Are About\u2019 \u2014 CFB Fans React to Kentucky Supporters Painting Tennessee\u2019s Iconic Rock in Wildcats Colors",
+    "slug": "its-a-tradition-this-is-what-rivalries-are-about--cfb-fans-react-to-kentucky-sup",
+    "date": "2026-11-07T20:15:55Z",
+    "description": "The Kentucky Wildcats are riding high early in the Will Stein era after bagging a lofty No. 6 ranking in the first College Football Playoff rankings released this week.",
+    "category": "Frontend",
+    "source": "https://www.profootballnetwork.com/cfb/kentucky-supporters-painting-tennessee-rock-wildcats-color-reactions/",
+    "tags": [
+      "profootballnetwork.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "53a2894a9431aca63e7ac8cab6b5d2dd",
     "title": "Thomas M\u00fcller \u2018delighted\u2019 for Harry Kane winning the Ballon d\u2019Or",
     "slug": "thomas-m\u00fcller-delighted-for-harry-kane-winning-the-ballon-dor",
