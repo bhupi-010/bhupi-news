@@ -1,5 +1,44 @@
 [
   {
+    "id": "a3ffaaf159635cf09a15bbd4c95b3566",
+    "title": "Tomorrow's Top 25 Today: Georgia reclaims No. 1 spot, Tennessee joins top 10 in college football rankings",
+    "slug": "tomorrows-top-25-today-georgia-reclaims-no-1-spot-tennessee-joins-top-10-in-coll",
+    "date": "2026-11-08T04:56:37Z",
+    "description": "An emphatic road win at Ole Miss sets up the Dawgs to reclaim the No. 1 spot, while Notre Dame's victory sends Miami sliding down the rankings",
+    "category": "AI Tools",
+    "source": "https://www.cbssports.com/college-football/news/college-football-rankings-tomorrows-top-25-ap-poll-week-11/",
+    "tags": [
+      "cbssports.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "a95c5a979c7e262f099b7925d317f792",
+    "title": "devcleaner-cli added to PyPI",
+    "slug": "devcleanercli-added-to-pypi",
+    "date": "2026-11-08T04:31:33Z",
+    "description": "Remove generated directories such as node_modules, .next, and dist from every project in a workspace.",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/devcleaner-cli/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "0d187db4740c7fddf9fae1df865f21f7",
+    "title": "Hate Chromium? Well, There\u2019s a Linux Desktop Based on it Now",
+    "slug": "hate-chromium-well-theres-a-linux-desktop-based-on-it-now",
+    "date": "2026-11-08T04:26:51Z",
+    "description": "Domicile lets you build your desktop in React and CSS, with Manganese being included as the ready-made tiling option.",
+    "category": "Frontend",
+    "source": "https://itsfoss.com/news/domicile-desktop-overview/",
+    "tags": [
+      "itsfoss.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "1365a97a6c5f54ced09e34e693dffd23",
     "title": "Shadow of the Sun",
     "slug": "shadow-of-the-sun",
