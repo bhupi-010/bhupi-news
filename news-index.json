@@ -1,5 +1,44 @@
 [
   {
+    "id": "ef0409182132dac3b5ecf0e911236884",
+    "title": "codenaut added to PyPI",
+    "slug": "codenaut-added-to-pypi",
+    "date": "2026-11-09T01:01:58Z",
+    "description": "A terminal-based OpenAI-compatible coding agent with tools, approvals, MCP, and session persistence.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/codenaut/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "60bc06f5faac7fe9da59bd1342205286",
+    "title": "Is there a difference between a sea star and starfish?",
+    "slug": "is-there-a-difference-between-a-sea-star-and-starfish",
+    "date": "2026-11-09T00:59:27Z",
+    "description": "Is There a Difference Between a Sea Star and Starfish? The answer is a resounding yes, though it\u2019s subtle. While both terms refer to the same fascinating marine animal, \u201cIs there a difference between a sea star and starfish?\u201d The difference lies in the fact t\u2026",
+    "category": "Dev News",
+    "source": "https://www.lifesciencesworld.com/is-there-a-difference-between-a-sea-star-and-starfish/",
+    "tags": [
+      "lifesciencesworld.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "b28c23c68112252665995893d9f7f0e5",
+    "title": "A free Windows terminal brings Ghostty themes and flags background tabs waiting for your input",
+    "slug": "a-free-windows-terminal-brings-ghostty-themes-and-flags-background-tabs-waiting-",
+    "date": "2026-11-09T00:41:41Z",
+    "description": "A one-maintainer project puts familiar configuration files inside a Windows interface, with an experimental escape route for machines whose graphics drivers cannot cooperate.",
+    "category": "AI Tools",
+    "source": "https://lockergnome.com/noctty-native-windows-terminal-ghostty-core/",
+    "tags": [
+      "lockergnome.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "d135e37169ad274299b78f6875d1abd1",
     "title": "This Former Physics Teacher Recorded an Album of Folky Songs Inspired by Sonar",
     "slug": "this-former-physics-teacher-recorded-an-album-of-folky-songs-inspired-by-sonar",
