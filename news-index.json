@@ -1,5 +1,44 @@
 [
   {
+    "id": "4a279fae6a9dc149666ba08ae44e35b9",
+    "title": "Skydance Earnings Review: Why Wall Street Is in a Holding Pattern",
+    "slug": "skydance-earnings-review-why-wall-street-is-in-a-holding-pattern",
+    "date": "2026-11-10T13:46:26Z",
+    "description": "Analysts react to the first post-Warner Bros. acquisition quarterly results of David Ellison\u2019s Hollywood giant, with one wondering how this merger can succeed when \"so many other major media deals have failed.\"",
+    "category": "Frontend",
+    "source": "http://www.hollywoodreporter.com/business/business-news/skydance-earnings-wall-street-review-stock-holding-pattern-1236751133/",
+    "tags": [
+      "hollywoodreporter.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "d1d3f9606291fa8b72799e545a51166d",
+    "title": "Hands-on with Ring\u2019s new AI drone camera for your home",
+    "slug": "handson-with-rings-new-ai-drone-camera-for-your-home",
+    "date": "2026-11-10T13:35:53Z",
+    "description": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arri\u2026",
+    "category": "AI Tools",
+    "source": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+    "tags": [
+      "theverge.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "416e399053da907f5af782648769b790",
+    "title": "Eagles News: ESPN says Jordan Davis trade is a disaster for the Jaguars",
+    "slug": "eagles-news-espn-says-jordan-davis-trade-is-a-disaster-for-the-jaguars",
+    "date": "2026-11-10T13:34:20Z",
+    "description": "Philadelphia Eagles news and links for 11/10/26.",
+    "category": "Dev News",
+    "source": "https://www.bleedinggreennation.com/news/190032/eagles-news-espn-says-jordan-davis-trade-is-a-disaster-for-the-jaguars",
+    "tags": [
+      "bleedinggreennation.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "07f7857c77d95e6d8f87f899e618fbb3",
     "title": "Obsidian Security Announces Industry\u2019s First Context-Aware Runtime Decision Engine to Enforce AI Agent Actions, Across Coding Tools, Gateways and Third-Party Applications",
     "slug": "obsidian-security-announces-industrys-first-contextaware-runtime-decision-engine",
