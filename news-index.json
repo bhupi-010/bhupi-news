@@ -1,5 +1,44 @@
 [
   {
+    "id": "4934d629758dbc82662ac744948c3fb1",
+    "title": "How reliable are AI coding tools? A new test focuses on each model's limits.",
+    "slug": "how-reliable-are-ai-coding-tools-a-new-test-focuses-on-each-models-limits",
+    "date": "2026-11-12T15:30:05Z",
+    "description": "Toptal reports that a new benchmark for AI coding tools finds score gaps between models like Anthropic's Claude Opus 5.5 and OpenAI's GPT-6 Astra.",
+    "category": "AI Tools",
+    "source": "https://buffalonews.com/news/nation-world/business/article_1edd0f68-25ea-509e-816d-835949e37284.html",
+    "tags": [
+      "buffalonews.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "ab1bc332f8110ee089e6b3de962cc0e1",
+    "title": "NYLLON-SOFTWARE/ember-cloudflare: Open Source Slack and Campfire inspired chat with one click deploy to Cloudflare.",
+    "slug": "nyllonsoftwareembercloudflare-open-source-slack-and-campfire-inspired-chat-with-",
+    "date": "2026-11-12T05:47:02Z",
+    "description": "Open Source Slack and Campfire inspired chat with one click deploy to Cloudflare. - NYLLON-SOFTWARE/ember-cloudflare",
+    "category": "Dev News",
+    "source": "https://github.com/NYLLON-SOFTWARE/ember-cloudflare",
+    "tags": [
+      "github.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "5913ac0ddb068f57a7cdf90a4b1ac1e9",
+    "title": "Show HN: 9+Y ago created DragSelect, 0 deps, today a React wrapper lulz",
+    "slug": "show-hn-9y-ago-created-dragselect-0-deps-today-a-react-wrapper-lulz",
+    "date": "2026-11-12T05:05:54Z",
+    "description": "2017 needed it for a work project and the only alternative was JQuery UI. lol. Maintaining it since.Plain JavaScript, 0 dependencies. Handles selection, also drag and drop, auto-scroll, touch, keyboard, etc.New is @dragselect/react, so you can wire it up more\u2026",
+    "category": "Frontend",
+    "source": "https://DragSelect.com/",
+    "tags": [
+      "DragSelect.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "7babf7ef080278b8c54812670ea7bd86",
     "title": "Where Will It End? 2nd Tier Schools Want a 2nd CFP Tournament!",
     "slug": "where-will-it-end-2nd-tier-schools-want-a-2nd-cfp-tournament",
