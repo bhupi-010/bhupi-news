@@ -1,5 +1,44 @@
 [
   {
+    "id": "367bf33cae7d5326576d971ea5f6ef3a",
+    "title": "Scores from third round of MHSAA high school football postseason",
+    "slug": "scores-from-third-round-of-mhsaa-high-school-football-postseason",
+    "date": "2026-11-13T22:01:15Z",
+    "description": "With regional titles and trips to the Superior Dome on the line, check out the Cheboygan Daily Tribune's MHSAA football playoff scoreboard.",
+    "category": "AI Tools",
+    "source": "https://www.cheboygannews.com/story/sports/high-school/2026/11/13/northern-michigan-football-mhsaa-scoreboard-for-week-3-of-playoffs/92700351007/",
+    "tags": [
+      "cheboygannews.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "420131448c14c603b068489be09afaf2",
+    "title": "Nike\u2019s Future All Comes Down to Tuesday\u2019s Investor Day, Its First in 9\u00a0Years",
+    "slug": "nikes-future-all-comes-down-to-tuesdays-investor-day-its-first-in-9years",
+    "date": "2026-11-13T21:59:04Z",
+    "description": "Nike CEO Elliott Hill is expected to lay out the brand\u2019s future plans on Tuesday, nine years after the Swoosh hosted its last investor day.",
+    "category": "Dev News",
+    "source": "http://wwd.com/footwear-news/shoe-industry-news/nike-investor-day-preview-analyst-predictions-1239416212/",
+    "tags": [
+      "wwd.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "6e55b29693ba390f9f44518abaa9aa1e",
+    "title": "Severe allergic reaction after sipping energy drink traced to unexpected source",
+    "slug": "severe-allergic-reaction-after-sipping-energy-drink-traced-to-unexpected-source",
+    "date": "2026-11-13T21:38:56Z",
+    "description": "A teen's severe allergic reaction to an energy drink was traced to cod collagen, revealing how fish-derived ingredients can hide in unexpected products.",
+    "category": "Frontend",
+    "source": "https://www.foxnews.com/health/severe-allergic-reaction-sipping-energy-drink-traced-unexpected-source",
+    "tags": [
+      "foxnews.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "5d37acc301404a8a5dddebdcd89288a6",
     "title": "Claude suffers two outages in one day, Anthropic confirms disruptions to AI chatbot and coding tools",
     "slug": "claude-suffers-two-outages-in-one-day-anthropic-confirms-disruptions-to-ai-chatb",
