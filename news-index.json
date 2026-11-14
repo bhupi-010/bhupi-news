@@ -1,5 +1,44 @@
 [
   {
+    "id": "5d37acc301404a8a5dddebdcd89288a6",
+    "title": "Claude suffers two outages in one day, Anthropic confirms disruptions to AI chatbot and coding tools",
+    "slug": "claude-suffers-two-outages-in-one-day-anthropic-confirms-disruptions-to-ai-chatb",
+    "date": "2026-11-13T17:01:55Z",
+    "description": "Claude faced two service disruptions on Friday, affecting its chatbot, coding assistant and API. | Trending",
+    "category": "AI Tools",
+    "source": "https://www.hindustantimes.com/trending/claude-suffers-two-outages-in-one-day-anthropic-confirms-disruptions-to-ai-chatbot-and-coding-tools-101794587393324.html",
+    "tags": [
+      "hindustantimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "b98854bf208e66fbcb7eb116809cc058",
+    "title": "Anthropic Claude AI down, Status update: Services including Claude API, Claude Code, connectors down",
+    "slug": "anthropic-claude-ai-down-status-update-services-including-claude-api-claude-code",
+    "date": "2026-11-13T14:11:43Z",
+    "description": "Anthropic is investigating reports of degraded performance affecting Claude.ai, its API, Claude Code and other services on Friday. Users reported authentication problems and difficulty accessing the chatbot and coding tools.",
+    "category": "AI Tools",
+    "source": "https://www.livemint.com/technology/anthropic-claude-ai-down-status-update-services-including-claude-api-claude-code-connectors-down-11794578562208.html",
+    "tags": [
+      "livemint.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "3d840c1f3b76150004275a1779b511c3",
+    "title": "Claude AI is down: Anthropic investigates login failures as AI chatbot and coding tools face outage",
+    "slug": "claude-ai-is-down-anthropic-investigates-login-failures-as-ai-chatbot-and-coding",
+    "date": "2026-11-13T12:18:20Z",
+    "description": "Anthropic is investigating authentication errors across multiple products, while users in India report a sharp rise in access problems and its Microsoft connector faces a separate disruption.",
+    "category": "AI Tools",
+    "source": "https://www.businesstoday.in/technology/news/story/claude-ai-outage-anthropic-investigates-login-failures-as-ai-chatbot-and-coding-tools-face-outage-567403-2026-11-13",
+    "tags": [
+      "businesstoday.in",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "ef6efb29f491519a55f6fa03ec5ea78e",
     "title": "Exclusive: Dr. Condoleezza Rice One-On-One With Guy Benson",
     "slug": "exclusive-dr-condoleezza-rice-oneonone-with-guy-benson",
