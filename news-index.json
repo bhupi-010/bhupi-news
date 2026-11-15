@@ -1,5 +1,44 @@
 [
   {
+    "id": "349542d165287a3e9fb1d7f4cec69004",
+    "title": "codegraphy-lite added to PyPI",
+    "slug": "codegraphylite-added-to-pypi",
+    "date": "2026-11-14T22:11:47Z",
+    "description": "Standalone open-source visual architecture graph and MCP server for Python and modern codebases",
+    "category": "Dev News",
+    "source": "https://pypi.org/project/codegraphy-lite/",
+    "tags": [
+      "pypi.org",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "7667e29e11435f161a7865385ace34b0",
+    "title": "How Israel can cut road deaths",
+    "slug": "how-israel-can-cut-road-deaths",
+    "date": "2026-11-14T22:08:31Z",
+    "description": "With 341 people killed on Israel\u2019s roads in the first nine months of 2026, the National Road Safety Authority is proposing more 30 km/h zones, safer crossings and cameras that track average speed.",
+    "category": "Dev News",
+    "source": "https://www.israelnationalnews.com/news/436197",
+    "tags": [
+      "israelnationalnews.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "25191b5c3152e6d5d84a3c987836e635",
+    "title": "Take it to the bank: How Bradley Braves upset George Mason in college basketball duel",
+    "slug": "take-it-to-the-bank-how-bradley-braves-upset-george-mason-in-college-basketball-",
+    "date": "2026-11-14T21:50:15Z",
+    "description": "The Bradley Braves upset George Mason with 2 seconds left at the Showdown in St. Pete on Saturday, Nov. 14. How it happened, and reactions afterward.",
+    "category": "Frontend",
+    "source": "https://www.pjstar.com/story/sports/college/basketball/bradley-hoops/2026/11/14/college-basketball-how-the-bradley-braves-mens-team-upset-george-mason-with-2-seconds-left/92781351007/",
+    "tags": [
+      "pjstar.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "9edf2791d7f7a1c3208177bfc0593d9f",
     "title": "Ask Dr. Gold: Parkinson\u2019s Weight Loss, Tinnitus, and What Actually Works",
     "slug": "ask-dr-gold-parkinsons-weight-loss-tinnitus-and-what-actually-works",
