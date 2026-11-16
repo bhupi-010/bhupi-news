@@ -1,5 +1,44 @@
 [
   {
+    "id": "e17b8c7bf5648175c1520d8dbf65c523",
+    "title": "'People in tears': Travelers around the country react after rare FAA nationwide ground stop - WCVB",
+    "slug": "people-in-tears-travelers-around-the-country-react-after-rare-faa-nationwide-gro",
+    "date": "2026-11-15T05:13:19Z",
+    "description": "'People in tears': Travelers around the country react after rare FAA nationwide ground stopWCVB US aviation shutdown blamed on L3 Harris installed routerReuters What to Know About Continued Flight DisruptionsThe New York Times November 13, 2026 \u2014 Some US flig\u2026",
+    "category": "Frontend",
+    "source": "https://slashdot.org/firehose.pl?op=view&amp;id=186727632",
+    "tags": [
+      "slashdot.org",
+      "frontend"
+    ]
+  },
+  {
+    "id": "364c94ec51a704460e3d5e22a9ae8bfd",
+    "title": "'Worst game plan ever' Fighters react to Kayla Harrison's UFC 334 title defense vs. Amanda Nunes",
+    "slug": "worst-game-plan-ever-fighters-react-to-kayla-harrisons-ufc-334-title-defense-vs-",
+    "date": "2026-11-15T05:09:01Z",
+    "description": "The MMA community reacted to Kayla Harrison's title defense against Amanda Nunes at UFC 334.",
+    "category": "Frontend",
+    "source": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/15/ufc-334-reactions-kayla-harrison-amanda-nunes-title-social-media-fighters/92773385007/",
+    "tags": [
+      "mmajunkie.usatoday.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "6e84c6e16f3ccc53b3fecbcf42f56787",
+    "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
+    "slug": "show-hn-turbobrowsermcp--batch-forms-dom-deltas-and-submit-guards-for-mcp",
+    "date": "2026-11-15T04:09:11Z",
+    "description": "High-speed Playwright MCP server with multi-tab batching, compact delta DOM snapshots, React/Shadow DOM/iframe form filling, disk file uploads, and submit guards - Tthanh2k6/turbo-browser-mcp",
+    "category": "Frontend",
+    "source": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+    "tags": [
+      "github.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "349542d165287a3e9fb1d7f4cec69004",
     "title": "codegraphy-lite added to PyPI",
     "slug": "codegraphylite-added-to-pypi",
