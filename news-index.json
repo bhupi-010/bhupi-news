@@ -1,5 +1,44 @@
 [
   {
+    "id": "b335452cacdeb28ffa268a71c4aa4e9c",
+    "title": "Show HN: Yet another cloud based coding agent",
+    "slug": "show-hn-yet-another-cloud-based-coding-agent",
+    "date": "2026-11-16T15:19:29Z",
+    "description": "Give every task its own coding agent. Run Claude Code and Codex in parallel cloud sandboxes on your own subscription, each one opening a pull request. Talyn also triages your PRs, fixes failing CI ...",
+    "category": "AI Tools",
+    "source": "https://github.com/Gilbert09/talyn/",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "0b3301e679f744807a158319f8e5e82f",
+    "title": "What does an \u2018AI-generated\u2019 label in advertising actually tell us?",
+    "slug": "what-does-an-aigenerated-label-in-advertising-actually-tell-us",
+    "date": "2026-11-16T15:14:38Z",
+    "description": "Humans and machines collaborate on content, but levels of involvement can vary.",
+    "category": "AI Tools",
+    "source": "https://theconversation.com/what-does-an-ai-generated-label-in-advertising-actually-tell-us-293457",
+    "tags": [
+      "theconversation.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "52da2d089fc9173318c9e77da6231570",
+    "title": "O'Neill not worried by sideline absence in Hungary",
+    "slug": "oneill-not-worried-by-sideline-absence-in-hungary",
+    "date": "2026-11-16T15:12:22Z",
+    "description": "Northern Ireland manager Michael O'Neill says he is not \"overly concerned\" that he will not be on the touchline for his side's Nations League fixture against Hungary at the Puskas Arena on Tuesday.",
+    "category": "AI Tools",
+    "source": "https://www.bbc.com/sport/football/live/cwq6e479rygjt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "tags": [
+      "bbc.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "74afed874fd8193ff72d152b7db97c9e",
     "title": "Do any animals have zoom vision?",
     "slug": "do-any-animals-have-zoom-vision",
