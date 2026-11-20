@@ -1,5 +1,44 @@
 [
   {
+    "id": "9d956f819efbf6750d6f42b7ed1d9822",
+    "title": "Software engineer says coding is no longer fun, struggle is missing",
+    "slug": "software-engineer-says-coding-is-no-longer-fun-struggle-is-missing",
+    "date": "2026-11-20T09:30:14Z",
+    "description": "Software engineers say AI coding tools are reducing the satisfaction of solving difficult problems. The shift is reshaping valued skills and raising concerns about training junior developers.",
+    "category": "AI Tools",
+    "source": "https://www.indiatoday.in/technology/news/story/software-engineer-says-coding-is-no-longer-fun-struggle-is-missing-3043086-2026-11-20",
+    "tags": [
+      "indiatoday.in",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "8dc0a98ac8ef1203ff331ad921e4ff87",
+    "title": "How AI coding tools are changing software engineering",
+    "slug": "how-ai-coding-tools-are-changing-software-engineering",
+    "date": "2026-11-20T06:00:01Z",
+    "description": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
+    "category": "AI Tools",
+    "source": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+    "tags": [
+      "cnbc.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "8730c111de11ecfd058892e9650b13eb",
+    "title": "What I saw playing 170 hours of \u2018Grand Theft Auto VI\u2019 before everyone else - The Washington Post",
+    "slug": "what-i-saw-playing-170-hours-of-grand-theft-auto-vi-before-everyone-else--the-wa",
+    "date": "2026-11-19T23:32:59Z",
+    "description": "What I saw playing 170 hours of \u2018Grand Theft Auto VI\u2019 before everyone elseThe Washington Post Grand Theft Auto Used to Satirize American Life. Now We\u2019ve Caught Up With It.The New York Times 'GTA 6' release live updates: Reviews, memes and more as gamers explo\u2026",
+    "category": "Dev News",
+    "source": "https://slashdot.org/firehose.pl?op=view&id=186800602",
+    "tags": [
+      "slashdot.org",
+      "dev-news"
+    ]
+  },
+  {
     "id": "0d6e0e36747fd873b1d2941065ac001b",
     "title": "Uber blew through its AI budget, then dialed back context and reasoning in its AI coding tools",
     "slug": "uber-blew-through-its-ai-budget-then-dialed-back-context-and-reasoning-in-its-ai",
