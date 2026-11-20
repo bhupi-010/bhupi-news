@@ -1,5 +1,44 @@
 [
   {
+    "id": "0d6e0e36747fd873b1d2941065ac001b",
+    "title": "Uber blew through its AI budget, then dialed back context and reasoning in its AI coding tools",
+    "slug": "uber-blew-through-its-ai-budget-then-dialed-back-context-and-reasoning-in-its-ai",
+    "date": "2026-11-19T20:55:32Z",
+    "description": "Uber triggers compaction at 400K tokens, defaults reasoning effort to medium and skips MCP schemas at startup to rein in Claude Code costs. Here are all four.",
+    "category": "AI Tools",
+    "source": "https://venturebeat.com/infrastructure/uber-blew-through-its-ai-budget-then-dialed-back-context-and-reasoning-in-its-ai-coding-tools",
+    "tags": [
+      "venturebeat.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "4f61b227bf54bd60f12e62a64d91aa65",
+    "title": "Kyle Hamilton sets a clear goal for the Ravens' final seven games",
+    "slug": "kyle-hamilton-sets-a-clear-goal-for-the-ravens-final-seven-games",
+    "date": "2026-11-19T15:03:21Z",
+    "description": "Kyle Hamilton sets a seven-win goal for the Ravens' final stretch, emphasizing urgency, locker-room accountability and the need to start faster.",
+    "category": "Dev News",
+    "source": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2026/11/19/ravens-kyle-hamilton-seven-wins-playoff-push/92858015007/",
+    "tags": [
+      "ravenswire.usatoday.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "2c36993a397ccbdac054040f450715c8",
+    "title": "I Figured Out an Anti-Aging Skin-care Routine Despite My Rosacea-Prone Skin",
+    "slug": "i-figured-out-an-antiaging-skincare-routine-despite-my-rosaceaprone-skin",
+    "date": "2026-11-19T15:00:11Z",
+    "description": "And the holy grail beauty treatment \u2014 that works like microneedling \u2014 I wasn\u2019t sure I could handle that changed everything.",
+    "category": "AI Tools",
+    "source": "https://www.thecut.com/article/anti-aging-skin-care-routine-treatments-with-rosacea.html",
+    "tags": [
+      "thecut.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "878f54c19847169f94e934199139ea4b",
     "title": "Bayesian superyacht crew never had a chance... they didn't know it was doomed to sink in freak story: UK report at odds with inquiry by Italy",
     "slug": "bayesian-superyacht-crew-never-had-a-chance-they-didnt-know-it-was-doomed-to-sin",
