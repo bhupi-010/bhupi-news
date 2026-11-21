@@ -13,6 +13,19 @@
     ]
   },
   {
+    "id": "6bd3a6898597ba340459c44d67f6b290",
+    "title": "Anthropic makes a $1.8 trillion debut: What investors should watch next",
+    "slug": "anthropic-makes-a-18-trillion-debut-what-investors-should-watch-next",
+    "date": "2026-11-20T06:17:05Z",
+    "description": "Anthropic's blockbuster IPO marks a major moment for the AI industry, with the Claude maker raising a record $81.3 billion in its stock market debut on Thursday",
+    "category": "AI Tools",
+    "source": "https://www.business-standard.com/world-news/anthropic-ipo-stock-market-debut-valuation-investors-what-to-watch-next-126112000351_1.html",
+    "tags": [
+      "business-standard.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "8dc0a98ac8ef1203ff331ad921e4ff87",
     "title": "How AI coding tools are changing software engineering",
     "slug": "how-ai-coding-tools-are-changing-software-engineering",
@@ -23,6 +36,32 @@
     "tags": [
       "cnbc.com",
       "ai-tools"
+    ]
+  },
+  {
+    "id": "1b55bd5d11b8c256d92d45fe508e9a97",
+    "title": "Ed Power: As the Netflix documentary shows, Russell Brand knew how to shapeshift. I saw it firsthand",
+    "slug": "ed-power-as-the-netflix-documentary-shows-russell-brand-knew-how-to-shapeshift-i",
+    "date": "2026-11-20T06:00:01Z",
+    "description": "I found him chatty and performatively matey. It might have been very different had I been a woman",
+    "category": "Dev News",
+    "source": "https://www.irishtimes.com/opinion/2026/11/20/ed-power-as-the-netflix-documentary-shows-russell-brand-knew-how-to-shapeshift-i-saw-it-firsthand/",
+    "tags": [
+      "irishtimes.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "936f3d7cfc17472dd00f07fdeb2b531f",
+    "title": "Why do birds tap on glass?",
+    "slug": "why-do-birds-tap-on-glass",
+    "date": "2026-11-20T05:44:47Z",
+    "description": "Why Do Birds Tap on Glass? Decoding the Avian Enigma Why do birds tap on glass? Birds tap on glass primarily due to reflections that create the illusion of open space or, during breeding season, because they perceive their own reflection as a rival and engage\u2026",
+    "category": "Dev News",
+    "source": "https://www.lifesciencesworld.com/why-do-birds-tap-on-glass/",
+    "tags": [
+      "lifesciencesworld.com",
+      "dev-news"
     ]
   },
   {
