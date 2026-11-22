@@ -1,5 +1,44 @@
 [
   {
+    "id": "255bcc0b29ef1f3ad192d01a00b10096",
+    "title": "Lighting That Feels Just Right: An Exploration of Real-Time Global Illumination - The Blog of Maxime Heckel",
+    "slug": "lighting-that-feels-just-right-an-exploration-of-realtime-global-illumination--t",
+    "date": "2026-11-21T05:47:01Z",
+    "description": "This article shares an explainer and my personal experience learning and leveraging screen-space and probe-based Global Illumination rendering methods to add indirect lighting to my browser-based 3D work.",
+    "category": "AI Tools",
+    "source": "https://blog.maximeheckel.com/posts/lighting-that-feels-just-right/",
+    "tags": [
+      "blog.maximeheckel.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "9b5867c304c8a4935e7009b0408890b4",
+    "title": "From Singletons to Dependency Injection in React",
+    "slug": "from-singletons-to-dependency-injection-in-react",
+    "date": "2026-11-21T05:47:01Z",
+    "description": "A practical approach to managing services with React Context, TypeScript, and custom hooks.",
+    "category": "Frontend",
+    "source": "https://reactdevelopment.substack.com/p/from-singletons-to-dependency-injection",
+    "tags": [
+      "reactdevelopment.substack.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "3567d46b2db65ec11a6948ced58ae06f",
+    "title": "Friday Links #48: JavaScript, AI and Developer Tools",
+    "slug": "friday-links-48-javascript-ai-and-developer-tools",
+    "date": "2026-11-21T05:47:01Z",
+    "description": "Gemini 4 Neon, jQuery 4.1, Excalibur 1.0, XState v6 Beta, and a fresh batch of JavaScript libraries, developer tools, and AI updates.",
+    "category": "Frontend",
+    "source": "https://jsdevspace.substack.com/p/friday-links-48-javascript-ai-and",
+    "tags": [
+      "jsdevspace.substack.com",
+      "frontend"
+    ]
+  },
+  {
     "id": "566f15de1e5c880ff79d27e8b749cd6e",
     "title": "Ukraine strikes Kerch Bridge as Putin ally declares \u2018no one needs Europe\u2019",
     "slug": "ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs-europe",
