@@ -1,5 +1,44 @@
 [
   {
+    "id": "61e462cf3263b102a357e6ebc01fa1b4",
+    "title": "Malda police station turns makeshift cowshed for rescued cattle",
+    "slug": "malda-police-station-turns-makeshift-cowshed-for-rescued-cattle",
+    "date": "2026-11-21T14:15:39Z",
+    "description": "Malda\u2019s Chanchal police station set up a makeshift cowshed to shelter cattle seized in an alleged smuggling attempt; locals curious, reactions mixed.",
+    "category": "Frontend",
+    "source": "https://timesofindia.indiatimes.com/city/kolkata/malda-police-station-turns-makeshift-cowshed-for-rescued-cattle/articleshow/136056490.cms",
+    "tags": [
+      "timesofindia.indiatimes.com",
+      "frontend"
+    ]
+  },
+  {
+    "id": "2e557817b9cb56a567b26adff2a18e27",
+    "title": "ASI suspended for assaulting driver at Nilakkal parking ground",
+    "slug": "asi-suspended-for-assaulting-driver-at-nilakkal-parking-ground",
+    "date": "2026-11-21T14:07:58Z",
+    "description": "ASI Jijo Varghese suspended after video shows alleged assault on pilgrim vehicle driver at Nilakkal parking ground; police driver Sunil also suspended for brawl.",
+    "category": "Dev News",
+    "source": "https://timesofindia.indiatimes.com/city/kochi/asi-suspended-for-assaulting-driver-at-nilakkal-parking-ground/articleshow/136056336.cms",
+    "tags": [
+      "timesofindia.indiatimes.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "695825be7763fae5cb957e9a37527985",
+    "title": "Plus One student found dead at home",
+    "slug": "plus-one-student-found-dead-at-home",
+    "date": "2026-11-21T14:04:19Z",
+    "description": "16-year-old Plus One student found dead at home in Kallambalam, Thiruvananthapuram; police register unnatural death case, probe underway.",
+    "category": "Dev News",
+    "source": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/plus-one-student-found-dead-at-home/articleshow/136056268.cms",
+    "tags": [
+      "timesofindia.indiatimes.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "255bcc0b29ef1f3ad192d01a00b10096",
     "title": "Lighting That Feels Just Right: An Exploration of Real-Time Global Illumination - The Blog of Maxime Heckel",
     "slug": "lighting-that-feels-just-right-an-exploration-of-realtime-global-illumination--t",
