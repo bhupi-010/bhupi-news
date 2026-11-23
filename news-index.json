@@ -1,5 +1,44 @@
 [
   {
+    "id": "3cf08b81202fba0a83511d235fe5b449",
+    "title": "10 Harsh Realities that Actually Help Us Grow",
+    "slug": "10-harsh-realities-that-actually-help-us-grow",
+    "date": "2026-11-22T23:00:56Z",
+    "description": "The world is full of struggle. It is also full of overcoming. Character and wisdom are both sculpted over time. These qualities come with loss, lessons, and triumphs. They come after doubts, second guesses, and exploring unknowns. If there was a definitive pa\u2026",
+    "category": "Dev News",
+    "source": "https://www.marcandangel.com/2026/11/22/10-harsh-realities-that-help-you-grow/",
+    "tags": [
+      "marcandangel.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "a91222e11ede6b21fa033f0ae09c930e",
+    "title": "Why AI-Generated UI Breaks Your Design System (and How to Fix It)",
+    "slug": "why-aigenerated-ui-breaks-your-design-system-and-how-to-fix-it",
+    "date": "2026-11-22T23:00:00Z",
+    "description": "AI builders are fast, but they invent their own components instead of using yours. Here's why that happens, what it costs your team, and how to keep AI output on-brand.\nThe post Why AI-Generated UI Breaks Your Design System (and How to Fix It) appeared first \u2026",
+    "category": "AI Tools",
+    "source": "https://www.uxpin.com/studio/blog/ai-generated-ui-design-system-consistency/",
+    "tags": [
+      "uxpin.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "38ea4156f446084e86786be4e1efae05",
+    "title": "open-agent-db added to PyPI",
+    "slug": "openagentdb-added-to-pypi",
+    "date": "2026-11-22T22:54:32Z",
+    "description": "The universal open catalog and package manager for AI Agent Skills & Model Context Protocol (MCP) Servers",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/open-agent-db/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "fcac80c365f415d34a1caa9cc38c9357",
     "title": "Village referendum 'sent powerful message' now government must listen",
     "slug": "village-referendum-sent-powerful-message-now-government-must-listen",
