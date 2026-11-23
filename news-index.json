@@ -1,5 +1,44 @@
 [
   {
+    "id": "fcac80c365f415d34a1caa9cc38c9357",
+    "title": "Village referendum 'sent powerful message' now government must listen",
+    "slug": "village-referendum-sent-powerful-message-now-government-must-listen",
+    "date": "2026-11-22T06:35:00Z",
+    "description": "Politicians react to Barnham's symbolic vote to \"leave UK\" in protest at asylum seeker plan.",
+    "category": "Frontend",
+    "source": "https://www.bbc.co.uk/news/articles/c6vg270pw9ydo",
+    "tags": [
+      "bbc.co.uk",
+      "frontend"
+    ]
+  },
+  {
+    "id": "cbe3fcdc0c57af1c4eaf86920a721b00",
+    "title": "Mike Brown pushing for faster offense from sluggish Knicks",
+    "slug": "mike-brown-pushing-for-faster-offense-from-sluggish-knicks",
+    "date": "2026-11-22T06:12:49Z",
+    "description": "Mike Brown wanted to clarify the stat.",
+    "category": "Dev News",
+    "source": "https://nypost.com/2026/11/22/sports/mike-brown-pushing-for-faster-offense-from-sluggish-knicks/",
+    "tags": [
+      "nypost.com",
+      "dev-news"
+    ]
+  },
+  {
+    "id": "24765d696d0e786065d2ab1d0c607ada",
+    "title": "simplexai-labs/linger: Linger is An Open-Source Personal Agent That Runs Fully on Your PC. We aim to break Big Tech\u2019s grip on AI by bringing powerful local AI to everyday computers through efficient model\u2013harness co-design, so everyone can run thei...",
+    "slug": "simplexailabslinger-linger-is-an-opensource-personal-agent-that-runs-fully-on-yo",
+    "date": "2026-11-22T05:47:02Z",
+    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech\u2019s grip on AI by bringing powerful local AI to everyday computers through efficient model\u2013harness co-des...",
+    "category": "AI Tools",
+    "source": "https://github.com/simplexai-labs/linger",
+    "tags": [
+      "github.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "1feb703e7d2fb009cc49bbf1800d4a44",
     "title": "A Better Vocabulary for Testing",
     "slug": "a-better-vocabulary-for-testing",
