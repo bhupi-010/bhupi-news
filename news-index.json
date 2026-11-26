@@ -1,5 +1,44 @@
 [
   {
+    "id": "e8096cdeb4d9437312adef2d17826e8c",
+    "title": "Switzerland Confirms First AI-Agent Cyberattacks on Local Organisations",
+    "slug": "switzerland-confirms-first-aiagent-cyberattacks-on-local-organisations",
+    "date": "2026-11-25T21:06:55Z",
+    "description": "Switzerland reports its first AI-agent cyberattacks, including critical infrastructure breaches, and urges patching internet-facing systems within 24 hours. Switzerland \u2019s National Cyber Security Centre (NCSC) has now seen these attacks firsthand. In recent d\u2026",
+    "category": "AI Tools",
+    "source": "https://securityaffairs.com/204004/hacking/switzerland-confirms-first-ai-agent-cyberattacks-on-local-organisations.html",
+    "tags": [
+      "securityaffairs.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "216a0fec968bbacdd1756a28c51115cf",
+    "title": "netbox-service-canvas added to PyPI",
+    "slug": "netboxservicecanvas-added-to-pypi",
+    "date": "2026-11-25T20:52:20Z",
+    "description": "Interactive canvas for NetBox: which services run where, how they talk to each other and what breaks if a host fails.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/netbox-service-canvas/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "35618b14de245960b5c05b7eabe24be8",
+    "title": "Meta Releases Threads App for iPad",
+    "slug": "meta-releases-threads-app-for-ipad",
+    "date": "2026-11-25T20:31:58Z",
+    "description": "As expected, Meta had released its native iPad version of the Threads app.Read More...",
+    "category": "Dev News",
+    "source": "https://www.mactrast.com/2026/11/meta-releases-threads-app-for-ipad/",
+    "tags": [
+      "mactrast.com",
+      "dev-news"
+    ]
+  },
+  {
     "id": "542cbd94a282b5a1a87d777a7419ded1",
     "title": "Solo developer's first game mints $1.33 million within a week, sells 200,000 copies of AI-made game; here's how you can do it",
     "slug": "solo-developers-first-game-mints-133-million-within-a-week-sells-200000-copies-o",
