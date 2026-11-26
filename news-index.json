@@ -1,5 +1,44 @@
 [
   {
+    "id": "542cbd94a282b5a1a87d777a7419ded1",
+    "title": "Solo developer's first game mints $1.33 million within a week, sells 200,000 copies of AI-made game; here's how you can do it",
+    "slug": "solo-developers-first-game-mints-133-million-within-a-week-sells-200000-copies-o",
+    "date": "2026-11-25T11:37:00Z",
+    "description": "Min Kim, an ambitious indie game developer, has seen impressive success with his debut title, Slotbound, which sold over 200,000 copies on Steam in its first week. Released on November 13, 2026, the game showcases innovative gameplay mechanics, thanks in part to Kim's use of AI coding tools. Despite technical hurdles, he promptly released updates to enhance the game.",
+    "category": "AI Tools",
+    "source": "https://economictimes.indiatimes.com/news/international/world-news/solo-developers-first-game-mints-1-33-million-within-a-week-sells-200000-copies-of-ai-made-game-heres-how-you-can-do-it/articleshow/136158518.cms",
+    "tags": [
+      "economictimes.indiatimes.com",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "5c28e96665f3e111e7ed5b93a7990754",
+    "title": "open-agent-scan added to PyPI",
+    "slug": "openagentscan-added-to-pypi",
+    "date": "2026-11-25T07:03:31Z",
+    "description": "Community-led local-first security scanner for AI agents, MCP servers, and agent skills.",
+    "category": "AI Tools",
+    "source": "https://pypi.org/project/open-agent-scan/",
+    "tags": [
+      "pypi.org",
+      "ai-tools"
+    ]
+  },
+  {
+    "id": "02749265eeb0049524797d9649f4a74d",
+    "title": "\u2018It\u2019s important we back it up this weekend\u2019: Sam Prendergast looks to keep building",
+    "slug": "its-important-we-back-it-up-this-weekend-sam-prendergast-looks-to-keep-building",
+    "date": "2026-11-25T06:00:01Z",
+    "description": "Outhalf proud he didn\u2019t let missed conversions derail him as he sets sights on Australia challenge",
+    "category": "AI Tools",
+    "source": "https://www.irishtimes.com/sport/rugby/2026/11/25/its-important-we-back-it-up-this-weekend-sam-prendergast-looks-to-keep-building/",
+    "tags": [
+      "irishtimes.com",
+      "ai-tools"
+    ]
+  },
+  {
     "id": "6f875c5b230dc86dabd31996d8b8408c",
     "title": "Anthropic\u2019s Claude Ship Lets AI Write, Review and Approve Its Own Code",
     "slug": "anthropics-claude-ship-lets-ai-write-review-and-approve-its-own-code",
